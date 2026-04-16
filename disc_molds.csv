@@ -1,0 +1,89 @@
+externalId,name,brand,category,speed,glide,turn,fade,stability,diameterCm,heightCm,rimDepthCm,rimThicknessCm,maxWeightGr,nameSlug,brandSlug,categorySlug
+discmania-cloud-breaker,Cloud Breaker,Discmania,Distance Driver,12,5,-1,3,Overstable,21.1,1.8,1.2,2.3,175.1,cloud-breaker,discmania,distance-driver
+discmania-dd3,DD3,Discmania,Distance Driver,12,5,-1,3,Overstable,21.1,1.9,1.1,2.3,175.1,dd3,discmania,distance-driver
+discmania-fd,FD,Discmania,Fairway Driver,7,6,0,1,Understable,21.2,1.4,1.1,1.7,176,fd,discmania,fairway-driver
+discmania-md3,MD3,Discmania,Midrange,5,5,0,1,Stable,21.8,1.9,1.3,1.4,180.9,md3,discmania,midrange
+discmania-method,Method,Discmania,Midrange,5,5,0,3,Overstable,21.7,1.9,1.4,1.3,180.1,method,discmania,midrange
+discmania-p2,P2,Discmania,Putt & Approach,2,3,0,1,Overstable,21.2,2.1,1.5,1,176,p2,discmania,putt-approach
+discmania-pd,PD,Discmania,Fairway Driver,10,4,0,3,Overstable,21.2,1.5,1.2,1.9,176,pd,discmania,fairway-driver
+discraft-buzzz,Buzzz,Discraft,Midrange,5,4,-1,1,Stable,21.7,1.9,1.3,1.2,180.1,buzzz,discraft,midrange
+discraft-buzzz-os,Buzzz OS,Discraft,Midrange,5,4,0,3,Overstable,21.7,1.7,1.2,1.3,180.1,buzzz-os,discraft,midrange
+discraft-force,Force,Discraft,Distance Driver,12,5,0,3,Overstable,21.1,1.7,1.2,2.3,175.1,force,discraft,distance-driver
+discraft-heat,Heat,Discraft,Fairway Driver,9,6,-3,1,Very Understable,21.1,2.1,1.2,1.9,175.1,heat,discraft,fairway-driver
+discraft-luna,Luna,Discraft,Putt & Approach,3,3,0,3,Stable,21.1,2,1.4,1.1,175.1,luna,discraft,putt-approach
+discraft-meteor,Meteor,Discraft,Midrange,5,5,-3,1,Understable,21.5,2,1.3,1.3,178.5,meteor,discraft,midrange
+discraft-nuke,Nuke,Discraft,Distance Driver,13,5,-1,3,Overstable,21.2,1.6,1.2,2.5,176,nuke,discraft,distance-driver
+discraft-undertaker,Undertaker,Discraft,Fairway Driver,9,5,-1,2,Stable,21.1,1.8,1.1,1.9,175.1,undertaker,discraft,fairway-driver
+discraft-zone,Zone,Discraft,Putt & Approach,4,3,0,3,Very Overstable,21.1,2,1.3,1.2,175.1,zone,discraft,putt-approach
+dynamic-discs-emac-truth,EMac Truth,Dynamic Discs,Midrange,5,5,0,2,Overstable,,,,,,emac-truth,dynamic-discs,midrange
+dynamic-discs-escape,Escape,Dynamic Discs,Fairway Driver,9,5,-1,2,Stable,21.1,2,1.1,2,175.1,escape,dynamic-discs,fairway-driver
+dynamic-discs-felon,Felon,Dynamic Discs,Fairway Driver,9,3,0.5,4,Very Overstable,21.2,1.8,1.1,2,176,felon,dynamic-discs,fairway-driver
+dynamic-discs-judge,Judge,Dynamic Discs,Putt & Approach,2,4,0,1,Stable,21.2,2,1.5,1.1,176,judge,dynamic-discs,putt-approach
+dynamic-discs-justice,Justice,Dynamic Discs,Midrange,5,1,0.5,4,Very Overstable,21.3,1.7,1.3,1.5,176.8,justice,dynamic-discs,midrange
+dynamic-discs-sheriff,Sheriff,Dynamic Discs,Distance Driver,13,5,-1,2,Stable,21.1,1.6,1.1,2.4,175.1,sheriff,dynamic-discs,distance-driver
+dynamic-discs-trespass,Trespass,Dynamic Discs,Distance Driver,12,5,-0.5,3,Stable,21.1,1.9,1.1,2.1,175.1,trespass,dynamic-discs,distance-driver
+dynamic-discs-warden,Warden,Dynamic Discs,Putt & Approach,2,4,0,0.5,Stable,21.2,2,1.5,1.1,176,warden,dynamic-discs,putt-approach
+infinite-discs-alpaca,Alpaca,Infinite Discs,Putt & Approach,3,3,0,1,Stable,21.1,2,1.5,1,175.1,alpaca,infinite-discs,putt-approach
+infinite-discs-centurion,Centurion,Infinite Discs,Fairway Driver,7,5,-1,1.5,Stable,21.1,1.8,1.2,1.7,175.1,centurion,infinite-discs,fairway-driver
+infinite-discs-emperor,Emperor,Infinite Discs,Distance Driver,12,5,-1,2.5,Overstable,21.1,1.7,1.2,2.3,175.1,emperor,infinite-discs,distance-driver
+infinite-discs-maya,Maya,Infinite Discs,Distance Driver,11,5,-3,1,Understable,21.1,1.6,1.1,2.1,175.1,maya,infinite-discs,distance-driver
+infinite-discs-pharaoh,Pharaoh,Infinite Discs,Distance Driver,13,6,-1,2,Stable,21.1,1.4,1.1,2.3,175.1,pharaoh,infinite-discs,distance-driver
+innova-aviar,Aviar,Innova,Putt & Approach,2,3,0,1,Stable,,,,,,aviar,innova,putt-approach
+innova-aviar3,Aviar3,Innova,Putt & Approach,3,2,0,2,Stable,,,,,,aviar3,innova,putt-approach
+innova-beast,Beast,Innova,Distance Driver,10,5,-2,2,Understable,21.2,1.4,1.1,2,176,beast,innova,distance-driver
+innova-boss,Boss,Innova,Distance Driver,13,5,-1,3,Overstable,21.2,1.5,1.2,2.5,176,boss,innova,distance-driver
+innova-caiman,Caiman,Innova,Midrange,5.5,2,0,4,Very Overstable,21.1,1.7,1.4,1.4,175.1,caiman,innova,midrange
+innova-colossus,Colossus,Innova,Distance Driver,14,5,-1,3,Overstable,21.1,1.7,1.1,2.5,175.1,colossus,innova,distance-driver
+innova-dart,Dart,Innova,Putt & Approach,3,4,0,0,Understable,21.2,2.2,1.4,1.2,176,dart,innova,putt-approach
+innova-destroyer,Destroyer,Innova,Distance Driver,12,5,-1,3,Overstable,21.1,1.4,1.2,2.2,175.1,destroyer,innova,distance-driver
+innova-eagle,Eagle,Innova,Fairway Driver,7,4,-1,3,Overstable,21.2,1.6,1.2,1.7,176,eagle,innova,fairway-driver
+innova-firebird,Firebird,Innova,Fairway Driver,9,3,0,4,Very Overstable,21.1,1.4,1.2,1.9,175.1,firebird,innova,fairway-driver
+innova-firestorm,Firestorm,Innova,Distance Driver,14,4,-1,3,Overstable,21.1,1.5,1.1,2.3,175.1,firestorm,innova,distance-driver
+innova-gator,Gator,Innova,Midrange,5,2,0,3,Very Overstable,21.2,1.9,1.4,1.3,176,gator,innova,midrange
+innova-katana,Katana,Innova,Distance Driver,13,5,-3,3,Understable,21.2,1.8,1.2,2.5,176,katana,innova,distance-driver
+innova-leopard,Leopard,Innova,Fairway Driver,6,5,-2,1,Understable,21.2,1.6,1.1,1.6,176,leopard,innova,fairway-driver
+innova-leopard3,Leopard3,Innova,Fairway Driver,7,5,-2,1,Understable,,,,,,leopard3,innova,fairway-driver
+innova-mako3,Mako3,Innova,Midrange,5,5,0,0,Stable,,,,,,mako3,innova,midrange
+innova-mamba,Mamba,Innova,Distance Driver,11,6,-5,1,Very Understable,21.1,1.7,1.1,2.1,175.1,mamba,innova,distance-driver
+innova-nova,Nova,Innova,Putt & Approach,2,3,0,0,Stable,21.3,2.7,1.5,1.1,176.8,nova,innova,putt-approach
+innova-orc,Orc,Innova,Distance Driver,10,4,-1,3,Overstable,21.2,1.9,1.2,2,176,orc,innova,distance-driver
+innova-pig,Pig,Innova,Putt & Approach,4,1,0,3,Very Overstable,21.2,2.1,1.4,1.4,176,pig,innova,putt-approach
+innova-rhyno,Rhyno,Innova,Putt & Approach,2,1,0,3,Very Overstable,21.2,1.9,1.3,1,176,rhyno,innova,putt-approach
+innova-roadrunner,Roadrunner,Innova,Fairway Driver,9,5,-4,1,Very Understable,21.1,1.4,1.2,1.8,175.1,roadrunner,innova,fairway-driver
+innova-roc,Roc,Innova,Midrange,4,4,0,3,Overstable,21.7,2,1.3,1.2,180.1,roc,innova,midrange
+innova-roc3,Roc3,Innova,Midrange,5,4,0,3,Overstable,,,,,,roc3,innova,midrange
+innova-shark,Shark,Innova,Midrange,4,4,0,2,Stable,21.7,2.1,1.3,1.2,180.1,shark,innova,midrange
+innova-shryke,Shryke,Innova,Distance Driver,13,6,-2,2,Stable,21.1,1.7,1.2,2.3,175.1,shryke,innova,distance-driver
+innova-sidewinder,Sidewinder,Innova,Fairway Driver,9,5,-3,1,Understable,21.1,1.4,1.2,1.8,175.1,sidewinder,innova,fairway-driver
+innova-teebird,TeeBird,Innova,Fairway Driver,7,5,0,2,Stable,21.2,1.5,1.1,1.7,176,teebird,innova,fairway-driver
+innova-teebird3,TeeBird3,Innova,Fairway Driver,8,4,0,2,Stable,,,,,,teebird3,innova,fairway-driver
+innova-tern,Tern,Innova,Distance Driver,12,6,-3,2,Understable,21.1,1.7,1.1,2.3,175.1,tern,innova,distance-driver
+innova-thunderbird,Thunderbird,Innova,Fairway Driver,9,5,0,2,Stable,21.2,1.6,1.1,1.9,176,thunderbird,innova,fairway-driver
+innova-valkyrie,Valkyrie,Innova,Fairway Driver,9,4,-2,2,Understable,21.1,1.4,1.2,1.9,175.1,valkyrie,innova,fairway-driver
+innova-whale,Whale,Innova,Putt & Approach,2,3,0,1,Stable,21.1,2,1.5,1,175.1,whale,innova,putt-approach
+innova-wraith,Wraith,Innova,Distance Driver,11,5,-1,3,Overstable,21.1,1.4,1.2,2.1,175.1,wraith,innova,distance-driver
+innova-xcaliber,XCaliber,Innova,Distance Driver,12,5,0,4,Overstable,21.1,1.6,1.2,2.3,175.1,xcaliber,innova,distance-driver
+latitude-64-ballista-pro,Ballista Pro,Latitude 64,Distance Driver,14,4,0,3,Overstable,21.2,1.7,1.1,2.4,176,ballista-pro,latitude-64,distance-driver
+latitude-64-explorer,Explorer,Latitude 64,Fairway Driver,7,5,0,2,Stable,21.2,1.7,1.1,1.8,176,explorer,latitude-64,fairway-driver
+latitude-64-fuse,Fuse,Latitude 64,Midrange,5,6,-1,0,Understable,21.9,2.1,1.3,1.3,181.8,fuse,latitude-64,midrange
+latitude-64-grace,Grace,Latitude 64,Distance Driver,11,6,-1,2,Stable,21.1,1.6,1.1,2.2,175.1,grace,latitude-64,distance-driver
+latitude-64-pure,Pure,Latitude 64,Putt & Approach,3,3,-1,1,Stable,21.2,1.8,1.4,1,176,pure,latitude-64,putt-approach
+latitude-64-rive,Rive,Latitude 64,Distance Driver,13,5,0,3.5,Overstable,21.1,1.8,1.2,2.3,175.1,rive,latitude-64,distance-driver
+latitude-64-river,River,Latitude 64,Fairway Driver,7,7,-1,1,Understable,21.5,1.9,1.2,1.8,178.5,river,latitude-64,fairway-driver
+latitude-64-saint,Saint,Latitude 64,Fairway Driver,9,7,-1,2,Stable,21.2,1.9,1.2,1.9,176,saint,latitude-64,fairway-driver
+latitude-64-trust,Trust,Latitude 64,Midrange,5,5,0,2,Overstable,21.7,1.9,1.3,1.3,180.1,trust,latitude-64,midrange
+mvp-disc-sports-anode,Anode,MVP Disc Sports,Putt & Approach,,,,,,,,,,,anode,mvp-disc-sports,putt-approach
+mvp-disc-sports-atom,Atom,MVP Disc Sports,Putt & Approach,3,3,-0.5,0,Stable,21.1,1.9,1.4,1.1,175.1,atom,mvp-disc-sports,putt-approach
+mvp-disc-sports-entropy,Entropy,MVP Disc Sports,Putt & Approach,4,3,0,3,Very Overstable,21.2,2,1.4,1.2,176,entropy,mvp-disc-sports,putt-approach
+mvp-disc-sports-hex,Hex,MVP Disc Sports,Midrange,5,5,-1,1,Stable,21.4,1.6,1.3,1.4,177.6,hex,mvp-disc-sports,midrange
+mvp-disc-sports-ion,Ion,MVP Disc Sports,Putt & Approach,2.5,3,0,1.5,Stable,21,1.9,1.6,1.1,174.3,ion,mvp-disc-sports,putt-approach
+mvp-disc-sports-photon,Photon,MVP Disc Sports,Distance Driver,11,5,-1,2.5,Overstable,21.1,1.4,1.1,2.2,175.1,photon,mvp-disc-sports,distance-driver
+mvp-disc-sports-reactor,Reactor,MVP Disc Sports,Midrange,5,5,-0.5,1.5,Overstable,21.4,1.7,1.3,1.4,177.6,reactor,mvp-disc-sports,midrange
+mvp-disc-sports-tesla,Tesla,MVP Disc Sports,Fairway Driver,9,5,-1,2,Stable,21,1.4,1.2,2,174.3,tesla,mvp-disc-sports,fairway-driver
+mvp-disc-sports-volt,Volt,MVP Disc Sports,Fairway Driver,8,5,-0.5,2,Stable,21.1,1.6,1.1,2,175.1,volt,mvp-disc-sports,fairway-driver
+mvp-disc-sports-wave,Wave,MVP Disc Sports,Distance Driver,11,5,-2,2,Understable,21.1,1.4,1.1,2.2,175.1,wave,mvp-disc-sports,distance-driver
+prodigy-disc-d2,D2,Prodigy Disc,Distance Driver,12,5,0,3,Overstable,21.1,1.6,1.2,2.3,175.1,d2,prodigy-disc,distance-driver
+prodigy-disc-d3,D3,Prodigy Disc,Distance Driver,12,5,-1,3,Overstable,21.1,1.7,1.2,2.3,175.1,d3,prodigy-disc,distance-driver
+prodigy-disc-f2,F2,Prodigy Disc,Fairway Driver,8,4,-1,2,Overstable,21.3,1.5,1.1,1.8,176.8,f2,prodigy-disc,fairway-driver
+prodigy-disc-m4,M4,Prodigy Disc,Midrange,5,5,-1,1,Understable,21.7,2,1.3,1.4,180.1,m4,prodigy-disc,midrange
+prodigy-disc-pa-3,PA-3,Prodigy Disc,Putt & Approach,3,3,0,1,Stable,21,2,1.4,1,174.3,pa-3,prodigy-disc,putt-approach

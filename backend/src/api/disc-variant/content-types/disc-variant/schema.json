@@ -1,0 +1,69 @@
+{
+  "kind": "collectionType",
+  "collectionName": "disc_variants",
+  "info": {
+    "singularName": "disc-variant",
+    "pluralName": "disc-variants",
+    "displayName": "Disc Variant"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "externalId": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "displayName": {
+      "type": "string",
+      "required": true
+    },
+    "mold": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::disc-mold.disc-mold",
+      "required": true
+    },
+    "plastic": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::plastic-type.plastic-type",
+      "required": true
+    },
+    "speed": {
+      "type": "decimal"
+    },
+    "glide": {
+      "type": "decimal"
+    },
+    "turn": {
+      "type": "decimal"
+    },
+    "fade": {
+      "type": "decimal"
+    },
+    "stability": {
+      "type": "string"
+    },
+    "weightMin": {
+      "type": "decimal"
+    },
+    "weightMax": {
+      "type": "decimal"
+    },
+    "link": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "text"
+    },
+    "slug": {
+      "type": "string"
+    }
+  }
+}

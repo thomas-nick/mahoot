@@ -1,0 +1,120 @@
+{
+  "kind": "collectionType",
+  "collectionName": "discs",
+  "info": {
+    "singularName": "disc",
+    "pluralName": "discs",
+    "displayName": "Disc"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "externalId": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "brand": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "categoryId": {
+      "type": "integer"
+    },
+    "speed": {
+      "type": "decimal"
+    },
+    "glide": {
+      "type": "decimal"
+    },
+    "turn": {
+      "type": "decimal"
+    },
+    "fade": {
+      "type": "decimal"
+    },
+    "stability": {
+      "type": "string"
+    },
+    "plastic": {
+      "type": "string",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Plastic type."
+        }
+      }
+    },
+    "diameterCm": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Diameter (cm)."
+        }
+      }
+    },
+    "heightCm": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Height (cm)."
+        }
+      }
+    },
+    "rimDepthCm": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Rim depth (cm)."
+        }
+      }
+    },
+    "rimThicknessCm": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Rim thickness (cm)."
+        }
+      }
+    },
+    "maxWeightGr": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Max weight (g)."
+        }
+      }
+    },
+    "link": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "nameSlug": {
+      "type": "string"
+    },
+    "brandSlug": {
+      "type": "string"
+    },
+    "categorySlug": {
+      "type": "string"
+    },
+    "stabilitySlug": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    },
+    "backgroundColor": {
+      "type": "string"
+    }
+  }
+}

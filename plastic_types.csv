@@ -1,0 +1,105 @@
+externalId,name,brand,plasticFamily,stiffness,grip,durability,slug
+discmania-active,Active,Discmania,base,medium,high,low,active
+discmania-active-premium,Active Premium,Discmania,premium,high,medium,high,active-premium
+discmania-c-line,C-Line,Discmania,premium,high,medium,very-high,c-line
+discmania-d-line,D-Line,Discmania,base,medium,high,low,d-line
+discmania-exo-hard,Exo Hard,Discmania,base,high,very-high,low,exo-hard
+discmania-exo-soft,Exo Soft,Discmania,base,low,very-high,low,exo-soft
+discmania-forge,Forge,Discmania,premium,high,high,very-high,forge
+discmania-horizon,Horizon,Discmania,premium,medium,high,high,horizon
+discmania-lux,Lux,Discmania,premium,medium,high,high,lux
+discmania-meta,Meta,Discmania,premium,high,medium,very-high,meta
+discmania-neo,Neo,Discmania,premium,medium,high,high,neo
+discmania-p-line,P-Line,Discmania,pro,medium,high,medium,p-line
+discmania-s-line,S-Line,Discmania,premium,medium,high,high,s-line
+discraft-big-z,Big Z,Discraft,premium,medium,medium,high,big-z
+discraft-cryztal,CryZtal,Discraft,premium,high,medium,very-high,cryztal
+discraft-ct,CT (Crazy Tuff),Discraft,base,high,high,medium,ct
+discraft-elite-x,Elite X,Discraft,pro,medium,high,medium,elite-x
+discraft-esp,ESP,Discraft,premium,medium,high,high,esp
+discraft-esp-flx,ESP FLX,Discraft,premium,low,high,high,esp-flx
+discraft-glo-z,Glo Z,Discraft,premium,high,medium,very-high,glo-z
+discraft-jawbreaker,Jawbreaker,Discraft,base,medium,very-high,low,jawbreaker
+discraft-pro-d,Pro-D,Discraft,base,medium,high,low,pro-d
+discraft-rubber-blend,Rubber Blend,Discraft,base,medium,very-high,low,rubber-blend
+discraft-titanium,Titanium,Discraft,premium,high,high,very-high,titanium
+discraft-z-flx,Z FLX,Discraft,premium,low,high,very-high,z-flx
+discraft-z-line,Z Line,Discraft,premium,high,medium,very-high,z-line
+dynamic-discs-biofuzion,BioFuzion,Dynamic Discs,premium,medium,high,high,biofuzion
+dynamic-discs-classic,Classic,Dynamic Discs,base,high,high,low,classic
+dynamic-discs-classic-blend,Classic Blend,Dynamic Discs,base,medium,high,low,classic-blend
+dynamic-discs-classic-soft,Classic Soft,Dynamic Discs,base,low,high,low,classic-soft
+dynamic-discs-fluid,Fluid,Dynamic Discs,premium,low,very-high,high,fluid
+dynamic-discs-fuzion,Fuzion,Dynamic Discs,premium,medium,high,high,fuzion
+dynamic-discs-fuzion-x,Fuzion-X,Dynamic Discs,premium,very-high,high,high,fuzion-x
+dynamic-discs-lucid,Lucid,Dynamic Discs,premium,high,medium,very-high,lucid
+dynamic-discs-lucid-x,Lucid-X,Dynamic Discs,premium,very-high,medium,very-high,lucid-x
+dynamic-discs-moonshine,Moonshine,Dynamic Discs,premium,high,medium,very-high,moonshine
+dynamic-discs-origio,Origio,Dynamic Discs,base,medium,high,low,origio
+dynamic-discs-prime,Prime,Dynamic Discs,base,medium,high,low,prime
+dynamic-discs-supreme,Supreme,Dynamic Discs,premium,medium,high,very-high,supreme
+infinite-c-blend,C-Blend,Infinite Discs,premium,high,medium,very-high,c-blend
+infinite-concrete,Concrete,Infinite Discs,premium,high,high,very-high,concrete
+infinite-d-blend,D-Blend,Infinite Discs,base,medium,high,low,d-blend
+infinite-g-blend,G-Blend,Infinite Discs,premium,low,very-high,medium,g-blend
+infinite-glow-c-blend,Glow C-Blend,Infinite Discs,premium,high,medium,very-high,glow-c-blend
+infinite-halo-s-blend,Halo S-Blend,Infinite Discs,premium,high,high,very-high,halo-s-blend
+infinite-i-blend,I-Blend,Infinite Discs,pro,medium,high,medium,i-blend
+infinite-metal-flake-c-blend,Metal Flake C-Blend,Infinite Discs,premium,very-high,medium,very-high,metal-flake-c-blend
+infinite-p-blend,P-Blend,Infinite Discs,pro,medium,high,medium,p-blend
+infinite-s-blend,S-Blend,Infinite Discs,premium,medium,high,high,s-blend
+infinite-swirly-s-blend,Swirly S-Blend,Infinite Discs,premium,medium,high,high,swirly-s-blend
+infinite-x-blend,X-Blend,Infinite Discs,pro,medium,very-high,medium,x-blend
+innova-blizzard-champion,Blizzard Champion,Innova,premium,medium,medium,high,blizzard-champion
+innova-champion,Champion,Innova,premium,high,medium,very-high,champion
+innova-dx,DX,Innova,base,medium,high,low,dx
+innova-echo-star,Echo Star,Innova,premium,medium,high,high,echo-star
+innova-glow-champion,Glow Champion,Innova,premium,high,medium,very-high,glow-champion
+innova-glow-star,Glow Star,Innova,premium,medium,high,very-high,glow-star
+innova-gstar,GStar,Innova,premium,low,very-high,medium,gstar
+innova-halo-star,Halo Star,Innova,premium,high,high,very-high,halo-star
+innova-jk-pro,JK Pro,Innova,pro,low,very-high,medium,jk-pro
+innova-kc-pro,KC Pro,Innova,pro,very-high,medium,medium,kc-pro
+innova-metal-flake-champion,Metal Flake Champion,Innova,premium,very-high,medium,very-high,metal-flake-champion
+innova-nexus,Nexus,Innova,pro,medium,high,medium,nexus
+innova-pro,Pro,Innova,pro,medium,high,medium,pro
+innova-r-pro,R-Pro,Innova,pro,low,very-high,low,r-pro
+innova-star,Star,Innova,premium,medium,high,high,star
+innova-xt,XT,Innova,pro,medium,very-high,medium,xt
+latitude-64-frost,Frost,Latitude 64,premium,low,very-high,high,frost
+latitude-64-gold,Gold,Latitude 64,premium,medium,high,high,gold
+latitude-64-gold-x,Gold-X,Latitude 64,premium,very-high,high,high,gold-x
+latitude-64-grand,Grand,Latitude 64,premium,medium,high,very-high,grand
+latitude-64-moonshine,Moonshine,Latitude 64,premium,high,medium,very-high,moonshine
+latitude-64-opto,Opto,Latitude 64,premium,high,medium,very-high,opto
+latitude-64-opto-air,Opto Air,Latitude 64,premium,medium,medium,high,opto-air
+latitude-64-opto-x,Opto-X,Latitude 64,premium,very-high,medium,very-high,opto-x
+latitude-64-retro,Retro,Latitude 64,base,medium,high,low,retro
+latitude-64-sense,Sense,Latitude 64,base,medium,high,low,sense
+latitude-64-zero-hard,Zero Hard,Latitude 64,base,high,very-high,low,zero-hard
+latitude-64-zero-medium,Zero Medium,Latitude 64,base,medium,very-high,low,zero-medium
+latitude-64-zero-soft,Zero Soft,Latitude 64,base,low,very-high,low,zero-soft
+mvp-cosmic-electron,Cosmic Electron,MVP Disc Sports,base,medium,very-high,low,cosmic-electron
+mvp-cosmic-neutron,Cosmic Neutron,MVP Disc Sports,premium,medium,medium,high,cosmic-neutron
+mvp-eclipse-2-0,Eclipse 2.0,MVP Disc Sports,premium,high,medium,very-high,eclipse-2-0
+mvp-electron-firm,Electron Firm,MVP Disc Sports,base,high,very-high,low,electron-firm
+mvp-electron-medium,Electron Medium,MVP Disc Sports,base,medium,very-high,low,electron-medium
+mvp-electron-soft,Electron Soft,MVP Disc Sports,base,low,very-high,low,electron-soft
+mvp-fission,Fission,MVP Disc Sports,premium,low,high,medium,fission
+mvp-neutron,Neutron,MVP Disc Sports,premium,medium,medium,high,neutron
+mvp-plasma,Plasma,MVP Disc Sports,premium,low,high,high,plasma
+mvp-proton,Proton,MVP Disc Sports,premium,high,medium,very-high,proton
+mvp-r2-neutron,R2 Neutron,MVP Disc Sports,premium,medium,medium,high,r2-neutron
+prodigy-200,200,Prodigy Disc,base,medium,high,low,200
+prodigy-300,300,Prodigy Disc,base,medium,very-high,low,300
+prodigy-300-soft,300 Soft,Prodigy Disc,base,low,very-high,low,300-soft
+prodigy-350g,350G,Prodigy Disc,base,high,high,medium,350g
+prodigy-400,400,Prodigy Disc,premium,medium,high,high,400
+prodigy-400g,400G,Prodigy Disc,premium,medium,high,high,400g
+prodigy-500,500,Prodigy Disc,premium,high,high,very-high,500
+prodigy-750,750,Prodigy Disc,premium,very-high,medium,very-high,750
+prodigy-750g,750G,Prodigy Disc,premium,very-high,high,very-high,750g
+prodigy-air,Air,Prodigy Disc,premium,medium,medium,high,air
+prodigy-basegrip,BaseGrip,Prodigy Disc,base,medium,high,low,basegrip
+prodigy-duraflex,DuraFlex,Prodigy Disc,premium,medium,medium,high,duraflex
+prodigy-glow,Glow,Prodigy Disc,premium,high,medium,very-high,glow

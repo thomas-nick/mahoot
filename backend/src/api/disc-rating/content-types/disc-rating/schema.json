@@ -1,0 +1,100 @@
+{
+  "kind": "collectionType",
+  "collectionName": "disc_ratings",
+  "info": {
+    "singularName": "disc-rating",
+    "pluralName": "disc-ratings",
+    "displayName": "Disc Rating"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "discDocumentId": {
+      "type": "string",
+      "required": true
+    },
+    "discExternalId": {
+      "type": "string"
+    },
+    "discName": {
+      "type": "string"
+    },
+    "overall": {
+      "type": "integer",
+      "required": true,
+      "min": 1,
+      "max": 10
+    },
+    "feelGrip": {
+      "type": "integer",
+      "min": 1,
+      "max": 10
+    },
+    "forgiving": {
+      "type": "integer",
+      "min": 1,
+      "max": 10
+    },
+    "windTrust": {
+      "type": "integer",
+      "min": 1,
+      "max": 10
+    },
+    "shotShaping": {
+      "type": "integer",
+      "min": 1,
+      "max": 10
+    },
+    "distancePotential": {
+      "type": "integer",
+      "min": 1,
+      "max": 10
+    },
+    "consistency": {
+      "type": "integer",
+      "min": 1,
+      "max": 10
+    },
+    "turnDelta": {
+      "type": "integer",
+      "min": -4,
+      "max": 4
+    },
+    "stabilityDelta": {
+      "type": "integer",
+      "min": -4,
+      "max": 4
+    },
+    "armSpeedBand": {
+      "type": "enumeration",
+      "enum": ["arm-under-300", "arm-300-350", "arm-350-400", "arm-over-400"]
+    },
+    "throwStyle": {
+      "type": "enumeration",
+      "enum": ["backhand", "forehand", "both"]
+    },
+    "seasonedState": {
+      "type": "enumeration",
+      "enum": ["new", "seasoned", "beat"]
+    },
+    "bestUseCases": {
+      "type": "json"
+    },
+    "conditions": {
+      "type": "json"
+    },
+    "wouldRecommend": {
+      "type": "boolean"
+    },
+    "comment": {
+      "type": "text"
+    },
+    "submittedBy": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "plastic_types",
+  "info": {
+    "singularName": "plastic-type",
+    "pluralName": "plastic-types",
+    "displayName": "Plastic Type"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "externalId": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "brand": {
+      "type": "string"
+    },
+    "plasticFamily": {
+      "type": "string"
+    },
+    "stiffness": {
+      "type": "string"
+    },
+    "grip": {
+      "type": "string"
+    },
+    "durability": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    }
+  }
+}

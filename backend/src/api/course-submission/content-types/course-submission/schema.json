@@ -1,0 +1,106 @@
+{
+  "kind": "collectionType",
+  "collectionName": "course_submissions",
+  "info": {
+    "singularName": "course-submission",
+    "pluralName": "course-submissions",
+    "displayName": "Course Submission"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "courseName": {
+      "type": "string",
+      "required": true
+    },
+    "city": {
+      "type": "string"
+    },
+    "state": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "latitude": {
+      "type": "decimal"
+    },
+    "longitude": {
+      "type": "decimal"
+    },
+    "difficulty": {
+      "type": "enumeration",
+      "enum": [
+        "championship",
+        "advanced",
+        "intermediate",
+        "easy"
+      ]
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "championship",
+        "wooded",
+        "park style",
+        "pitch and putt"
+      ]
+    },
+    "pros": {
+      "type": "text"
+    },
+    "cons": {
+      "type": "text"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "layouts": {
+      "type": "json",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Optional layout/hole JSON submitted by users."
+        }
+      }
+    },
+    "photos": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "videos": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "videoLInks": {
+      "type": "json"
+    },
+    "moderation": {
+      "type": "enumeration",
+      "enum": [
+        "pending",
+        "approved",
+        "rejected",
+        "default pending"
+      ]
+    },
+    "submittedBy": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    }
+  }
+}

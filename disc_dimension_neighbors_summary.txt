@@ -1,0 +1,35 @@
+input: merged_disc_with_pdga_enrichment_preview.csv
+usable_discs: 1025
+neighbor_rows_written: 5125
+
+sample_neighbors:
+- Destroyer (Innova)
+  -> Pipeline (DGA) score=0.555974 shared=5
+  -> F7 (Prodigy) score=0.663234 shared=5
+  -> Cigarra (Discraft) score=0.681848 shared=5
+  -> Athena (Discraft) score=0.719031 shared=5
+  -> F1 (Prodigy) score=0.719031 shared=5
+- Wraith (Innova)
+  -> Pipeline (DGA) score=0.555974 shared=5
+  -> F7 (Prodigy) score=0.663234 shared=5
+  -> Cigarra (Discraft) score=0.681848 shared=5
+  -> Athena (Discraft) score=0.719031 shared=5
+  -> F1 (Prodigy) score=0.719031 shared=5
+- Buzzz (Discraft)
+  -> Pipeline (DGA) score=0.555974 shared=5
+  -> F7 (Prodigy) score=0.663234 shared=5
+  -> Cigarra (Discraft) score=0.681848 shared=5
+  -> Athena (Discraft) score=0.719031 shared=5
+  -> F1 (Prodigy) score=0.719031 shared=5
+- Zone (Discraft)
+  -> Pipeline (DGA) score=0.555974 shared=5
+  -> F7 (Prodigy) score=0.663234 shared=5
+  -> Cigarra (Discraft) score=0.681848 shared=5
+  -> Athena (Discraft) score=0.719031 shared=5
+  -> F1 (Prodigy) score=0.719031 shared=5
+- Teebird (Innova)
+  -> Pipeline (DGA) score=0.555974 shared=5
+  -> F7 (Prodigy) score=0.663234 shared=5
+  -> Cigarra (Discraft) score=0.681848 shared=5
+  -> Athena (Discraft) score=0.719031 shared=5
+  -> F1 (Prodigy) score=0.719031 shared=5

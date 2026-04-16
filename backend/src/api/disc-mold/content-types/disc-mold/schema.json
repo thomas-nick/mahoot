@@ -1,0 +1,94 @@
+{
+  "kind": "collectionType",
+  "collectionName": "disc_molds",
+  "info": {
+    "singularName": "disc-mold",
+    "pluralName": "disc-molds",
+    "displayName": "Disc Mold"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "externalId": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "brand": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "speed": {
+      "type": "decimal"
+    },
+    "glide": {
+      "type": "decimal"
+    },
+    "turn": {
+      "type": "decimal"
+    },
+    "fade": {
+      "type": "decimal"
+    },
+    "stability": {
+      "type": "string"
+    },
+    "diameterCm": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Mold diameter (cm)."
+        }
+      }
+    },
+    "heightCm": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Mold height (cm)."
+        }
+      }
+    },
+    "rimDepthCm": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Mold rim depth (cm)."
+        }
+      }
+    },
+    "rimThicknessCm": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Mold rim thickness (cm)."
+        }
+      }
+    },
+    "maxWeightGr": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Mold max weight (g)."
+        }
+      }
+    },
+    "nameSlug": {
+      "type": "string"
+    },
+    "brandSlug": {
+      "type": "string"
+    },
+    "categorySlug": {
+      "type": "string"
+    }
+  }
+}

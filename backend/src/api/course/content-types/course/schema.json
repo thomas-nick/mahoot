@@ -1,0 +1,118 @@
+{
+  "kind": "collectionType",
+  "collectionName": "courses",
+  "info": {
+    "singularName": "course",
+    "pluralName": "courses",
+    "displayName": "Course"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "externalId": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "city": {
+      "type": "string"
+    },
+    "state": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "zip": {
+      "type": "string"
+    },
+    "holeCount": {
+      "type": "integer"
+    },
+    "rating": {
+      "type": "decimal"
+    },
+    "latitude": {
+      "type": "decimal"
+    },
+    "longitude": {
+      "type": "decimal"
+    },
+    "difficulty": {
+      "type": "enumeration",
+      "enum": [
+        "championship",
+        "advanced",
+        "intermediate",
+        "easy"
+      ]
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "championship",
+        "wooded",
+        "park style",
+        "pitch and putt"
+      ]
+    },
+    "pros": {
+      "type": "text"
+    },
+    "cons": {
+      "type": "text"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "photos": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "videos": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "videos"
+      ]
+    },
+    "videoLinks": {
+      "type": "json"
+    },
+    "layouts": {
+      "type": "json",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Optional hole/layout data for this course."
+        }
+      }
+    },
+    "ratingAverageOverall": {
+      "type": "decimal"
+    },
+    "ratingAverageLayout": {
+      "type": "decimal"
+    },
+    "ratingAverageSignage": {
+      "type": "decimal"
+    },
+    "ratingAverageMaintenance": {
+      "type": "decimal"
+    },
+    "ratingAverageScenery": {
+      "type": "decimal"
+    },
+    "ratingCount": {
+      "type": "integer"
+    }
+  }
+}

@@ -1,0 +1,393 @@
+externalId,moldExternalId,plasticExternalId,displayName,speed,glide,turn,fade,stability,weightMin,weightMax,link,imageUrl,notes,slug
+discmania-cloud-breaker-horizon,discmania-cloud-breaker,discmania-horizon,Horizon Cloud Breaker,,,,,,,,,,,cloud-breaker-horizon
+discmania-dd3-c-line,discmania-dd3,discmania-c-line,C-Line DD3,,,,,,,,,,,dd3-c-line
+discmania-dd3-horizon,discmania-dd3,discmania-horizon,Horizon DD3,,,,,,,,,,,dd3-horizon
+discmania-dd3-s-line,discmania-dd3,discmania-s-line,S-Line DD3,,,,,,,,,,,dd3-s-line
+discmania-fd-c-line,discmania-fd,discmania-c-line,C-Line FD,,,,,,,,,,,fd-c-line
+discmania-fd-horizon,discmania-fd,discmania-horizon,Horizon FD,,,,,,,,,,,fd-horizon
+discmania-fd-s-line,discmania-fd,discmania-s-line,S-Line FD,,,,,,,,,,,fd-s-line
+discmania-md3-c-line,discmania-md3,discmania-c-line,C-Line MD3,,,,,,,,,,,md3-c-line
+discmania-method-exo-hard,discmania-method,discmania-exo-hard,Exo Hard Method,,,,,,,,,,,method-exo-hard
+discmania-method-exo-soft,discmania-method,discmania-exo-soft,Exo Soft Method,,,,,,,,,,,method-exo-soft
+discmania-method-forge,discmania-method,discmania-forge,Forge Method,,,,,,,,,,,method-forge
+discmania-method-neo,discmania-method,discmania-neo,Neo Method,,,,,,,,,,,method-neo
+discmania-p2-d-line,discmania-p2,discmania-d-line,D-Line P2,,,,,,,,,,,p2-d-line
+discmania-pd-c-line,discmania-pd,discmania-c-line,C-Line PD,,,,,,,,,,,pd-c-line
+discmania-pd-horizon,discmania-pd,discmania-horizon,Horizon PD,,,,,,,,,,,pd-horizon
+discmania-pd-s-line,discmania-pd,discmania-s-line,S-Line PD,,,,,,,,,,,pd-s-line
+discraft-buzzz-big-z,discraft-buzzz,discraft-big-z,Big Z Buzzz,,,,,,,,,,,buzzz-big-z
+discraft-buzzz-esp,discraft-buzzz,discraft-esp,ESP Buzzz,,,,,,,,,,,buzzz-esp
+discraft-buzzz-esp-flx,discraft-buzzz,discraft-esp-flx,ESP FLX Buzzz,,,,,,,,,,,buzzz-esp-flx
+discraft-buzzz-os-big-z,discraft-buzzz-os,discraft-big-z,Big Z Buzzz OS,,,,,,,,,,,buzzz-os-big-z
+discraft-buzzz-os-esp,discraft-buzzz-os,discraft-esp,ESP Buzzz OS,,,,,,,,,,,buzzz-os-esp
+discraft-buzzz-os-titanium,discraft-buzzz-os,discraft-titanium,Titanium Buzzz OS,,,,,,,,,,,buzzz-os-titanium
+discraft-buzzz-os-z-line,discraft-buzzz-os,discraft-z-line,Z Line Buzzz OS,,,,,,,,,,,buzzz-os-z-line
+discraft-buzzz-titanium,discraft-buzzz,discraft-titanium,Titanium Buzzz,,,,,,,,,,,buzzz-titanium
+discraft-buzzz-z-flx,discraft-buzzz,discraft-z-flx,Z FLX Buzzz,,,,,,,,,,,buzzz-z-flx
+discraft-buzzz-z-line,discraft-buzzz,discraft-z-line,Z Line Buzzz,,,,,,,,,,,buzzz-z-line
+discraft-force-big-z,discraft-force,discraft-big-z,Big Z Force,,,,,,,,,,,force-big-z
+discraft-force-esp,discraft-force,discraft-esp,ESP Force,,,,,,,,,,,force-esp
+discraft-force-titanium,discraft-force,discraft-titanium,Titanium Force,,,,,,,,,,,force-titanium
+discraft-force-z-line,discraft-force,discraft-z-line,Z Line Force,,,,,,,,,,,force-z-line
+discraft-heat-big-z,discraft-heat,discraft-big-z,Big Z Heat,,,,,,,,,,,heat-big-z
+discraft-heat-esp,discraft-heat,discraft-esp,ESP Heat,,,,,,,,,,,heat-esp
+discraft-heat-titanium,discraft-heat,discraft-titanium,Titanium Heat,,,,,,,,,,,heat-titanium
+discraft-heat-z-line,discraft-heat,discraft-z-line,Z Line Heat,,,,,,,,,,,heat-z-line
+discraft-luna-big-z,discraft-luna,discraft-big-z,Big Z Luna,,,,,,,,,,,luna-big-z
+discraft-luna-cryztal,discraft-luna,discraft-cryztal,CryZtal Luna,,,,,,,,,,,luna-cryztal
+discraft-luna-esp,discraft-luna,discraft-esp,ESP Luna,,,,,,,,,,,luna-esp
+discraft-luna-rubber-blend,discraft-luna,discraft-rubber-blend,Rubber Blend Luna,,,,,,,,,,,luna-rubber-blend
+discraft-luna-z-line,discraft-luna,discraft-z-line,Z Line Luna,,,,,,,,,,,luna-z-line
+discraft-meteor-big-z,discraft-meteor,discraft-big-z,Big Z Meteor,,,,,,,,,,,meteor-big-z
+discraft-meteor-esp,discraft-meteor,discraft-esp,ESP Meteor,,,,,,,,,,,meteor-esp
+discraft-meteor-z-line,discraft-meteor,discraft-z-line,Z Line Meteor,,,,,,,,,,,meteor-z-line
+discraft-nuke-big-z,discraft-nuke,discraft-big-z,Big Z Nuke,,,,,,,,,,,nuke-big-z
+discraft-nuke-esp,discraft-nuke,discraft-esp,ESP Nuke,,,,,,,,,,,nuke-esp
+discraft-nuke-titanium,discraft-nuke,discraft-titanium,Titanium Nuke,,,,,,,,,,,nuke-titanium
+discraft-nuke-z-flx,discraft-nuke,discraft-z-flx,Z FLX Nuke,,,,,,,,,,,nuke-z-flx
+discraft-nuke-z-line,discraft-nuke,discraft-z-line,Z Line Nuke,,,,,,,,,,,nuke-z-line
+discraft-undertaker-big-z,discraft-undertaker,discraft-big-z,Big Z Undertaker,,,,,,,,,,,undertaker-big-z
+discraft-undertaker-esp,discraft-undertaker,discraft-esp,ESP Undertaker,,,,,,,,,,,undertaker-esp
+discraft-undertaker-titanium,discraft-undertaker,discraft-titanium,Titanium Undertaker,,,,,,,,,,,undertaker-titanium
+discraft-undertaker-z-line,discraft-undertaker,discraft-z-line,Z Line Undertaker,,,,,,,,,,,undertaker-z-line
+discraft-zone-cryztal,discraft-zone,discraft-cryztal,CryZtal Zone,,,,,,,,,,,zone-cryztal
+discraft-zone-esp,discraft-zone,discraft-esp,ESP Zone,,,,,,,,,,,zone-esp
+discraft-zone-jawbreaker,discraft-zone,discraft-jawbreaker,Jawbreaker Zone,,,,,,,,,,,zone-jawbreaker
+discraft-zone-rubber-blend,discraft-zone,discraft-rubber-blend,Rubber Blend Zone,,,,,,,,,,,zone-rubber-blend
+discraft-zone-titanium,discraft-zone,discraft-titanium,Titanium Zone,,,,,,,,,,,zone-titanium
+discraft-zone-z-flx,discraft-zone,discraft-z-flx,Z FLX Zone,,,,,,,,,,,zone-z-flx
+discraft-zone-z-line,discraft-zone,discraft-z-line,Z Line Zone,,,,,,,,,,,zone-z-line
+dynamic-discs-emac-truth-biofuzion,dynamic-discs-emac-truth,dynamic-discs-biofuzion,BioFuzion EMac Truth,,,,,,,,,,,emac-truth-biofuzion
+dynamic-discs-emac-truth-fluid,dynamic-discs-emac-truth,dynamic-discs-fluid,Fluid EMac Truth,,,,,,,,,,,emac-truth-fluid
+dynamic-discs-emac-truth-fuzion,dynamic-discs-emac-truth,dynamic-discs-fuzion,Fuzion EMac Truth,,,,,,,,,,,emac-truth-fuzion
+dynamic-discs-emac-truth-lucid,dynamic-discs-emac-truth,dynamic-discs-lucid,Lucid EMac Truth,,,,,,,,,,,emac-truth-lucid
+dynamic-discs-emac-truth-moonshine,dynamic-discs-emac-truth,dynamic-discs-moonshine,Moonshine EMac Truth,,,,,,,,,,,emac-truth-moonshine
+dynamic-discs-escape-biofuzion,dynamic-discs-escape,dynamic-discs-biofuzion,BioFuzion Escape,,,,,,,,,,,escape-biofuzion
+dynamic-discs-escape-fluid,dynamic-discs-escape,dynamic-discs-fluid,Fluid Escape,,,,,,,,,,,escape-fluid
+dynamic-discs-escape-fuzion,dynamic-discs-escape,dynamic-discs-fuzion,Fuzion Escape,,,,,,,,,,,escape-fuzion
+dynamic-discs-escape-lucid,dynamic-discs-escape,dynamic-discs-lucid,Lucid Escape,,,,,,,,,,,escape-lucid
+dynamic-discs-escape-moonshine,dynamic-discs-escape,dynamic-discs-moonshine,Moonshine Escape,,,,,,,,,,,escape-moonshine
+dynamic-discs-felon-biofuzion,dynamic-discs-felon,dynamic-discs-biofuzion,BioFuzion Felon,,,,,,,,,,,felon-biofuzion
+dynamic-discs-felon-fuzion,dynamic-discs-felon,dynamic-discs-fuzion,Fuzion Felon,,,,,,,,,,,felon-fuzion
+dynamic-discs-felon-fuzion-x,dynamic-discs-felon,dynamic-discs-fuzion-x,Fuzion-X Felon,,,,,,,,,,,felon-fuzion-x
+dynamic-discs-felon-lucid,dynamic-discs-felon,dynamic-discs-lucid,Lucid Felon,,,,,,,,,,,felon-lucid
+dynamic-discs-felon-lucid-x,dynamic-discs-felon,dynamic-discs-lucid-x,Lucid-X Felon,,,,,,,,,,,felon-lucid-x
+dynamic-discs-felon-moonshine,dynamic-discs-felon,dynamic-discs-moonshine,Moonshine Felon,,,,,,,,,,,felon-moonshine
+dynamic-discs-judge-classic,dynamic-discs-judge,dynamic-discs-classic,Classic Judge,,,,,,,,,,,judge-classic
+dynamic-discs-judge-classic-blend,dynamic-discs-judge,dynamic-discs-classic-blend,Classic Blend Judge,,,,,,,,,,,judge-classic-blend
+dynamic-discs-judge-classic-soft,dynamic-discs-judge,dynamic-discs-classic-soft,Classic Soft Judge,,,,,,,,,,,judge-classic-soft
+dynamic-discs-judge-fuzion,dynamic-discs-judge,dynamic-discs-fuzion,Fuzion Judge,,,,,,,,,,,judge-fuzion
+dynamic-discs-judge-lucid,dynamic-discs-judge,dynamic-discs-lucid,Lucid Judge,,,,,,,,,,,judge-lucid
+dynamic-discs-judge-prime,dynamic-discs-judge,dynamic-discs-prime,Prime Judge,,,,,,,,,,,judge-prime
+dynamic-discs-judge-supreme,dynamic-discs-judge,dynamic-discs-supreme,Supreme Judge,,,,,,,,,,,judge-supreme
+dynamic-discs-justice-fuzion,dynamic-discs-justice,dynamic-discs-fuzion,Fuzion Justice,,,,,,,,,,,justice-fuzion
+dynamic-discs-justice-lucid,dynamic-discs-justice,dynamic-discs-lucid,Lucid Justice,,,,,,,,,,,justice-lucid
+dynamic-discs-justice-lucid-x,dynamic-discs-justice,dynamic-discs-lucid-x,Lucid-X Justice,,,,,,,,,,,justice-lucid-x
+dynamic-discs-justice-moonshine,dynamic-discs-justice,dynamic-discs-moonshine,Moonshine Justice,,,,,,,,,,,justice-moonshine
+dynamic-discs-sheriff-biofuzion,dynamic-discs-sheriff,dynamic-discs-biofuzion,BioFuzion Sheriff,,,,,,,,,,,sheriff-biofuzion
+dynamic-discs-sheriff-fuzion,dynamic-discs-sheriff,dynamic-discs-fuzion,Fuzion Sheriff,,,,,,,,,,,sheriff-fuzion
+dynamic-discs-sheriff-lucid,dynamic-discs-sheriff,dynamic-discs-lucid,Lucid Sheriff,,,,,,,,,,,sheriff-lucid
+dynamic-discs-trespass-biofuzion,dynamic-discs-trespass,dynamic-discs-biofuzion,BioFuzion Trespass,,,,,,,,,,,trespass-biofuzion
+dynamic-discs-trespass-fuzion,dynamic-discs-trespass,dynamic-discs-fuzion,Fuzion Trespass,,,,,,,,,,,trespass-fuzion
+dynamic-discs-trespass-lucid,dynamic-discs-trespass,dynamic-discs-lucid,Lucid Trespass,,,,,,,,,,,trespass-lucid
+dynamic-discs-trespass-lucid-x,dynamic-discs-trespass,dynamic-discs-lucid-x,Lucid-X Trespass,,,,,,,,,,,trespass-lucid-x
+dynamic-discs-trespass-moonshine,dynamic-discs-trespass,dynamic-discs-moonshine,Moonshine Trespass,,,,,,,,,,,trespass-moonshine
+dynamic-discs-warden-classic,dynamic-discs-warden,dynamic-discs-classic,Classic Warden,,,,,,,,,,,warden-classic
+dynamic-discs-warden-classic-blend,dynamic-discs-warden,dynamic-discs-classic-blend,Classic Blend Warden,,,,,,,,,,,warden-classic-blend
+dynamic-discs-warden-classic-soft,dynamic-discs-warden,dynamic-discs-classic-soft,Classic Soft Warden,,,,,,,,,,,warden-classic-soft
+dynamic-discs-warden-fuzion,dynamic-discs-warden,dynamic-discs-fuzion,Fuzion Warden,,,,,,,,,,,warden-fuzion
+dynamic-discs-warden-lucid,dynamic-discs-warden,dynamic-discs-lucid,Lucid Warden,,,,,,,,,,,warden-lucid
+dynamic-discs-warden-prime,dynamic-discs-warden,dynamic-discs-prime,Prime Warden,,,,,,,,,,,warden-prime
+infinite-discs-alpaca-d-blend,infinite-discs-alpaca,infinite-d-blend,D-Blend Alpaca,,,,,,,,,,,alpaca-d-blend
+infinite-discs-alpaca-g-blend,infinite-discs-alpaca,infinite-g-blend,G-Blend Alpaca,,,,,,,,,,,alpaca-g-blend
+infinite-discs-alpaca-i-blend,infinite-discs-alpaca,infinite-i-blend,I-Blend Alpaca,,,,,,,,,,,alpaca-i-blend
+infinite-discs-alpaca-p-blend,infinite-discs-alpaca,infinite-p-blend,P-Blend Alpaca,,,,,,,,,,,alpaca-p-blend
+infinite-discs-alpaca-s-blend,infinite-discs-alpaca,infinite-s-blend,S-Blend Alpaca,,,,,,,,,,,alpaca-s-blend
+infinite-discs-alpaca-x-blend,infinite-discs-alpaca,infinite-x-blend,X-Blend Alpaca,,,,,,,,,,,alpaca-x-blend
+infinite-discs-centurion-c-blend,infinite-discs-centurion,infinite-c-blend,C-Blend Centurion,,,,,,,,,,,centurion-c-blend
+infinite-discs-centurion-halo-s-blend,infinite-discs-centurion,infinite-halo-s-blend,Halo S-Blend Centurion,,,,,,,,,,,centurion-halo-s-blend
+infinite-discs-centurion-i-blend,infinite-discs-centurion,infinite-i-blend,I-Blend Centurion,,,,,,,,,,,centurion-i-blend
+infinite-discs-centurion-metal-flake-c-blend,infinite-discs-centurion,infinite-metal-flake-c-blend,Metal Flake C-Blend Centurion,,,,,,,,,,,centurion-metal-flake-c-blend
+infinite-discs-centurion-s-blend,infinite-discs-centurion,infinite-s-blend,S-Blend Centurion,,,,,,,,,,,centurion-s-blend
+infinite-discs-emperor-c-blend,infinite-discs-emperor,infinite-c-blend,C-Blend Emperor,,,,,,,,,,,emperor-c-blend
+infinite-discs-emperor-concrete,infinite-discs-emperor,infinite-concrete,Concrete Emperor,,,,,,,,,,,emperor-concrete
+infinite-discs-emperor-halo-s-blend,infinite-discs-emperor,infinite-halo-s-blend,Halo S-Blend Emperor,,,,,,,,,,,emperor-halo-s-blend
+infinite-discs-emperor-i-blend,infinite-discs-emperor,infinite-i-blend,I-Blend Emperor,,,,,,,,,,,emperor-i-blend
+infinite-discs-emperor-metal-flake-c-blend,infinite-discs-emperor,infinite-metal-flake-c-blend,Metal Flake C-Blend Emperor,,,,,,,,,,,emperor-metal-flake-c-blend
+infinite-discs-emperor-s-blend,infinite-discs-emperor,infinite-s-blend,S-Blend Emperor,,,,,,,,,,,emperor-s-blend
+infinite-discs-maya-g-blend,infinite-discs-maya,infinite-g-blend,G-Blend Maya,,,,,,,,,,,maya-g-blend
+infinite-discs-maya-halo-s-blend,infinite-discs-maya,infinite-halo-s-blend,Halo S-Blend Maya,,,,,,,,,,,maya-halo-s-blend
+infinite-discs-maya-i-blend,infinite-discs-maya,infinite-i-blend,I-Blend Maya,,,,,,,,,,,maya-i-blend
+infinite-discs-maya-s-blend,infinite-discs-maya,infinite-s-blend,S-Blend Maya,,,,,,,,,,,maya-s-blend
+infinite-discs-pharaoh-c-blend,infinite-discs-pharaoh,infinite-c-blend,C-Blend Pharaoh,,,,,,,,,,,pharaoh-c-blend
+infinite-discs-pharaoh-i-blend,infinite-discs-pharaoh,infinite-i-blend,I-Blend Pharaoh,,,,,,,,,,,pharaoh-i-blend
+infinite-discs-pharaoh-metal-flake-c-blend,infinite-discs-pharaoh,infinite-metal-flake-c-blend,Metal Flake C-Blend Pharaoh,,,,,,,,,,,pharaoh-metal-flake-c-blend
+infinite-discs-pharaoh-s-blend,infinite-discs-pharaoh,infinite-s-blend,S-Blend Pharaoh,,,,,,,,,,,pharaoh-s-blend
+infinite-discs-pharaoh-swirly-s-blend,infinite-discs-pharaoh,infinite-swirly-s-blend,Swirly S-Blend Pharaoh,,,,,,,,,,,pharaoh-swirly-s-blend
+innova-aviar-champion,innova-aviar,innova-champion,Champion Aviar,,,,,,,,,,,aviar-champion
+innova-aviar-dx,innova-aviar,innova-dx,DX Aviar,,,,,,,,,,,aviar-dx
+innova-aviar-gstar,innova-aviar,innova-gstar,GStar Aviar,,,,,,,,,,,aviar-gstar
+innova-aviar-jk-pro,innova-aviar,innova-jk-pro,JK Pro Aviar,,,,,,,,,,,aviar-jk-pro
+innova-aviar-kc-pro,innova-aviar,innova-kc-pro,KC Pro Aviar,,,,,,,,,,,aviar-kc-pro
+innova-aviar-nexus,innova-aviar,innova-nexus,Nexus Aviar,,,,,,,,,,,aviar-nexus
+innova-aviar-r-pro,innova-aviar,innova-r-pro,R-Pro Aviar,,,,,,,,,,,aviar-r-pro
+innova-aviar-star,innova-aviar,innova-star,Star Aviar,,,,,,,,,,,aviar-star
+innova-aviar-xt,innova-aviar,innova-xt,XT Aviar,,,,,,,,,,,aviar-xt
+innova-aviar3-champion,innova-aviar3,innova-champion,Champion Aviar3,,,,,,,,,,,aviar3-champion
+innova-aviar3-dx,innova-aviar3,innova-dx,DX Aviar3,,,,,,,,,,,aviar3-dx
+innova-aviar3-star,innova-aviar3,innova-star,Star Aviar3,,,,,,,,,,,aviar3-star
+innova-beast-champion,innova-beast,innova-champion,Champion Beast,,,,,,,,,,,beast-champion
+innova-beast-dx,innova-beast,innova-dx,DX Beast,,,,,,,,,,,beast-dx
+innova-beast-gstar,innova-beast,innova-gstar,GStar Beast,,,,,,,,,,,beast-gstar
+innova-beast-pro,innova-beast,innova-pro,Pro Beast,,,,,,,,,,,beast-pro
+innova-beast-star,innova-beast,innova-star,Star Beast,,,,,,,,,,,beast-star
+innova-boss-champion,innova-boss,innova-champion,Champion Boss,,,,,,,,,,,boss-champion
+innova-boss-dx,innova-boss,innova-dx,DX Boss,,,,,,,,,,,boss-dx
+innova-boss-echo-star,innova-boss,innova-echo-star,Echo Star Boss,,,,,,,,,,,boss-echo-star
+innova-boss-gstar,innova-boss,innova-gstar,GStar Boss,,,,,,,,,,,boss-gstar
+innova-boss-halo-star,innova-boss,innova-halo-star,Halo Star Boss,,,,,,,,,,,boss-halo-star
+innova-boss-pro,innova-boss,innova-pro,Pro Boss,,,,,,,,,,,boss-pro
+innova-boss-star,innova-boss,innova-star,Star Boss,,,,,,,,,,,boss-star
+innova-caiman-champion,innova-caiman,innova-champion,Champion Caiman,,,,,,,,,,,caiman-champion
+innova-caiman-gstar,innova-caiman,innova-gstar,GStar Caiman,,,,,,,,,,,caiman-gstar
+innova-caiman-star,innova-caiman,innova-star,Star Caiman,,,,,,,,,,,caiman-star
+innova-colossus-champion,innova-colossus,innova-champion,Champion Colossus,,,,,,,,,,,colossus-champion
+innova-colossus-gstar,innova-colossus,innova-gstar,GStar Colossus,,,,,,,,,,,colossus-gstar
+innova-colossus-star,innova-colossus,innova-star,Star Colossus,,,,,,,,,,,colossus-star
+innova-dart-champion,innova-dart,innova-champion,Champion Dart,,,,,,,,,,,dart-champion
+innova-dart-dx,innova-dart,innova-dx,DX Dart,,,,,,,,,,,dart-dx
+innova-dart-r-pro,innova-dart,innova-r-pro,R-Pro Dart,,,,,,,,,,,dart-r-pro
+innova-dart-star,innova-dart,innova-star,Star Dart,,,,,,,,,,,dart-star
+innova-destroyer-champion,innova-destroyer,innova-champion,Champion Destroyer,,,,,,,,,,,destroyer-champion
+innova-destroyer-dx,innova-destroyer,innova-dx,DX Destroyer,,,,,,,,,,,destroyer-dx
+innova-destroyer-echo-star,innova-destroyer,innova-echo-star,Echo Star Destroyer,,,,,,,,,,,destroyer-echo-star
+innova-destroyer-gstar,innova-destroyer,innova-gstar,GStar Destroyer,,,,,,,,,,,destroyer-gstar
+innova-destroyer-halo-star,innova-destroyer,innova-halo-star,Halo Star Destroyer,,,,,,,,,,,destroyer-halo-star
+innova-destroyer-pro,innova-destroyer,innova-pro,Pro Destroyer,,,,,,,,,,,destroyer-pro
+innova-destroyer-star,innova-destroyer,innova-star,Star Destroyer,,,,,,,,,,,destroyer-star
+innova-eagle-champion,innova-eagle,innova-champion,Champion Eagle,,,,,,,,,,,eagle-champion
+innova-eagle-dx,innova-eagle,innova-dx,DX Eagle,,,,,,,,,,,eagle-dx
+innova-eagle-gstar,innova-eagle,innova-gstar,GStar Eagle,,,,,,,,,,,eagle-gstar
+innova-eagle-star,innova-eagle,innova-star,Star Eagle,,,,,,,,,,,eagle-star
+innova-firebird-champion,innova-firebird,innova-champion,Champion Firebird,,,,,,,,,,,firebird-champion
+innova-firebird-dx,innova-firebird,innova-dx,DX Firebird,,,,,,,,,,,firebird-dx
+innova-firebird-gstar,innova-firebird,innova-gstar,GStar Firebird,,,,,,,,,,,firebird-gstar
+innova-firebird-halo-star,innova-firebird,innova-halo-star,Halo Star Firebird,,,,,,,,,,,firebird-halo-star
+innova-firebird-star,innova-firebird,innova-star,Star Firebird,,,,,,,,,,,firebird-star
+innova-firestorm-champion,innova-firestorm,innova-champion,Champion Firestorm,,,,,,,,,,,firestorm-champion
+innova-firestorm-star,innova-firestorm,innova-star,Star Firestorm,,,,,,,,,,,firestorm-star
+innova-gator-champion,innova-gator,innova-champion,Champion Gator,,,,,,,,,,,gator-champion
+innova-gator-dx,innova-gator,innova-dx,DX Gator,,,,,,,,,,,gator-dx
+innova-gator-gstar,innova-gator,innova-gstar,GStar Gator,,,,,,,,,,,gator-gstar
+innova-gator-star,innova-gator,innova-star,Star Gator,,,,,,,,,,,gator-star
+innova-katana-champion,innova-katana,innova-champion,Champion Katana,,,,,,,,,,,katana-champion
+innova-katana-dx,innova-katana,innova-dx,DX Katana,,,,,,,,,,,katana-dx
+innova-katana-echo-star,innova-katana,innova-echo-star,Echo Star Katana,,,,,,,,,,,katana-echo-star
+innova-katana-gstar,innova-katana,innova-gstar,GStar Katana,,,,,,,,,,,katana-gstar
+innova-katana-pro,innova-katana,innova-pro,Pro Katana,,,,,,,,,,,katana-pro
+innova-katana-star,innova-katana,innova-star,Star Katana,,,,,,,,,,,katana-star
+innova-leopard-champion,innova-leopard,innova-champion,Champion Leopard,,,,,,,,,,,leopard-champion
+innova-leopard-dx,innova-leopard,innova-dx,DX Leopard,,,,,,,,,,,leopard-dx
+innova-leopard-echo-star,innova-leopard,innova-echo-star,Echo Star Leopard,,,,,,,,,,,leopard-echo-star
+innova-leopard-gstar,innova-leopard,innova-gstar,GStar Leopard,,,,,,,,,,,leopard-gstar
+innova-leopard-pro,innova-leopard,innova-pro,Pro Leopard,,,,,,,,,,,leopard-pro
+innova-leopard-star,innova-leopard,innova-star,Star Leopard,,,,,,,,,,,leopard-star
+innova-leopard3-champion,innova-leopard3,innova-champion,Champion Leopard3,,,,,,,,,,,leopard3-champion
+innova-leopard3-dx,innova-leopard3,innova-dx,DX Leopard3,,,,,,,,,,,leopard3-dx
+innova-leopard3-gstar,innova-leopard3,innova-gstar,GStar Leopard3,,,,,,,,,,,leopard3-gstar
+innova-leopard3-halo-star,innova-leopard3,innova-halo-star,Halo Star Leopard3,,,,,,,,,,,leopard3-halo-star
+innova-leopard3-star,innova-leopard3,innova-star,Star Leopard3,,,,,,,,,,,leopard3-star
+innova-mako3-champion,innova-mako3,innova-champion,Champion Mako3,,,,,,,,,,,mako3-champion
+innova-mako3-dx,innova-mako3,innova-dx,DX Mako3,,,,,,,,,,,mako3-dx
+innova-mako3-gstar,innova-mako3,innova-gstar,GStar Mako3,,,,,,,,,,,mako3-gstar
+innova-mako3-halo-star,innova-mako3,innova-halo-star,Halo Star Mako3,,,,,,,,,,,mako3-halo-star
+innova-mako3-star,innova-mako3,innova-star,Star Mako3,,,,,,,,,,,mako3-star
+innova-mamba-champion,innova-mamba,innova-champion,Champion Mamba,,,,,,,,,,,mamba-champion
+innova-mamba-dx,innova-mamba,innova-dx,DX Mamba,,,,,,,,,,,mamba-dx
+innova-mamba-gstar,innova-mamba,innova-gstar,GStar Mamba,,,,,,,,,,,mamba-gstar
+innova-mamba-halo-star,innova-mamba,innova-halo-star,Halo Star Mamba,,,,,,,,,,,mamba-halo-star
+innova-mamba-star,innova-mamba,innova-star,Star Mamba,,,,,,,,,,,mamba-star
+innova-nova-xt,innova-nova,innova-xt,XT Nova,,,,,,,,,,,nova-xt
+innova-orc-champion,innova-orc,innova-champion,Champion Orc,,,,,,,,,,,orc-champion
+innova-orc-dx,innova-orc,innova-dx,DX Orc,,,,,,,,,,,orc-dx
+innova-orc-gstar,innova-orc,innova-gstar,GStar Orc,,,,,,,,,,,orc-gstar
+innova-orc-pro,innova-orc,innova-pro,Pro Orc,,,,,,,,,,,orc-pro
+innova-orc-star,innova-orc,innova-star,Star Orc,,,,,,,,,,,orc-star
+innova-pig-dx,innova-pig,innova-dx,DX Pig,,,,,,,,,,,pig-dx
+innova-pig-pro,innova-pig,innova-pro,Pro Pig,,,,,,,,,,,pig-pro
+innova-pig-r-pro,innova-pig,innova-r-pro,R-Pro Pig,,,,,,,,,,,pig-r-pro
+innova-pig-star,innova-pig,innova-star,Star Pig,,,,,,,,,,,pig-star
+innova-rhyno-champion,innova-rhyno,innova-champion,Champion Rhyno,,,,,,,,,,,rhyno-champion
+innova-rhyno-dx,innova-rhyno,innova-dx,DX Rhyno,,,,,,,,,,,rhyno-dx
+innova-rhyno-gstar,innova-rhyno,innova-gstar,GStar Rhyno,,,,,,,,,,,rhyno-gstar
+innova-rhyno-pro,innova-rhyno,innova-pro,Pro Rhyno,,,,,,,,,,,rhyno-pro
+innova-rhyno-r-pro,innova-rhyno,innova-r-pro,R-Pro Rhyno,,,,,,,,,,,rhyno-r-pro
+innova-rhyno-star,innova-rhyno,innova-star,Star Rhyno,,,,,,,,,,,rhyno-star
+innova-roadrunner-champion,innova-roadrunner,innova-champion,Champion Roadrunner,,,,,,,,,,,roadrunner-champion
+innova-roadrunner-dx,innova-roadrunner,innova-dx,DX Roadrunner,,,,,,,,,,,roadrunner-dx
+innova-roadrunner-gstar,innova-roadrunner,innova-gstar,GStar Roadrunner,,,,,,,,,,,roadrunner-gstar
+innova-roadrunner-halo-star,innova-roadrunner,innova-halo-star,Halo Star Roadrunner,,,,,,,,,,,roadrunner-halo-star
+innova-roadrunner-star,innova-roadrunner,innova-star,Star Roadrunner,,,,,,,,,,,roadrunner-star
+innova-roc-champion,innova-roc,innova-champion,Champion Roc,,,,,,,,,,,roc-champion
+innova-roc-dx,innova-roc,innova-dx,DX Roc,,,,,,,,,,,roc-dx
+innova-roc-gstar,innova-roc,innova-gstar,GStar Roc,,,,,,,,,,,roc-gstar
+innova-roc-kc-pro,innova-roc,innova-kc-pro,KC Pro Roc,,,,,,,,,,,roc-kc-pro
+innova-roc-star,innova-roc,innova-star,Star Roc,,,,,,,,,,,roc-star
+innova-roc3-champion,innova-roc3,innova-champion,Champion Roc3,,,,,,,,,,,roc3-champion
+innova-roc3-dx,innova-roc3,innova-dx,DX Roc3,,,,,,,,,,,roc3-dx
+innova-roc3-gstar,innova-roc3,innova-gstar,GStar Roc3,,,,,,,,,,,roc3-gstar
+innova-roc3-star,innova-roc3,innova-star,Star Roc3,,,,,,,,,,,roc3-star
+innova-shark-champion,innova-shark,innova-champion,Champion Shark,,,,,,,,,,,shark-champion
+innova-shark-dx,innova-shark,innova-dx,DX Shark,,,,,,,,,,,shark-dx
+innova-shark-gstar,innova-shark,innova-gstar,GStar Shark,,,,,,,,,,,shark-gstar
+innova-shark-star,innova-shark,innova-star,Star Shark,,,,,,,,,,,shark-star
+innova-shryke-champion,innova-shryke,innova-champion,Champion Shryke,,,,,,,,,,,shryke-champion
+innova-shryke-gstar,innova-shryke,innova-gstar,GStar Shryke,,,,,,,,,,,shryke-gstar
+innova-shryke-halo-star,innova-shryke,innova-halo-star,Halo Star Shryke,,,,,,,,,,,shryke-halo-star
+innova-shryke-star,innova-shryke,innova-star,Star Shryke,,,,,,,,,,,shryke-star
+innova-sidewinder-champion,innova-sidewinder,innova-champion,Champion Sidewinder,,,,,,,,,,,sidewinder-champion
+innova-sidewinder-dx,innova-sidewinder,innova-dx,DX Sidewinder,,,,,,,,,,,sidewinder-dx
+innova-sidewinder-gstar,innova-sidewinder,innova-gstar,GStar Sidewinder,,,,,,,,,,,sidewinder-gstar
+innova-sidewinder-halo-star,innova-sidewinder,innova-halo-star,Halo Star Sidewinder,,,,,,,,,,,sidewinder-halo-star
+innova-sidewinder-star,innova-sidewinder,innova-star,Star Sidewinder,,,,,,,,,,,sidewinder-star
+innova-teebird-champion,innova-teebird,innova-champion,Champion TeeBird,,,,,,,,,,,teebird-champion
+innova-teebird-dx,innova-teebird,innova-dx,DX TeeBird,,,,,,,,,,,teebird-dx
+innova-teebird-echo-star,innova-teebird,innova-echo-star,Echo Star TeeBird,,,,,,,,,,,teebird-echo-star
+innova-teebird-gstar,innova-teebird,innova-gstar,GStar TeeBird,,,,,,,,,,,teebird-gstar
+innova-teebird-pro,innova-teebird,innova-pro,Pro TeeBird,,,,,,,,,,,teebird-pro
+innova-teebird-star,innova-teebird,innova-star,Star TeeBird,,,,,,,,,,,teebird-star
+innova-teebird3-champion,innova-teebird3,innova-champion,Champion TeeBird3,,,,,,,,,,,teebird3-champion
+innova-teebird3-dx,innova-teebird3,innova-dx,DX TeeBird3,,,,,,,,,,,teebird3-dx
+innova-teebird3-gstar,innova-teebird3,innova-gstar,GStar TeeBird3,,,,,,,,,,,teebird3-gstar
+innova-teebird3-star,innova-teebird3,innova-star,Star TeeBird3,,,,,,,,,,,teebird3-star
+innova-tern-champion,innova-tern,innova-champion,Champion Tern,,,,,,,,,,,tern-champion
+innova-tern-echo-star,innova-tern,innova-echo-star,Echo Star Tern,,,,,,,,,,,tern-echo-star
+innova-tern-gstar,innova-tern,innova-gstar,GStar Tern,,,,,,,,,,,tern-gstar
+innova-tern-halo-star,innova-tern,innova-halo-star,Halo Star Tern,,,,,,,,,,,tern-halo-star
+innova-tern-pro,innova-tern,innova-pro,Pro Tern,,,,,,,,,,,tern-pro
+innova-tern-star,innova-tern,innova-star,Star Tern,,,,,,,,,,,tern-star
+innova-thunderbird-champion,innova-thunderbird,innova-champion,Champion Thunderbird,,,,,,,,,,,thunderbird-champion
+innova-thunderbird-dx,innova-thunderbird,innova-dx,DX Thunderbird,,,,,,,,,,,thunderbird-dx
+innova-thunderbird-gstar,innova-thunderbird,innova-gstar,GStar Thunderbird,,,,,,,,,,,thunderbird-gstar
+innova-thunderbird-halo-star,innova-thunderbird,innova-halo-star,Halo Star Thunderbird,,,,,,,,,,,thunderbird-halo-star
+innova-thunderbird-star,innova-thunderbird,innova-star,Star Thunderbird,,,,,,,,,,,thunderbird-star
+innova-valkyrie-champion,innova-valkyrie,innova-champion,Champion Valkyrie,,,,,,,,,,,valkyrie-champion
+innova-valkyrie-dx,innova-valkyrie,innova-dx,DX Valkyrie,,,,,,,,,,,valkyrie-dx
+innova-valkyrie-gstar,innova-valkyrie,innova-gstar,GStar Valkyrie,,,,,,,,,,,valkyrie-gstar
+innova-valkyrie-pro,innova-valkyrie,innova-pro,Pro Valkyrie,,,,,,,,,,,valkyrie-pro
+innova-valkyrie-star,innova-valkyrie,innova-star,Star Valkyrie,,,,,,,,,,,valkyrie-star
+innova-whale-champion,innova-whale,innova-champion,Champion Whale,,,,,,,,,,,whale-champion
+innova-whale-dx,innova-whale,innova-dx,DX Whale,,,,,,,,,,,whale-dx
+innova-whale-gstar,innova-whale,innova-gstar,GStar Whale,,,,,,,,,,,whale-gstar
+innova-whale-xt,innova-whale,innova-xt,XT Whale,,,,,,,,,,,whale-xt
+innova-wraith-champion,innova-wraith,innova-champion,Champion Wraith,,,,,,,,,,,wraith-champion
+innova-wraith-dx,innova-wraith,innova-dx,DX Wraith,,,,,,,,,,,wraith-dx
+innova-wraith-echo-star,innova-wraith,innova-echo-star,Echo Star Wraith,,,,,,,,,,,wraith-echo-star
+innova-wraith-gstar,innova-wraith,innova-gstar,GStar Wraith,,,,,,,,,,,wraith-gstar
+innova-wraith-halo-star,innova-wraith,innova-halo-star,Halo Star Wraith,,,,,,,,,,,wraith-halo-star
+innova-wraith-pro,innova-wraith,innova-pro,Pro Wraith,,,,,,,,,,,wraith-pro
+innova-wraith-star,innova-wraith,innova-star,Star Wraith,,,,,,,,,,,wraith-star
+innova-xcaliber-champion,innova-xcaliber,innova-champion,Champion XCaliber,,,,,,,,,,,xcaliber-champion
+innova-xcaliber-echo-star,innova-xcaliber,innova-echo-star,Echo Star XCaliber,,,,,,,,,,,xcaliber-echo-star
+innova-xcaliber-halo-star,innova-xcaliber,innova-halo-star,Halo Star XCaliber,,,,,,,,,,,xcaliber-halo-star
+innova-xcaliber-star,innova-xcaliber,innova-star,Star XCaliber,,,,,,,,,,,xcaliber-star
+latitude-64-ballista-pro-gold,latitude-64-ballista-pro,latitude-64-gold,Gold Ballista Pro,,,,,,,,,,,ballista-pro-gold
+latitude-64-ballista-pro-gold-x,latitude-64-ballista-pro,latitude-64-gold-x,Gold-X Ballista Pro,,,,,,,,,,,ballista-pro-gold-x
+latitude-64-ballista-pro-opto,latitude-64-ballista-pro,latitude-64-opto,Opto Ballista Pro,,,,,,,,,,,ballista-pro-opto
+latitude-64-ballista-pro-opto-air,latitude-64-ballista-pro,latitude-64-opto-air,Opto Air Ballista Pro,,,,,,,,,,,ballista-pro-opto-air
+latitude-64-ballista-pro-opto-x,latitude-64-ballista-pro,latitude-64-opto-x,Opto-X Ballista Pro,,,,,,,,,,,ballista-pro-opto-x
+latitude-64-explorer-gold,latitude-64-explorer,latitude-64-gold,Gold Explorer,,,,,,,,,,,explorer-gold
+latitude-64-explorer-gold-x,latitude-64-explorer,latitude-64-gold-x,Gold-X Explorer,,,,,,,,,,,explorer-gold-x
+latitude-64-explorer-opto,latitude-64-explorer,latitude-64-opto,Opto Explorer,,,,,,,,,,,explorer-opto
+latitude-64-explorer-opto-x,latitude-64-explorer,latitude-64-opto-x,Opto-X Explorer,,,,,,,,,,,explorer-opto-x
+latitude-64-explorer-retro,latitude-64-explorer,latitude-64-retro,Retro Explorer,,,,,,,,,,,explorer-retro
+latitude-64-fuse-gold,latitude-64-fuse,latitude-64-gold,Gold Fuse,,,,,,,,,,,fuse-gold
+latitude-64-fuse-opto,latitude-64-fuse,latitude-64-opto,Opto Fuse,,,,,,,,,,,fuse-opto
+latitude-64-fuse-retro,latitude-64-fuse,latitude-64-retro,Retro Fuse,,,,,,,,,,,fuse-retro
+latitude-64-grace-grand,latitude-64-grace,latitude-64-grand,Grand Grace,,,,,,,,,,,grace-grand
+latitude-64-pure-gold,latitude-64-pure,latitude-64-gold,Gold Pure,,,,,,,,,,,pure-gold
+latitude-64-pure-opto,latitude-64-pure,latitude-64-opto,Opto Pure,,,,,,,,,,,pure-opto
+latitude-64-pure-retro,latitude-64-pure,latitude-64-retro,Retro Pure,,,,,,,,,,,pure-retro
+latitude-64-pure-zero-hard,latitude-64-pure,latitude-64-zero-hard,Zero Hard Pure,,,,,,,,,,,pure-zero-hard
+latitude-64-pure-zero-medium,latitude-64-pure,latitude-64-zero-medium,Zero Medium Pure,,,,,,,,,,,pure-zero-medium
+latitude-64-pure-zero-soft,latitude-64-pure,latitude-64-zero-soft,Zero Soft Pure,,,,,,,,,,,pure-zero-soft
+latitude-64-rive-grand,latitude-64-rive,latitude-64-grand,Grand Rive,,,,,,,,,,,rive-grand
+latitude-64-river-frost,latitude-64-river,latitude-64-frost,Frost River,,,,,,,,,,,river-frost
+latitude-64-river-gold,latitude-64-river,latitude-64-gold,Gold River,,,,,,,,,,,river-gold
+latitude-64-river-opto,latitude-64-river,latitude-64-opto,Opto River,,,,,,,,,,,river-opto
+latitude-64-river-opto-air,latitude-64-river,latitude-64-opto-air,Opto Air River,,,,,,,,,,,river-opto-air
+latitude-64-river-retro,latitude-64-river,latitude-64-retro,Retro River,,,,,,,,,,,river-retro
+latitude-64-saint-frost,latitude-64-saint,latitude-64-frost,Frost Saint,,,,,,,,,,,saint-frost
+latitude-64-saint-gold,latitude-64-saint,latitude-64-gold,Gold Saint,,,,,,,,,,,saint-gold
+latitude-64-saint-opto,latitude-64-saint,latitude-64-opto,Opto Saint,,,,,,,,,,,saint-opto
+latitude-64-saint-opto-air,latitude-64-saint,latitude-64-opto-air,Opto Air Saint,,,,,,,,,,,saint-opto-air
+latitude-64-trust-grand,latitude-64-trust,latitude-64-grand,Grand Trust,,,,,,,,,,,trust-grand
+mvp-disc-sports-anode-electron-medium,mvp-disc-sports-anode,mvp-electron-medium,Electron Medium Anode,,,,,,,,,,,anode-electron-medium
+mvp-disc-sports-anode-neutron,mvp-disc-sports-anode,mvp-neutron,Neutron Anode,,,,,,,,,,,anode-neutron
+mvp-disc-sports-anode-plasma,mvp-disc-sports-anode,mvp-plasma,Plasma Anode,,,,,,,,,,,anode-plasma
+mvp-disc-sports-anode-proton,mvp-disc-sports-anode,mvp-proton,Proton Anode,,,,,,,,,,,anode-proton
+mvp-disc-sports-atom-cosmic-electron,mvp-disc-sports-atom,mvp-cosmic-electron,Cosmic Electron Atom,,,,,,,,,,,atom-cosmic-electron
+mvp-disc-sports-atom-electron-firm,mvp-disc-sports-atom,mvp-electron-firm,Electron Firm Atom,,,,,,,,,,,atom-electron-firm
+mvp-disc-sports-atom-electron-medium,mvp-disc-sports-atom,mvp-electron-medium,Electron Medium Atom,,,,,,,,,,,atom-electron-medium
+mvp-disc-sports-atom-electron-soft,mvp-disc-sports-atom,mvp-electron-soft,Electron Soft Atom,,,,,,,,,,,atom-electron-soft
+mvp-disc-sports-entropy-cosmic-neutron,mvp-disc-sports-entropy,mvp-cosmic-neutron,Cosmic Neutron Entropy,,,,,,,,,,,entropy-cosmic-neutron
+mvp-disc-sports-entropy-neutron,mvp-disc-sports-entropy,mvp-neutron,Neutron Entropy,,,,,,,,,,,entropy-neutron
+mvp-disc-sports-entropy-plasma,mvp-disc-sports-entropy,mvp-plasma,Plasma Entropy,,,,,,,,,,,entropy-plasma
+mvp-disc-sports-hex-cosmic-neutron,mvp-disc-sports-hex,mvp-cosmic-neutron,Cosmic Neutron Hex,,,,,,,,,,,hex-cosmic-neutron
+mvp-disc-sports-hex-eclipse-2.0,mvp-disc-sports-hex,mvp-eclipse-2-0,Eclipse 2.0 Hex,,,,,,,,,,,hex-eclipse-2-0
+mvp-disc-sports-hex-fission,mvp-disc-sports-hex,mvp-fission,Fission Hex,,,,,,,,,,,hex-fission
+mvp-disc-sports-hex-neutron,mvp-disc-sports-hex,mvp-neutron,Neutron Hex,,,,,,,,,,,hex-neutron
+mvp-disc-sports-ion-electron-firm,mvp-disc-sports-ion,mvp-electron-firm,Electron Firm Ion,,,,,,,,,,,ion-electron-firm
+mvp-disc-sports-ion-electron-medium,mvp-disc-sports-ion,mvp-electron-medium,Electron Medium Ion,,,,,,,,,,,ion-electron-medium
+mvp-disc-sports-ion-electron-soft,mvp-disc-sports-ion,mvp-electron-soft,Electron Soft Ion,,,,,,,,,,,ion-electron-soft
+mvp-disc-sports-ion-neutron,mvp-disc-sports-ion,mvp-neutron,Neutron Ion,,,,,,,,,,,ion-neutron
+mvp-disc-sports-ion-plasma,mvp-disc-sports-ion,mvp-plasma,Plasma Ion,,,,,,,,,,,ion-plasma
+mvp-disc-sports-ion-proton,mvp-disc-sports-ion,mvp-proton,Proton Ion,,,,,,,,,,,ion-proton
+mvp-disc-sports-photon-cosmic-neutron,mvp-disc-sports-photon,mvp-cosmic-neutron,Cosmic Neutron Photon,,,,,,,,,,,photon-cosmic-neutron
+mvp-disc-sports-photon-fission,mvp-disc-sports-photon,mvp-fission,Fission Photon,,,,,,,,,,,photon-fission
+mvp-disc-sports-photon-neutron,mvp-disc-sports-photon,mvp-neutron,Neutron Photon,,,,,,,,,,,photon-neutron
+mvp-disc-sports-photon-proton,mvp-disc-sports-photon,mvp-proton,Proton Photon,,,,,,,,,,,photon-proton
+mvp-disc-sports-reactor-cosmic-neutron,mvp-disc-sports-reactor,mvp-cosmic-neutron,Cosmic Neutron Reactor,,,,,,,,,,,reactor-cosmic-neutron
+mvp-disc-sports-reactor-eclipse-2.0,mvp-disc-sports-reactor,mvp-eclipse-2-0,Eclipse 2.0 Reactor,,,,,,,,,,,reactor-eclipse-2-0
+mvp-disc-sports-reactor-fission,mvp-disc-sports-reactor,mvp-fission,Fission Reactor,,,,,,,,,,,reactor-fission
+mvp-disc-sports-reactor-neutron,mvp-disc-sports-reactor,mvp-neutron,Neutron Reactor,,,,,,,,,,,reactor-neutron
+mvp-disc-sports-tesla-fission,mvp-disc-sports-tesla,mvp-fission,Fission Tesla,,,,,,,,,,,tesla-fission
+mvp-disc-sports-tesla-neutron,mvp-disc-sports-tesla,mvp-neutron,Neutron Tesla,,,,,,,,,,,tesla-neutron
+mvp-disc-sports-tesla-proton,mvp-disc-sports-tesla,mvp-proton,Proton Tesla,,,,,,,,,,,tesla-proton
+mvp-disc-sports-volt-cosmic-neutron,mvp-disc-sports-volt,mvp-cosmic-neutron,Cosmic Neutron Volt,,,,,,,,,,,volt-cosmic-neutron
+mvp-disc-sports-volt-fission,mvp-disc-sports-volt,mvp-fission,Fission Volt,,,,,,,,,,,volt-fission
+mvp-disc-sports-volt-neutron,mvp-disc-sports-volt,mvp-neutron,Neutron Volt,,,,,,,,,,,volt-neutron
+mvp-disc-sports-volt-plasma,mvp-disc-sports-volt,mvp-plasma,Plasma Volt,,,,,,,,,,,volt-plasma
+mvp-disc-sports-volt-proton,mvp-disc-sports-volt,mvp-proton,Proton Volt,,,,,,,,,,,volt-proton
+mvp-disc-sports-wave-cosmic-neutron,mvp-disc-sports-wave,mvp-cosmic-neutron,Cosmic Neutron Wave,,,,,,,,,,,wave-cosmic-neutron
+mvp-disc-sports-wave-fission,mvp-disc-sports-wave,mvp-fission,Fission Wave,,,,,,,,,,,wave-fission
+mvp-disc-sports-wave-neutron,mvp-disc-sports-wave,mvp-neutron,Neutron Wave,,,,,,,,,,,wave-neutron
+mvp-disc-sports-wave-plasma,mvp-disc-sports-wave,mvp-plasma,Plasma Wave,,,,,,,,,,,wave-plasma
+mvp-disc-sports-wave-proton,mvp-disc-sports-wave,mvp-proton,Proton Wave,,,,,,,,,,,wave-proton
+prodigy-disc-d2-400,prodigy-disc-d2,prodigy-400,400 D2,,,,,,,,,,,d2-400
+prodigy-disc-d2-400g,prodigy-disc-d2,prodigy-400g,400G D2,,,,,,,,,,,d2-400g
+prodigy-disc-d2-500,prodigy-disc-d2,prodigy-500,500 D2,,,,,,,,,,,d2-500
+prodigy-disc-d2-750,prodigy-disc-d2,prodigy-750,750 D2,,,,,,,,,,,d2-750
+prodigy-disc-d2-air,prodigy-disc-d2,prodigy-air,Air D2,,,,,,,,,,,d2-air
+prodigy-disc-d3-400,prodigy-disc-d3,prodigy-400,400 D3,,,,,,,,,,,d3-400
+prodigy-disc-d3-400g,prodigy-disc-d3,prodigy-400g,400G D3,,,,,,,,,,,d3-400g
+prodigy-disc-d3-500,prodigy-disc-d3,prodigy-500,500 D3,,,,,,,,,,,d3-500
+prodigy-disc-d3-750,prodigy-disc-d3,prodigy-750,750 D3,,,,,,,,,,,d3-750
+prodigy-disc-d3-air,prodigy-disc-d3,prodigy-air,Air D3,,,,,,,,,,,d3-air
+prodigy-disc-f2-400,prodigy-disc-f2,prodigy-400,400 F2,,,,,,,,,,,f2-400
+prodigy-disc-f2-400g,prodigy-disc-f2,prodigy-400g,400G F2,,,,,,,,,,,f2-400g
+prodigy-disc-f2-500,prodigy-disc-f2,prodigy-500,500 F2,,,,,,,,,,,f2-500
+prodigy-disc-f2-750,prodigy-disc-f2,prodigy-750,750 F2,,,,,,,,,,,f2-750
+prodigy-disc-m4-300,prodigy-disc-m4,prodigy-300,300 M4,,,,,,,,,,,m4-300
+prodigy-disc-m4-400,prodigy-disc-m4,prodigy-400,400 M4,,,,,,,,,,,m4-400
+prodigy-disc-m4-400g,prodigy-disc-m4,prodigy-400g,400G M4,,,,,,,,,,,m4-400g
+prodigy-disc-m4-500,prodigy-disc-m4,prodigy-500,500 M4,,,,,,,,,,,m4-500
+prodigy-disc-m4-750,prodigy-disc-m4,prodigy-750,750 M4,,,,,,,,,,,m4-750
+prodigy-disc-pa-3-200,prodigy-disc-pa-3,prodigy-200,200 PA-3,,,,,,,,,,,pa-3-200
+prodigy-disc-pa-3-300,prodigy-disc-pa-3,prodigy-300,300 PA-3,,,,,,,,,,,pa-3-300
+prodigy-disc-pa-3-300-soft,prodigy-disc-pa-3,prodigy-300-soft,300 Soft PA-3,,,,,,,,,,,pa-3-300-soft
+prodigy-disc-pa-3-350g,prodigy-disc-pa-3,prodigy-350g,350G PA-3,,,,,,,,,,,pa-3-350g
+prodigy-disc-pa-3-400,prodigy-disc-pa-3,prodigy-400,400 PA-3,,,,,,,,,,,pa-3-400
+prodigy-disc-pa-3-400g,prodigy-disc-pa-3,prodigy-400g,400G PA-3,,,,,,,,,,,pa-3-400g
+prodigy-disc-pa-3-500,prodigy-disc-pa-3,prodigy-500,500 PA-3,,,,,,,,,,,pa-3-500
+prodigy-disc-pa-3-750,prodigy-disc-pa-3,prodigy-750,750 PA-3,,,,,,,,,,,pa-3-750

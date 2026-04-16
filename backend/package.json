@@ -1,0 +1,56 @@
+{
+  "name": "backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Strapi application",
+  "scripts": {
+    "build": "strapi build",
+    "console": "strapi console",
+    "deploy": "strapi deploy",
+    "dev": "strapi develop",
+    "develop": "strapi develop",
+    "import:courses": "node ./scripts/import-courses.js",
+    "import:discs": "node ./scripts/import-discs.js",
+    "import:disc-molds": "node ./scripts/import-disc-molds.js",
+    "import:plastic-types": "node ./scripts/import-plastic-types.js",
+    "import:disc-variants": "node ./scripts/import-disc-variants.js",
+    "generate:disc-catalog-csvs": "node ./scripts/generate-disc-catalog-csvs.js",
+    "generate:disc-catalog-csvs:cross-brand": "ALLOW_CROSS_BRAND_LEGACY_FALLBACK=1 node ./scripts/generate-disc-catalog-csvs.js",
+    "sync:approved-disc-submissions": "node ./scripts/sync-approved-disc-submissions.js",
+    "sync:approved-submissions": "node ./scripts/sync-approved-course-submissions.js",
+    "set:courses-country-usa": "node ./scripts/set-courses-country-usa.js",
+    "set:courses-country-from-state-map": "node ./scripts/set-courses-country-from-state-map.js",
+    "reindex:typesense": "node ./scripts/reindex-typesense.js",
+    "check:typesense-sync": "node ./scripts/check-typesense-sync.js",
+    "start": "strapi start",
+    "strapi": "strapi",
+    "upgrade": "npx @strapi/upgrade latest",
+    "upgrade:dry": "npx @strapi/upgrade latest --dry"
+  },
+  "dependencies": {
+    "@strapi/plugin-cloud": "5.42.0",
+    "@strapi/plugin-users-permissions": "5.42.0",
+    "@strapi/strapi": "5.42.0",
+    "better-sqlite3": "12.8.0",
+    "csv-parse": "^6.2.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "styled-components": "^6.0.0",
+    "typesense": "^3.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=20.0.0 <=24.x.x",
+    "npm": ">=6.0.0"
+  },
+  "strapi": {
+    "uuid": "717657cd-fc64-4a78-915d-1ef77c4e42b9",
+    "installId": "f448225c268fe20a77a194143e001fbc7c4cf8d1727f744ed5cfa708db692115"
+  }
+}

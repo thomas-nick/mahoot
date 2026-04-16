@@ -1,0 +1,393 @@
+externalId,brand,mold,category,name,plasticFamily,stiffness,grip,durability,slug
+innova-aviar-dx,Innova,Aviar,Putt & Approach,DX,base,medium,high,low,dx
+innova-aviar3-dx,Innova,Aviar3,Putt & Approach,DX,base,medium,high,low,dx
+innova-rhyno-dx,Innova,Rhyno,Putt & Approach,DX,base,medium,high,low,dx
+innova-pig-dx,Innova,Pig,Putt & Approach,DX,base,medium,high,low,dx
+innova-dart-dx,Innova,Dart,Putt & Approach,DX,base,medium,high,low,dx
+innova-whale-dx,Innova,Whale,Putt & Approach,DX,base,medium,high,low,dx
+innova-roc-dx,Innova,Roc,Midrange,DX,base,medium,high,low,dx
+innova-roc3-dx,Innova,Roc3,Midrange,DX,base,medium,high,low,dx
+innova-mako3-dx,Innova,Mako3,Midrange,DX,base,medium,high,low,dx
+innova-shark-dx,Innova,Shark,Midrange,DX,base,medium,high,low,dx
+innova-gator-dx,Innova,Gator,Midrange,DX,base,medium,high,low,dx
+innova-teebird-dx,Innova,TeeBird,Fairway Driver,DX,base,medium,high,low,dx
+innova-teebird3-dx,Innova,TeeBird3,Fairway Driver,DX,base,medium,high,low,dx
+innova-firebird-dx,Innova,Firebird,Fairway Driver,DX,base,medium,high,low,dx
+innova-leopard-dx,Innova,Leopard,Fairway Driver,DX,base,medium,high,low,dx
+innova-leopard3-dx,Innova,Leopard3,Fairway Driver,DX,base,medium,high,low,dx
+innova-valkyrie-dx,Innova,Valkyrie,Fairway Driver,DX,base,medium,high,low,dx
+innova-eagle-dx,Innova,Eagle,Fairway Driver,DX,base,medium,high,low,dx
+innova-thunderbird-dx,Innova,Thunderbird,Fairway Driver,DX,base,medium,high,low,dx
+innova-sidewinder-dx,Innova,Sidewinder,Fairway Driver,DX,base,medium,high,low,dx
+innova-roadrunner-dx,Innova,Roadrunner,Fairway Driver,DX,base,medium,high,low,dx
+innova-destroyer-dx,Innova,Destroyer,Distance Driver,DX,base,medium,high,low,dx
+innova-wraith-dx,Innova,Wraith,Distance Driver,DX,base,medium,high,low,dx
+innova-boss-dx,Innova,Boss,Distance Driver,DX,base,medium,high,low,dx
+innova-katana-dx,Innova,Katana,Distance Driver,DX,base,medium,high,low,dx
+innova-orc-dx,Innova,Orc,Distance Driver,DX,base,medium,high,low,dx
+innova-beast-dx,Innova,Beast,Distance Driver,DX,base,medium,high,low,dx
+innova-mamba-dx,Innova,Mamba,Distance Driver,DX,base,medium,high,low,dx
+innova-aviar-star,Innova,Aviar,Putt & Approach,Star,premium,medium,high,high,star
+innova-aviar3-star,Innova,Aviar3,Putt & Approach,Star,premium,medium,high,high,star
+innova-rhyno-star,Innova,Rhyno,Putt & Approach,Star,premium,medium,high,high,star
+innova-pig-star,Innova,Pig,Putt & Approach,Star,premium,medium,high,high,star
+innova-dart-star,Innova,Dart,Putt & Approach,Star,premium,medium,high,high,star
+innova-roc-star,Innova,Roc,Midrange,Star,premium,medium,high,high,star
+innova-roc3-star,Innova,Roc3,Midrange,Star,premium,medium,high,high,star
+innova-mako3-star,Innova,Mako3,Midrange,Star,premium,medium,high,high,star
+innova-shark-star,Innova,Shark,Midrange,Star,premium,medium,high,high,star
+innova-gator-star,Innova,Gator,Midrange,Star,premium,medium,high,high,star
+innova-caiman-star,Innova,Caiman,Midrange,Star,premium,medium,high,high,star
+innova-teebird-star,Innova,TeeBird,Fairway Driver,Star,premium,medium,high,high,star
+innova-teebird3-star,Innova,TeeBird3,Fairway Driver,Star,premium,medium,high,high,star
+innova-firebird-star,Innova,Firebird,Fairway Driver,Star,premium,medium,high,high,star
+innova-leopard-star,Innova,Leopard,Fairway Driver,Star,premium,medium,high,high,star
+innova-leopard3-star,Innova,Leopard3,Fairway Driver,Star,premium,medium,high,high,star
+innova-valkyrie-star,Innova,Valkyrie,Fairway Driver,Star,premium,medium,high,high,star
+innova-eagle-star,Innova,Eagle,Fairway Driver,Star,premium,medium,high,high,star
+innova-thunderbird-star,Innova,Thunderbird,Fairway Driver,Star,premium,medium,high,high,star
+innova-sidewinder-star,Innova,Sidewinder,Fairway Driver,Star,premium,medium,high,high,star
+innova-roadrunner-star,Innova,Roadrunner,Fairway Driver,Star,premium,medium,high,high,star
+innova-destroyer-star,Innova,Destroyer,Distance Driver,Star,premium,medium,high,high,star
+innova-wraith-star,Innova,Wraith,Distance Driver,Star,premium,medium,high,high,star
+innova-tern-star,Innova,Tern,Distance Driver,Star,premium,medium,high,high,star
+innova-boss-star,Innova,Boss,Distance Driver,Star,premium,medium,high,high,star
+innova-shryke-star,Innova,Shryke,Distance Driver,Star,premium,medium,high,high,star
+innova-katana-star,Innova,Katana,Distance Driver,Star,premium,medium,high,high,star
+innova-orc-star,Innova,Orc,Distance Driver,Star,premium,medium,high,high,star
+innova-beast-star,Innova,Beast,Distance Driver,Star,premium,medium,high,high,star
+innova-mamba-star,Innova,Mamba,Distance Driver,Star,premium,medium,high,high,star
+innova-xcaliber-star,Innova,XCaliber,Distance Driver,Star,premium,medium,high,high,star
+innova-colossus-star,Innova,Colossus,Distance Driver,Star,premium,medium,high,high,star
+innova-firestorm-star,Innova,Firestorm,Distance Driver,Star,premium,medium,high,high,star
+innova-aviar-champion,Innova,Aviar,Putt & Approach,Champion,premium,high,medium,very-high,champion
+innova-aviar3-champion,Innova,Aviar3,Putt & Approach,Champion,premium,high,medium,very-high,champion
+innova-rhyno-champion,Innova,Rhyno,Putt & Approach,Champion,premium,high,medium,very-high,champion
+innova-dart-champion,Innova,Dart,Putt & Approach,Champion,premium,high,medium,very-high,champion
+innova-whale-champion,Innova,Whale,Putt & Approach,Champion,premium,high,medium,very-high,champion
+innova-roc-champion,Innova,Roc,Midrange,Champion,premium,high,medium,very-high,champion
+innova-roc3-champion,Innova,Roc3,Midrange,Champion,premium,high,medium,very-high,champion
+innova-mako3-champion,Innova,Mako3,Midrange,Champion,premium,high,medium,very-high,champion
+innova-shark-champion,Innova,Shark,Midrange,Champion,premium,high,medium,very-high,champion
+innova-gator-champion,Innova,Gator,Midrange,Champion,premium,high,medium,very-high,champion
+innova-caiman-champion,Innova,Caiman,Midrange,Champion,premium,high,medium,very-high,champion
+innova-teebird-champion,Innova,TeeBird,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-teebird3-champion,Innova,TeeBird3,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-firebird-champion,Innova,Firebird,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-leopard-champion,Innova,Leopard,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-leopard3-champion,Innova,Leopard3,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-valkyrie-champion,Innova,Valkyrie,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-eagle-champion,Innova,Eagle,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-thunderbird-champion,Innova,Thunderbird,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-sidewinder-champion,Innova,Sidewinder,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-roadrunner-champion,Innova,Roadrunner,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-destroyer-champion,Innova,Destroyer,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-wraith-champion,Innova,Wraith,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-tern-champion,Innova,Tern,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-boss-champion,Innova,Boss,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-shryke-champion,Innova,Shryke,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-katana-champion,Innova,Katana,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-orc-champion,Innova,Orc,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-beast-champion,Innova,Beast,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-mamba-champion,Innova,Mamba,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-xcaliber-champion,Innova,XCaliber,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-colossus-champion,Innova,Colossus,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-firestorm-champion,Innova,Firestorm,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-aviar-gstar,Innova,Aviar,Putt & Approach,GStar,premium,low,very-high,medium,gstar
+innova-rhyno-gstar,Innova,Rhyno,Putt & Approach,GStar,premium,low,very-high,medium,gstar
+innova-whale-gstar,Innova,Whale,Putt & Approach,GStar,premium,low,very-high,medium,gstar
+innova-roc-gstar,Innova,Roc,Midrange,GStar,premium,low,very-high,medium,gstar
+innova-roc3-gstar,Innova,Roc3,Midrange,GStar,premium,low,very-high,medium,gstar
+innova-mako3-gstar,Innova,Mako3,Midrange,GStar,premium,low,very-high,medium,gstar
+innova-shark-gstar,Innova,Shark,Midrange,GStar,premium,low,very-high,medium,gstar
+innova-gator-gstar,Innova,Gator,Midrange,GStar,premium,low,very-high,medium,gstar
+innova-caiman-gstar,Innova,Caiman,Midrange,GStar,premium,low,very-high,medium,gstar
+innova-teebird-gstar,Innova,TeeBird,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-teebird3-gstar,Innova,TeeBird3,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-firebird-gstar,Innova,Firebird,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-leopard-gstar,Innova,Leopard,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-leopard3-gstar,Innova,Leopard3,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-valkyrie-gstar,Innova,Valkyrie,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-eagle-gstar,Innova,Eagle,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-thunderbird-gstar,Innova,Thunderbird,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-sidewinder-gstar,Innova,Sidewinder,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-roadrunner-gstar,Innova,Roadrunner,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-destroyer-gstar,Innova,Destroyer,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-wraith-gstar,Innova,Wraith,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-tern-gstar,Innova,Tern,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-boss-gstar,Innova,Boss,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-shryke-gstar,Innova,Shryke,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-katana-gstar,Innova,Katana,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-orc-gstar,Innova,Orc,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-beast-gstar,Innova,Beast,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-mamba-gstar,Innova,Mamba,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-colossus-gstar,Innova,Colossus,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-aviar-r-pro,Innova,Aviar,Putt & Approach,R-Pro,pro,low,very-high,low,r-pro
+innova-rhyno-r-pro,Innova,Rhyno,Putt & Approach,R-Pro,pro,low,very-high,low,r-pro
+innova-pig-r-pro,Innova,Pig,Putt & Approach,R-Pro,pro,low,very-high,low,r-pro
+innova-dart-r-pro,Innova,Dart,Putt & Approach,R-Pro,pro,low,very-high,low,r-pro
+innova-aviar-kc-pro,Innova,Aviar,Putt & Approach,KC Pro,pro,very-high,medium,medium,kc-pro
+innova-roc-kc-pro,Innova,Roc,Midrange,KC Pro,pro,very-high,medium,medium,kc-pro
+innova-aviar-jk-pro,Innova,Aviar,Putt & Approach,JK Pro,pro,low,very-high,medium,jk-pro
+innova-aviar-xt,Innova,Aviar,Putt & Approach,XT,pro,medium,very-high,medium,xt
+innova-whale-xt,Innova,Whale,Putt & Approach,XT,pro,medium,very-high,medium,xt
+innova-nova-xt,Innova,Nova,Putt & Approach,XT,pro,medium,very-high,medium,xt
+innova-aviar-nexus,Innova,Aviar,Putt & Approach,Nexus,pro,medium,high,medium,nexus
+innova-rhyno-pro,Innova,Rhyno,Putt & Approach,Pro,pro,medium,high,medium,pro
+innova-pig-pro,Innova,Pig,Putt & Approach,Pro,pro,medium,high,medium,pro
+innova-teebird-pro,Innova,TeeBird,Fairway Driver,Pro,pro,medium,high,medium,pro
+innova-leopard-pro,Innova,Leopard,Fairway Driver,Pro,pro,medium,high,medium,pro
+innova-valkyrie-pro,Innova,Valkyrie,Fairway Driver,Pro,pro,medium,high,medium,pro
+innova-destroyer-pro,Innova,Destroyer,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-wraith-pro,Innova,Wraith,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-tern-pro,Innova,Tern,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-boss-pro,Innova,Boss,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-katana-pro,Innova,Katana,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-orc-pro,Innova,Orc,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-beast-pro,Innova,Beast,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-mako3-halo-star,Innova,Mako3,Midrange,Halo Star,premium,high,high,very-high,halo-star
+innova-firebird-halo-star,Innova,Firebird,Fairway Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-leopard3-halo-star,Innova,Leopard3,Fairway Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-thunderbird-halo-star,Innova,Thunderbird,Fairway Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-sidewinder-halo-star,Innova,Sidewinder,Fairway Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-roadrunner-halo-star,Innova,Roadrunner,Fairway Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-destroyer-halo-star,Innova,Destroyer,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-wraith-halo-star,Innova,Wraith,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-tern-halo-star,Innova,Tern,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-boss-halo-star,Innova,Boss,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-shryke-halo-star,Innova,Shryke,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-mamba-halo-star,Innova,Mamba,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-xcaliber-halo-star,Innova,XCaliber,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-teebird-echo-star,Innova,TeeBird,Fairway Driver,Echo Star,premium,medium,high,high,echo-star
+innova-leopard-echo-star,Innova,Leopard,Fairway Driver,Echo Star,premium,medium,high,high,echo-star
+innova-destroyer-echo-star,Innova,Destroyer,Distance Driver,Echo Star,premium,medium,high,high,echo-star
+innova-wraith-echo-star,Innova,Wraith,Distance Driver,Echo Star,premium,medium,high,high,echo-star
+innova-tern-echo-star,Innova,Tern,Distance Driver,Echo Star,premium,medium,high,high,echo-star
+innova-boss-echo-star,Innova,Boss,Distance Driver,Echo Star,premium,medium,high,high,echo-star
+innova-katana-echo-star,Innova,Katana,Distance Driver,Echo Star,premium,medium,high,high,echo-star
+innova-xcaliber-echo-star,Innova,XCaliber,Distance Driver,Echo Star,premium,medium,high,high,echo-star
+mvp-disc-sports-ion-electron-firm,MVP Disc Sports,Ion,Putt & Approach,Electron Firm,base,high,very-high,low,electron-firm
+mvp-disc-sports-atom-electron-firm,MVP Disc Sports,Atom,Putt & Approach,Electron Firm,base,high,very-high,low,electron-firm
+mvp-disc-sports-ion-electron-medium,MVP Disc Sports,Ion,Putt & Approach,Electron Medium,base,medium,very-high,low,electron-medium
+mvp-disc-sports-anode-electron-medium,MVP Disc Sports,Anode,Putt & Approach,Electron Medium,base,medium,very-high,low,electron-medium
+mvp-disc-sports-atom-electron-medium,MVP Disc Sports,Atom,Putt & Approach,Electron Medium,base,medium,very-high,low,electron-medium
+mvp-disc-sports-ion-electron-soft,MVP Disc Sports,Ion,Putt & Approach,Electron Soft,base,low,very-high,low,electron-soft
+mvp-disc-sports-atom-electron-soft,MVP Disc Sports,Atom,Putt & Approach,Electron Soft,base,low,very-high,low,electron-soft
+mvp-disc-sports-ion-neutron,MVP Disc Sports,Ion,Putt & Approach,Neutron,premium,medium,medium,high,neutron
+mvp-disc-sports-anode-neutron,MVP Disc Sports,Anode,Putt & Approach,Neutron,premium,medium,medium,high,neutron
+mvp-disc-sports-entropy-neutron,MVP Disc Sports,Entropy,Putt & Approach,Neutron,premium,medium,medium,high,neutron
+mvp-disc-sports-hex-neutron,MVP Disc Sports,Hex,Midrange,Neutron,premium,medium,medium,high,neutron
+mvp-disc-sports-reactor-neutron,MVP Disc Sports,Reactor,Midrange,Neutron,premium,medium,medium,high,neutron
+mvp-disc-sports-volt-neutron,MVP Disc Sports,Volt,Fairway Driver,Neutron,premium,medium,medium,high,neutron
+mvp-disc-sports-tesla-neutron,MVP Disc Sports,Tesla,Fairway Driver,Neutron,premium,medium,medium,high,neutron
+mvp-disc-sports-wave-neutron,MVP Disc Sports,Wave,Distance Driver,Neutron,premium,medium,medium,high,neutron
+mvp-disc-sports-photon-neutron,MVP Disc Sports,Photon,Distance Driver,Neutron,premium,medium,medium,high,neutron
+mvp-disc-sports-ion-proton,MVP Disc Sports,Ion,Putt & Approach,Proton,premium,high,medium,very-high,proton
+mvp-disc-sports-anode-proton,MVP Disc Sports,Anode,Putt & Approach,Proton,premium,high,medium,very-high,proton
+mvp-disc-sports-volt-proton,MVP Disc Sports,Volt,Fairway Driver,Proton,premium,high,medium,very-high,proton
+mvp-disc-sports-tesla-proton,MVP Disc Sports,Tesla,Fairway Driver,Proton,premium,high,medium,very-high,proton
+mvp-disc-sports-wave-proton,MVP Disc Sports,Wave,Distance Driver,Proton,premium,high,medium,very-high,proton
+mvp-disc-sports-photon-proton,MVP Disc Sports,Photon,Distance Driver,Proton,premium,high,medium,very-high,proton
+mvp-disc-sports-ion-plasma,MVP Disc Sports,Ion,Putt & Approach,Plasma,premium,low,high,high,plasma
+mvp-disc-sports-anode-plasma,MVP Disc Sports,Anode,Putt & Approach,Plasma,premium,low,high,high,plasma
+mvp-disc-sports-entropy-plasma,MVP Disc Sports,Entropy,Putt & Approach,Plasma,premium,low,high,high,plasma
+mvp-disc-sports-volt-plasma,MVP Disc Sports,Volt,Fairway Driver,Plasma,premium,low,high,high,plasma
+mvp-disc-sports-wave-plasma,MVP Disc Sports,Wave,Distance Driver,Plasma,premium,low,high,high,plasma
+mvp-disc-sports-atom-cosmic-electron,MVP Disc Sports,Atom,Putt & Approach,Cosmic Electron,base,medium,very-high,low,cosmic-electron
+mvp-disc-sports-entropy-cosmic-neutron,MVP Disc Sports,Entropy,Putt & Approach,Cosmic Neutron,premium,medium,medium,high,cosmic-neutron
+mvp-disc-sports-hex-cosmic-neutron,MVP Disc Sports,Hex,Midrange,Cosmic Neutron,premium,medium,medium,high,cosmic-neutron
+mvp-disc-sports-reactor-cosmic-neutron,MVP Disc Sports,Reactor,Midrange,Cosmic Neutron,premium,medium,medium,high,cosmic-neutron
+mvp-disc-sports-volt-cosmic-neutron,MVP Disc Sports,Volt,Fairway Driver,Cosmic Neutron,premium,medium,medium,high,cosmic-neutron
+mvp-disc-sports-wave-cosmic-neutron,MVP Disc Sports,Wave,Distance Driver,Cosmic Neutron,premium,medium,medium,high,cosmic-neutron
+mvp-disc-sports-photon-cosmic-neutron,MVP Disc Sports,Photon,Distance Driver,Cosmic Neutron,premium,medium,medium,high,cosmic-neutron
+mvp-disc-sports-hex-fission,MVP Disc Sports,Hex,Midrange,Fission,premium,low,high,medium,fission
+mvp-disc-sports-reactor-fission,MVP Disc Sports,Reactor,Midrange,Fission,premium,low,high,medium,fission
+mvp-disc-sports-volt-fission,MVP Disc Sports,Volt,Fairway Driver,Fission,premium,low,high,medium,fission
+mvp-disc-sports-tesla-fission,MVP Disc Sports,Tesla,Fairway Driver,Fission,premium,low,high,medium,fission
+mvp-disc-sports-wave-fission,MVP Disc Sports,Wave,Distance Driver,Fission,premium,low,high,medium,fission
+mvp-disc-sports-photon-fission,MVP Disc Sports,Photon,Distance Driver,Fission,premium,low,high,medium,fission
+mvp-disc-sports-hex-eclipse-2.0,MVP Disc Sports,Hex,Midrange,Eclipse 2.0,premium,high,medium,very-high,eclipse-2-0
+mvp-disc-sports-reactor-eclipse-2.0,MVP Disc Sports,Reactor,Midrange,Eclipse 2.0,premium,high,medium,very-high,eclipse-2-0
+discraft-luna-rubber-blend,Discraft,Luna,Putt & Approach,Rubber Blend,base,medium,very-high,low,rubber-blend
+discraft-zone-rubber-blend,Discraft,Zone,Putt & Approach,Rubber Blend,base,medium,very-high,low,rubber-blend
+discraft-luna-esp,Discraft,Luna,Putt & Approach,ESP,premium,medium,high,high,esp
+discraft-buzzz-esp,Discraft,Buzzz,Midrange,ESP,premium,medium,high,high,esp
+discraft-buzzz-os-esp,Discraft,Buzzz OS,Midrange,ESP,premium,medium,high,high,esp
+discraft-meteor-esp,Discraft,Meteor,Midrange,ESP,premium,medium,high,high,esp
+discraft-zone-esp,Discraft,Zone,Putt & Approach,ESP,premium,medium,high,high,esp
+discraft-undertaker-esp,Discraft,Undertaker,Fairway Driver,ESP,premium,medium,high,high,esp
+discraft-heat-esp,Discraft,Heat,Fairway Driver,ESP,premium,medium,high,high,esp
+discraft-force-esp,Discraft,Force,Distance Driver,ESP,premium,medium,high,high,esp
+discraft-nuke-esp,Discraft,Nuke,Distance Driver,ESP,premium,medium,high,high,esp
+discraft-luna-z-line,Discraft,Luna,Putt & Approach,Z Line,premium,high,medium,very-high,z-line
+discraft-buzzz-z-line,Discraft,Buzzz,Midrange,Z Line,premium,high,medium,very-high,z-line
+discraft-buzzz-os-z-line,Discraft,Buzzz OS,Midrange,Z Line,premium,high,medium,very-high,z-line
+discraft-meteor-z-line,Discraft,Meteor,Midrange,Z Line,premium,high,medium,very-high,z-line
+discraft-zone-z-line,Discraft,Zone,Putt & Approach,Z Line,premium,high,medium,very-high,z-line
+discraft-undertaker-z-line,Discraft,Undertaker,Fairway Driver,Z Line,premium,high,medium,very-high,z-line
+discraft-heat-z-line,Discraft,Heat,Fairway Driver,Z Line,premium,high,medium,very-high,z-line
+discraft-force-z-line,Discraft,Force,Distance Driver,Z Line,premium,high,medium,very-high,z-line
+discraft-nuke-z-line,Discraft,Nuke,Distance Driver,Z Line,premium,high,medium,very-high,z-line
+discraft-luna-big-z,Discraft,Luna,Putt & Approach,Big Z,premium,medium,medium,high,big-z
+discraft-buzzz-big-z,Discraft,Buzzz,Midrange,Big Z,premium,medium,medium,high,big-z
+discraft-buzzz-os-big-z,Discraft,Buzzz OS,Midrange,Big Z,premium,medium,medium,high,big-z
+discraft-meteor-big-z,Discraft,Meteor,Midrange,Big Z,premium,medium,medium,high,big-z
+discraft-undertaker-big-z,Discraft,Undertaker,Fairway Driver,Big Z,premium,medium,medium,high,big-z
+discraft-heat-big-z,Discraft,Heat,Fairway Driver,Big Z,premium,medium,medium,high,big-z
+discraft-force-big-z,Discraft,Force,Distance Driver,Big Z,premium,medium,medium,high,big-z
+discraft-nuke-big-z,Discraft,Nuke,Distance Driver,Big Z,premium,medium,medium,high,big-z
+discraft-luna-cryztal,Discraft,Luna,Putt & Approach,CryZtal,premium,high,medium,very-high,cryztal
+discraft-zone-cryztal,Discraft,Zone,Putt & Approach,CryZtal,premium,high,medium,very-high,cryztal
+discraft-buzzz-titanium,Discraft,Buzzz,Midrange,Titanium,premium,high,high,very-high,titanium
+discraft-buzzz-os-titanium,Discraft,Buzzz OS,Midrange,Titanium,premium,high,high,very-high,titanium
+discraft-zone-titanium,Discraft,Zone,Putt & Approach,Titanium,premium,high,high,very-high,titanium
+discraft-undertaker-titanium,Discraft,Undertaker,Fairway Driver,Titanium,premium,high,high,very-high,titanium
+discraft-heat-titanium,Discraft,Heat,Fairway Driver,Titanium,premium,high,high,very-high,titanium
+discraft-force-titanium,Discraft,Force,Distance Driver,Titanium,premium,high,high,very-high,titanium
+discraft-nuke-titanium,Discraft,Nuke,Distance Driver,Titanium,premium,high,high,very-high,titanium
+discraft-buzzz-z-flx,Discraft,Buzzz,Midrange,Z FLX,premium,low,high,very-high,z-flx
+discraft-zone-z-flx,Discraft,Zone,Putt & Approach,Z FLX,premium,low,high,very-high,z-flx
+discraft-nuke-z-flx,Discraft,Nuke,Distance Driver,Z FLX,premium,low,high,very-high,z-flx
+discraft-buzzz-esp-flx,Discraft,Buzzz,Midrange,ESP FLX,premium,low,high,high,esp-flx
+discraft-zone-jawbreaker,Discraft,Zone,Putt & Approach,Jawbreaker,base,medium,very-high,low,jawbreaker
+infinite-discs-alpaca-d-blend,Infinite Discs,Alpaca,Putt & Approach,D-Blend,base,medium,high,low,d-blend
+infinite-discs-alpaca-p-blend,Infinite Discs,Alpaca,Putt & Approach,P-Blend,pro,medium,high,medium,p-blend
+infinite-discs-alpaca-i-blend,Infinite Discs,Alpaca,Putt & Approach,I-Blend,pro,medium,high,medium,i-blend
+infinite-discs-centurion-i-blend,Infinite Discs,Centurion,Fairway Driver,I-Blend,pro,medium,high,medium,i-blend
+infinite-discs-emperor-i-blend,Infinite Discs,Emperor,Distance Driver,I-Blend,pro,medium,high,medium,i-blend
+infinite-discs-pharaoh-i-blend,Infinite Discs,Pharaoh,Distance Driver,I-Blend,pro,medium,high,medium,i-blend
+infinite-discs-maya-i-blend,Infinite Discs,Maya,Distance Driver,I-Blend,pro,medium,high,medium,i-blend
+infinite-discs-alpaca-s-blend,Infinite Discs,Alpaca,Putt & Approach,S-Blend,premium,medium,high,high,s-blend
+infinite-discs-centurion-s-blend,Infinite Discs,Centurion,Fairway Driver,S-Blend,premium,medium,high,high,s-blend
+infinite-discs-emperor-s-blend,Infinite Discs,Emperor,Distance Driver,S-Blend,premium,medium,high,high,s-blend
+infinite-discs-pharaoh-s-blend,Infinite Discs,Pharaoh,Distance Driver,S-Blend,premium,medium,high,high,s-blend
+infinite-discs-maya-s-blend,Infinite Discs,Maya,Distance Driver,S-Blend,premium,medium,high,high,s-blend
+infinite-discs-alpaca-g-blend,Infinite Discs,Alpaca,Putt & Approach,G-Blend,premium,low,very-high,medium,g-blend
+infinite-discs-maya-g-blend,Infinite Discs,Maya,Distance Driver,G-Blend,premium,low,very-high,medium,g-blend
+infinite-discs-alpaca-x-blend,Infinite Discs,Alpaca,Putt & Approach,X-Blend,pro,medium,very-high,medium,x-blend
+infinite-discs-centurion-c-blend,Infinite Discs,Centurion,Fairway Driver,C-Blend,premium,high,medium,very-high,c-blend
+infinite-discs-emperor-c-blend,Infinite Discs,Emperor,Distance Driver,C-Blend,premium,high,medium,very-high,c-blend
+infinite-discs-pharaoh-c-blend,Infinite Discs,Pharaoh,Distance Driver,C-Blend,premium,high,medium,very-high,c-blend
+infinite-discs-centurion-metal-flake-c-blend,Infinite Discs,Centurion,Fairway Driver,Metal Flake C-Blend,premium,very-high,medium,very-high,metal-flake-c-blend
+infinite-discs-emperor-metal-flake-c-blend,Infinite Discs,Emperor,Distance Driver,Metal Flake C-Blend,premium,very-high,medium,very-high,metal-flake-c-blend
+infinite-discs-pharaoh-metal-flake-c-blend,Infinite Discs,Pharaoh,Distance Driver,Metal Flake C-Blend,premium,very-high,medium,very-high,metal-flake-c-blend
+infinite-discs-centurion-halo-s-blend,Infinite Discs,Centurion,Fairway Driver,Halo S-Blend,premium,high,high,very-high,halo-s-blend
+infinite-discs-emperor-halo-s-blend,Infinite Discs,Emperor,Distance Driver,Halo S-Blend,premium,high,high,very-high,halo-s-blend
+infinite-discs-maya-halo-s-blend,Infinite Discs,Maya,Distance Driver,Halo S-Blend,premium,high,high,very-high,halo-s-blend
+infinite-discs-emperor-concrete,Infinite Discs,Emperor,Distance Driver,Concrete,premium,high,high,very-high,concrete
+infinite-discs-pharaoh-swirly-s-blend,Infinite Discs,Pharaoh,Distance Driver,Swirly S-Blend,premium,medium,high,high,swirly-s-blend
+discmania-p2-d-line,Discmania,P2,Putt & Approach,D-Line,base,medium,high,low,d-line
+discmania-md3-c-line,Discmania,MD3,Midrange,C-Line,premium,high,medium,very-high,c-line
+discmania-fd-c-line,Discmania,FD,Fairway Driver,C-Line,premium,high,medium,very-high,c-line
+discmania-pd-c-line,Discmania,PD,Fairway Driver,C-Line,premium,high,medium,very-high,c-line
+discmania-dd3-c-line,Discmania,DD3,Distance Driver,C-Line,premium,high,medium,very-high,c-line
+discmania-method-neo,Discmania,Method,Midrange,Neo,premium,medium,high,high,neo
+discmania-method-exo-hard,Discmania,Method,Midrange,Exo Hard,base,high,very-high,low,exo-hard
+discmania-method-exo-soft,Discmania,Method,Midrange,Exo Soft,base,low,very-high,low,exo-soft
+discmania-method-forge,Discmania,Method,Midrange,Forge,premium,high,high,very-high,forge
+discmania-fd-s-line,Discmania,FD,Fairway Driver,S-Line,premium,medium,high,high,s-line
+discmania-pd-s-line,Discmania,PD,Fairway Driver,S-Line,premium,medium,high,high,s-line
+discmania-dd3-s-line,Discmania,DD3,Distance Driver,S-Line,premium,medium,high,high,s-line
+discmania-fd-horizon,Discmania,FD,Fairway Driver,Horizon,premium,medium,high,high,horizon
+discmania-pd-horizon,Discmania,PD,Fairway Driver,Horizon,premium,medium,high,high,horizon
+discmania-dd3-horizon,Discmania,DD3,Distance Driver,Horizon,premium,medium,high,high,horizon
+discmania-cloud-breaker-horizon,Discmania,Cloud Breaker,Distance Driver,Horizon,premium,medium,high,high,horizon
+dynamic-discs-judge-classic,Dynamic Discs,Judge,Putt & Approach,Classic,base,high,high,low,classic
+dynamic-discs-warden-classic,Dynamic Discs,Warden,Putt & Approach,Classic,base,high,high,low,classic
+dynamic-discs-judge-classic-blend,Dynamic Discs,Judge,Putt & Approach,Classic Blend,base,medium,high,low,classic-blend
+dynamic-discs-warden-classic-blend,Dynamic Discs,Warden,Putt & Approach,Classic Blend,base,medium,high,low,classic-blend
+dynamic-discs-judge-classic-soft,Dynamic Discs,Judge,Putt & Approach,Classic Soft,base,low,high,low,classic-soft
+dynamic-discs-warden-classic-soft,Dynamic Discs,Warden,Putt & Approach,Classic Soft,base,low,high,low,classic-soft
+dynamic-discs-judge-prime,Dynamic Discs,Judge,Putt & Approach,Prime,base,medium,high,low,prime
+dynamic-discs-warden-prime,Dynamic Discs,Warden,Putt & Approach,Prime,base,medium,high,low,prime
+dynamic-discs-judge-lucid,Dynamic Discs,Judge,Putt & Approach,Lucid,premium,high,medium,very-high,lucid
+dynamic-discs-warden-lucid,Dynamic Discs,Warden,Putt & Approach,Lucid,premium,high,medium,very-high,lucid
+dynamic-discs-justice-lucid,Dynamic Discs,Justice,Midrange,Lucid,premium,high,medium,very-high,lucid
+dynamic-discs-emac-truth-lucid,Dynamic Discs,EMac Truth,Midrange,Lucid,premium,high,medium,very-high,lucid
+dynamic-discs-felon-lucid,Dynamic Discs,Felon,Fairway Driver,Lucid,premium,high,medium,very-high,lucid
+dynamic-discs-escape-lucid,Dynamic Discs,Escape,Fairway Driver,Lucid,premium,high,medium,very-high,lucid
+dynamic-discs-trespass-lucid,Dynamic Discs,Trespass,Distance Driver,Lucid,premium,high,medium,very-high,lucid
+dynamic-discs-sheriff-lucid,Dynamic Discs,Sheriff,Distance Driver,Lucid,premium,high,medium,very-high,lucid
+dynamic-discs-judge-fuzion,Dynamic Discs,Judge,Putt & Approach,Fuzion,premium,medium,high,high,fuzion
+dynamic-discs-warden-fuzion,Dynamic Discs,Warden,Putt & Approach,Fuzion,premium,medium,high,high,fuzion
+dynamic-discs-justice-fuzion,Dynamic Discs,Justice,Midrange,Fuzion,premium,medium,high,high,fuzion
+dynamic-discs-emac-truth-fuzion,Dynamic Discs,EMac Truth,Midrange,Fuzion,premium,medium,high,high,fuzion
+dynamic-discs-felon-fuzion,Dynamic Discs,Felon,Fairway Driver,Fuzion,premium,medium,high,high,fuzion
+dynamic-discs-escape-fuzion,Dynamic Discs,Escape,Fairway Driver,Fuzion,premium,medium,high,high,fuzion
+dynamic-discs-trespass-fuzion,Dynamic Discs,Trespass,Distance Driver,Fuzion,premium,medium,high,high,fuzion
+dynamic-discs-sheriff-fuzion,Dynamic Discs,Sheriff,Distance Driver,Fuzion,premium,medium,high,high,fuzion
+dynamic-discs-judge-supreme,Dynamic Discs,Judge,Putt & Approach,Supreme,premium,medium,high,very-high,supreme
+dynamic-discs-justice-lucid-x,Dynamic Discs,Justice,Midrange,Lucid-X,premium,very-high,medium,very-high,lucid-x
+dynamic-discs-felon-lucid-x,Dynamic Discs,Felon,Fairway Driver,Lucid-X,premium,very-high,medium,very-high,lucid-x
+dynamic-discs-trespass-lucid-x,Dynamic Discs,Trespass,Distance Driver,Lucid-X,premium,very-high,medium,very-high,lucid-x
+dynamic-discs-justice-moonshine,Dynamic Discs,Justice,Midrange,Moonshine,premium,high,medium,very-high,moonshine
+dynamic-discs-emac-truth-moonshine,Dynamic Discs,EMac Truth,Midrange,Moonshine,premium,high,medium,very-high,moonshine
+dynamic-discs-felon-moonshine,Dynamic Discs,Felon,Fairway Driver,Moonshine,premium,high,medium,very-high,moonshine
+dynamic-discs-escape-moonshine,Dynamic Discs,Escape,Fairway Driver,Moonshine,premium,high,medium,very-high,moonshine
+dynamic-discs-trespass-moonshine,Dynamic Discs,Trespass,Distance Driver,Moonshine,premium,high,medium,very-high,moonshine
+dynamic-discs-emac-truth-biofuzion,Dynamic Discs,EMac Truth,Midrange,BioFuzion,premium,medium,high,high,biofuzion
+dynamic-discs-felon-biofuzion,Dynamic Discs,Felon,Fairway Driver,BioFuzion,premium,medium,high,high,biofuzion
+dynamic-discs-escape-biofuzion,Dynamic Discs,Escape,Fairway Driver,BioFuzion,premium,medium,high,high,biofuzion
+dynamic-discs-trespass-biofuzion,Dynamic Discs,Trespass,Distance Driver,BioFuzion,premium,medium,high,high,biofuzion
+dynamic-discs-sheriff-biofuzion,Dynamic Discs,Sheriff,Distance Driver,BioFuzion,premium,medium,high,high,biofuzion
+dynamic-discs-emac-truth-fluid,Dynamic Discs,EMac Truth,Midrange,Fluid,premium,low,very-high,high,fluid
+dynamic-discs-escape-fluid,Dynamic Discs,Escape,Fairway Driver,Fluid,premium,low,very-high,high,fluid
+dynamic-discs-felon-fuzion-x,Dynamic Discs,Felon,Fairway Driver,Fuzion-X,premium,very-high,high,high,fuzion-x
+latitude-64-pure-zero-soft,Latitude 64,Pure,Putt & Approach,Zero Soft,base,low,very-high,low,zero-soft
+latitude-64-pure-zero-medium,Latitude 64,Pure,Putt & Approach,Zero Medium,base,medium,very-high,low,zero-medium
+latitude-64-pure-zero-hard,Latitude 64,Pure,Putt & Approach,Zero Hard,base,high,very-high,low,zero-hard
+latitude-64-pure-opto,Latitude 64,Pure,Putt & Approach,Opto,premium,high,medium,very-high,opto
+latitude-64-fuse-opto,Latitude 64,Fuse,Midrange,Opto,premium,high,medium,very-high,opto
+latitude-64-river-opto,Latitude 64,River,Fairway Driver,Opto,premium,high,medium,very-high,opto
+latitude-64-explorer-opto,Latitude 64,Explorer,Fairway Driver,Opto,premium,high,medium,very-high,opto
+latitude-64-saint-opto,Latitude 64,Saint,Fairway Driver,Opto,premium,high,medium,very-high,opto
+latitude-64-ballista-pro-opto,Latitude 64,Ballista Pro,Distance Driver,Opto,premium,high,medium,very-high,opto
+latitude-64-pure-gold,Latitude 64,Pure,Putt & Approach,Gold,premium,medium,high,high,gold
+latitude-64-fuse-gold,Latitude 64,Fuse,Midrange,Gold,premium,medium,high,high,gold
+latitude-64-river-gold,Latitude 64,River,Fairway Driver,Gold,premium,medium,high,high,gold
+latitude-64-explorer-gold,Latitude 64,Explorer,Fairway Driver,Gold,premium,medium,high,high,gold
+latitude-64-saint-gold,Latitude 64,Saint,Fairway Driver,Gold,premium,medium,high,high,gold
+latitude-64-ballista-pro-gold,Latitude 64,Ballista Pro,Distance Driver,Gold,premium,medium,high,high,gold
+latitude-64-pure-retro,Latitude 64,Pure,Putt & Approach,Retro,base,medium,high,low,retro
+latitude-64-fuse-retro,Latitude 64,Fuse,Midrange,Retro,base,medium,high,low,retro
+latitude-64-river-retro,Latitude 64,River,Fairway Driver,Retro,base,medium,high,low,retro
+latitude-64-explorer-retro,Latitude 64,Explorer,Fairway Driver,Retro,base,medium,high,low,retro
+latitude-64-trust-grand,Latitude 64,Trust,Midrange,Grand,premium,medium,high,very-high,grand
+latitude-64-grace-grand,Latitude 64,Grace,Distance Driver,Grand,premium,medium,high,very-high,grand
+latitude-64-rive-grand,Latitude 64,Rive,Distance Driver,Grand,premium,medium,high,very-high,grand
+latitude-64-river-opto-air,Latitude 64,River,Fairway Driver,Opto Air,premium,medium,medium,high,opto-air
+latitude-64-saint-opto-air,Latitude 64,Saint,Fairway Driver,Opto Air,premium,medium,medium,high,opto-air
+latitude-64-ballista-pro-opto-air,Latitude 64,Ballista Pro,Distance Driver,Opto Air,premium,medium,medium,high,opto-air
+latitude-64-river-frost,Latitude 64,River,Fairway Driver,Frost,premium,low,very-high,high,frost
+latitude-64-saint-frost,Latitude 64,Saint,Fairway Driver,Frost,premium,low,very-high,high,frost
+latitude-64-explorer-opto-x,Latitude 64,Explorer,Fairway Driver,Opto-X,premium,very-high,medium,very-high,opto-x
+latitude-64-ballista-pro-opto-x,Latitude 64,Ballista Pro,Distance Driver,Opto-X,premium,very-high,medium,very-high,opto-x
+latitude-64-explorer-gold-x,Latitude 64,Explorer,Fairway Driver,Gold-X,premium,very-high,high,high,gold-x
+latitude-64-ballista-pro-gold-x,Latitude 64,Ballista Pro,Distance Driver,Gold-X,premium,very-high,high,high,gold-x
+prodigy-disc-pa-3-200,Prodigy Disc,PA-3,Putt & Approach,200,base,medium,high,low,200
+prodigy-disc-pa-3-300,Prodigy Disc,PA-3,Putt & Approach,300,base,medium,very-high,low,300
+prodigy-disc-m4-300,Prodigy Disc,M4,Midrange,300,base,medium,very-high,low,300
+prodigy-disc-pa-3-300-soft,Prodigy Disc,PA-3,Putt & Approach,300 Soft,base,low,very-high,low,300-soft
+prodigy-disc-pa-3-350g,Prodigy Disc,PA-3,Putt & Approach,350G,base,high,high,medium,350g
+prodigy-disc-pa-3-400,Prodigy Disc,PA-3,Putt & Approach,400,premium,medium,high,high,400
+prodigy-disc-m4-400,Prodigy Disc,M4,Midrange,400,premium,medium,high,high,400
+prodigy-disc-f2-400,Prodigy Disc,F2,Fairway Driver,400,premium,medium,high,high,400
+prodigy-disc-d2-400,Prodigy Disc,D2,Distance Driver,400,premium,medium,high,high,400
+prodigy-disc-d3-400,Prodigy Disc,D3,Distance Driver,400,premium,medium,high,high,400
+prodigy-disc-pa-3-400g,Prodigy Disc,PA-3,Putt & Approach,400G,premium,medium,high,high,400g
+prodigy-disc-m4-400g,Prodigy Disc,M4,Midrange,400G,premium,medium,high,high,400g
+prodigy-disc-f2-400g,Prodigy Disc,F2,Fairway Driver,400G,premium,medium,high,high,400g
+prodigy-disc-d2-400g,Prodigy Disc,D2,Distance Driver,400G,premium,medium,high,high,400g
+prodigy-disc-d3-400g,Prodigy Disc,D3,Distance Driver,400G,premium,medium,high,high,400g
+prodigy-disc-pa-3-500,Prodigy Disc,PA-3,Putt & Approach,500,premium,high,high,very-high,500
+prodigy-disc-m4-500,Prodigy Disc,M4,Midrange,500,premium,high,high,very-high,500
+prodigy-disc-f2-500,Prodigy Disc,F2,Fairway Driver,500,premium,high,high,very-high,500
+prodigy-disc-d2-500,Prodigy Disc,D2,Distance Driver,500,premium,high,high,very-high,500
+prodigy-disc-d3-500,Prodigy Disc,D3,Distance Driver,500,premium,high,high,very-high,500
+prodigy-disc-pa-3-750,Prodigy Disc,PA-3,Putt & Approach,750,premium,very-high,medium,very-high,750
+prodigy-disc-m4-750,Prodigy Disc,M4,Midrange,750,premium,very-high,medium,very-high,750
+prodigy-disc-f2-750,Prodigy Disc,F2,Fairway Driver,750,premium,very-high,medium,very-high,750
+prodigy-disc-d2-750,Prodigy Disc,D2,Distance Driver,750,premium,very-high,medium,very-high,750
+prodigy-disc-d3-750,Prodigy Disc,D3,Distance Driver,750,premium,very-high,medium,very-high,750
+prodigy-disc-d2-air,Prodigy Disc,D2,Distance Driver,Air,premium,medium,medium,high,air
+prodigy-disc-d3-air,Prodigy Disc,D3,Distance Driver,Air,premium,medium,medium,high,air

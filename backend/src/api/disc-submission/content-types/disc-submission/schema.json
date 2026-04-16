@@ -1,0 +1,112 @@
+{
+  "kind": "collectionType",
+  "collectionName": "disc_submissions",
+  "info": {
+    "singularName": "disc-submission",
+    "pluralName": "disc-submissions",
+    "displayName": "Disc Submission"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "discName": {
+      "type": "string",
+      "required": true
+    },
+    "brand": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "speed": {
+      "type": "decimal"
+    },
+    "glide": {
+      "type": "decimal"
+    },
+    "turn": {
+      "type": "decimal"
+    },
+    "fade": {
+      "type": "decimal"
+    },
+    "stability": {
+      "type": "string"
+    },
+    "plastic": {
+      "type": "string",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Plastic type (optional)."
+        }
+      }
+    },
+    "diameterCm": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Diameter (cm, optional)."
+        }
+      }
+    },
+    "heightCm": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Height (cm, optional)."
+        }
+      }
+    },
+    "rimDepthCm": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Rim depth (cm, optional)."
+        }
+      }
+    },
+    "rimThicknessCm": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Rim thickness (cm, optional)."
+        }
+      }
+    },
+    "maxWeightGr": {
+      "type": "decimal",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Max weight (g, optional)."
+        }
+      }
+    },
+    "link": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    },
+    "backgroundColor": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "text"
+    },
+    "moderation": {
+      "type": "enumeration",
+      "enum": ["pending", "approved", "rejected", "default pending"]
+    },
+    "submittedBy": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    }
+  }
+}

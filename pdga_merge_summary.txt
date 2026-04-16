@@ -1,0 +1,9 @@
+PDGA rows: 2368
+Merged rows: 1149
+Tier A (name+brand): 777
+Tier B (name unique): 248
+Tier C (name ambiguous): 25
+Unmatched: 99
+Matched rows with PDGA dimensions present: 1025
+Output CSV: /Users/nicholasthomas/Desktop/mahoot/merged_disc_with_pdga_enrichment_preview.csv
+Ambiguous candidates CSV: /Users/nicholasthomas/Desktop/mahoot/pdga_merge_ambiguous_candidates.csv

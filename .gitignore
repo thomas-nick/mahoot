@@ -1,0 +1,22 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Strapi / build
+backend/.tmp/
+backend/build/
+backend/dist/
+backend/.cache/
+
+# Next.js
+frontend/.next/
+frontend/out/
+
+# Logs & tooling
+*.log
+npm-debug.log*
+.turbo

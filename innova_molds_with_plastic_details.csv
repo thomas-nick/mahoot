@@ -1,0 +1,168 @@
+externalId,brand,mold,category,name,plasticFamily,stiffness,grip,durability,slug
+innova-aviar-dx,Innova,Aviar,Putt & Approach,DX,base,medium,high,low,dx
+innova-aviar3-dx,Innova,Aviar3,Putt & Approach,DX,base,medium,high,low,dx
+innova-rhyno-dx,Innova,Rhyno,Putt & Approach,DX,base,medium,high,low,dx
+innova-pig-dx,Innova,Pig,Putt & Approach,DX,base,medium,high,low,dx
+innova-dart-dx,Innova,Dart,Putt & Approach,DX,base,medium,high,low,dx
+innova-whale-dx,Innova,Whale,Putt & Approach,DX,base,medium,high,low,dx
+innova-roc-dx,Innova,Roc,Midrange,DX,base,medium,high,low,dx
+innova-roc3-dx,Innova,Roc3,Midrange,DX,base,medium,high,low,dx
+innova-mako3-dx,Innova,Mako3,Midrange,DX,base,medium,high,low,dx
+innova-shark-dx,Innova,Shark,Midrange,DX,base,medium,high,low,dx
+innova-gator-dx,Innova,Gator,Midrange,DX,base,medium,high,low,dx
+innova-teebird-dx,Innova,TeeBird,Fairway Driver,DX,base,medium,high,low,dx
+innova-teebird3-dx,Innova,TeeBird3,Fairway Driver,DX,base,medium,high,low,dx
+innova-firebird-dx,Innova,Firebird,Fairway Driver,DX,base,medium,high,low,dx
+innova-leopard-dx,Innova,Leopard,Fairway Driver,DX,base,medium,high,low,dx
+innova-leopard3-dx,Innova,Leopard3,Fairway Driver,DX,base,medium,high,low,dx
+innova-valkyrie-dx,Innova,Valkyrie,Fairway Driver,DX,base,medium,high,low,dx
+innova-eagle-dx,Innova,Eagle,Fairway Driver,DX,base,medium,high,low,dx
+innova-thunderbird-dx,Innova,Thunderbird,Fairway Driver,DX,base,medium,high,low,dx
+innova-sidewinder-dx,Innova,Sidewinder,Fairway Driver,DX,base,medium,high,low,dx
+innova-roadrunner-dx,Innova,Roadrunner,Fairway Driver,DX,base,medium,high,low,dx
+innova-destroyer-dx,Innova,Destroyer,Distance Driver,DX,base,medium,high,low,dx
+innova-wraith-dx,Innova,Wraith,Distance Driver,DX,base,medium,high,low,dx
+innova-boss-dx,Innova,Boss,Distance Driver,DX,base,medium,high,low,dx
+innova-katana-dx,Innova,Katana,Distance Driver,DX,base,medium,high,low,dx
+innova-orc-dx,Innova,Orc,Distance Driver,DX,base,medium,high,low,dx
+innova-beast-dx,Innova,Beast,Distance Driver,DX,base,medium,high,low,dx
+innova-mamba-dx,Innova,Mamba,Distance Driver,DX,base,medium,high,low,dx
+innova-aviar-star,Innova,Aviar,Putt & Approach,Star,premium,medium,high,high,star
+innova-aviar3-star,Innova,Aviar3,Putt & Approach,Star,premium,medium,high,high,star
+innova-rhyno-star,Innova,Rhyno,Putt & Approach,Star,premium,medium,high,high,star
+innova-pig-star,Innova,Pig,Putt & Approach,Star,premium,medium,high,high,star
+innova-dart-star,Innova,Dart,Putt & Approach,Star,premium,medium,high,high,star
+innova-roc-star,Innova,Roc,Midrange,Star,premium,medium,high,high,star
+innova-roc3-star,Innova,Roc3,Midrange,Star,premium,medium,high,high,star
+innova-mako3-star,Innova,Mako3,Midrange,Star,premium,medium,high,high,star
+innova-shark-star,Innova,Shark,Midrange,Star,premium,medium,high,high,star
+innova-gator-star,Innova,Gator,Midrange,Star,premium,medium,high,high,star
+innova-caiman-star,Innova,Caiman,Midrange,Star,premium,medium,high,high,star
+innova-teebird-star,Innova,TeeBird,Fairway Driver,Star,premium,medium,high,high,star
+innova-teebird3-star,Innova,TeeBird3,Fairway Driver,Star,premium,medium,high,high,star
+innova-firebird-star,Innova,Firebird,Fairway Driver,Star,premium,medium,high,high,star
+innova-leopard-star,Innova,Leopard,Fairway Driver,Star,premium,medium,high,high,star
+innova-leopard3-star,Innova,Leopard3,Fairway Driver,Star,premium,medium,high,high,star
+innova-valkyrie-star,Innova,Valkyrie,Fairway Driver,Star,premium,medium,high,high,star
+innova-eagle-star,Innova,Eagle,Fairway Driver,Star,premium,medium,high,high,star
+innova-thunderbird-star,Innova,Thunderbird,Fairway Driver,Star,premium,medium,high,high,star
+innova-sidewinder-star,Innova,Sidewinder,Fairway Driver,Star,premium,medium,high,high,star
+innova-roadrunner-star,Innova,Roadrunner,Fairway Driver,Star,premium,medium,high,high,star
+innova-destroyer-star,Innova,Destroyer,Distance Driver,Star,premium,medium,high,high,star
+innova-wraith-star,Innova,Wraith,Distance Driver,Star,premium,medium,high,high,star
+innova-tern-star,Innova,Tern,Distance Driver,Star,premium,medium,high,high,star
+innova-boss-star,Innova,Boss,Distance Driver,Star,premium,medium,high,high,star
+innova-shryke-star,Innova,Shryke,Distance Driver,Star,premium,medium,high,high,star
+innova-katana-star,Innova,Katana,Distance Driver,Star,premium,medium,high,high,star
+innova-orc-star,Innova,Orc,Distance Driver,Star,premium,medium,high,high,star
+innova-beast-star,Innova,Beast,Distance Driver,Star,premium,medium,high,high,star
+innova-mamba-star,Innova,Mamba,Distance Driver,Star,premium,medium,high,high,star
+innova-xcaliber-star,Innova,XCaliber,Distance Driver,Star,premium,medium,high,high,star
+innova-colossus-star,Innova,Colossus,Distance Driver,Star,premium,medium,high,high,star
+innova-firestorm-star,Innova,Firestorm,Distance Driver,Star,premium,medium,high,high,star
+innova-aviar-champion,Innova,Aviar,Putt & Approach,Champion,premium,high,medium,very-high,champion
+innova-aviar3-champion,Innova,Aviar3,Putt & Approach,Champion,premium,high,medium,very-high,champion
+innova-rhyno-champion,Innova,Rhyno,Putt & Approach,Champion,premium,high,medium,very-high,champion
+innova-dart-champion,Innova,Dart,Putt & Approach,Champion,premium,high,medium,very-high,champion
+innova-whale-champion,Innova,Whale,Putt & Approach,Champion,premium,high,medium,very-high,champion
+innova-roc-champion,Innova,Roc,Midrange,Champion,premium,high,medium,very-high,champion
+innova-roc3-champion,Innova,Roc3,Midrange,Champion,premium,high,medium,very-high,champion
+innova-mako3-champion,Innova,Mako3,Midrange,Champion,premium,high,medium,very-high,champion
+innova-shark-champion,Innova,Shark,Midrange,Champion,premium,high,medium,very-high,champion
+innova-gator-champion,Innova,Gator,Midrange,Champion,premium,high,medium,very-high,champion
+innova-caiman-champion,Innova,Caiman,Midrange,Champion,premium,high,medium,very-high,champion
+innova-teebird-champion,Innova,TeeBird,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-teebird3-champion,Innova,TeeBird3,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-firebird-champion,Innova,Firebird,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-leopard-champion,Innova,Leopard,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-leopard3-champion,Innova,Leopard3,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-valkyrie-champion,Innova,Valkyrie,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-eagle-champion,Innova,Eagle,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-thunderbird-champion,Innova,Thunderbird,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-sidewinder-champion,Innova,Sidewinder,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-roadrunner-champion,Innova,Roadrunner,Fairway Driver,Champion,premium,high,medium,very-high,champion
+innova-destroyer-champion,Innova,Destroyer,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-wraith-champion,Innova,Wraith,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-tern-champion,Innova,Tern,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-boss-champion,Innova,Boss,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-shryke-champion,Innova,Shryke,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-katana-champion,Innova,Katana,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-orc-champion,Innova,Orc,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-beast-champion,Innova,Beast,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-mamba-champion,Innova,Mamba,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-xcaliber-champion,Innova,XCaliber,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-colossus-champion,Innova,Colossus,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-firestorm-champion,Innova,Firestorm,Distance Driver,Champion,premium,high,medium,very-high,champion
+innova-aviar-gstar,Innova,Aviar,Putt & Approach,GStar,premium,low,very-high,medium,gstar
+innova-rhyno-gstar,Innova,Rhyno,Putt & Approach,GStar,premium,low,very-high,medium,gstar
+innova-whale-gstar,Innova,Whale,Putt & Approach,GStar,premium,low,very-high,medium,gstar
+innova-roc-gstar,Innova,Roc,Midrange,GStar,premium,low,very-high,medium,gstar
+innova-roc3-gstar,Innova,Roc3,Midrange,GStar,premium,low,very-high,medium,gstar
+innova-mako3-gstar,Innova,Mako3,Midrange,GStar,premium,low,very-high,medium,gstar
+innova-shark-gstar,Innova,Shark,Midrange,GStar,premium,low,very-high,medium,gstar
+innova-gator-gstar,Innova,Gator,Midrange,GStar,premium,low,very-high,medium,gstar
+innova-caiman-gstar,Innova,Caiman,Midrange,GStar,premium,low,very-high,medium,gstar
+innova-teebird-gstar,Innova,TeeBird,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-teebird3-gstar,Innova,TeeBird3,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-firebird-gstar,Innova,Firebird,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-leopard-gstar,Innova,Leopard,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-leopard3-gstar,Innova,Leopard3,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-valkyrie-gstar,Innova,Valkyrie,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-eagle-gstar,Innova,Eagle,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-thunderbird-gstar,Innova,Thunderbird,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-sidewinder-gstar,Innova,Sidewinder,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-roadrunner-gstar,Innova,Roadrunner,Fairway Driver,GStar,premium,low,very-high,medium,gstar
+innova-destroyer-gstar,Innova,Destroyer,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-wraith-gstar,Innova,Wraith,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-tern-gstar,Innova,Tern,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-boss-gstar,Innova,Boss,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-shryke-gstar,Innova,Shryke,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-katana-gstar,Innova,Katana,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-orc-gstar,Innova,Orc,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-beast-gstar,Innova,Beast,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-mamba-gstar,Innova,Mamba,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-colossus-gstar,Innova,Colossus,Distance Driver,GStar,premium,low,very-high,medium,gstar
+innova-aviar-r-pro,Innova,Aviar,Putt & Approach,R-Pro,pro,low,very-high,low,r-pro
+innova-rhyno-r-pro,Innova,Rhyno,Putt & Approach,R-Pro,pro,low,very-high,low,r-pro
+innova-pig-r-pro,Innova,Pig,Putt & Approach,R-Pro,pro,low,very-high,low,r-pro
+innova-dart-r-pro,Innova,Dart,Putt & Approach,R-Pro,pro,low,very-high,low,r-pro
+innova-aviar-kc-pro,Innova,Aviar,Putt & Approach,KC Pro,pro,very-high,medium,medium,kc-pro
+innova-roc-kc-pro,Innova,Roc,Midrange,KC Pro,pro,very-high,medium,medium,kc-pro
+innova-aviar-jk-pro,Innova,Aviar,Putt & Approach,JK Pro,pro,low,very-high,medium,jk-pro
+innova-aviar-xt,Innova,Aviar,Putt & Approach,XT,pro,medium,very-high,medium,xt
+innova-whale-xt,Innova,Whale,Putt & Approach,XT,pro,medium,very-high,medium,xt
+innova-nova-xt,Innova,Nova,Putt & Approach,XT,pro,medium,very-high,medium,xt
+innova-aviar-nexus,Innova,Aviar,Putt & Approach,Nexus,pro,medium,high,medium,nexus
+innova-rhyno-pro,Innova,Rhyno,Putt & Approach,Pro,pro,medium,high,medium,pro
+innova-pig-pro,Innova,Pig,Putt & Approach,Pro,pro,medium,high,medium,pro
+innova-teebird-pro,Innova,TeeBird,Fairway Driver,Pro,pro,medium,high,medium,pro
+innova-leopard-pro,Innova,Leopard,Fairway Driver,Pro,pro,medium,high,medium,pro
+innova-valkyrie-pro,Innova,Valkyrie,Fairway Driver,Pro,pro,medium,high,medium,pro
+innova-destroyer-pro,Innova,Destroyer,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-wraith-pro,Innova,Wraith,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-tern-pro,Innova,Tern,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-boss-pro,Innova,Boss,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-katana-pro,Innova,Katana,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-orc-pro,Innova,Orc,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-beast-pro,Innova,Beast,Distance Driver,Pro,pro,medium,high,medium,pro
+innova-mako3-halo-star,Innova,Mako3,Midrange,Halo Star,premium,high,high,very-high,halo-star
+innova-firebird-halo-star,Innova,Firebird,Fairway Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-leopard3-halo-star,Innova,Leopard3,Fairway Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-thunderbird-halo-star,Innova,Thunderbird,Fairway Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-sidewinder-halo-star,Innova,Sidewinder,Fairway Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-roadrunner-halo-star,Innova,Roadrunner,Fairway Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-destroyer-halo-star,Innova,Destroyer,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-wraith-halo-star,Innova,Wraith,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-tern-halo-star,Innova,Tern,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-boss-halo-star,Innova,Boss,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-shryke-halo-star,Innova,Shryke,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-mamba-halo-star,Innova,Mamba,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-xcaliber-halo-star,Innova,XCaliber,Distance Driver,Halo Star,premium,high,high,very-high,halo-star
+innova-teebird-echo-star,Innova,TeeBird,Fairway Driver,Echo Star,premium,medium,high,high,echo-star
+innova-leopard-echo-star,Innova,Leopard,Fairway Driver,Echo Star,premium,medium,high,high,echo-star
+innova-destroyer-echo-star,Innova,Destroyer,Distance Driver,Echo Star,premium,medium,high,high,echo-star
+innova-wraith-echo-star,Innova,Wraith,Distance Driver,Echo Star,premium,medium,high,high,echo-star
+innova-tern-echo-star,Innova,Tern,Distance Driver,Echo Star,premium,medium,high,high,echo-star
+innova-boss-echo-star,Innova,Boss,Distance Driver,Echo Star,premium,medium,high,high,echo-star
+innova-katana-echo-star,Innova,Katana,Distance Driver,Echo Star,premium,medium,high,high,echo-star
+innova-xcaliber-echo-star,Innova,XCaliber,Distance Driver,Echo Star,premium,medium,high,high,echo-star

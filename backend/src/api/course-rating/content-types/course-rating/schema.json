@@ -1,0 +1,55 @@
+{
+  "kind": "collectionType",
+  "collectionName": "course_ratings",
+  "info": {
+    "singularName": "course-rating",
+    "pluralName": "course-ratings",
+    "displayName": "Course Rating"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "overall": {
+      "type": "integer",
+      "required": true,
+      "min": 1,
+      "max": 10
+    },
+    "layout": {
+      "type": "integer",
+      "min": 1,
+      "max": 10
+    },
+    "signage": {
+      "type": "integer",
+      "min": 1,
+      "max": 10
+    },
+    "maintenance": {
+      "type": "integer",
+      "min": 1,
+      "max": 10
+    },
+    "scenery": {
+      "type": "integer",
+      "min": 1,
+      "max": 10
+    },
+    "comment": {
+      "type": "text"
+    },
+    "course": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::course.course",
+      "required": true
+    },
+    "submittedBy": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    }
+  }
+}
