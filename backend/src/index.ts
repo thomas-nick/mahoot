@@ -31,6 +31,34 @@ const ENSURED_AUTHENTICATED_PERMISSIONS = [
   'api::course-rating-vote.course-rating-vote.find',
   'api::course-rating-vote.course-rating-vote.findOne',
   'api::course-rating-vote.course-rating-vote.deleteByRating',
+  // Marketplace: a logged-in user can list, browse, manage, and message.
+  // Ownership/visibility is enforced inside each controller.
+  'api::market-listing.market-listing.find',
+  'api::market-listing.market-listing.findOne',
+  'api::market-listing.market-listing.create',
+  'api::market-listing.market-listing.update',
+  'api::market-listing.market-listing.delete',
+  'api::market-favorite.market-favorite.find',
+  'api::market-favorite.market-favorite.findOne',
+  'api::market-favorite.market-favorite.create',
+  'api::market-favorite.market-favorite.delete',
+  'api::market-offer.market-offer.find',
+  'api::market-offer.market-offer.findOne',
+  'api::market-offer.market-offer.create',
+  'api::market-offer.market-offer.update',
+  'api::market-offer.market-offer.delete',
+  'api::market-message.market-message.find',
+  'api::market-message.market-message.findOne',
+  'api::market-message.market-message.create',
+  // `update` is used to mark a message as read.
+  'api::market-message.market-message.update',
+  // Profile (own settings, payment handles): Authenticated users need read +
+  // create + update of profile rows. Ownership is enforced inside the
+  // controller by attaching ctx.state.user to writes.
+  'api::profile.profile.find',
+  'api::profile.profile.findOne',
+  'api::profile.profile.create',
+  'api::profile.profile.update',
 ];
 
 const ENSURED_PUBLIC_PERMISSIONS = [
@@ -47,6 +75,18 @@ const ENSURED_PUBLIC_PERMISSIONS = [
   'api::disc-rating-vote.disc-rating-vote.findOne',
   'api::course-rating-vote.course-rating-vote.find',
   'api::course-rating-vote.course-rating-vote.findOne',
+  // Public marketplace browse + listing detail. Sellers' personal contact
+  // details are gated by the listing controller's sanitizer.
+  'api::market-listing.market-listing.find',
+  'api::market-listing.market-listing.findOne',
+  // Public profile pages (/u/[username]) need to render counts of approved
+  // submissions and active listings without requiring login.
+  'api::profile.profile.find',
+  'api::profile.profile.findOne',
+  'api::disc-submission.disc-submission.find',
+  'api::disc-submission.disc-submission.findOne',
+  'api::course-submission.course-submission.find',
+  'api::course-submission.course-submission.findOne',
 ];
 
 const ensureRolePermissions = async (
