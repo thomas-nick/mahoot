@@ -50,6 +50,14 @@
       "type": "relation",
       "relation": "manyToOne",
       "target": "plugin::users-permissions.user"
+    },
+    "helpfulCount": {
+      "type": "integer",
+      "default": 0
+    },
+    "notHelpfulCount": {
+      "type": "integer",
+      "default": 0
     }
   }
 }

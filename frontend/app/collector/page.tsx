@@ -145,7 +145,7 @@ export default async function CollectorIndexPage() {
               <Link
                 key={release.id}
                 href={href}
-                className="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:border-slate-300 hover:shadow-md"
+                className="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-slate-300 hover:shadow-md motion-safe:hover:-translate-y-0.5"
               >
                 <div className="relative h-32 w-full bg-slate-100">
                   {release.imageUrl ? (

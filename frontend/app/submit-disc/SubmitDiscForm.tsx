@@ -1,9 +1,10 @@
 "use client";
 
 import Link from "next/link";
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { readAuthToken } from "@/lib/auth";
 import { trackEvent } from "@/lib/analytics";
+import { ImageUploadField } from "@/app/components/ImageUploadField";
 import {
   DraftNotice,
   PresetChips,
@@ -73,11 +74,7 @@ const initialValues: FormValues = {
   notes: "",
 };
 
-type ImageUrlCheckState =
-  | { kind: "idle" }
-  | { kind: "checking" }
-  | { kind: "ok"; message: string }
-  | { kind: "error"; message: string };
+
 
 type Suggestion = {
   id: string;
@@ -91,76 +88,15 @@ export function SubmitDiscForm() {
   const [draftFound, setDraftFound] = useState(false);
   const [hasLoadedDraftCheck, setHasLoadedDraftCheck] = useState(false);
   const [submitState, setSubmitState] = useState<SubmitState>({ kind: "idle" });
-  const [imagePreviewFailed, setImagePreviewFailed] = useState(false);
-  const [imageUrlCheck, setImageUrlCheck] = useState<ImageUrlCheckState>({ kind: "idle" });
   const [duplicateCheckState, setDuplicateCheckState] = useState<
     { kind: "idle" | "loading" } | { kind: "ready"; items: Suggestion[] }
   >({ kind: "idle" });
 
   const isSubmitting = submitState.kind === "submitting";
-  const imagePreview = useMemo(() => {
-    const value = values.imageUrl.trim();
-    return value.startsWith("http://") || value.startsWith("https://") ? value : "";
-  }, [values.imageUrl]);
-
-  useEffect(() => {
-    setImagePreviewFailed(false);
-    setImageUrlCheck({ kind: "idle" });
-  }, [imagePreview]);
 
   useEffect(() => {
     trackEvent("submit_disc_started");
   }, []);
-
-  const testImageUrl = useCallback(async (urlOverride?: string) => {
-    const url = (urlOverride ?? values.imageUrl).trim();
-    if (!url) {
-      setImageUrlCheck({ kind: "error", message: "Add an image URL first." });
-      return;
-    }
-
-    setImageUrlCheck({ kind: "checking" });
-    try {
-      const params = new URLSearchParams({ url });
-      const res = await fetch(`/api/validate-image-url?${params.toString()}`, {
-        method: "GET",
-        cache: "no-store",
-      });
-      const json = (await res.json()) as { ok?: boolean; error?: string; contentType?: string };
-      if (json.ok) {
-        setImageUrlCheck({
-          kind: "ok",
-          message: json.contentType ? `Reachable (${json.contentType}).` : "Reachable image URL.",
-        });
-      } else {
-        setImageUrlCheck({ kind: "error", message: json.error ?? "Image URL check failed." });
-      }
-    } catch (error) {
-      setImageUrlCheck({
-        kind: "error",
-        message: error instanceof Error ? error.message : "Image URL check failed.",
-      });
-    }
-  }, [values.imageUrl]);
-
-  useEffect(() => {
-    const url = values.imageUrl.trim();
-    if (!url) {
-      return;
-    }
-    if (!url.startsWith("http://") && !url.startsWith("https://")) {
-      setImageUrlCheck({ kind: "error", message: "URL must start with http:// or https://." });
-      return;
-    }
-
-    const timer = window.setTimeout(() => {
-      void testImageUrl(url);
-    }, 700);
-
-    return () => {
-      window.clearTimeout(timer);
-    };
-  }, [values.imageUrl, testImageUrl]);
 
   useEffect(() => {
     const name = values.discName.trim();
@@ -249,7 +185,6 @@ export function SubmitDiscForm() {
     resetForm();
     setDraftFound(false);
     setSubmitState({ kind: "idle" });
-    setImageUrlCheck({ kind: "idle" });
   };
 
   const resetForm = () => {
@@ -535,53 +470,13 @@ export function SubmitDiscForm() {
             placeholder="Product URL (optional)"
             className={submissionUi.inputFull}
           />
-          <input
+
+          <ImageUploadField
             name="imageUrl"
-            value={values.imageUrl}
-            onChange={(event) => updateValue("imageUrl", event.target.value)}
-            placeholder="Image URL (optional)"
-            className={submissionUi.inputFull}
+            label="Disc photo (optional)"
+            defaultUrl={values.imageUrl}
+            onChange={(next) => updateValue("imageUrl", next)}
           />
-          <div className="flex flex-wrap items-center gap-2">
-            <button
-              type="button"
-              onClick={() => void testImageUrl()}
-              disabled={imageUrlCheck.kind === "checking"}
-              className={submissionUi.secondaryButton}
-            >
-              {imageUrlCheck.kind === "checking" ? "Testing URL..." : "Test URL"}
-            </button>
-            {imageUrlCheck.kind === "ok" && (
-              <p className="text-xs text-emerald-700">{imageUrlCheck.message}</p>
-            )}
-            {imageUrlCheck.kind === "error" && <p className="text-xs text-rose-700">{imageUrlCheck.message}</p>}
-          </div>
-
-          {imagePreview && (
-            <div className="rounded-lg border border-slate-200 bg-slate-50 p-3">
-              <p className="mb-2 text-xs uppercase tracking-wide text-slate-500">Image preview</p>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={imagePreview}
-                alt="Disc preview"
-                className="h-40 w-full rounded-md object-cover"
-                onError={() => {
-                  setImagePreviewFailed(true);
-                }}
-              />
-              <p className={`mt-2 text-xs ${imagePreviewFailed ? "text-rose-700" : "text-emerald-700"}`}>
-                {imagePreviewFailed
-                  ? "Preview failed to load. You can still submit, but the image URL may be invalid."
-                  : "Preview loaded successfully."}
-              </p>
-            </div>
-          )}
-
-          {!imagePreview && values.imageUrl.trim().length > 0 && (
-            <p className="text-xs text-rose-700">
-              Image URL must start with http:// or https:// to preview.
-            </p>
-          )}
 
           <div className="grid gap-3 sm:grid-cols-2">
             <input
@@ -667,20 +562,8 @@ export function SubmitDiscForm() {
               <dd>{values.plastic || "-"}</dd>
             </div>
             <div>
-              <dt className="text-xs uppercase tracking-wide text-slate-500">Image URL status</dt>
-              <dd>
-                {values.imageUrl.trim().length === 0
-                  ? "No image URL provided"
-                  : imageUrlCheck.kind === "ok"
-                    ? "URL test passed"
-                    : imageUrlCheck.kind === "error"
-                      ? "URL test failed"
-                  : imagePreviewFailed
-                    ? "Preview failed"
-                    : imagePreview
-                      ? "Preview loaded"
-                      : "Invalid URL format"}
-              </dd>
+              <dt className="text-xs uppercase tracking-wide text-slate-500">Photo</dt>
+              <dd>{values.imageUrl.trim() ? "Attached" : "None"}</dd>
             </div>
           </dl>
           <div>
@@ -691,62 +574,74 @@ export function SubmitDiscForm() {
       )}
 
       <SubmissionActionRow>
-        {step > 1 && (
-          <button
-            type="button"
-            onClick={() => setStep((prev) => (prev === 1 ? 1 : ((prev - 1) as Step)))}
-            className={submissionUi.secondaryButton}
-          >
-            Back
-          </button>
-        )}
-
-        {step < 3 && (
-          <button
-            type="button"
-            onClick={() => setStep((prev) => (prev === 3 ? 3 : ((prev + 1) as Step)))}
-            disabled={(step === 1 && !canGoStep2) || (step === 2 && !canGoStep3)}
-            className={submissionUi.primaryButton}
-          >
-            Continue
-          </button>
-        )}
-
-        {step === 3 && (
-          <button
-            type="submit"
-            disabled={isSubmitting || Boolean(submitDisabledReason)}
-            className={submissionUi.primaryButton}
-          >
-            {isSubmitting ? "Submitting..." : "Submit Disc"}
-          </button>
-        )}
-
-        <button
-          type="button"
-          onClick={discardDraft}
-          className={submissionUi.clearButton}
-        >
-          Clear draft
-        </button>
-
-        {submitState.kind === "success" && (
-          <div className="flex flex-wrap items-center gap-2">
-            <p className="text-sm text-emerald-700">{submitState.message}</p>
-            <Link href="/discs" className="rounded-lg border border-emerald-300 px-3 py-1.5 text-xs text-emerald-700">
-              Browse discs
-            </Link>
+        <div className="flex flex-1 flex-wrap items-center gap-2">
+          {step > 1 && (
             <button
               type="button"
-              onClick={() => setSubmitState({ kind: "idle" })}
-              className="rounded-lg border border-slate-300 px-3 py-1.5 text-xs text-slate-700"
+              onClick={() => setStep((prev) => (prev === 1 ? 1 : ((prev - 1) as Step)))}
+              className={submissionUi.secondaryButton}
             >
-              Add another
+              ← Back
             </button>
-          </div>
-        )}
-        {submitState.kind === "error" && <p className="text-sm text-rose-700">{submitState.message}</p>}
+          )}
+        </div>
+
+        <div className="flex flex-wrap items-center gap-2">
+          {step < 3 && (
+            <button
+              type="button"
+              onClick={() => setStep((prev) => (prev === 3 ? 3 : ((prev + 1) as Step)))}
+              disabled={(step === 1 && !canGoStep2) || (step === 2 && !canGoStep3)}
+              className={submissionUi.primaryButton}
+            >
+              Continue →
+            </button>
+          )}
+
+          {step === 3 && (
+            <button
+              type="submit"
+              disabled={isSubmitting || Boolean(submitDisabledReason)}
+              className={submissionUi.primaryButton}
+            >
+              {isSubmitting ? "Submitting..." : "Submit disc"}
+            </button>
+          )}
+        </div>
       </SubmissionActionRow>
+
+      {step === 1 && (
+        <div className="flex justify-end">
+          <button
+            type="button"
+            onClick={discardDraft}
+            className="text-xs text-slate-500 underline-offset-2 hover:text-slate-700 hover:underline"
+          >
+            Clear draft
+          </button>
+        </div>
+      )}
+
+      {submitState.kind === "success" && (
+        <div className="flex flex-wrap items-center gap-2 rounded-xl border border-emerald-200 bg-emerald-50 p-3">
+          <p className="text-sm text-emerald-800">{submitState.message}</p>
+          <Link href="/discs" className="rounded-lg border border-emerald-300 px-3 py-1.5 text-xs text-emerald-800">
+            Browse discs
+          </Link>
+          <button
+            type="button"
+            onClick={() => setSubmitState({ kind: "idle" })}
+            className="rounded-lg border border-slate-300 px-3 py-1.5 text-xs text-slate-700"
+          >
+            Add another
+          </button>
+        </div>
+      )}
+      {submitState.kind === "error" && (
+        <p className="rounded-xl border border-rose-200 bg-rose-50 px-3 py-2 text-sm text-rose-800">
+          {submitState.message}
+        </p>
+      )}
     </form>
   );
 }

@@ -42,12 +42,27 @@ type CollectorHit = {
   notes: string | null;
 };
 
+type ListingHit = {
+  id: string;
+  title: string;
+  description: string | null;
+  priceUsd: number | null;
+  currency: string | null;
+  condition: string | null;
+  status: string | null;
+  discId: string | null;
+  discDisplayName: string | null;
+  sellerUsername: string | null;
+  imageUrl: string | null;
+};
+
 type SearchResponse = {
   configured?: boolean;
   discs: DiscHit[];
   courses: CourseHit[];
   nearbyCourses?: CourseHit[];
   collectors?: CollectorHit[];
+  listings?: ListingHit[];
   error?: string;
   discsMeta?: {
     found: number;
@@ -162,7 +177,9 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
 
   const hasResults = data && (data.discs.length > 0 || data.courses.length > 0);
   const collectors = data?.collectors ?? [];
-  const hasAnyResults = data && (data.discs.length > 0 || data.courses.length > 0 || collectors.length > 0);
+  const listings = data?.listings ?? [];
+  const hasAnyResults =
+    data && (data.discs.length > 0 || data.courses.length > 0 || collectors.length > 0 || listings.length > 0);
   const topDiscCategories = data?.discsMeta?.facets.category.slice(0, 6) ?? [];
   const topDiscBrands = data?.discsMeta?.facets.brand.slice(0, 6) ?? [];
   const topDiscPlastics = data?.discsMeta?.facets.plastic.slice(0, 6) ?? [];
@@ -210,6 +227,19 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
           [r.brand, r.mold].filter(Boolean).join(" · ") ||
           (typeof r.collectorValue === "number" ? `Collector value ${r.collectorValue}/10` : "Collector run"),
       })) ?? [];
+    const listingsNav =
+      data?.listings?.map((l) => ({
+        key: `l-${l.id}`,
+        href: l.discId ? `/discs/${l.discId}?tab=marketplace` : "/marketplace",
+        title: l.title,
+        subtitle: [
+          typeof l.priceUsd === "number" ? `$${l.priceUsd.toFixed(2)}` : null,
+          l.discDisplayName,
+          l.sellerUsername ? `@${l.sellerUsername}` : null,
+        ]
+          .filter(Boolean)
+          .join(" · "),
+      })) ?? [];
     const nearby =
       data?.nearbyCourses?.map((c) => ({
         key: `n-${c.id}`,
@@ -217,7 +247,7 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
         title: c.name,
         subtitle: [c.city, c.state].filter(Boolean).join(", ") || "Nearby course",
       })) ?? [];
-    return [...discs, ...courses, ...collectors, ...nearby];
+    return [...discs, ...listingsNav, ...courses, ...collectors, ...nearby];
   }, [data]);
 
   useEffect(() => {
@@ -298,7 +328,7 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
           onFocus={() => setOpen(true)}
           onKeyDown={onInputKeyDown}
           aria-activedescendant={highlightedIndex >= 0 ? navResults[highlightedIndex]?.key : undefined}
-          placeholder="Search discs & courses…"
+          placeholder="Search discs, courses & marketplace…"
           autoComplete="off"
           className={`w-full rounded-xl border border-slate-300 bg-slate-50 pr-14 outline-none placeholder:text-slate-400 focus:border-slate-500 focus:bg-white ${
             isHero ? "px-4 py-3 text-base" : "px-3 py-2 text-sm"
@@ -483,6 +513,43 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
                       )}
                     </div>
                   )}
+                </div>
+              )}
+
+              {listings.length > 0 && (
+                <div>
+                  <div className="flex items-center justify-between px-3 pb-1">
+                    <p className="text-xs font-medium uppercase tracking-wide text-slate-400">Marketplace</p>
+                    <p className="text-xs text-slate-400">{listings.length}</p>
+                  </div>
+                  <ul>
+                    {listings.map((l) => {
+                      const navIndex = navResults.findIndex((item) => item.key === `l-${l.id}`);
+                      const active = highlightedIndex === navIndex;
+                      const href = l.discId ? `/discs/${l.discId}?tab=marketplace` : "/marketplace";
+                      const price =
+                        typeof l.priceUsd === "number"
+                          ? `$${l.priceUsd.toFixed(2)}${l.currency && l.currency !== "USD" ? ` ${l.currency}` : ""}`
+                          : null;
+                      return (
+                        <li key={`l-${l.id}`} id={`l-${l.id}`} role="option" aria-selected={active}>
+                          <Link
+                            href={href}
+                            className={`block px-3 py-2 text-sm ${active ? "bg-slate-100" : "hover:bg-slate-50"}`}
+                            onMouseEnter={() => setHighlightedIndex(navIndex)}
+                            onClick={resetAndClose}
+                          >
+                            <span className="font-medium text-slate-900">{l.title}</span>
+                            <span className="ml-2 text-slate-500">
+                              {[price, l.discDisplayName, l.sellerUsername ? `@${l.sellerUsername}` : null]
+                                .filter(Boolean)
+                                .join(" · ") || "Listing"}
+                            </span>
+                          </Link>
+                        </li>
+                      );
+                    })}
+                  </ul>
                 </div>
               )}
 

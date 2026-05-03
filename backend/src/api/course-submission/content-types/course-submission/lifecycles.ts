@@ -112,7 +112,6 @@ async function upsertCourseFromSubmission(strapi: any, submission: Record<string
   const videoIds = normalizeMediaIds(full.videos);
 
   const videoLinksRaw = full['videoLInks'] ?? full.videoLinks;
-  const layoutsRaw = full.layouts;
 
   const data: Record<string, unknown> = {
     externalId,
@@ -131,9 +130,6 @@ async function upsertCourseFromSubmission(strapi: any, submission: Record<string
   data.videos = videoIds;
   if (Array.isArray(videoLinksRaw)) {
     data.videoLinks = videoLinksRaw.length > 0 ? videoLinksRaw : null;
-  }
-  if (Array.isArray(layoutsRaw)) {
-    data.layouts = layoutsRaw;
   }
 
   const existingDocumentId = await findCourseByExternalId(strapi, externalId);

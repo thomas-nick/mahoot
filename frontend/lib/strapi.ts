@@ -158,8 +158,10 @@ export type CourseRating = {
   maintenance: number | null;
   scenery: number | null;
   comment: string | null;
+  helpfulCount?: number | null;
   createdAt: string | null;
   submittedBy?: {
+    id?: number;
     username?: string | null;
     email?: string | null;
   } | null;
@@ -187,8 +189,10 @@ export type DiscRating = {
   conditions?: string[] | null;
   wouldRecommend?: boolean | null;
   comment: string | null;
+  helpfulCount?: number | null;
   createdAt: string | null;
   submittedBy?: {
+    id?: number;
     username?: string | null;
     email?: string | null;
   } | null;
@@ -1223,46 +1227,46 @@ export const getDiscMoldByExternalId = async (externalId: string) => {
 };
 
 export const getFeaturedCatalogStats = async () => {
-  try {
-    const [discs, courses] = await Promise.all([
-      request<StrapiListResponse<DiscVariant>>(
-        "/api/disc-variants?pagination%5BpageSize%5D=1&status=published"
-      ),
-      request<StrapiListResponse<Course>>(
-        "/api/courses?pagination%5BpageSize%5D=1&status=published"
-      ),
-    ]);
-
-    return {
-      discTotal: discs.meta?.pagination?.total ?? 0,
-      courseTotal: courses.meta?.pagination?.total ?? 0,
-    };
-  } catch {
+  const safeCount = async (path: string): Promise<number> => {
     try {
-      const [discs, courses] = await Promise.all([
-        request<StrapiListResponse<Disc>>("/api/discs?pagination%5BpageSize%5D=1&status=published"),
-        request<StrapiListResponse<Course>>("/api/courses?pagination%5BpageSize%5D=1&status=published"),
-      ]);
-      return {
-        discTotal: discs.meta?.pagination?.total ?? 0,
-        courseTotal: courses.meta?.pagination?.total ?? 0,
-      };
+      const payload = await request<StrapiListResponse<unknown>>(path);
+      return payload.meta?.pagination?.total ?? 0;
     } catch {
-      return {
-        discTotal: 0,
-        courseTotal: 0,
-      };
+      return 0;
     }
+  };
+
+  let discTotal = await safeCount(
+    "/api/disc-variants?pagination%5BpageSize%5D=1&status=published",
+  );
+  if (discTotal === 0) {
+    discTotal = await safeCount("/api/discs?pagination%5BpageSize%5D=1&status=published");
   }
+  const courseTotal = await safeCount(
+    "/api/courses?pagination%5BpageSize%5D=1&status=published",
+  );
+  const reviewTotal = await safeCount("/api/disc-ratings?pagination%5BpageSize%5D=1");
+  const listingTotal = await safeCount(
+    "/api/market-listings?pagination%5BpageSize%5D=1&filters%5Bstatus%5D=active",
+  );
+
+  return {
+    discTotal,
+    courseTotal,
+    reviewTotal,
+    listingTotal,
+  };
 };
 
 export const getCourseRatingsByDocumentId = async (documentId: string) => {
   const query = toQueryString({
     "filters[course][documentId][$eq]": documentId,
-    "sort[0]": "createdAt:desc",
+    "sort[0]": "helpfulCount:desc",
+    "sort[1]": "createdAt:desc",
     "pagination[pageSize]": 25,
     "populate[submittedBy][fields][0]": "username",
     "populate[submittedBy][fields][1]": "email",
+    "populate[submittedBy][fields][2]": "id",
   });
 
   try {
@@ -1276,10 +1280,12 @@ export const getCourseRatingsByDocumentId = async (documentId: string) => {
 export const getDiscRatingsByDocumentId = async (documentId: string) => {
   const query = toQueryString({
     "filters[discDocumentId][$eq]": documentId,
-    "sort[0]": "createdAt:desc",
+    "sort[0]": "helpfulCount:desc",
+    "sort[1]": "createdAt:desc",
     "pagination[pageSize]": 50,
     "populate[submittedBy][fields][0]": "username",
     "populate[submittedBy][fields][1]": "email",
+    "populate[submittedBy][fields][2]": "id",
   });
 
   try {
@@ -1374,4 +1380,389 @@ export const getCollectorReleasesByDiscDocumentId = async (discDocumentId: strin
   } catch {
     return [] as CollectorRelease[];
   }
+};
+
+// ============================================================================
+// Marketplace
+// ============================================================================
+
+export type MarketListingShipping =
+  | "ships-us-only"
+  | "ships-international"
+  | "local-pickup"
+  | "ships-and-pickup";
+
+export type MarketListing = {
+  id: number;
+  documentId?: string;
+  title: string;
+  description?: string | null;
+  priceUsd: number;
+  currency?: string | null;
+  negotiable?: boolean | null;
+  condition?: "new" | "like-new" | "used" | "inked" | "unknown" | null;
+  status?: "active" | "sold" | "cancelled" | null;
+  discDocumentId: string;
+  discExternalId?: string | null;
+  discDisplayName?: string | null;
+  plastic?: string | null;
+  weightGrams?: number | null;
+  colorStamp?: string | null;
+  shipping?: MarketListingShipping | null;
+  shippingPriceUsd?: number | null;
+  country?: string | null;
+  city?: string | null;
+  imageUrl?: string | null;
+  imageUrls?: string[] | null;
+  createdAt?: string | null;
+  updatedAt?: string | null;
+  seller?: {
+    id?: number;
+    username?: string | null;
+    email?: string | null;
+  } | null;
+};
+
+export type SellerPaymentMethods = {
+  paypalHandle: string | null;
+  venmoHandle: string | null;
+  stripePaymentLinkUrl: string | null;
+  acceptsCashOnPickup: boolean;
+  ethAddress: string | null;
+  solAddress: string | null;
+  dotAddress: string | null;
+  ksmAddress: string | null;
+  btcAddress: string | null;
+  cryptoNotes: string | null;
+};
+
+export const getMarketListingsByDiscDocumentId = async (discDocumentId: string) => {
+  const query = toQueryString({
+    "filters[discDocumentId][$eq]": discDocumentId,
+    "filters[status][$eq]": "active",
+    "sort[0]": "createdAt:desc",
+    "pagination[pageSize]": 50,
+    status: "published",
+    "populate[seller][fields][0]": "username",
+    "populate[seller][fields][1]": "email",
+  });
+
+  try {
+    const payload = await request<StrapiListResponse<MarketListing>>(`/api/market-listings?${query}`);
+    return payload.data ?? [];
+  } catch {
+    return [] as MarketListing[];
+  }
+};
+
+/** Active listings for browse pages (e.g. /marketplace) when Typesense is off or unreachable. */
+export const getActiveMarketListingsForBrowse = async () => {
+  const query = toQueryString({
+    "filters[status][$eq]": "active",
+    "sort[0]": "createdAt:desc",
+    "pagination[pageSize]": 100,
+    status: "published",
+    "populate[seller][fields][0]": "username",
+  });
+
+  try {
+    const payload = await request<StrapiListResponse<MarketListing>>(`/api/market-listings?${query}`);
+    return payload.data ?? [];
+  } catch {
+    return [] as MarketListing[];
+  }
+};
+
+/** Fetch a single listing by documentId. Includes seller. */
+export const getMarketListingByDocumentId = async (documentId: string) => {
+  const trimmed = (documentId ?? "").trim();
+  if (!trimmed) return null;
+  const query = toQueryString({
+    "filters[documentId][$eq]": trimmed,
+    "pagination[pageSize]": 1,
+    status: "published",
+    "populate[seller][fields][0]": "username",
+    "populate[seller][fields][1]": "email",
+    "populate[seller][fields][2]": "id",
+  });
+  try {
+    const payload = await request<StrapiListResponse<MarketListing>>(`/api/market-listings?${query}`);
+    return payload.data?.[0] ?? null;
+  } catch {
+    return null;
+  }
+};
+
+/** Fetch the public payment-handle subset of a seller's profile (used on listing pages). */
+export const getSellerPaymentMethods = async (
+  userId: number | null | undefined,
+): Promise<SellerPaymentMethods | null> => {
+  if (!userId || !Number.isFinite(userId)) return null;
+  const query = toQueryString({
+    "filters[user][id][$eq]": userId,
+    "pagination[pageSize]": 1,
+    "fields[0]": "paypalHandle",
+    "fields[1]": "venmoHandle",
+    "fields[2]": "stripePaymentLinkUrl",
+    "fields[3]": "acceptsCashOnPickup",
+    "fields[4]": "ethAddress",
+    "fields[5]": "solAddress",
+    "fields[6]": "dotAddress",
+    "fields[7]": "ksmAddress",
+    "fields[8]": "btcAddress",
+    "fields[9]": "cryptoNotes",
+  });
+  try {
+    const payload = await request<
+      StrapiListResponse<{
+        paypalHandle?: string | null;
+        venmoHandle?: string | null;
+        stripePaymentLinkUrl?: string | null;
+        acceptsCashOnPickup?: boolean | null;
+        ethAddress?: string | null;
+        solAddress?: string | null;
+        dotAddress?: string | null;
+        ksmAddress?: string | null;
+        btcAddress?: string | null;
+        cryptoNotes?: string | null;
+      }>
+    >(`/api/profiles?${query}`);
+    const row = payload.data?.[0];
+    if (!row) return null;
+    return {
+      paypalHandle: (row.paypalHandle ?? "").trim() || null,
+      venmoHandle: (row.venmoHandle ?? "").trim() || null,
+      stripePaymentLinkUrl: (row.stripePaymentLinkUrl ?? "").trim() || null,
+      acceptsCashOnPickup: Boolean(row.acceptsCashOnPickup),
+      ethAddress: (row.ethAddress ?? "").trim() || null,
+      solAddress: (row.solAddress ?? "").trim() || null,
+      dotAddress: (row.dotAddress ?? "").trim() || null,
+      ksmAddress: (row.ksmAddress ?? "").trim() || null,
+      btcAddress: (row.btcAddress ?? "").trim() || null,
+      cryptoNotes: (row.cryptoNotes ?? "").trim() || null,
+    };
+  } catch {
+    return null;
+  }
+};
+
+// ============================================================================
+// Leaderboards
+// ============================================================================
+
+/**
+ * Aggregate every disc rating into a Map keyed by discDocumentId.
+ * Used to build leaderboards across the full catalog without needing to
+ * pre-supply the list of disc IDs.
+ */
+export const getAllDiscRatingSummaries = cache(async (): Promise<Map<string, DiscRatingSummary>> => {
+  const aggregate = new Map<string, { total: number; count: number }>();
+  const baseParams: Record<string, string | number> = {
+    "pagination[page]": 1,
+    "pagination[pageSize]": STRAPI_SAFE_PAGE_SIZE,
+    "fields[0]": "discDocumentId",
+    "fields[1]": "overall",
+  };
+
+  const apply = (rows: Array<Pick<DiscRating, "discDocumentId" | "overall">>) => {
+    for (const row of rows) {
+      const key = row.discDocumentId;
+      if (!key) continue;
+      const overall = typeof row.overall === "number" ? row.overall : null;
+      if (overall === null) continue;
+      const current = aggregate.get(key) ?? { total: 0, count: 0 };
+      current.total += overall;
+      current.count += 1;
+      aggregate.set(key, current);
+    }
+  };
+
+  try {
+    const firstPayload = await request<StrapiListResponse<Pick<DiscRating, "discDocumentId" | "overall">>>(
+      `/api/disc-ratings?${toQueryString(baseParams)}`,
+    );
+    apply(firstPayload.data ?? []);
+    const pageCount = firstPayload.meta?.pagination?.pageCount ?? 1;
+    for (let page = 2; page <= pageCount; page += 1) {
+      const payload = await request<StrapiListResponse<Pick<DiscRating, "discDocumentId" | "overall">>>(
+        `/api/disc-ratings?${toQueryString({ ...baseParams, "pagination[page]": page })}`,
+      );
+      apply(payload.data ?? []);
+    }
+  } catch {
+    return new Map<string, DiscRatingSummary>();
+  }
+
+  const result = new Map<string, DiscRatingSummary>();
+  for (const [key, stats] of aggregate.entries()) {
+    if (stats.count === 0) continue;
+    result.set(key, {
+      discDocumentId: key,
+      ratingAverageOverall: Number((stats.total / stats.count).toFixed(2)),
+      ratingCount: stats.count,
+    });
+  }
+  return result;
+});
+
+/**
+ * Top-rated courses, ranked by Strapi's pre-aggregated `ratingAverageOverall`.
+ * Filters out unrated courses by requiring `ratingCount >= minRatings`.
+ */
+export const getTopRatedCourses = async (input: {
+  limit?: number;
+  state?: string;
+  minRatings?: number;
+}): Promise<Course[]> => {
+  const limit = input.limit ?? 8;
+  const minRatings = input.minRatings ?? 1;
+  const params: Record<string, string | number> = {
+    "pagination[page]": 1,
+    "pagination[pageSize]": Math.min(Math.max(limit * 4, 25), STRAPI_SAFE_PAGE_SIZE),
+    "sort[0]": "ratingAverageOverall:desc",
+    "sort[1]": "ratingCount:desc",
+    "filters[ratingCount][$gte]": minRatings,
+    status: "published",
+  };
+  if (input.state) {
+    params["filters[state][$eq]"] = input.state;
+  }
+  try {
+    const payload = await request<StrapiListResponse<Course>>(`/api/courses?${toQueryString(params)}`);
+    return (payload.data ?? []).slice(0, limit);
+  } catch {
+    return [];
+  }
+};
+
+/** Most-reviewed courses (volume leaderboard). */
+export const getMostReviewedCourses = async (input: { limit?: number; state?: string }): Promise<Course[]> => {
+  const limit = input.limit ?? 8;
+  const params: Record<string, string | number> = {
+    "pagination[page]": 1,
+    "pagination[pageSize]": Math.min(Math.max(limit * 2, 20), STRAPI_SAFE_PAGE_SIZE),
+    "sort[0]": "ratingCount:desc",
+    "sort[1]": "ratingAverageOverall:desc",
+    "filters[ratingCount][$gte]": 1,
+    status: "published",
+  };
+  if (input.state) {
+    params["filters[state][$eq]"] = input.state;
+  }
+  try {
+    const payload = await request<StrapiListResponse<Course>>(`/api/courses?${toQueryString(params)}`);
+    return (payload.data ?? []).slice(0, limit);
+  } catch {
+    return [];
+  }
+};
+
+// ============================================================================
+// Reviewer activity (for /u/[username] and badges)
+// ============================================================================
+
+export type ReviewerActivityForUser = {
+  discReviewCount: number;
+  courseReviewCount: number;
+  helpfulVotesReceived: number;
+  /** Disc IDs the user has reviewed; used by the "rate 3 random discs" widget. */
+  ratedDiscDocumentIds: string[];
+  /** discDocumentId → category text, for category badge tallying. */
+  ratedDiscCategoryByDocumentId: Map<string, string | null>;
+};
+
+/**
+ * Aggregate everything we need to compute badges and the rate-3 widget for
+ * a given user, with two paginated requests against Strapi (disc + course).
+ */
+export const getReviewerActivityForUser = async (userId: number): Promise<ReviewerActivityForUser> => {
+  if (!Number.isFinite(userId) || userId <= 0) {
+    return {
+      discReviewCount: 0,
+      courseReviewCount: 0,
+      helpfulVotesReceived: 0,
+      ratedDiscDocumentIds: [],
+      ratedDiscCategoryByDocumentId: new Map(),
+    };
+  }
+
+  const fetchAllDiscRatings = async () => {
+    const all: Array<Pick<DiscRating, "discDocumentId" | "helpfulCount">> = [];
+    let page = 1;
+    while (page < 100) {
+      const query = toQueryString({
+        "filters[submittedBy][id][$eq]": userId,
+        "pagination[page]": page,
+        "pagination[pageSize]": STRAPI_SAFE_PAGE_SIZE,
+        "fields[0]": "discDocumentId",
+        "fields[1]": "helpfulCount",
+      });
+      const payload = await request<StrapiListResponse<Pick<DiscRating, "discDocumentId" | "helpfulCount">>>(
+        `/api/disc-ratings?${query}`,
+      );
+      all.push(...(payload.data ?? []));
+      const pageCount = payload.meta?.pagination?.pageCount ?? 1;
+      if (page >= pageCount) break;
+      page += 1;
+    }
+    return all;
+  };
+
+  const fetchAllCourseRatings = async () => {
+    const all: Array<Pick<CourseRating, "helpfulCount">> = [];
+    let page = 1;
+    while (page < 100) {
+      const query = toQueryString({
+        "filters[submittedBy][id][$eq]": userId,
+        "pagination[page]": page,
+        "pagination[pageSize]": STRAPI_SAFE_PAGE_SIZE,
+        "fields[0]": "helpfulCount",
+      });
+      const payload = await request<StrapiListResponse<Pick<CourseRating, "helpfulCount">>>(
+        `/api/course-ratings?${query}`,
+      );
+      all.push(...(payload.data ?? []));
+      const pageCount = payload.meta?.pagination?.pageCount ?? 1;
+      if (page >= pageCount) break;
+      page += 1;
+    }
+    return all;
+  };
+
+  let discRatings: Array<Pick<DiscRating, "discDocumentId" | "helpfulCount">> = [];
+  let courseRatings: Array<Pick<CourseRating, "helpfulCount">> = [];
+  try {
+    [discRatings, courseRatings] = await Promise.all([fetchAllDiscRatings(), fetchAllCourseRatings()]);
+  } catch {
+    /* swallow — partial data still yields useful badges */
+  }
+
+  const ratedDiscDocumentIds = Array.from(
+    new Set(discRatings.map((rating) => rating.discDocumentId).filter(Boolean) as string[]),
+  );
+
+  const ratedDiscCategoryByDocumentId = new Map<string, string | null>();
+  if (ratedDiscDocumentIds.length > 0) {
+    try {
+      const all = await getAllDiscsForSimilarity();
+      const byId = new Map(all.map((disc) => [disc.documentId, disc.category ?? null]));
+      for (const id of ratedDiscDocumentIds) {
+        ratedDiscCategoryByDocumentId.set(id, byId.get(id) ?? null);
+      }
+    } catch {
+      /* ignore */
+    }
+  }
+
+  const helpfulVotesReceived =
+    discRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0) +
+    courseRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0);
+
+  return {
+    discReviewCount: discRatings.length,
+    courseReviewCount: courseRatings.length,
+    helpfulVotesReceived,
+    ratedDiscDocumentIds,
+    ratedDiscCategoryByDocumentId,
+  };
 };

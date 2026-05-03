@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "market_favorites",
+  "info": {
+    "singularName": "market-favorite",
+    "pluralName": "market-favorites",
+    "displayName": "Market Favorite",
+    "description": "A user-saved marketplace listing (heart/wishlist)."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "user": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user",
+      "required": true
+    },
+    "listing": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::market-listing.market-listing",
+      "required": true
+    }
+  }
+}

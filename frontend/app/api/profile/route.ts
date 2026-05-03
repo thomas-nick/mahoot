@@ -21,31 +21,54 @@ const getMe = async (jwt: string) => {
   if (!response.ok) {
     return null;
   }
-  return (await response.json()) as {
+  const raw = (await response.json()) as unknown;
+  if (!raw || typeof raw !== "object") {
+    return null;
+  }
+  const o = raw as Record<string, unknown>;
+  const payload =
+    o.data && typeof o.data === "object" && !Array.isArray(o.data)
+      ? o.data
+      : o;
+  return payload as {
     id?: number;
+    documentId?: string;
     username?: string;
     email?: string;
     confirmed?: boolean;
   };
 };
 
-const findExistingProfile = async (jwt: string, userId: number) => {
-  const response = await fetch(
-    `${STRAPI_URL}/api/profiles?filters[user][id][$eq]=${userId}&pagination[pageSize]=1`,
-    {
-      headers: {
-        Authorization: `Bearer ${jwt}`,
-      },
-      cache: "no-store",
+const findExistingProfile = async (
+  jwt: string,
+  userId: number,
+  userDocumentId?: string
+) => {
+  const headers = { Authorization: `Bearer ${jwt}` } as const;
+  const firstRow = async (response: Response) => {
+    if (!response.ok) {
+      return null;
     }
-  );
-  if (!response.ok) {
-    return null;
-  }
-  const json = (await response.json()) as {
-    data?: Array<{ id?: number; documentId?: string; [key: string]: unknown }>;
+    const json = (await response.json()) as {
+      data?: Array<{ id?: number; documentId?: string; [key: string]: unknown }>;
+    };
+    return json.data?.[0] ?? null;
   };
-  return json.data?.[0] ?? null;
+
+  if (userDocumentId) {
+    const byDoc = await fetch(
+      `${STRAPI_URL}/api/profiles?filters[user][documentId][$eq]=${encodeURIComponent(userDocumentId)}&pagination[pageSize]=1`,
+      { headers, cache: "no-store" }
+    );
+    const found = await firstRow(byDoc);
+    if (found) return found;
+  }
+
+  const byId = await fetch(
+    `${STRAPI_URL}/api/profiles?filters[user][id][$eq]=${userId}&pagination[pageSize]=1`,
+    { headers, cache: "no-store" }
+  );
+  return firstRow(byId);
 };
 
 export async function GET(request: Request) {
@@ -59,7 +82,7 @@ export async function GET(request: Request) {
     return NextResponse.json({ error: "Invalid session." }, { status: 401 });
   }
 
-  const profile = await findExistingProfile(jwt, me.id);
+  const profile = await findExistingProfile(jwt, me.id, me.documentId);
   return NextResponse.json({
     user: me,
     profile,
@@ -83,21 +106,52 @@ export async function PUT(request: Request) {
     city?: string;
     state?: string;
     country?: string;
+    avatarUrl?: string;
+    paypalHandle?: string;
+    venmoHandle?: string;
+    stripePaymentLinkUrl?: string;
+    acceptsCashOnPickup?: boolean;
+    ethAddress?: string;
+    solAddress?: string;
+    dotAddress?: string;
+    ksmAddress?: string;
+    btcAddress?: string;
+    cryptoNotes?: string;
   };
 
-  const data = {
+  const normalizeVenmo = (raw: string) => raw.trim().replace(/^@+/, "");
+  const normalizeStripeUrl = (raw: string) => {
+    const trimmed = raw.trim();
+    if (!trimmed) return "";
+    if (!/^https?:\/\//i.test(trimmed)) return `https://${trimmed}`;
+    return trimmed;
+  };
+  const normalizeAddress = (raw: string) => raw.trim().replace(/\s+/g, "");
+
+  const data: Record<string, unknown> = {
     displayName: (body.displayName ?? "").trim() || null,
     bio: (body.bio ?? "").trim() || null,
     city: (body.city ?? "").trim() || null,
     state: (body.state ?? "").trim() || null,
     country: (body.country ?? "").trim() || null,
-    user: {
-      connect: [me.id],
-    },
+    avatarUrl: (body.avatarUrl ?? "").trim() || null,
+    paypalHandle: (body.paypalHandle ?? "").trim() || null,
+    venmoHandle: normalizeVenmo(body.venmoHandle ?? "") || null,
+    stripePaymentLinkUrl: normalizeStripeUrl(body.stripePaymentLinkUrl ?? "") || null,
+    acceptsCashOnPickup: Boolean(body.acceptsCashOnPickup),
+    ethAddress: normalizeAddress(body.ethAddress ?? "") || null,
+    solAddress: normalizeAddress(body.solAddress ?? "") || null,
+    dotAddress: normalizeAddress(body.dotAddress ?? "") || null,
+    ksmAddress: normalizeAddress(body.ksmAddress ?? "") || null,
+    btcAddress: normalizeAddress(body.btcAddress ?? "") || null,
+    cryptoNotes: (body.cryptoNotes ?? "").trim().slice(0, 280) || null,
   };
 
-  const existing = await findExistingProfile(jwt, me.id);
+  const existing = await findExistingProfile(jwt, me.id, me.documentId);
   const profileId = existing?.documentId ?? existing?.id;
+
+  /** Profile `user` is set in Strapi's profile controller (not permitted in REST body). */
+  const payload = data;
 
   const response = await fetch(
     profileId ? `${STRAPI_URL}/api/profiles/${encodeURIComponent(String(profileId))}` : `${STRAPI_URL}/api/profiles`,
@@ -107,7 +161,7 @@ export async function PUT(request: Request) {
         "Content-Type": "application/json",
         Authorization: `Bearer ${jwt}`,
       },
-      body: JSON.stringify({ data }),
+      body: JSON.stringify({ data: payload }),
       cache: "no-store",
     }
   );

@@ -1,5 +1,14 @@
 export const POST_AUTH_REDIRECT_KEY = "mahoot_post_auth_redirect";
 
+const ALLOWED_EXACT_PATHS = new Set([
+  "/submit-disc",
+  "/submit-course",
+  "/account",
+  "/marketplace",
+]);
+
+const ALLOWED_PREFIXES = ["/discs/", "/courses/", "/marketplace/"];
+
 /** Only same-origin paths we allow after login (open redirect safe). */
 export const getSafePostAuthPath = (raw: string | null | undefined): string | null => {
   const value = (raw ?? "").trim();
@@ -10,8 +19,11 @@ export const getSafePostAuthPath = (raw: string | null | undefined): string | nu
     return null;
   }
   const path = value.split("?")[0]?.split("#")[0] ?? "";
-  if (path === "/submit-disc" || path === "/submit-course" || path === "/account") {
-    return path;
+  if (ALLOWED_EXACT_PATHS.has(path)) {
+    return value;
+  }
+  if (ALLOWED_PREFIXES.some((prefix) => path.startsWith(prefix))) {
+    return value;
   }
   return null;
 };

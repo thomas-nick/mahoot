@@ -31,9 +31,7 @@ npm run dev
 - Data is fetched from Strapi REST endpoints (`/api/discs`, `/api/courses`).
 - For private APIs, provide `STRAPI_API_TOKEN`.
 - **Instant search** uses Typesense via `GET /api/search` (same env vars as your Strapi Typesense sync). Copy `TYPESENSE_*` from the backend `.env` into `frontend/.env.local`. Reindex in the backend if collections are empty: `npm run reindex:typesense`.
-- **OAuth (Google/Facebook)**:
+- **OAuth (Google)**:
   - Set `NEXT_PUBLIC_APP_URL` in `frontend/.env.local` to your public app URL (e.g. `http://127.0.0.1:3000`).
-  - In Strapi Users & Permissions provider settings, configure provider callback URL to:
-    - `http://127.0.0.1:3000/auth/callback?provider=google`
-    - `http://127.0.0.1:3000/auth/callback?provider=facebook`
-  - Enable both providers in Strapi and set their client IDs/secrets.
+  - In Strapi Users & Permissions → Google, configure the front-end redirect to `/auth/callback` (provider is saved in session during the flow).
+  - Enable Google in Strapi and set the OAuth client ID / secret.

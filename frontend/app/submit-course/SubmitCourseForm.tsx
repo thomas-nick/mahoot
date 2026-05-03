@@ -505,62 +505,74 @@ export function SubmitCourseForm() {
       )}
 
       <SubmissionActionRow>
-        {step > 1 && (
-          <button
-            type="button"
-            onClick={() => setStep((prev) => (prev === 1 ? 1 : ((prev - 1) as Step)))}
-            className={submissionUi.secondaryButton}
-          >
-            Back
-          </button>
-        )}
-
-        {step < 3 && (
-          <button
-            type="button"
-            onClick={() => setStep((prev) => (prev === 3 ? 3 : ((prev + 1) as Step)))}
-            disabled={(step === 1 && !canGoStep2) || (step === 2 && !canGoStep3)}
-            className={submissionUi.primaryButton}
-          >
-            Continue
-          </button>
-        )}
-
-        {step === 3 && (
-          <button
-            type="submit"
-            disabled={isSubmitting || Boolean(submitDisabledReason)}
-            className={submissionUi.primaryButton}
-          >
-            {isSubmitting ? "Submitting..." : "Submit Course"}
-          </button>
-        )}
-
-        <button
-          type="button"
-          onClick={discardDraft}
-          className={submissionUi.clearButton}
-        >
-          Clear draft
-        </button>
-
-        {submitState.kind === "success" && (
-          <div className="flex flex-wrap items-center gap-2">
-            <p className="text-sm text-emerald-700">{submitState.message}</p>
-            <Link href="/courses" className="rounded-lg border border-emerald-300 px-3 py-1.5 text-xs text-emerald-700">
-              Browse courses
-            </Link>
+        <div className="flex flex-1 flex-wrap items-center gap-2">
+          {step > 1 && (
             <button
               type="button"
-              onClick={() => setSubmitState({ kind: "idle" })}
-              className="rounded-lg border border-slate-300 px-3 py-1.5 text-xs text-slate-700"
+              onClick={() => setStep((prev) => (prev === 1 ? 1 : ((prev - 1) as Step)))}
+              className={submissionUi.secondaryButton}
             >
-              Add another
+              ← Back
             </button>
-          </div>
-        )}
-        {submitState.kind === "error" && <p className="text-sm text-rose-700">{submitState.message}</p>}
+          )}
+        </div>
+
+        <div className="flex flex-wrap items-center gap-2">
+          {step < 3 && (
+            <button
+              type="button"
+              onClick={() => setStep((prev) => (prev === 3 ? 3 : ((prev + 1) as Step)))}
+              disabled={(step === 1 && !canGoStep2) || (step === 2 && !canGoStep3)}
+              className={submissionUi.primaryButton}
+            >
+              Continue →
+            </button>
+          )}
+
+          {step === 3 && (
+            <button
+              type="submit"
+              disabled={isSubmitting || Boolean(submitDisabledReason)}
+              className={submissionUi.primaryButton}
+            >
+              {isSubmitting ? "Submitting..." : "Submit course"}
+            </button>
+          )}
+        </div>
       </SubmissionActionRow>
+
+      {step === 1 && (
+        <div className="flex justify-end">
+          <button
+            type="button"
+            onClick={discardDraft}
+            className="text-xs text-slate-500 underline-offset-2 hover:text-slate-700 hover:underline"
+          >
+            Clear draft
+          </button>
+        </div>
+      )}
+
+      {submitState.kind === "success" && (
+        <div className="flex flex-wrap items-center gap-2 rounded-xl border border-emerald-200 bg-emerald-50 p-3">
+          <p className="text-sm text-emerald-800">{submitState.message}</p>
+          <Link href="/courses" className="rounded-lg border border-emerald-300 px-3 py-1.5 text-xs text-emerald-800">
+            Browse courses
+          </Link>
+          <button
+            type="button"
+            onClick={() => setSubmitState({ kind: "idle" })}
+            className="rounded-lg border border-slate-300 px-3 py-1.5 text-xs text-slate-700"
+          >
+            Add another
+          </button>
+        </div>
+      )}
+      {submitState.kind === "error" && (
+        <p className="rounded-xl border border-rose-200 bg-rose-50 px-3 py-2 text-sm text-rose-800">
+          {submitState.message}
+        </p>
+      )}
     </form>
   );
 }

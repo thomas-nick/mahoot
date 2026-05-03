@@ -1,0 +1,116 @@
+{
+  "kind": "collectionType",
+  "collectionName": "market_listings",
+  "info": {
+    "singularName": "market-listing",
+    "pluralName": "market-listings",
+    "displayName": "Market Listing"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "priceUsd": {
+      "type": "decimal",
+      "required": true,
+      "min": 0
+    },
+    "currency": {
+      "type": "string",
+      "default": "USD",
+      "maxLength": 8
+    },
+    "negotiable": {
+      "type": "boolean",
+      "default": true
+    },
+    "condition": {
+      "type": "enumeration",
+      "enum": ["new", "like-new", "used", "inked", "unknown"],
+      "default": "used"
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": ["active", "sold", "cancelled"],
+      "default": "active"
+    },
+    "discDocumentId": {
+      "type": "string",
+      "required": true
+    },
+    "discExternalId": {
+      "type": "string"
+    },
+    "discDisplayName": {
+      "type": "string"
+    },
+    "plastic": {
+      "type": "string"
+    },
+    "weightGrams": {
+      "type": "integer",
+      "min": 100,
+      "max": 250
+    },
+    "colorStamp": {
+      "type": "string",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Color/stamp description, e.g., 'red w/ silver stamp'."
+        }
+      }
+    },
+    "shipping": {
+      "type": "enumeration",
+      "enum": ["ships-us-only", "ships-international", "local-pickup", "ships-and-pickup"],
+      "default": "ships-us-only"
+    },
+    "shippingPriceUsd": {
+      "type": "decimal",
+      "min": 0
+    },
+    "country": {
+      "type": "string",
+      "default": "US",
+      "maxLength": 2,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "ISO 3166-1 alpha-2 country code."
+        }
+      }
+    },
+    "city": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Primary listing photo (displayed first). Kept for backward compatibility."
+        }
+      }
+    },
+    "imageUrls": {
+      "type": "json",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Array of additional listing photo URLs (max 6 total including imageUrl)."
+        }
+      }
+    },
+    "seller": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user",
+      "required": true
+    }
+  }
+}

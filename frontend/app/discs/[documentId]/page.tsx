@@ -1,6 +1,10 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { DiscImage } from "@/app/components/DiscImage";
+import { HelpfulVoteButton } from "@/app/components/HelpfulVoteButton";
+import { RatingChip } from "@/app/components/RatingChip";
+import { ReviewByline } from "@/app/components/ReviewByline";
+import { BRAND_THEME_CLASSES, matchBrandGroupByName } from "@/app/marketplace/lib";
 import { getDiscDimensionsByExternalId } from "@/lib/disc-dimensions";
 import { rankFlightOnlyNeighbors } from "@/lib/disc-similarity";
 import {
@@ -8,11 +12,14 @@ import {
   getCollectorReleasesByDiscDocumentId,
   getDiscByDocumentId,
   getDiscRatingsByDocumentId,
+  getMarketListingsByDiscDocumentId,
 } from "@/lib/strapi";
 import { CollectorReleaseForm } from "./CollectorReleaseForm";
 import { CollectorReleaseManager } from "./CollectorReleaseManager";
 import { DiscRatingForm } from "./DiscRatingForm";
 import { EditDiscLink } from "./EditDiscLink";
+import { MarketplaceListingForm } from "./MarketplaceListingForm";
+import { QuickRating } from "./QuickRating";
 
 export const dynamic = "force-dynamic";
 
@@ -21,7 +28,7 @@ type DiscDetailProps = {
   searchParams: Promise<{ tab?: string }>;
 };
 
-type DiscTab = "overview" | "similar" | "reviews" | "collector";
+type DiscTab = "specs" | "similar" | "collector" | "marketplace";
 
 const getDiscDisplayName = (disc: {
   name: string;
@@ -38,7 +45,8 @@ const getDiscDisplayName = (disc: {
 export default async function DiscDetailPage({ params, searchParams }: DiscDetailProps) {
   const { documentId } = await params;
   const { tab } = await searchParams;
-  const activeTab: DiscTab = tab === "similar" || tab === "reviews" || tab === "collector" ? tab : "overview";
+  const activeTab: DiscTab =
+    tab === "similar" || tab === "collector" || tab === "marketplace" ? tab : "specs";
   const disc = await getDiscByDocumentId(documentId);
 
   if (!disc) {
@@ -53,10 +61,11 @@ export default async function DiscDetailPage({ params, searchParams }: DiscDetai
     rimThicknessCm: disc.rimThicknessCm ?? csvDimensions.rimThicknessCm,
     maxWeightGr: disc.maxWeightGr ?? csvDimensions.maxWeightGr,
   };
-  const [allDiscs, discRatings, collectorReleases] = await Promise.all([
+  const [allDiscs, discRatings, collectorReleases, marketListings] = await Promise.all([
     getAllDiscsForSimilarity(),
     getDiscRatingsByDocumentId(documentId),
     getCollectorReleasesByDiscDocumentId(documentId),
+    getMarketListingsByDiscDocumentId(documentId),
   ]);
   const similarByFlight = rankFlightOnlyNeighbors(disc, allDiscs, 5);
   const ratingSummary = summarizeRatings(discRatings);
@@ -70,62 +79,179 @@ export default async function DiscDetailPage({ params, searchParams }: DiscDetai
         <EditDiscLink documentId={disc.documentId} />
       </div>
 
-      <section className="rounded-2xl border border-slate-200 bg-white p-6">
-        <div className="mb-5 overflow-hidden rounded-2xl border border-slate-200 bg-slate-50">
-          <DiscImage
-            src={disc.imageUrl}
-            alt={`${disc.name} image`}
-            className="h-64 w-full object-cover"
-            fallbackLabel="No image available"
-            loading="eager"
-          />
-        </div>
-        <p className="text-sm text-slate-500">{disc.brand || "Unknown brand"}</p>
-        <h1 className="mt-1 text-3xl font-semibold">{getDiscDisplayName(disc)}</h1>
-        <p className="mt-2 text-slate-600">{disc.category || "No category"}</p>
+      <section className="overflow-hidden rounded-2xl border border-slate-200 bg-white">
+        <div className="grid gap-0 md:grid-cols-[minmax(0,1fr)_minmax(0,1.4fr)]">
+          <div className="relative aspect-[4/3] overflow-hidden bg-slate-50 md:aspect-auto">
+            <DiscImage
+              src={disc.imageUrl}
+              alt={`${disc.name} image`}
+              className="h-full w-full object-cover"
+              fallbackLabel="No image available"
+              loading="eager"
+            />
+          </div>
 
-        <div className="mt-6 grid gap-3 sm:grid-cols-4">
-          <Metric label="Speed" value={disc.speed} />
-          <Metric label="Glide" value={disc.glide} />
-          <Metric label="Turn" value={disc.turn} />
-          <Metric label="Fade" value={disc.fade} />
-        </div>
+          <div className="flex flex-col gap-4 p-5 sm:p-6">
+            {(() => {
+              const brandGroup = matchBrandGroupByName(disc.brand);
+              if (!brandGroup) {
+                return <p className="text-sm text-slate-500">{disc.brand || "Unknown brand"}</p>;
+              }
+              const classes = BRAND_THEME_CLASSES[brandGroup.theme];
+              return (
+                <div className="flex flex-wrap items-center gap-2 text-sm">
+                  <span className="text-slate-500">{disc.brand}</span>
+                  <Link
+                    href={`/marketplace?group=${brandGroup.id}`}
+                    className={`inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-semibold transition hover:opacity-80 ${classes.chip}`}
+                    title={`Browse the ${brandGroup.label} marketplace group`}
+                  >
+                    {brandGroup.label} group →
+                  </Link>
+                </div>
+              );
+            })()}
+            <div>
+              <h1 className="text-3xl font-semibold">{getDiscDisplayName(disc)}</h1>
+              <p className="mt-1 text-sm text-slate-600">{disc.category || "No category"}</p>
+            </div>
 
-        <div className="mt-4 rounded-xl border border-slate-200 bg-slate-50 p-3">
-          <p className="text-xs uppercase tracking-wide text-slate-500">Dimensions</p>
-          <div className="mt-2 grid gap-2 text-xs text-slate-700 sm:grid-cols-5">
-            <DimensionMetric label="Diameter" value={dimensions.diameterCm} unit="cm" />
-            <DimensionMetric label="Height" value={dimensions.heightCm} unit="cm" />
-            <DimensionMetric label="Rim depth" value={dimensions.rimDepthCm} unit="cm" />
-            <DimensionMetric label="Rim thickness" value={dimensions.rimThicknessCm} unit="cm" />
-            <DimensionMetric label="Max weight" value={dimensions.maxWeightGr} unit="g" />
+            <div className="flex flex-wrap items-center gap-3">
+              <RatingChip
+                average={ratingSummary.averageOverall}
+                count={ratingSummary.count}
+                size="lg"
+                emphasis="headline"
+              />
+              <a
+                href="#reviews"
+                className="text-sm font-medium text-slate-600 underline-offset-2 hover:text-slate-900 hover:underline"
+              >
+                Read or write a review →
+              </a>
+            </div>
+
+            <div className="grid gap-3 sm:grid-cols-4">
+              <Metric label="Speed" value={disc.speed} />
+              <Metric label="Glide" value={disc.glide} />
+              <Metric label="Turn" value={disc.turn} />
+              <Metric label="Fade" value={disc.fade} />
+            </div>
           </div>
         </div>
+      </section>
 
-        <div className="mt-6 grid gap-4 sm:grid-cols-2">
-          <Info label="Stability" value={disc.stability} />
-          <Info label="Plastic" value={disc.plasticName ?? null} />
+      <section id="reviews" className="space-y-4 scroll-mt-24">
+        <div>
+          <h2 className="text-xl font-semibold text-slate-900">Reviews</h2>
+          <p className="mt-1 text-sm text-slate-600">
+            {ratingSummary.count > 0
+              ? `${ratingSummary.count} player rating${ratingSummary.count === 1 ? "" : "s"} so far.`
+              : "No ratings yet — be the first to share what this disc actually does."}
+          </p>
         </div>
+
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+          <Metric label="Average overall" value={ratingSummary.averageOverall} />
+          <Metric label="Review count" value={ratingSummary.count} />
+          <Metric label="Avg turn delta" value={ratingSummary.averageTurnDelta} />
+          <Metric label="Avg stability delta" value={ratingSummary.averageStabilityDelta} />
+        </div>
+
+        <QuickRating
+          discDocumentId={disc.documentId}
+          discExternalId={disc.externalId}
+          discName={disc.name}
+        />
+
+        <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
+          <h3 className="text-base font-semibold text-slate-900">Recent community reviews</h3>
+          {discRatings.length === 0 ? (
+            <p className="mt-2 text-sm text-slate-600">No reviews yet. Be the first to review this disc.</p>
+          ) : (
+            <div className="mt-4 space-y-3">
+              {discRatings.map((rating) => (
+                <article
+                  key={rating.documentId ?? String(rating.id)}
+                  className="rounded-xl border border-slate-200 p-4"
+                >
+                  <p className="text-sm font-medium text-slate-900">
+                    Overall {rating.overall ?? "-"} / 10
+                    <span className="ml-2 text-xs font-normal text-slate-500">
+                      {[
+                        `Grip ${rating.feelGrip ?? "-"}`,
+                        `Forgiving ${rating.forgiving ?? "-"}`,
+                        `Wind ${rating.windTrust ?? "-"}`,
+                        `Shaping ${rating.shotShaping ?? "-"}`,
+                      ].join(" · ")}
+                    </span>
+                  </p>
+                  <p className="mt-1 text-xs text-slate-500">
+                    {[
+                      rating.turnDelta !== null && rating.turnDelta !== undefined
+                        ? `Turn delta ${rating.turnDelta > 0 ? `+${rating.turnDelta}` : rating.turnDelta}`
+                        : null,
+                      rating.stabilityDelta !== null && rating.stabilityDelta !== undefined
+                        ? `Stability delta ${
+                            rating.stabilityDelta > 0 ? `+${rating.stabilityDelta}` : rating.stabilityDelta
+                          }`
+                        : null,
+                      rating.throwStyle ? `Style ${rating.throwStyle}` : null,
+                      rating.armSpeedBand ? `Arm ${rating.armSpeedBand}` : null,
+                    ]
+                      .filter(Boolean)
+                      .join(" · ")}
+                  </p>
+                  {rating.comment ? (
+                    <p className="mt-2 whitespace-pre-wrap text-sm text-slate-700">{rating.comment}</p>
+                  ) : null}
+                  <div className="mt-3 flex flex-wrap items-center justify-between gap-2">
+                    <ReviewByline
+                      userId={rating.submittedBy?.id ?? null}
+                      username={rating.submittedBy?.username ?? null}
+                      emailFallback={rating.submittedBy?.email ?? null}
+                      createdAt={rating.createdAt}
+                    />
+                    <HelpfulVoteButton
+                      kind="disc"
+                      ratingDocumentId={rating.documentId}
+                      initialHelpfulCount={rating.helpfulCount ?? 0}
+                      reviewAuthorUserId={rating.submittedBy?.id ?? null}
+                    />
+                  </div>
+                </article>
+              ))}
+            </div>
+          )}
+        </section>
+
+        <section id="full-review-form" className="scroll-mt-24">
+          <DiscRatingForm
+            discDocumentId={disc.documentId}
+            discExternalId={disc.externalId}
+            discName={disc.name}
+          />
+        </section>
       </section>
 
       <div className="relative">
         <nav className="-mx-1 overflow-x-auto px-1 pb-1">
           <div className="flex min-w-max gap-2">
-            <TabLink href={`/discs/${disc.documentId}`} label="Overview" active={activeTab === "overview"} />
+            <TabLink href={`/discs/${disc.documentId}`} label="Specs & Dimensions" active={activeTab === "specs"} />
             <TabLink
               href={`/discs/${disc.documentId}?tab=similar`}
               label="Similar Other Molds"
               active={activeTab === "similar"}
             />
             <TabLink
-              href={`/discs/${disc.documentId}?tab=reviews`}
-              label="Reviews"
-              active={activeTab === "reviews"}
-            />
-            <TabLink
               href={`/discs/${disc.documentId}?tab=collector`}
               label="Collector"
               active={activeTab === "collector"}
+            />
+            <TabLink
+              href={`/discs/${disc.documentId}?tab=marketplace`}
+              label="Marketplace"
+              active={activeTab === "marketplace"}
             />
           </div>
         </nav>
@@ -133,12 +259,26 @@ export default async function DiscDetailPage({ params, searchParams }: DiscDetai
         <div className="pointer-events-none absolute inset-y-0 right-0 w-5 bg-gradient-to-l from-slate-50 to-transparent sm:hidden" />
       </div>
 
-      {activeTab === "overview" ? (
+      {activeTab === "specs" ? (
         <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
-          <h2 className="text-lg font-semibold text-slate-900">Disc Overview</h2>
-          <p className="mt-2 text-sm text-slate-600">
-            Flight numbers, dimensions, and core attributes for {disc.name}.
-          </p>
+          <h2 className="text-lg font-semibold text-slate-900">Specs &amp; dimensions</h2>
+          <p className="mt-1 text-sm text-slate-600">Manufacturer-published data for {disc.name}.</p>
+
+          <div className="mt-4 rounded-xl border border-slate-200 bg-slate-50 p-3">
+            <p className="text-xs uppercase tracking-wide text-slate-500">Dimensions</p>
+            <div className="mt-2 grid gap-2 text-xs text-slate-700 sm:grid-cols-5">
+              <DimensionMetric label="Diameter" value={dimensions.diameterCm} unit="cm" />
+              <DimensionMetric label="Height" value={dimensions.heightCm} unit="cm" />
+              <DimensionMetric label="Rim depth" value={dimensions.rimDepthCm} unit="cm" />
+              <DimensionMetric label="Rim thickness" value={dimensions.rimThicknessCm} unit="cm" />
+              <DimensionMetric label="Max weight" value={dimensions.maxWeightGr} unit="g" />
+            </div>
+          </div>
+
+          <div className="mt-4 grid gap-4 sm:grid-cols-2">
+            <Info label="Stability" value={disc.stability} />
+            <Info label="Plastic" value={disc.plasticName ?? null} />
+          </div>
         </section>
       ) : null}
 
@@ -184,80 +324,6 @@ export default async function DiscDetailPage({ params, searchParams }: DiscDetai
         </section>
       ) : null}
 
-      {activeTab === "reviews" ? (
-        <section className="space-y-4">
-          <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
-            <h2 className="text-xl font-semibold text-slate-900">Disc Reviews</h2>
-            <p className="mt-1 text-sm text-slate-600">Community ratings with turn/stability deltas.</p>
-
-            <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-              <Metric label="Average overall" value={ratingSummary.averageOverall} />
-              <Metric label="Review count" value={ratingSummary.count} />
-              <Metric label="Avg turn delta" value={ratingSummary.averageTurnDelta} />
-              <Metric label="Avg stability delta" value={ratingSummary.averageStabilityDelta} />
-            </div>
-          </section>
-
-          <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
-            <h3 className="text-base font-semibold text-slate-900">Recent community reviews</h3>
-            {discRatings.length === 0 ? (
-              <p className="mt-2 text-sm text-slate-600">No reviews yet. Be the first to review this disc.</p>
-            ) : (
-              <div className="mt-4 space-y-3">
-                {discRatings.map((rating) => (
-                  <article
-                    key={rating.documentId ?? String(rating.id)}
-                    className="rounded-xl border border-slate-200 p-4"
-                  >
-                    <p className="text-sm font-medium text-slate-900">
-                      Overall {rating.overall ?? "-"} / 10
-                      <span className="ml-2 text-xs font-normal text-slate-500">
-                        {[
-                          `Grip ${rating.feelGrip ?? "-"}`,
-                          `Forgiving ${rating.forgiving ?? "-"}`,
-                          `Wind ${rating.windTrust ?? "-"}`,
-                          `Shaping ${rating.shotShaping ?? "-"}`,
-                        ].join(" · ")}
-                      </span>
-                    </p>
-                    <p className="mt-1 text-xs text-slate-500">
-                      {[
-                        rating.turnDelta !== null && rating.turnDelta !== undefined
-                          ? `Turn delta ${rating.turnDelta > 0 ? `+${rating.turnDelta}` : rating.turnDelta}`
-                          : null,
-                        rating.stabilityDelta !== null && rating.stabilityDelta !== undefined
-                          ? `Stability delta ${
-                              rating.stabilityDelta > 0 ? `+${rating.stabilityDelta}` : rating.stabilityDelta
-                            }`
-                          : null,
-                        rating.throwStyle ? `Style ${rating.throwStyle}` : null,
-                        rating.armSpeedBand ? `Arm ${rating.armSpeedBand}` : null,
-                      ]
-                        .filter(Boolean)
-                        .join(" · ")}
-                    </p>
-                    {rating.comment ? (
-                      <p className="mt-2 whitespace-pre-wrap text-sm text-slate-700">{rating.comment}</p>
-                    ) : null}
-                    <p className="mt-2 text-xs text-slate-500">
-                      {(rating.submittedBy?.username || rating.submittedBy?.email || "Community member") +
-                        " · " +
-                        (rating.createdAt ? new Date(rating.createdAt).toLocaleDateString() : "Unknown date")}
-                    </p>
-                  </article>
-                ))}
-              </div>
-            )}
-          </section>
-
-          <DiscRatingForm
-            discDocumentId={disc.documentId}
-            discExternalId={disc.externalId}
-            discName={disc.name}
-          />
-        </section>
-      ) : null}
-
       {activeTab === "collector" ? (
         <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
           <h2 className="text-xl font-semibold text-slate-900">Collector Runs</h2>
@@ -270,6 +336,53 @@ export default async function DiscDetailPage({ params, searchParams }: DiscDetai
             discExternalId={disc.externalId}
             discName={disc.name}
           />
+        </section>
+      ) : null}
+
+      {activeTab === "marketplace" ? (
+        <section className="space-y-6">
+          <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
+            <h2 className="text-xl font-semibold text-slate-900">Marketplace</h2>
+            <p className="mt-1 text-sm text-slate-600">
+              Peer-to-peer listings for this disc. Payments and shipping are between buyer and seller for now.
+            </p>
+
+            {marketListings.length === 0 ? (
+              <p className="mt-3 text-sm text-slate-600">No active listings yet.</p>
+            ) : (
+              <ul className="mt-4 space-y-3">
+                {marketListings.map((listing) => (
+                  <li
+                    key={listing.documentId ?? String(listing.id)}
+                    className="rounded-xl border border-slate-200 p-4"
+                  >
+                    <p className="font-medium text-slate-900">{listing.title}</p>
+                    <p className="mt-1 text-sm text-slate-600">
+                      ${Number(listing.priceUsd).toFixed(2)}{" "}
+                      {listing.currency && listing.currency !== "USD" ? listing.currency : ""}
+                      {listing.condition ? ` · ${listing.condition}` : ""}
+                    </p>
+                    {listing.description ? (
+                      <p className="mt-2 whitespace-pre-wrap text-sm text-slate-700">{listing.description}</p>
+                    ) : null}
+                    <p className="mt-2 text-xs text-slate-500">
+                      Seller: {listing.seller?.username || listing.seller?.email || "Community member"}
+                    </p>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </section>
+
+          <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
+            <h3 className="text-lg font-semibold text-slate-900">Sell this disc</h3>
+            <p className="mt-1 text-sm text-slate-600">Create a listing tied to this disc variant.</p>
+            <MarketplaceListingForm
+              discDocumentId={disc.documentId}
+              discExternalId={disc.externalId}
+              discDisplayName={getDiscDisplayName(disc)}
+            />
+          </section>
         </section>
       ) : null}
     </article>

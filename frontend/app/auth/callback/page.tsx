@@ -6,11 +6,12 @@ import { writeAuthSession } from "@/lib/auth";
 import { trackEvent } from "@/lib/analytics";
 import { normalizeOAuthProvider, repairOAuthSearchString } from "@/lib/oauth-callback-query";
 import { consumePostAuthRedirect } from "@/lib/post-auth-redirect";
+import { getStrapiBrowserUrl } from "@/lib/strapi-server-url";
 
 type OAuthState =
   | { kind: "parsing" }
   | { kind: "loading"; message: string }
-  | { kind: "error"; message: string }
+  | { kind: "error"; message: string; hints?: string[] }
   | { kind: "success"; message: string };
 
 type ParsedCallback = {
@@ -20,7 +21,7 @@ type ParsedCallback = {
   providerErrorDescription: string;
 };
 
-const ALLOWED_PROVIDERS = new Set(["google", "facebook"]);
+const ALLOWED_PROVIDERS = new Set(["google"]);
 
 const OAUTH_PENDING_PROVIDER_KEY = "oauth_pending_provider";
 
@@ -113,6 +114,20 @@ export default function OAuthCallbackPage() {
     return "";
   }, [parsed]);
 
+  const originHint = useMemo(() => {
+    if (typeof window === "undefined") return null;
+    try {
+      const strapi = new URL(getStrapiBrowserUrl());
+      const here = window.location.hostname;
+      if (here && strapi.hostname && here !== strapi.hostname) {
+        return `Your browser is on "${here}" but Strapi is on "${strapi.hostname}". Use the same hostname (both localhost or both 127.0.0.1) so the OAuth session cookie/storage carries through.`;
+      }
+    } catch {
+      /* ignore */
+    }
+    return null;
+  }, []);
+
   useEffect(() => {
     if (!parsed || validationError || exchangeStarted.current) {
       return;
@@ -153,12 +168,21 @@ export default function OAuthCallbackPage() {
         } catch {
           /* ignore */
         }
-        setState({
-          kind: "error",
-          message: error instanceof Error ? error.message : "OAuth login failed.",
-        });
+        const message = error instanceof Error ? error.message : "OAuth login failed.";
+        const hints: string[] = [];
+        if (originHint) hints.push(originHint);
+        if (parsed?.provider === "google" && /id_token|access_token/i.test(message)) {
+          hints.push(
+            "In Strapi → Settings → Providers → Google, set the front-end redirect to your /auth/callback URL with no query string, then save and retry.",
+          );
+        }
+
+        if (/network|failed to fetch/i.test(message)) {
+          hints.push("The Next.js server could not reach Strapi. Confirm Strapi is running and STRAPI_URL / NEXT_PUBLIC_STRAPI_URL point at the same host.");
+        }
+        setState({ kind: "error", message, hints });
       });
-  }, [parsed, validationError]);
+  }, [parsed, validationError, originHint]);
 
   useEffect(() => {
     if (!parsed || !validationError) {
@@ -192,6 +216,13 @@ export default function OAuthCallbackPage() {
       {state.kind === "error" && !validationError && parsed && (
         <div className="space-y-2">
           <p className="text-sm text-rose-700">{state.message}</p>
+          {state.hints && state.hints.length > 0 ? (
+            <ul className="list-disc space-y-1 pl-5 text-xs text-slate-600">
+              {state.hints.map((hint, index) => (
+                <li key={index}>{hint}</li>
+              ))}
+            </ul>
+          ) : null}
           <Link href="/account" className="text-sm text-slate-700 underline hover:text-slate-900">
             Back to account
           </Link>

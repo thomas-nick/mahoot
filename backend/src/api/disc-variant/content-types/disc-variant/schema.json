@@ -64,6 +64,15 @@
     },
     "slug": {
       "type": "string"
+    },
+    "ratingAverageOverall": {
+      "type": "decimal"
+    },
+    "ratingCount": {
+      "type": "integer"
+    },
+    "ratingBayesScore": {
+      "type": "decimal"
     }
   }
 }

@@ -22,6 +22,7 @@
     "set:courses-country-from-state-map": "node ./scripts/set-courses-country-from-state-map.js",
     "reindex:typesense": "node ./scripts/reindex-typesense.js",
     "check:typesense-sync": "node ./scripts/check-typesense-sync.js",
+    "backfill:ratings": "node ./scripts/backfill-rating-aggregates.js",
     "start": "strapi start",
     "strapi": "strapi",
     "upgrade": "npx @strapi/upgrade latest",

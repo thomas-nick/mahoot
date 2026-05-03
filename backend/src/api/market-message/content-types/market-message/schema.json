@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "market_messages",
+  "info": {
+    "singularName": "market-message",
+    "pluralName": "market-messages",
+    "displayName": "Market Message",
+    "description": "A message on a marketplace listing thread between buyer and seller."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "listing": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::market-listing.market-listing",
+      "required": true
+    },
+    "sender": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user",
+      "required": true
+    },
+    "recipient": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user",
+      "required": true
+    },
+    "body": {
+      "type": "text",
+      "required": true,
+      "maxLength": 2000
+    },
+    "readAt": {
+      "type": "datetime"
+    }
+  }
+}

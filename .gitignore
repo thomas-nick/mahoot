@@ -20,3 +20,4 @@ frontend/out/
 *.log
 npm-debug.log*
 .turbo
+.cursor-recovery/

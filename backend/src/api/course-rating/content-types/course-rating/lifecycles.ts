@@ -1,3 +1,5 @@
+import { bayesScore } from '../../../../utils/bayes';
+
 const COURSE_RATING_UID = 'api::course-rating.course-rating';
 const COURSE_UID = 'api::course.course';
 
@@ -77,15 +79,19 @@ const refreshCourseRatingAggregates = async (strapi: any, courseDocumentId: stri
     if (scenery !== null) sceneryScores.push(scenery);
   }
 
+  const ratingAverageOverall = average(overallScores);
+  const ratingCount = ratings.length;
+
   await courseService.update({
     documentId: courseDocumentId,
     data: {
-      ratingAverageOverall: average(overallScores),
+      ratingAverageOverall,
       ratingAverageLayout: average(layoutScores),
       ratingAverageSignage: average(signageScores),
       ratingAverageMaintenance: average(maintenanceScores),
       ratingAverageScenery: average(sceneryScores),
-      ratingCount: ratings.length,
+      ratingCount,
+      ratingBayesScore: bayesScore(ratingAverageOverall, ratingCount),
     },
   });
 };

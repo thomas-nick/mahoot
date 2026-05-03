@@ -3,6 +3,7 @@ const Typesense = require('typesense');
 const DISCS_COLLECTION = 'discs';
 const COURSES_COLLECTION = 'courses';
 const COLLECTOR_RELEASES_COLLECTION = 'collector_releases';
+const LISTINGS_COLLECTION = 'listings';
 
 const toFloat = (value) => {
   if (value === null || value === undefined || value === '') {
@@ -96,6 +97,25 @@ const ensureCollections = async (client) => {
         { name: 'priceHighUsd', type: 'float', optional: true },
         { name: 'imageUrl', type: 'string', optional: true },
         { name: 'notes', type: 'string', optional: true },
+      ],
+    },
+    {
+      name: LISTINGS_COLLECTION,
+      fields: [
+        { name: 'id', type: 'string' },
+        { name: 'title', type: 'string' },
+        { name: 'description', type: 'string', optional: true },
+        { name: 'priceUsd', type: 'float', optional: true },
+        { name: 'currency', type: 'string', facet: true, optional: true },
+        { name: 'condition', type: 'string', facet: true, optional: true },
+        { name: 'status', type: 'string', facet: true, optional: true },
+        { name: 'discId', type: 'string', facet: true, optional: true },
+        { name: 'discExternalId', type: 'string', optional: true },
+        { name: 'discDisplayName', type: 'string', optional: true },
+        { name: 'sellerId', type: 'string', facet: true, optional: true },
+        { name: 'sellerUsername', type: 'string', optional: true },
+        { name: 'imageUrl', type: 'string', optional: true },
+        { name: 'listedAt', type: 'int64', optional: true },
       ],
     },
   ];
@@ -204,6 +224,30 @@ const mapCollectorRelease = (release) => {
   };
 };
 
+const mapMarketListing = (listing) => {
+  const seller = listing.seller || {};
+  const listedSource = listing.createdAt ?? listing.updatedAt ?? listing.publishedAt;
+  const listedAtMs = listedSource ? Date.parse(String(listedSource)) : NaN;
+  const listedAt = Number.isFinite(listedAtMs) ? Math.floor(listedAtMs / 1000) : undefined;
+
+  return {
+    id: asString(listing.documentId ?? listing.id),
+    title: asString(listing.title),
+    description: asString(listing.description),
+    priceUsd: toFloat(listing.priceUsd),
+    currency: asString(listing.currency || 'USD'),
+    condition: asString(listing.condition),
+    status: asString(listing.status),
+    discId: asString(listing.discDocumentId),
+    discExternalId: asString(listing.discExternalId),
+    discDisplayName: asString(listing.discDisplayName),
+    sellerId: asString(seller.id ?? seller.documentId),
+    sellerUsername: asString(seller.username),
+    imageUrl: asString(listing.imageUrl),
+    listedAt,
+  };
+};
+
 const importBatches = async (client, collectionName, docs, batchSize = 200) => {
   for (let index = 0; index < docs.length; index += batchSize) {
     const batch = docs.slice(index, index + batchSize);
@@ -218,10 +262,12 @@ module.exports = {
   DISCS_COLLECTION,
   COURSES_COLLECTION,
   COLLECTOR_RELEASES_COLLECTION,
+  LISTINGS_COLLECTION,
   createClient,
   ensureCollections,
   mapDisc,
   mapCourse,
   mapCollectorRelease,
+  mapMarketListing,
   importBatches,
 };

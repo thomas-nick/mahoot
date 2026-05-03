@@ -3,7 +3,7 @@ import { normalizeOAuthProvider, repairOAuthSearchString } from "@/lib/oauth-cal
 import { getStrapiServerUrl } from "@/lib/strapi-server-url";
 
 const STRAPI_URL = getStrapiServerUrl();
-const ALLOWED_PROVIDERS = new Set(["google", "facebook"]);
+const ALLOWED_PROVIDERS = new Set(["google"]);
 
 const STRAPI_REDIRECT_HINT =
   "Strapi appended a second ? to your callback URL. In Strapi → Google provider, set the front-end redirect to " +

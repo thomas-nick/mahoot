@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "disc_rating_votes",
+  "info": {
+    "singularName": "disc-rating-vote",
+    "pluralName": "disc-rating-votes",
+    "displayName": "Disc Rating Vote",
+    "description": "A user's helpful / not-helpful vote on a disc review."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "rating": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::disc-rating.disc-rating",
+      "required": true
+    },
+    "voter": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user",
+      "required": true
+    },
+    "value": {
+      "type": "integer",
+      "required": true,
+      "min": -1,
+      "max": 1
+    }
+  }
+}

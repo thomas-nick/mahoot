@@ -65,8 +65,29 @@ type CollectorDoc = {
   notes?: string;
 };
 
+type ListingDoc = {
+  id: string;
+  title?: string;
+  description?: string;
+  priceUsd?: number;
+  currency?: string;
+  condition?: string;
+  status?: string;
+  discId?: string;
+  discExternalId?: string;
+  discDisplayName?: string;
+  sellerId?: string;
+  sellerUsername?: string;
+  imageUrl?: string;
+};
+
 type MultiSearchResponse = {
-  results: Array<MultiSearchResult<DiscDoc> | MultiSearchResult<CourseDoc> | MultiSearchResult<CollectorDoc>>;
+  results: Array<
+    | MultiSearchResult<DiscDoc>
+    | MultiSearchResult<CourseDoc>
+    | MultiSearchResult<CollectorDoc>
+    | MultiSearchResult<ListingDoc>
+  >;
 };
 
 type FacetBucket = { value: string; count: number };
@@ -111,6 +132,20 @@ type CollectorHit = {
   priceHighUsd: number | null;
   imageUrl: string | null;
   notes: string | null;
+};
+
+type ListingHit = {
+  id: string;
+  title: string;
+  description: string | null;
+  priceUsd: number | null;
+  currency: string | null;
+  condition: string | null;
+  status: string | null;
+  discId: string | null;
+  discDisplayName: string | null;
+  sellerUsername: string | null;
+  imageUrl: string | null;
 };
 
 type NearbyCourseHit = {
@@ -337,11 +372,33 @@ const buildCourseFilterBy = (searchParams: URLSearchParams) => {
   return filters.join(" && ");
 };
 
+const buildListingFilterBy = (searchParams: URLSearchParams) => {
+  const filters: string[] = [];
+  const condition = (searchParams.get("listingCondition") ?? "").trim();
+  const status = (searchParams.get("listingStatus") ?? "").trim();
+  const discId = (searchParams.get("listingDiscId") ?? "").trim();
+
+  if (condition) {
+    filters.push(`condition:=${JSON.stringify(condition)}`);
+  }
+  if (status) {
+    filters.push(`status:=${JSON.stringify(status)}`);
+  } else {
+    filters.push(`status:=${JSON.stringify("active")}`);
+  }
+  if (discId) {
+    filters.push(`discId:=${JSON.stringify(discId)}`);
+  }
+
+  return filters.join(" && ");
+};
+
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
   const q = (searchParams.get("q") ?? "").trim();
   const discFilterBy = buildDiscFilterBy(searchParams);
   const courseFilterBy = buildCourseFilterBy(searchParams);
+  const listingFilterBy = buildListingFilterBy(searchParams);
 
   if (q.length < 2) {
     return NextResponse.json({
@@ -349,6 +406,7 @@ export async function GET(request: Request) {
       discs: [],
       courses: [],
       collectors: [] as CollectorHit[],
+      listings: [] as ListingHit[],
       nearbyCourses: [] as NearbyCourseHit[],
       discsMeta: emptyDiscMeta,
       coursesMeta: emptyCourseMeta,
@@ -364,6 +422,7 @@ export async function GET(request: Request) {
         discs: [],
         courses: [],
         collectors: [] as CollectorHit[],
+        listings: [] as ListingHit[],
         nearbyCourses: [] as NearbyCourseHit[],
         discsMeta: emptyDiscMeta,
         coursesMeta: emptyCourseMeta,
@@ -406,6 +465,16 @@ export async function GET(request: Request) {
         facet_by: "brand,mold,oopStatus,year",
         max_facet_values: 20,
       },
+      {
+        collection: "listings",
+        q,
+        query_by: "title,description,discDisplayName,sellerUsername",
+        per_page: 6,
+        prefix: true,
+        facet_by: "condition,status,currency",
+        max_facet_values: 20,
+        ...(listingFilterBy ? { filter_by: listingFilterBy } : {}),
+      },
     ],
   };
 
@@ -430,6 +499,7 @@ export async function GET(request: Request) {
           discs: [],
           courses: [],
           collectors: [] as CollectorHit[],
+          listings: [] as ListingHit[],
           nearbyCourses: [] as NearbyCourseHit[],
           discsMeta: emptyDiscMeta,
           coursesMeta: emptyCourseMeta,
@@ -442,6 +512,7 @@ export async function GET(request: Request) {
     const discResults = data.results?.[0] as MultiSearchResult<DiscDoc> | undefined;
     const courseResults = data.results?.[1] as MultiSearchResult<CourseDoc> | undefined;
     const collectorResults = data.results?.[2] as MultiSearchResult<CollectorDoc> | undefined;
+    const listingResults = data.results?.[3] as MultiSearchResult<ListingDoc> | undefined;
 
     const discs =
       discResults?.hits?.map((h) => {
@@ -496,6 +567,24 @@ export async function GET(request: Request) {
           priceHighUsd: typeof doc.priceHighUsd === "number" ? doc.priceHighUsd : null,
           imageUrl: doc.imageUrl ?? null,
           notes: doc.notes ?? null,
+        };
+      }) ?? [];
+
+    const listings: ListingHit[] =
+      listingResults?.hits?.map((h) => {
+        const doc = h.document;
+        return {
+          id: String(doc.id ?? ""),
+          title: doc.title ?? "",
+          description: doc.description ?? null,
+          priceUsd: typeof doc.priceUsd === "number" ? doc.priceUsd : null,
+          currency: doc.currency ?? null,
+          condition: doc.condition ?? null,
+          status: doc.status ?? null,
+          discId: doc.discId ?? null,
+          discDisplayName: doc.discDisplayName ?? null,
+          sellerUsername: doc.sellerUsername ?? null,
+          imageUrl: doc.imageUrl ?? null,
         };
       }) ?? [];
 
@@ -557,6 +646,7 @@ export async function GET(request: Request) {
       discs: discsWithRatings,
       courses,
       collectors,
+      listings,
       nearbyCourses,
       discsMeta: {
         found: discResults?.found ?? 0,
@@ -585,6 +675,8 @@ export async function GET(request: Request) {
         error: message,
         discs: [],
         courses: [],
+        collectors: [] as CollectorHit[],
+        listings: [] as ListingHit[],
         nearbyCourses: [] as NearbyCourseHit[],
         discsMeta: emptyDiscMeta,
         coursesMeta: emptyCourseMeta,

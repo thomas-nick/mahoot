@@ -113,6 +113,9 @@
     },
     "ratingCount": {
       "type": "integer"
+    },
+    "ratingBayesScore": {
+      "type": "decimal"
     }
   }
 }

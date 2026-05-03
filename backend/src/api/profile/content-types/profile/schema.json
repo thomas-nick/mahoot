@@ -26,6 +26,104 @@
     "country": {
       "type": "string"
     },
+    "avatarUrl": {
+      "type": "string",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Public avatar image URL (uploaded via /api/upload or pasted)."
+        }
+      }
+    },
+    "paypalHandle": {
+      "type": "string",
+      "maxLength": 120,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Public PayPal email or paypal.me/{handle}. Used to render Pay-with-PayPal links on listings."
+        }
+      }
+    },
+    "venmoHandle": {
+      "type": "string",
+      "maxLength": 60,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Public Venmo username (without leading @). Used to render Pay-with-Venmo links on listings."
+        }
+      }
+    },
+    "stripePaymentLinkUrl": {
+      "type": "string",
+      "maxLength": 500,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Optional Stripe Payment Link URL (created by the seller in their own Stripe dashboard)."
+        }
+      }
+    },
+    "acceptsCashOnPickup": {
+      "type": "boolean",
+      "default": false,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "If true, listing detail pages show 'Cash accepted on local pickup'."
+        }
+      }
+    },
+    "ethAddress": {
+      "type": "string",
+      "maxLength": 80,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Optional EVM (ERC-20) wallet address (0x…). Buyers send the right token themselves; double-check network."
+        }
+      }
+    },
+    "solAddress": {
+      "type": "string",
+      "maxLength": 80,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Optional Solana wallet address (base58)."
+        }
+      }
+    },
+    "dotAddress": {
+      "type": "string",
+      "maxLength": 80,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Optional Polkadot (DOT) wallet address (SS58)."
+        }
+      }
+    },
+    "ksmAddress": {
+      "type": "string",
+      "maxLength": 80,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Optional Kusama (KSM) wallet address (SS58)."
+        }
+      }
+    },
+    "btcAddress": {
+      "type": "string",
+      "maxLength": 100,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Optional Bitcoin address (Legacy, SegWit, or Taproot)."
+        }
+      }
+    },
+    "cryptoNotes": {
+      "type": "string",
+      "maxLength": 280,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Free-form note shown next to crypto addresses (e.g. 'USDC on Polygon only', 'ETH mainnet')."
+        }
+      }
+    },
     "user": {
       "type": "relation",
       "relation": "manyToOne",

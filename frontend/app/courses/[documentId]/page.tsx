@@ -1,6 +1,9 @@
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { HelpfulVoteButton } from "@/app/components/HelpfulVoteButton";
+import { RatingChip } from "@/app/components/RatingChip";
+import { ReviewByline } from "@/app/components/ReviewByline";
 import { getCourseByDocumentId, getCourseRatingsByDocumentId, toAbsoluteStrapiUrl } from "@/lib/strapi";
 import { CourseRatingForm } from "./CourseRatingForm";
 import { EditCourseLink } from "./EditCourseLink";
@@ -13,13 +16,12 @@ type CourseDetailProps = {
   searchParams: Promise<{ tab?: string }>;
 };
 
-type CourseTab = "overview" | "layouts" | "reviews" | "media";
+type CourseTab = "details" | "layouts" | "media";
 
 export default async function CourseDetailPage({ params, searchParams }: CourseDetailProps) {
   const { documentId } = await params;
   const { tab } = await searchParams;
-  const activeTab: CourseTab =
-    tab === "layouts" || tab === "reviews" || tab === "media" ? tab : "overview";
+  const activeTab: CourseTab = tab === "layouts" || tab === "media" ? tab : "details";
   const [course, ratings] = await Promise.all([
     getCourseByDocumentId(documentId),
     getCourseRatingsByDocumentId(documentId),
@@ -62,39 +64,108 @@ export default async function CourseDetailPage({ params, searchParams }: CourseD
               {[course.city, course.state, course.country, course.zip].filter(Boolean).join(", ") ||
                 "Unknown location"}
             </p>
-            <h1 className="mt-1 text-3xl font-semibold text-white sm:text-4xl">{course.name}</h1>
-
-            <div className="mt-4 grid gap-2 sm:grid-cols-4">
-              <HeroStat
-                label="Overall"
-                value={course.ratingAverageOverall !== null ? `${course.ratingAverageOverall}/10` : "-"}
-              />
-              <HeroStat label="Reviews" value={course.ratingCount ?? 0} />
-              <HeroStat label="Difficulty" value={course.difficulty ?? "-"} />
-              <HeroStat label="Type" value={course.type ?? "-"} />
-              <HeroStat label="Layout Avg" value={course.ratingAverageLayout} />
-              <HeroStat label="Signage Avg" value={course.ratingAverageSignage} />
-              <HeroStat label="Maintenance Avg" value={course.ratingAverageMaintenance} />
-              <HeroStat label="Scenery Avg" value={course.ratingAverageScenery} />
+            <div className="mt-1 flex flex-wrap items-end justify-between gap-3">
+              <h1 className="text-3xl font-semibold text-white sm:text-4xl">{course.name}</h1>
+              <a
+                href="#reviews"
+                className="inline-flex items-center gap-2 rounded-full bg-white/95 px-3 py-1.5 text-sm font-semibold text-slate-900 shadow-sm transition hover:bg-white"
+              >
+                <span aria-hidden>★</span>
+                {course.ratingAverageOverall !== null
+                  ? `${course.ratingAverageOverall}/10 (${course.ratingCount ?? 0})`
+                  : "Be the first to review"}
+              </a>
             </div>
 
+            <div className="mt-4 grid gap-2 sm:grid-cols-4">
+              <HeroStat label="Reviews" value={course.ratingCount ?? 0} />
+              <HeroStat label="Layout" value={course.ratingAverageLayout} />
+              <HeroStat label="Signage" value={course.ratingAverageSignage} />
+              <HeroStat label="Maintenance" value={course.ratingAverageMaintenance} />
+              <HeroStat label="Scenery" value={course.ratingAverageScenery} />
+              <HeroStat label="Difficulty" value={course.difficulty ?? "-"} />
+              <HeroStat label="Type" value={course.type ?? "-"} />
+            </div>
           </div>
         </div>
+      </section>
+
+      <section id="reviews" className="space-y-4 scroll-mt-24">
+        <div className="flex flex-wrap items-baseline justify-between gap-3">
+          <div>
+            <h2 className="text-xl font-semibold text-slate-900">Reviews</h2>
+            <p className="mt-1 text-sm text-slate-600">
+              {(course.ratingCount ?? 0) > 0
+                ? `${course.ratingCount} player rating${(course.ratingCount ?? 0) === 1 ? "" : "s"}.`
+                : "No reviews yet — be the first."}
+            </p>
+          </div>
+          <RatingChip
+            average={course.ratingAverageOverall ?? null}
+            count={course.ratingCount ?? 0}
+            size="lg"
+            emphasis="headline"
+          />
+        </div>
+
+        <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
+          {ratings.length === 0 ? (
+            <p className="text-sm text-slate-600">
+              No reviews yet. Be the first to rate this course — it&apos;ll appear on the leaderboards.
+            </p>
+          ) : (
+            <div className="space-y-3">
+              {ratings.map((rating) => (
+                <article key={rating.documentId ?? String(rating.id)} className="rounded-xl border border-slate-200 p-4">
+                  <p className="text-sm font-medium text-slate-900">
+                    Overall {rating.overall ?? "-"} / 10
+                    <span className="ml-2 text-xs font-normal text-slate-500">
+                      {[
+                        `Layout ${rating.layout ?? "-"}`,
+                        `Signage ${rating.signage ?? "-"}`,
+                        `Maintenance ${rating.maintenance ?? "-"}`,
+                        `Scenery ${rating.scenery ?? "-"}`,
+                      ].join(" · ")}
+                    </span>
+                  </p>
+                  {rating.comment && <p className="mt-2 whitespace-pre-wrap text-sm text-slate-700">{rating.comment}</p>}
+                  <div className="mt-3 flex flex-wrap items-center justify-between gap-2">
+                    <ReviewByline
+                      userId={rating.submittedBy?.id ?? null}
+                      username={rating.submittedBy?.username ?? null}
+                      emailFallback={rating.submittedBy?.email ?? null}
+                      createdAt={rating.createdAt}
+                    />
+                    <HelpfulVoteButton
+                      kind="course"
+                      ratingDocumentId={rating.documentId}
+                      initialHelpfulCount={rating.helpfulCount ?? 0}
+                      reviewAuthorUserId={rating.submittedBy?.id ?? null}
+                    />
+                  </div>
+                </article>
+              ))}
+            </div>
+          )}
+        </section>
+
+        <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
+          <h3 className="text-base font-semibold text-slate-900">Rate this course</h3>
+          <p className="mt-1 text-sm text-slate-600">Share your experience to help other players.</p>
+          <div className="mt-4">
+            <CourseRatingForm courseDocumentId={course.documentId} />
+          </div>
+        </section>
       </section>
 
       <div className="relative">
         <nav className="-mx-1 overflow-x-auto px-1 pb-1">
           <div className="flex min-w-max gap-2">
-            <TabLink href={`/courses/${course.documentId}`} label="Overview" active={activeTab === "overview"} />
+            <TabLink href={`/courses/${course.documentId}`} label="Course details" active={activeTab === "details"} />
             <TabLink
               href={`/courses/${course.documentId}?tab=layouts`}
               label="Layouts & Holes"
               active={activeTab === "layouts"}
-            />
-            <TabLink
-              href={`/courses/${course.documentId}?tab=reviews`}
-              label="Reviews"
-              active={activeTab === "reviews"}
             />
             <TabLink href={`/courses/${course.documentId}?tab=media`} label="Media" active={activeTab === "media"} />
           </div>
@@ -103,7 +174,7 @@ export default async function CourseDetailPage({ params, searchParams }: CourseD
         <div className="pointer-events-none absolute inset-y-0 right-0 w-5 bg-gradient-to-l from-slate-50 to-transparent sm:hidden" />
       </div>
 
-      {activeTab === "overview" && (
+      {activeTab === "details" && (
         <div className="grid gap-4 lg:grid-cols-3">
           <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6 lg:col-span-2">
             <h2 className="text-lg font-semibold text-slate-900">Course Notes</h2>
@@ -218,46 +289,6 @@ export default async function CourseDetailPage({ params, searchParams }: CourseD
               })}
             </div>
           )}
-        </section>
-      )}
-
-      {activeTab === "reviews" && (
-        <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
-          <h2 className="text-lg font-semibold text-slate-900">Recent Reviews</h2>
-          {ratings.length === 0 ? (
-            <p className="mt-2 text-sm text-slate-600">No reviews yet. Be the first to rate this course.</p>
-          ) : (
-            <div className="mt-4 space-y-3">
-              {ratings.map((rating) => (
-                <article key={rating.documentId ?? String(rating.id)} className="rounded-xl border border-slate-200 p-4">
-                  <p className="text-sm font-medium text-slate-900">
-                    Overall {rating.overall ?? "-"} / 10
-                    <span className="ml-2 text-xs font-normal text-slate-500">
-                      {[
-                        `Layout ${rating.layout ?? "-"}`,
-                        `Signage ${rating.signage ?? "-"}`,
-                        `Maintenance ${rating.maintenance ?? "-"}`,
-                        `Scenery ${rating.scenery ?? "-"}`,
-                      ].join(" · ")}
-                    </span>
-                  </p>
-                  {rating.comment && <p className="mt-2 whitespace-pre-wrap text-sm text-slate-700">{rating.comment}</p>}
-                  <p className="mt-2 text-xs text-slate-500">
-                    {(rating.submittedBy?.username || rating.submittedBy?.email || "Community member") +
-                      " · " +
-                      (rating.createdAt ? new Date(rating.createdAt).toLocaleDateString() : "Unknown date")}
-                  </p>
-                </article>
-              ))}
-            </div>
-          )}
-          <div className="mt-6 border-t border-slate-200 pt-6">
-            <h3 className="text-base font-semibold text-slate-900">Rate this course</h3>
-            <p className="mt-1 text-sm text-slate-600">Share your experience to help other players.</p>
-            <div className="mt-4">
-              <CourseRatingForm courseDocumentId={course.documentId} />
-            </div>
-          </div>
         </section>
       )}
 

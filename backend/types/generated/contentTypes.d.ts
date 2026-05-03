@@ -509,6 +509,54 @@ export interface ApiCollectorReleaseCollectorRelease
   };
 }
 
+export interface ApiCourseRatingVoteCourseRatingVote
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'course_rating_votes';
+  info: {
+    description: "A user's helpful / not-helpful vote on a course review.";
+    displayName: 'Course Rating Vote';
+    pluralName: 'course-rating-votes';
+    singularName: 'course-rating-vote';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::course-rating-vote.course-rating-vote'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    rating: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::course-rating.course-rating'
+    > &
+      Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    value: Schema.Attribute.Integer &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMax<
+        {
+          max: 1;
+          min: -1;
+        },
+        number
+      >;
+    voter: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    > &
+      Schema.Attribute.Required;
+  };
+}
+
 export interface ApiCourseRatingCourseRating
   extends Struct.CollectionTypeSchema {
   collectionName: 'course_ratings';
@@ -527,6 +575,7 @@ export interface ApiCourseRatingCourseRating
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    helpfulCount: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
     layout: Schema.Attribute.Integer &
       Schema.Attribute.SetMinMax<
         {
@@ -549,6 +598,7 @@ export interface ApiCourseRatingCourseRating
         },
         number
       >;
+    notHelpfulCount: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
     overall: Schema.Attribute.Integer &
       Schema.Attribute.Required &
       Schema.Attribute.SetMinMax<
@@ -699,6 +749,7 @@ export interface ApiCourseCourse extends Struct.CollectionTypeSchema {
     ratingAverageOverall: Schema.Attribute.Decimal;
     ratingAverageScenery: Schema.Attribute.Decimal;
     ratingAverageSignage: Schema.Attribute.Decimal;
+    ratingBayesScore: Schema.Attribute.Decimal;
     ratingCount: Schema.Attribute.Integer;
     state: Schema.Attribute.String;
     type: Schema.Attribute.Enumeration<
@@ -784,6 +835,54 @@ export interface ApiDiscMoldDiscMold extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiDiscRatingVoteDiscRatingVote
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'disc_rating_votes';
+  info: {
+    description: "A user's helpful / not-helpful vote on a disc review.";
+    displayName: 'Disc Rating Vote';
+    pluralName: 'disc-rating-votes';
+    singularName: 'disc-rating-vote';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::disc-rating-vote.disc-rating-vote'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    rating: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::disc-rating.disc-rating'
+    > &
+      Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    value: Schema.Attribute.Integer &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMax<
+        {
+          max: 1;
+          min: -1;
+        },
+        number
+      >;
+    voter: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    > &
+      Schema.Attribute.Required;
+  };
+}
+
 export interface ApiDiscRatingDiscRating extends Struct.CollectionTypeSchema {
   collectionName: 'disc_ratings';
   info: {
@@ -839,12 +938,14 @@ export interface ApiDiscRatingDiscRating extends Struct.CollectionTypeSchema {
         },
         number
       >;
+    helpfulCount: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
       'oneToMany',
       'api::disc-rating.disc-rating'
     > &
       Schema.Attribute.Private;
+    notHelpfulCount: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
     overall: Schema.Attribute.Integer &
       Schema.Attribute.Required &
       Schema.Attribute.SetMinMax<
@@ -1021,6 +1122,9 @@ export interface ApiDiscVariantDiscVariant extends Struct.CollectionTypeSchema {
     > &
       Schema.Attribute.Required;
     publishedAt: Schema.Attribute.DateTime;
+    ratingAverageOverall: Schema.Attribute.Decimal;
+    ratingBayesScore: Schema.Attribute.Decimal;
+    ratingCount: Schema.Attribute.Integer;
     slug: Schema.Attribute.String;
     speed: Schema.Attribute.Decimal;
     stability: Schema.Attribute.String;
@@ -1091,6 +1195,9 @@ export interface ApiDiscDisc extends Struct.CollectionTypeSchema {
         };
       }>;
     publishedAt: Schema.Attribute.DateTime;
+    ratingAverageOverall: Schema.Attribute.Decimal;
+    ratingBayesScore: Schema.Attribute.Decimal;
+    ratingCount: Schema.Attribute.Integer;
     rimDepthCm: Schema.Attribute.Decimal &
       Schema.Attribute.SetPluginOptions<{
         'content-manager': {
@@ -1107,6 +1214,266 @@ export interface ApiDiscDisc extends Struct.CollectionTypeSchema {
     stability: Schema.Attribute.String;
     stabilitySlug: Schema.Attribute.String;
     turn: Schema.Attribute.Decimal;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiMarketFavoriteMarketFavorite
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'market_favorites';
+  info: {
+    description: 'A user-saved marketplace listing (heart/wishlist).';
+    displayName: 'Market Favorite';
+    pluralName: 'market-favorites';
+    singularName: 'market-favorite';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    listing: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::market-listing.market-listing'
+    > &
+      Schema.Attribute.Required;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::market-favorite.market-favorite'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    user: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    > &
+      Schema.Attribute.Required;
+  };
+}
+
+export interface ApiMarketListingMarketListing
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'market_listings';
+  info: {
+    displayName: 'Market Listing';
+    pluralName: 'market-listings';
+    singularName: 'market-listing';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    city: Schema.Attribute.String;
+    colorStamp: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: "Color/stamp description, e.g., 'red w/ silver stamp'.";
+        };
+      }>;
+    condition: Schema.Attribute.Enumeration<
+      ['new', 'like-new', 'used', 'inked', 'unknown']
+    > &
+      Schema.Attribute.DefaultTo<'used'>;
+    country: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'ISO 3166-1 alpha-2 country code.';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 2;
+      }> &
+      Schema.Attribute.DefaultTo<'US'>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    currency: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 8;
+      }> &
+      Schema.Attribute.DefaultTo<'USD'>;
+    description: Schema.Attribute.Text;
+    discDisplayName: Schema.Attribute.String;
+    discDocumentId: Schema.Attribute.String & Schema.Attribute.Required;
+    discExternalId: Schema.Attribute.String;
+    imageUrl: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Primary listing photo (displayed first). Kept for backward compatibility.';
+        };
+      }>;
+    imageUrls: Schema.Attribute.JSON &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Array of additional listing photo URLs (max 6 total including imageUrl).';
+        };
+      }>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::market-listing.market-listing'
+    > &
+      Schema.Attribute.Private;
+    negotiable: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    plastic: Schema.Attribute.String;
+    priceUsd: Schema.Attribute.Decimal &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMax<
+        {
+          min: 0;
+        },
+        number
+      >;
+    publishedAt: Schema.Attribute.DateTime;
+    seller: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    > &
+      Schema.Attribute.Required;
+    shipping: Schema.Attribute.Enumeration<
+      [
+        'ships-us-only',
+        'ships-international',
+        'local-pickup',
+        'ships-and-pickup',
+      ]
+    > &
+      Schema.Attribute.DefaultTo<'ships-us-only'>;
+    shippingPriceUsd: Schema.Attribute.Decimal &
+      Schema.Attribute.SetMinMax<
+        {
+          min: 0;
+        },
+        number
+      >;
+    status: Schema.Attribute.Enumeration<['active', 'sold', 'cancelled']> &
+      Schema.Attribute.DefaultTo<'active'>;
+    title: Schema.Attribute.String & Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    weightGrams: Schema.Attribute.Integer &
+      Schema.Attribute.SetMinMax<
+        {
+          max: 250;
+          min: 100;
+        },
+        number
+      >;
+  };
+}
+
+export interface ApiMarketMessageMarketMessage
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'market_messages';
+  info: {
+    description: 'A message on a marketplace listing thread between buyer and seller.';
+    displayName: 'Market Message';
+    pluralName: 'market-messages';
+    singularName: 'market-message';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    body: Schema.Attribute.Text &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 2000;
+      }>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    listing: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::market-listing.market-listing'
+    > &
+      Schema.Attribute.Required;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::market-message.market-message'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    readAt: Schema.Attribute.DateTime;
+    recipient: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    > &
+      Schema.Attribute.Required;
+    sender: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    > &
+      Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiMarketOfferMarketOffer extends Struct.CollectionTypeSchema {
+  collectionName: 'market_offers';
+  info: {
+    description: "A buyer's offer on a marketplace listing.";
+    displayName: 'Market Offer';
+    pluralName: 'market-offers';
+    singularName: 'market-offer';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    buyer: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    > &
+      Schema.Attribute.Required;
+    counterPriceUsd: Schema.Attribute.Decimal &
+      Schema.Attribute.SetMinMax<
+        {
+          min: 0;
+        },
+        number
+      >;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    listing: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::market-listing.market-listing'
+    > &
+      Schema.Attribute.Required;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::market-offer.market-offer'
+    > &
+      Schema.Attribute.Private;
+    note: Schema.Attribute.Text;
+    priceUsd: Schema.Attribute.Decimal &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMax<
+        {
+          min: 0;
+        },
+        number
+      >;
+    publishedAt: Schema.Attribute.DateTime;
+    sellerNote: Schema.Attribute.Text;
+    status: Schema.Attribute.Enumeration<
+      ['pending', 'accepted', 'declined', 'countered', 'withdrawn']
+    > &
+      Schema.Attribute.DefaultTo<'pending'>;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -1161,21 +1528,106 @@ export interface ApiProfileProfile extends Struct.CollectionTypeSchema {
     draftAndPublish: false;
   };
   attributes: {
+    acceptsCashOnPickup: Schema.Attribute.Boolean &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: "If true, listing detail pages show 'Cash accepted on local pickup'.";
+        };
+      }> &
+      Schema.Attribute.DefaultTo<false>;
+    avatarUrl: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Public avatar image URL (uploaded via /api/upload or pasted).';
+        };
+      }>;
     bio: Schema.Attribute.Text;
+    btcAddress: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Optional Bitcoin address (Legacy, SegWit, or Taproot).';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 100;
+      }>;
     city: Schema.Attribute.String;
     country: Schema.Attribute.String;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    cryptoNotes: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: "Free-form note shown next to crypto addresses (e.g. 'USDC on Polygon only', 'ETH mainnet').";
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 280;
+      }>;
     displayName: Schema.Attribute.String;
+    dotAddress: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Optional Polkadot (DOT) wallet address (SS58).';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 80;
+      }>;
+    ethAddress: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Optional EVM (ERC-20) wallet address (0x\u2026). Buyers send the right token themselves; double-check network.';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 80;
+      }>;
+    ksmAddress: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Optional Kusama (KSM) wallet address (SS58).';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 80;
+      }>;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
       'oneToMany',
       'api::profile.profile'
     > &
       Schema.Attribute.Private;
+    paypalHandle: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Public PayPal email or paypal.me/{handle}. Used to render Pay-with-PayPal links on listings.';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 120;
+      }>;
     publishedAt: Schema.Attribute.DateTime;
+    solAddress: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Optional Solana wallet address (base58).';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 80;
+      }>;
     state: Schema.Attribute.String;
+    stripePaymentLinkUrl: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Optional Stripe Payment Link URL (created by the seller in their own Stripe dashboard).';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 500;
+      }>;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -1184,6 +1636,15 @@ export interface ApiProfileProfile extends Struct.CollectionTypeSchema {
       'plugin::users-permissions.user'
     > &
       Schema.Attribute.Required;
+    venmoHandle: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Public Venmo username (without leading @). Used to render Pay-with-Venmo links on listings.';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 60;
+      }>;
   };
 }
 
@@ -1699,14 +2160,20 @@ declare module '@strapi/strapi' {
       'admin::transfer-token-permission': AdminTransferTokenPermission;
       'admin::user': AdminUser;
       'api::collector-release.collector-release': ApiCollectorReleaseCollectorRelease;
+      'api::course-rating-vote.course-rating-vote': ApiCourseRatingVoteCourseRatingVote;
       'api::course-rating.course-rating': ApiCourseRatingCourseRating;
       'api::course-submission.course-submission': ApiCourseSubmissionCourseSubmission;
       'api::course.course': ApiCourseCourse;
       'api::disc-mold.disc-mold': ApiDiscMoldDiscMold;
+      'api::disc-rating-vote.disc-rating-vote': ApiDiscRatingVoteDiscRatingVote;
       'api::disc-rating.disc-rating': ApiDiscRatingDiscRating;
       'api::disc-submission.disc-submission': ApiDiscSubmissionDiscSubmission;
       'api::disc-variant.disc-variant': ApiDiscVariantDiscVariant;
       'api::disc.disc': ApiDiscDisc;
+      'api::market-favorite.market-favorite': ApiMarketFavoriteMarketFavorite;
+      'api::market-listing.market-listing': ApiMarketListingMarketListing;
+      'api::market-message.market-message': ApiMarketMessageMarketMessage;
+      'api::market-offer.market-offer': ApiMarketOfferMarketOffer;
       'api::plastic-type.plastic-type': ApiPlasticTypePlasticType;
       'api::profile.profile': ApiProfileProfile;
       'plugin::content-releases.release': PluginContentReleasesRelease;

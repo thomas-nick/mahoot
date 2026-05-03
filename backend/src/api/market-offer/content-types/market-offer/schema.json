@@ -1,0 +1,48 @@
+{
+  "kind": "collectionType",
+  "collectionName": "market_offers",
+  "info": {
+    "singularName": "market-offer",
+    "pluralName": "market-offers",
+    "displayName": "Market Offer",
+    "description": "A buyer's offer on a marketplace listing."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "listing": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::market-listing.market-listing",
+      "required": true
+    },
+    "buyer": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user",
+      "required": true
+    },
+    "priceUsd": {
+      "type": "decimal",
+      "required": true,
+      "min": 0
+    },
+    "note": {
+      "type": "text"
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": ["pending", "accepted", "declined", "countered", "withdrawn"],
+      "default": "pending"
+    },
+    "counterPriceUsd": {
+      "type": "decimal",
+      "min": 0
+    },
+    "sellerNote": {
+      "type": "text"
+    }
+  }
+}
