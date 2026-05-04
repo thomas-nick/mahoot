@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { MemberShell, memberSectionSurface } from "@/app/components/MemberShell";
 import { Avatar, Badge, Card, CardHeader, Notice } from "@/app/components/ui";
 import { ContactSeller } from "@/app/marketplace/ContactSeller";
 import { FavoriteButton } from "@/app/marketplace/FavoriteButton";
@@ -76,29 +77,38 @@ export default async function MarketplaceListingPage({ params }: Props) {
   const brandGroup = brandGroupForListing(listing);
   const brandClasses = brandGroup ? BRAND_THEME_CLASSES[brandGroup.theme] : null;
 
+  const memberShadow = "shadow-[0_8px_30px_-12px_rgba(15,23,42,0.12)]";
+
   return (
-    <div className="space-y-6">
-      <nav className="flex flex-wrap items-center gap-2 text-sm text-slate-500">
-        <Link href="/marketplace" className="hover:text-slate-900">
+    <MemberShell className="space-y-6">
+      <nav
+        className={`flex flex-wrap items-center gap-2 px-4 py-3 text-sm text-slate-600 sm:px-5 ${memberSectionSurface}`}
+        aria-label="Breadcrumb"
+      >
+        <Link href="/marketplace" className="font-medium text-slate-700 transition hover:text-sky-800">
           Marketplace
         </Link>
-        <span>/</span>
+        <span className="text-slate-300" aria-hidden>
+          /
+        </span>
         {brandGroup ? (
           <>
             <Link
               href={`/marketplace?group=${brandGroup.id}`}
-              className={`rounded-full px-2 py-0.5 text-xs font-semibold ${brandClasses?.chip ?? ""}`}
+              className={`rounded-full px-2.5 py-0.5 text-xs font-semibold ${brandClasses?.chip ?? ""}`}
             >
               {brandGroup.label}
             </Link>
-            <span>/</span>
+            <span className="text-slate-300" aria-hidden>
+              /
+            </span>
           </>
         ) : null}
-        <span className="truncate text-slate-700">{listing.title}</span>
+        <span className="truncate font-medium text-slate-900">{listing.title}</span>
       </nav>
 
       {isInactive ? (
-        <Notice variant="warn">
+        <Notice variant="warn" className="border-amber-200/80 bg-amber-50/80">
           This listing is no longer active ({listing.status}). It is shown for reference only.
         </Notice>
       ) : null}
@@ -107,7 +117,7 @@ export default async function MarketplaceListingPage({ params }: Props) {
         <div className="space-y-4">
           <Gallery photos={photos} alt={listing.title} />
 
-          <Card>
+          <Card className={memberSectionSurface}>
             <CardHeader title="Seller" />
             <div className="flex items-center justify-between gap-3">
               <div className="flex items-center gap-3">
@@ -130,7 +140,7 @@ export default async function MarketplaceListingPage({ params }: Props) {
           </Card>
 
           {!isInactive && sellerId !== null ? (
-            <Card id="contact-seller" className="scroll-mt-24">
+            <Card id="contact-seller" className={`scroll-mt-24 ${memberSectionSurface}`}>
               <CardHeader title="Contact seller" />
               <ContactSeller
                 listingDocumentId={id}
@@ -147,8 +157,8 @@ export default async function MarketplaceListingPage({ params }: Props) {
           <Card
             className={
               brandClasses
-                ? `bg-gradient-to-br ${brandClasses.hero} border-transparent`
-                : ""
+                ? `bg-gradient-to-br ${brandClasses.hero} border-transparent ${memberShadow}`
+                : memberSectionSurface
             }
           >
             <div className="space-y-3">
@@ -254,7 +264,7 @@ export default async function MarketplaceListingPage({ params }: Props) {
           </Card>
 
           {!isInactive && hasPayMethods && paymentMethods ? (
-            <Card id="pay-seller" className="scroll-mt-24">
+            <Card id="pay-seller" className={`scroll-mt-24 ${memberSectionSurface}`}>
               <CardHeader
                 title="Pay seller"
                 description="Choose how you'd like to send payment to this seller."
@@ -276,7 +286,7 @@ export default async function MarketplaceListingPage({ params }: Props) {
               />
             </Card>
           ) : !isInactive && sellerId !== null ? (
-            <Card id="pay-seller" className="scroll-mt-24">
+            <Card id="pay-seller" className={`scroll-mt-24 ${memberSectionSurface}`}>
               <CardHeader
                 title="Pay seller"
                 description="The seller hasn't published payment handles yet — use the contact thread below the seller card."
@@ -292,6 +302,6 @@ export default async function MarketplaceListingPage({ params }: Props) {
       </div>
 
       <MarketplaceTrustStrip />
-    </div>
+    </MemberShell>
   );
 }
