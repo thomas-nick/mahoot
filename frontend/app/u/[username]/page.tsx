@@ -6,6 +6,7 @@ import { getStrapiServerUrl } from "@/lib/strapi-server-url";
 import { resolvePublicUserAndProfile } from "@/lib/public-profile-strapi";
 import { collectPublicSocialLinks } from "@/lib/social-links";
 import { getReviewerActivityForUser } from "@/lib/strapi";
+import { MemberShell, memberActivityCardTint, memberSectionSurface } from "@/app/components/MemberShell";
 import { Avatar, Badge, Card, CardHeader, Notice } from "@/app/components/ui";
 
 const STRAPI_URL = getStrapiServerUrl();
@@ -134,16 +135,6 @@ const formatPrice = (raw: number | string | null | undefined, currency?: string 
   return `$${value.toFixed(2)}${suffix}`;
 };
 
-const sectionSurface = [
-  "rounded-2xl border border-white/70 bg-gradient-to-br from-sky-50/90 via-white to-violet-50/40",
-  "shadow-[0_8px_30px_-12px_rgba(15,23,42,0.12)]",
-].join(" ");
-
-const activityCardTint = (i: number) =>
-  i % 2 === 0
-    ? "from-sky-50/80 via-white to-white"
-    : "from-amber-50/50 via-white to-white";
-
 export default async function PublicProfilePage({ params }: Props) {
   const { username } = await params;
   const trimmed = username.trim();
@@ -182,17 +173,10 @@ export default async function PublicProfilePage({ params }: Props) {
   const socialLinks = collectPublicSocialLinks(profile ?? {});
 
   return (
-    <div className="relative -mx-4 overflow-x-hidden px-4 pb-4 sm:-mx-6 sm:px-6 sm:pb-8">
-      <div
-        aria-hidden
-        className="pointer-events-none absolute inset-0 -z-10 bg-gradient-to-b from-sky-100/35 via-slate-50/80 to-violet-100/25"
-      />
-      <div aria-hidden className="pointer-events-none absolute -left-24 top-0 -z-10 h-72 w-72 rounded-full bg-sky-200/30 blur-3xl" />
-      <div aria-hidden className="pointer-events-none absolute -right-16 top-48 -z-10 h-64 w-64 rounded-full bg-violet-200/25 blur-3xl" />
-
-      <header className="mb-8 lg:mb-10">
+    <MemberShell className="space-y-8 lg:space-y-10">
+      <header>
         <div
-          className={`flex flex-col gap-6 p-6 sm:p-8 lg:flex-row lg:items-start lg:gap-10 ${sectionSurface}`}
+          className={`flex flex-col gap-6 p-6 sm:p-8 lg:flex-row lg:items-start lg:gap-10 ${memberSectionSurface}`}
         >
           <div className="flex shrink-0 justify-center lg:justify-start">
             <div className="rounded-full bg-gradient-to-br from-sky-400 via-violet-400 to-amber-300 p-[3px] shadow-lg shadow-slate-900/10">
@@ -281,7 +265,7 @@ export default async function PublicProfilePage({ params }: Props) {
 
       <div className="grid gap-6 lg:grid-cols-3 lg:gap-8">
         <div className="space-y-6 lg:col-span-2">
-          <Card className={`border-white/60 ${sectionSurface}`} padded={false}>
+          <Card className={`border-white/60 ${memberSectionSurface}`} padded={false}>
             <div className="border-b border-slate-100/80 px-5 pb-4 pt-5 sm:px-6 sm:pt-6">
               <CardHeader
                 title="Selling now"
@@ -304,7 +288,7 @@ export default async function PublicProfilePage({ params }: Props) {
                       <li key={id}>
                         <Link
                           href={href}
-                          className={`flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-slate-200/60 bg-gradient-to-br p-4 shadow-sm transition hover:border-sky-200/80 hover:shadow-md ${activityCardTint(i)}`}
+                          className={`flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-slate-200/60 bg-gradient-to-br p-4 shadow-sm transition hover:border-sky-200/80 hover:shadow-md ${memberActivityCardTint(i)}`}
                         >
                           <div className="min-w-0">
                             <p className="truncate font-semibold text-slate-900">
@@ -331,7 +315,7 @@ export default async function PublicProfilePage({ params }: Props) {
           </Card>
 
           <div className="grid gap-6 sm:grid-cols-2">
-            <Card className={`border-white/60 ${sectionSurface}`}>
+            <Card className={`border-white/60 ${memberSectionSurface}`}>
               <CardHeader title="Discs they added" description="Approved catalog contributions." />
               {discSubmissions.length === 0 ? (
                 <Notice variant="info" className="border-slate-200/80 bg-white/70 text-xs">
@@ -342,7 +326,7 @@ export default async function PublicProfilePage({ params }: Props) {
                   {discSubmissions.map((sub, i) => (
                     <li
                       key={sub.documentId || sub.id}
-                      className={`rounded-2xl border border-slate-200/50 bg-gradient-to-br p-3 text-sm shadow-sm ${activityCardTint(i)}`}
+                      className={`rounded-2xl border border-slate-200/50 bg-gradient-to-br p-3 text-sm shadow-sm ${memberActivityCardTint(i)}`}
                     >
                       <p className="font-semibold text-slate-900">{sub.discName ?? "Untitled"}</p>
                       <p className="mt-0.5 text-xs text-slate-600">
@@ -356,7 +340,7 @@ export default async function PublicProfilePage({ params }: Props) {
               )}
             </Card>
 
-            <Card className={`border-white/60 ${sectionSurface}`}>
+            <Card className={`border-white/60 ${memberSectionSurface}`}>
               <CardHeader title="Courses they added" description="Approved course pages." />
               {courseSubmissions.length === 0 ? (
                 <Notice variant="info" className="border-slate-200/80 bg-white/70 text-xs">
@@ -367,7 +351,7 @@ export default async function PublicProfilePage({ params }: Props) {
                   {courseSubmissions.map((sub, i) => (
                     <li
                       key={sub.documentId || sub.id}
-                      className={`rounded-2xl border border-slate-200/50 bg-gradient-to-br p-3 text-sm shadow-sm ${activityCardTint(i + 1)}`}
+                      className={`rounded-2xl border border-slate-200/50 bg-gradient-to-br p-3 text-sm shadow-sm ${memberActivityCardTint(i + 1)}`}
                     >
                       <p className="font-semibold text-slate-900">{sub.courseName ?? "Untitled"}</p>
                       <p className="mt-0.5 text-xs text-slate-600">
@@ -388,7 +372,7 @@ export default async function PublicProfilePage({ params }: Props) {
 
         <aside className="space-y-6 lg:col-span-1">
           {(reviewerBadges.length > 0 || totalReviews > 0) && (
-            <Card className={`border-white/60 ${sectionSurface}`}>
+            <Card className={`border-white/60 ${memberSectionSurface}`}>
               <CardHeader
                 title="On the course"
                 description={
@@ -407,7 +391,7 @@ export default async function PublicProfilePage({ params }: Props) {
             </Card>
           )}
 
-          <Card className={`border-violet-100/80 bg-gradient-to-br from-violet-50/70 via-white to-sky-50/40 ${sectionSurface}`}>
+          <Card className={`border-violet-100/80 bg-gradient-to-br from-violet-50/70 via-white to-sky-50/40 ${memberSectionSurface}`}>
             <CardHeader title="At a glance" />
             <ul className="space-y-1 text-sm text-slate-700">
               <li className="flex justify-between gap-2 border-b border-slate-100/80 pb-2">
@@ -426,6 +410,6 @@ export default async function PublicProfilePage({ params }: Props) {
           </Card>
         </aside>
       </div>
-    </div>
+    </MemberShell>
   );
 }

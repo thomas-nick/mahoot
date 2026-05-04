@@ -22,6 +22,7 @@ import {
   hintSs58Address,
 } from "@/lib/crypto-address-hints";
 import { AuthCard } from "@/app/components/AuthCard";
+import { MemberShell, memberSectionSurface, memberActivityCardTint } from "@/app/components/MemberShell";
 import { ImageUploadField } from "@/app/components/ImageUploadField";
 import { Inbox } from "@/app/components/Inbox";
 import { MyListings } from "@/app/components/MyListings";
@@ -351,13 +352,15 @@ function AccountInner() {
 
   if (!isAuthed) {
     return (
-      <div className="space-y-6">
-        <PageHeader
-          title="Sign in to contribute"
-          description="One account unlocks reviews, marketplace listings, and disc/course submissions."
-        />
+      <MemberShell className="space-y-6">
+        <div className={`p-6 sm:p-8 ${memberSectionSurface}`}>
+          <PageHeader
+            title="Sign in to contribute"
+            description="One account unlocks reviews, marketplace listings, and disc or course submissions."
+          />
+        </div>
         <AuthCard />
-      </div>
+      </MemberShell>
     );
   }
 
@@ -371,52 +374,56 @@ function AccountInner() {
   const completed = [checklistDone.verified, checklistDone.profile, checklistDone.contributed].filter(Boolean).length;
 
   return (
-    <div className="space-y-6">
-      <section className="relative overflow-hidden rounded-3xl border border-slate-200 bg-gradient-to-br from-slate-900 via-slate-800 to-emerald-900 px-6 py-7 text-white shadow-md sm:px-8">
-        <div className="pointer-events-none absolute -right-24 -top-24 h-72 w-72 rounded-full bg-emerald-400/10 blur-3xl" aria-hidden />
-        <div className="pointer-events-none absolute -left-16 bottom-0 h-56 w-56 rounded-full bg-sky-400/10 blur-3xl" aria-hidden />
-        <div className="relative flex flex-wrap items-center gap-4">
-          <Avatar
-            src={profile?.avatarUrl ?? user?.avatarUrl ?? null}
-            label={label}
-            size="xl"
-            className="ring-2 ring-white/30"
-          />
-          <div className="min-w-0 flex-1">
-            <p className="text-xs font-medium uppercase tracking-wider text-emerald-200/90">
-              {verified ? "Verified account" : "Account · Email not verified"}
+    <MemberShell className="space-y-6">
+      <section className={`p-6 sm:p-8 ${memberSectionSurface}`}>
+        <div className="flex flex-col gap-6 lg:flex-row lg:items-center lg:gap-8">
+          <div className="flex shrink-0 justify-center lg:justify-start">
+            <div className="rounded-full bg-gradient-to-br from-sky-400 via-violet-400 to-amber-300 p-[3px] shadow-lg shadow-slate-900/10">
+              <div className="rounded-full bg-white p-1">
+                <Avatar
+                  src={profile?.avatarUrl ?? user?.avatarUrl ?? null}
+                  label={label}
+                  size="xl"
+                  className="!h-24 !w-24 !text-2xl sm:!h-28 sm:!w-28"
+                />
+              </div>
+            </div>
+          </div>
+          <div className="min-w-0 flex-1 space-y-3 text-center lg:text-left">
+            <p className="text-xs font-semibold uppercase tracking-wide text-sky-700/85">
+              {verified ? "Verified account" : "Verify your email for full access"}
             </p>
-            <h1 className="mt-1 truncate text-2xl font-semibold sm:text-3xl">
+            <h1 className="truncate text-2xl font-semibold tracking-tight text-slate-900 sm:text-3xl">
               {profile?.displayName?.trim() || `Hello, ${label}`}
             </h1>
-            <p className="mt-1 max-w-xl text-sm text-white/75">
-              Track contributions, manage your marketplace listings, and update your profile.
+            <p className="mx-auto max-w-xl text-sm text-slate-600 lg:mx-0">
+              Manage your public profile, listings, and everything buyers see when they tap your name.
             </p>
-          </div>
-          <div className="flex flex-wrap items-center gap-2">
-            {user?.username ? (
+            <div className="flex flex-wrap items-center justify-center gap-2 lg:justify-start">
+              {user?.username ? (
+                <button
+                  type="button"
+                  onClick={() => router.push(`/u/${encodeURIComponent(user.username!)}`)}
+                  className="inline-flex items-center rounded-full bg-slate-900 px-4 py-2 text-sm font-medium text-white shadow-sm transition hover:bg-slate-800"
+                >
+                  View public profile
+                </button>
+              ) : null}
               <button
                 type="button"
-                onClick={() => router.push(`/u/${encodeURIComponent(user.username!)}`)}
-                className="inline-flex items-center rounded-lg border border-white/25 bg-white/10 px-3 py-1.5 text-sm font-medium text-white transition hover:bg-white/20"
+                onClick={onLogout}
+                className="inline-flex items-center rounded-full border border-slate-200/90 bg-white px-4 py-2 text-sm font-medium text-slate-800 shadow-sm transition hover:border-slate-300 hover:bg-slate-50"
               >
-                View public profile
+                Log out
               </button>
-            ) : null}
-            <button
-              type="button"
-              onClick={onLogout}
-              className="inline-flex items-center rounded-lg border border-white/25 bg-white/10 px-3 py-1.5 text-sm font-medium text-white transition hover:bg-white/20"
-            >
-              Log out
-            </button>
+            </div>
           </div>
         </div>
       </section>
 
       <div
         role="tablist"
-        className="-mx-1 flex gap-1 overflow-x-auto rounded-2xl border border-slate-200 bg-white/85 p-1 backdrop-blur-sm sm:mx-0"
+        className="-mx-1 flex gap-1 overflow-x-auto rounded-2xl border border-white/70 bg-white/90 p-1 shadow-sm backdrop-blur-md sm:mx-0"
       >
         {TABS.map((entry) => {
           const isActive = tab === entry.id;
@@ -459,7 +466,7 @@ function AccountInner() {
 
       {tab === "overview" ? (
         <div className="grid gap-4 lg:grid-cols-3">
-          <Card className="lg:col-span-2">
+          <Card className={`lg:col-span-2 ${memberSectionSurface}`}>
             <CardHeader
               title="Get started"
               description={`${completed} of 3 complete — small wins help the catalog grow.`}
@@ -514,7 +521,7 @@ function AccountInner() {
             ) : null}
           </Card>
 
-          <Card>
+          <Card className={memberSectionSurface}>
             <CardHeader title="Status" />
             <dl className="space-y-2 text-sm">
               <div className="flex items-center justify-between">
@@ -545,7 +552,7 @@ function AccountInner() {
       ) : null}
 
       {tab === "profile" ? (
-        <Card>
+        <Card className={memberSectionSurface}>
           <CardHeader
             title="Profile"
             description="Public details shown next to your contributions."
@@ -869,7 +876,7 @@ function AccountInner() {
       ) : null}
 
       {tab === "submissions" ? (
-        <Card>
+        <Card className={memberSectionSurface}>
           <CardHeader title="My submissions" description="Discs and courses you've sent in." />
           {submissionsLoading ? (
             <p className="text-sm text-slate-500">Loading submissions…</p>
@@ -895,10 +902,10 @@ function AccountInner() {
             </Notice>
           ) : (
             <ul className="space-y-2">
-              {submissions.slice(0, 25).map((item) => (
+              {submissions.slice(0, 25).map((item, i) => (
                 <li
                   key={`${item.kind}-${item.id}`}
-                  className="flex items-center justify-between gap-3 rounded-xl border border-slate-200 p-3"
+                  className={`flex items-center justify-between gap-3 rounded-2xl border border-slate-200/60 bg-gradient-to-br p-3 shadow-sm ${memberActivityCardTint(i)}`}
                 >
                   <div className="min-w-0">
                     <p className="truncate text-sm font-medium text-slate-900">
@@ -917,7 +924,7 @@ function AccountInner() {
       ) : null}
 
       {tab === "listings" ? (
-        <Card>
+        <Card className={memberSectionSurface}>
           <CardHeader
             title="My marketplace listings"
             description="Mark items as sold or cancel listings you no longer want public."
@@ -927,7 +934,7 @@ function AccountInner() {
       ) : null}
 
       {tab === "saved" ? (
-        <Card>
+        <Card className={memberSectionSurface}>
           <CardHeader
             title="Saved listings"
             description="Listings you tapped the heart on. Tap a row to revisit it."
@@ -937,7 +944,7 @@ function AccountInner() {
       ) : null}
 
       {tab === "inbox" ? (
-        <Card>
+        <Card className={memberSectionSurface}>
           <CardHeader
             title="Inbox"
             description="Conversations with buyers and sellers, grouped by listing."
@@ -947,7 +954,7 @@ function AccountInner() {
       ) : null}
 
       {tab === "offers" ? (
-        <Card>
+        <Card className={memberSectionSurface}>
           <CardHeader
             title="Offers"
             description="Pending and past offers — accept, decline, counter, or withdraw."
@@ -955,7 +962,7 @@ function AccountInner() {
           <OffersInbox />
         </Card>
       ) : null}
-    </div>
+    </MemberShell>
   );
 }
 
@@ -971,7 +978,7 @@ function ChecklistItem({
   action?: React.ReactNode;
 }) {
   return (
-    <li className="flex items-start justify-between gap-3 rounded-xl border border-slate-200 p-3">
+    <li className="flex items-start justify-between gap-3 rounded-2xl border border-slate-200/60 bg-white/60 p-3 shadow-sm backdrop-blur-sm">
       <div className="flex items-start gap-3">
         <span
           className={`mt-0.5 inline-flex h-5 w-5 items-center justify-center rounded-full text-xs font-semibold ${

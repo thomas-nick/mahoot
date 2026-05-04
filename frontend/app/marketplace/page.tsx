@@ -1,4 +1,5 @@
-import { LinkButton, Notice, PageHeader } from "@/app/components/ui";
+import { LinkButton, Notice } from "@/app/components/ui";
+import { MemberShell, memberSectionSurface } from "@/app/components/MemberShell";
 import { ActiveGroupHero } from "@/app/marketplace/ActiveGroupHero";
 import { BrandGroups } from "@/app/marketplace/BrandGroups";
 import { FilterSidebar } from "@/app/marketplace/FilterSidebar";
@@ -133,26 +134,30 @@ export default async function MarketplacePage({ searchParams }: Props) {
     : 0;
 
   return (
-    <div className="space-y-6">
-      <PageHeader
-        title="Marketplace"
-        description="Peer-to-peer disc listings from the community. Browsing is open; signing in lets you save listings, send offers, and message sellers."
-        action={
-          <LinkButton href="/marketplace/new">
+    <MemberShell className="space-y-6">
+      <div className={`p-6 sm:p-8 ${memberSectionSurface}`}>
+        <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+          <div className="space-y-1">
+            <h1 className="text-2xl font-semibold tracking-tight text-slate-900 sm:text-3xl">Marketplace</h1>
+            <p className="max-w-2xl text-sm leading-relaxed text-slate-600">
+              Peer-to-peer discs from the community. Browse anywhere; sign in to save listings, make offers, and message
+              sellers.
+            </p>
+          </div>
+          <LinkButton href="/marketplace/new" className="shrink-0 rounded-full shadow-sm">
             <span aria-hidden>+</span> List a disc
           </LinkButton>
-        }
-      />
-
-      <div className="grid gap-3 sm:grid-cols-3">
-        <StatTile label="Active listings" value={listings.length} accent="indigo" />
-        <StatTile label="New today" value={newToday} accent="emerald" hint={`${newThisWeek} in the last 7 days`} />
-        <StatTile
-          label="Brand groups live"
-          value={activeGroupsCount}
-          accent="amber"
-          hint={`Out of ${BRAND_GROUPS.length} curated groups`}
-        />
+        </div>
+        <div className="mt-6 grid gap-3 sm:grid-cols-3">
+          <StatTile label="Active listings" value={listings.length} accent="indigo" />
+          <StatTile label="New today" value={newToday} accent="emerald" hint={`${newThisWeek} in the last 7 days`} />
+          <StatTile
+            label="Brand groups live"
+            value={activeGroupsCount}
+            accent="amber"
+            hint={`Out of ${BRAND_GROUPS.length} curated groups`}
+          />
+        </div>
       </div>
 
       {!typesenseConfigured && listings.length > 0 ? (
@@ -228,7 +233,7 @@ export default async function MarketplacePage({ searchParams }: Props) {
       </div>
 
       <MarketplaceTrustStrip />
-    </div>
+    </MemberShell>
   );
 }
 
