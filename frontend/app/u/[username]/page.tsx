@@ -6,7 +6,7 @@ import { getStrapiServerUrl } from "@/lib/strapi-server-url";
 import { resolvePublicUserAndProfile } from "@/lib/public-profile-strapi";
 import { collectPublicSocialLinks } from "@/lib/social-links";
 import { getReviewerActivityForUser } from "@/lib/strapi";
-import { Avatar, Badge, Card, CardHeader, Notice, PageHeader } from "@/app/components/ui";
+import { Avatar, Badge, Card, CardHeader, Notice } from "@/app/components/ui";
 
 const STRAPI_URL = getStrapiServerUrl();
 const STRAPI_TOKEN = (process.env.STRAPI_API_TOKEN ?? "").trim();
@@ -134,6 +134,16 @@ const formatPrice = (raw: number | string | null | undefined, currency?: string 
   return `$${value.toFixed(2)}${suffix}`;
 };
 
+const sectionSurface = [
+  "rounded-2xl border border-white/70 bg-gradient-to-br from-sky-50/90 via-white to-violet-50/40",
+  "shadow-[0_8px_30px_-12px_rgba(15,23,42,0.12)]",
+].join(" ");
+
+const activityCardTint = (i: number) =>
+  i % 2 === 0
+    ? "from-sky-50/80 via-white to-white"
+    : "from-amber-50/50 via-white to-white";
+
 export default async function PublicProfilePage({ params }: Props) {
   const { username } = await params;
   const trimmed = username.trim();
@@ -152,9 +162,11 @@ export default async function PublicProfilePage({ params }: Props) {
   ]);
 
   const displayName = (profile?.displayName?.trim() || user.username || "Community member") as string;
+  const handle = user.username ? `@${user.username}` : null;
   const location =
     [profile?.city, profile?.state, profile?.country].filter((value) => Boolean(value?.trim())).join(", ") || null;
   const totalContributions = discSubmissions.length + courseSubmissions.length + listings.length;
+  const totalReviews = activity.discReviewCount + activity.courseReviewCount;
   const categoryTally = tallyDiscReviewCategories(
     activity.ratedDiscDocumentIds.map((id) => ({
       category: activity.ratedDiscCategoryByDocumentId.get(id) ?? null,
@@ -170,150 +182,249 @@ export default async function PublicProfilePage({ params }: Props) {
   const socialLinks = collectPublicSocialLinks(profile ?? {});
 
   return (
-    <div className="space-y-6">
-      <PageHeader title={displayName} description={user.username ? `@${user.username}` : undefined} />
+    <div className="relative -mx-4 overflow-x-hidden px-4 pb-4 sm:-mx-6 sm:px-6 sm:pb-8">
+      <div
+        aria-hidden
+        className="pointer-events-none absolute inset-0 -z-10 bg-gradient-to-b from-sky-100/35 via-slate-50/80 to-violet-100/25"
+      />
+      <div aria-hidden className="pointer-events-none absolute -left-24 top-0 -z-10 h-72 w-72 rounded-full bg-sky-200/30 blur-3xl" />
+      <div aria-hidden className="pointer-events-none absolute -right-16 top-48 -z-10 h-64 w-64 rounded-full bg-violet-200/25 blur-3xl" />
 
-      <Card>
-        <div className="flex flex-wrap items-center gap-4">
-          <Avatar src={profile?.avatarUrl ?? null} label={displayName} size="lg" />
-          <div className="min-w-0 flex-1">
-            <p className="truncate text-base font-semibold text-slate-900">{displayName}</p>
-            {location ? <p className="text-sm text-slate-500">{location}</p> : null}
-            <div className="mt-1 flex flex-wrap items-center gap-2 text-xs text-slate-500">
-              {user.confirmed ? <Badge variant="success">verified email</Badge> : null}
-              <span>{totalContributions} contribution{totalContributions === 1 ? "" : "s"}</span>
-              {user.createdAt ? (
-                <span>· joined {new Date(user.createdAt).toLocaleDateString()}</span>
-              ) : null}
+      <header className="mb-8 lg:mb-10">
+        <div
+          className={`flex flex-col gap-6 p-6 sm:p-8 lg:flex-row lg:items-start lg:gap-10 ${sectionSurface}`}
+        >
+          <div className="flex shrink-0 justify-center lg:justify-start">
+            <div className="rounded-full bg-gradient-to-br from-sky-400 via-violet-400 to-amber-300 p-[3px] shadow-lg shadow-slate-900/10">
+              <div className="rounded-full bg-white p-1">
+                <Avatar src={profile?.avatarUrl ?? null} label={displayName} size="xl" className="!h-24 !w-24 !text-2xl sm:!h-28 sm:!w-28" />
+              </div>
             </div>
           </div>
-        </div>
-        {profile?.bio ? (
-          <p className="mt-4 whitespace-pre-wrap text-sm text-slate-700">{profile.bio}</p>
-        ) : null}
 
-        {socialLinks.length > 0 ? (
-          <div className="mt-4 border-t border-slate-100 pt-4">
-            <p className="text-xs font-semibold uppercase tracking-wide text-slate-500">Links</p>
-            <ul className="mt-2 flex flex-wrap gap-2">
-              {socialLinks.map((item) => (
-                <li key={item.id}>
-                  <a
-                    href={item.href}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center rounded-full border border-slate-200 bg-slate-50 px-3 py-1 text-xs font-medium text-slate-800 transition hover:border-slate-300 hover:bg-white"
-                  >
-                    {item.label}
-                    <span className="ml-1 text-slate-400" aria-hidden>
-                      ↗
-                    </span>
-                  </a>
-                </li>
-              ))}
-            </ul>
-            <p className="mt-2 text-[11px] text-slate-500">
-              Social and PDGA links are self-reported. They supplement — but don&apos;t replace — marketplace history
-              and community reviews below.
-            </p>
+          <div className="min-w-0 flex-1 space-y-4 text-center lg:text-left">
+            <div className="space-y-1">
+              <p className="text-2xl font-semibold tracking-tight text-slate-900 sm:text-3xl">
+                {displayName}
+              </p>
+              {handle ? (
+                <p className="text-[15px] font-medium text-sky-700/90">{handle}</p>
+              ) : null}
+              {location ? <p className="text-sm text-slate-600">{location}</p> : null}
+            </div>
+
+            <div className="flex flex-wrap items-center justify-center gap-2 lg:justify-start">
+              {user.confirmed ? (
+                <span className="inline-flex items-center rounded-full bg-slate-900 px-3 py-1 text-xs font-medium text-white shadow-sm">
+                  Verified
+                </span>
+              ) : null}
+              <span className="inline-flex items-center rounded-full border border-slate-200/80 bg-white/80 px-3 py-1 text-xs font-medium text-slate-700 shadow-sm backdrop-blur-sm">
+                {totalContributions} contribution{totalContributions === 1 ? "" : "s"}
+              </span>
+              {totalReviews > 0 ? (
+                <span className="inline-flex items-center rounded-full border border-slate-200/80 bg-white/80 px-3 py-1 text-xs font-medium text-slate-700 shadow-sm backdrop-blur-sm">
+                  {totalReviews} review{totalReviews === 1 ? "" : "s"}
+                </span>
+              ) : null}
+              {activity.helpfulVotesReceived > 0 ? (
+                <span className="inline-flex items-center rounded-full border border-amber-200/80 bg-amber-50/90 px-3 py-1 text-xs font-medium text-amber-900 shadow-sm">
+                  {activity.helpfulVotesReceived} helpful
+                  {activity.helpfulVotesReceived === 1 ? "" : " votes"}
+                </span>
+              ) : null}
+              {user.createdAt ? (
+                <span className="text-xs text-slate-500">
+                  Joined {new Date(user.createdAt).toLocaleDateString(undefined, { month: "short", year: "numeric" })}
+                </span>
+              ) : null}
+            </div>
+
+            {profile?.bio ? (
+              <div className="rounded-2xl border border-sky-100/80 bg-white/70 px-4 py-3 text-left text-sm leading-relaxed text-slate-700 shadow-inner shadow-sky-100/50 backdrop-blur-sm sm:px-5 sm:py-4">
+                <p className="whitespace-pre-wrap">{profile.bio}</p>
+              </div>
+            ) : (
+              <p className="text-sm text-slate-500">
+                No bio yet — still a valued part of the community.
+              </p>
+            )}
+
+            {socialLinks.length > 0 ? (
+              <div className="space-y-2 text-left">
+                <p className="text-xs font-semibold uppercase tracking-wide text-slate-400">Elsewhere</p>
+                <ul className="flex flex-wrap justify-center gap-2 lg:justify-start">
+                  {socialLinks.map((item) => (
+                    <li key={item.id}>
+                      <a
+                        href={item.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center rounded-full border border-slate-200/80 bg-white px-3.5 py-1.5 text-xs font-semibold text-slate-800 shadow-sm transition hover:border-sky-200 hover:bg-sky-50/80 hover:text-sky-900"
+                      >
+                        {item.label}
+                        <span className="ml-1 text-slate-400" aria-hidden>
+                          ↗
+                        </span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+                <p className="text-[11px] leading-snug text-slate-500">
+                  Links are self-reported for context — your history on Mahoot still tells the story.
+                </p>
+              </div>
+            ) : null}
           </div>
-        ) : null}
-      </Card>
+        </div>
+      </header>
 
-      {reviewerBadges.length > 0 || activity.discReviewCount + activity.courseReviewCount > 0 ? (
-        <Card>
-          <CardHeader
-            title="Reviewer badges"
-            description={`${activity.discReviewCount + activity.courseReviewCount} total review${
-              activity.discReviewCount + activity.courseReviewCount === 1 ? "" : "s"
-            } · ${activity.helpfulVotesReceived} helpful vote${activity.helpfulVotesReceived === 1 ? "" : "s"} received`}
-          />
-          {reviewerBadges.length > 0 ? (
-            <BadgeStack badges={reviewerBadges} />
-          ) : (
-            <Notice variant="info">No badges yet — write a few reviews to start collecting them.</Notice>
+      <div className="grid gap-6 lg:grid-cols-3 lg:gap-8">
+        <div className="space-y-6 lg:col-span-2">
+          <Card className={`border-white/60 ${sectionSurface}`} padded={false}>
+            <div className="border-b border-slate-100/80 px-5 pb-4 pt-5 sm:px-6 sm:pt-6">
+              <CardHeader
+                title="Selling now"
+                description="Live marketplace listings — tap through to message or buy."
+              />
+            </div>
+            <div className="px-5 pb-5 sm:px-6 sm:pb-6">
+              {listings.length === 0 ? (
+                <Notice variant="info" className="border-slate-200/80 bg-white/70">
+                  Nothing listed at the moment. Check back later or browse the marketplace.
+                </Notice>
+              ) : (
+                <ul className="space-y-3">
+                  {listings.map((listing, i) => {
+                    const id = listing.documentId || String(listing.id);
+                    const href = listing.discDocumentId
+                      ? `/discs/${listing.discDocumentId}?tab=marketplace`
+                      : "/marketplace";
+                    return (
+                      <li key={id}>
+                        <Link
+                          href={href}
+                          className={`flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-slate-200/60 bg-gradient-to-br p-4 shadow-sm transition hover:border-sky-200/80 hover:shadow-md ${activityCardTint(i)}`}
+                        >
+                          <div className="min-w-0">
+                            <p className="truncate font-semibold text-slate-900">
+                              {listing.title ?? "Listing"}
+                            </p>
+                            <p className="mt-0.5 text-xs text-slate-600">
+                              {[
+                                formatPrice(listing.priceUsd, listing.currency),
+                                listing.discDisplayName || null,
+                                listing.condition ? listing.condition : null,
+                              ]
+                                .filter(Boolean)
+                                .join(" · ")}
+                            </p>
+                          </div>
+                          <Badge variant="success">Active</Badge>
+                        </Link>
+                      </li>
+                    );
+                  })}
+                </ul>
+              )}
+            </div>
+          </Card>
+
+          <div className="grid gap-6 sm:grid-cols-2">
+            <Card className={`border-white/60 ${sectionSurface}`}>
+              <CardHeader title="Discs they added" description="Approved catalog contributions." />
+              {discSubmissions.length === 0 ? (
+                <Notice variant="info" className="border-slate-200/80 bg-white/70 text-xs">
+                  No disc submissions yet.
+                </Notice>
+              ) : (
+                <ul className="space-y-2">
+                  {discSubmissions.map((sub, i) => (
+                    <li
+                      key={sub.documentId || sub.id}
+                      className={`rounded-2xl border border-slate-200/50 bg-gradient-to-br p-3 text-sm shadow-sm ${activityCardTint(i)}`}
+                    >
+                      <p className="font-semibold text-slate-900">{sub.discName ?? "Untitled"}</p>
+                      <p className="mt-0.5 text-xs text-slate-600">
+                        {[sub.brand, sub.createdAt ? new Date(sub.createdAt).toLocaleDateString() : null]
+                          .filter(Boolean)
+                          .join(" · ")}
+                      </p>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </Card>
+
+            <Card className={`border-white/60 ${sectionSurface}`}>
+              <CardHeader title="Courses they added" description="Approved course pages." />
+              {courseSubmissions.length === 0 ? (
+                <Notice variant="info" className="border-slate-200/80 bg-white/70 text-xs">
+                  No course submissions yet.
+                </Notice>
+              ) : (
+                <ul className="space-y-2">
+                  {courseSubmissions.map((sub, i) => (
+                    <li
+                      key={sub.documentId || sub.id}
+                      className={`rounded-2xl border border-slate-200/50 bg-gradient-to-br p-3 text-sm shadow-sm ${activityCardTint(i + 1)}`}
+                    >
+                      <p className="font-semibold text-slate-900">{sub.courseName ?? "Untitled"}</p>
+                      <p className="mt-0.5 text-xs text-slate-600">
+                        {[
+                          [sub.city, sub.state].filter(Boolean).join(", ") || null,
+                          sub.createdAt ? new Date(sub.createdAt).toLocaleDateString() : null,
+                        ]
+                          .filter(Boolean)
+                          .join(" · ")}
+                      </p>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </Card>
+          </div>
+        </div>
+
+        <aside className="space-y-6 lg:col-span-1">
+          {(reviewerBadges.length > 0 || totalReviews > 0) && (
+            <Card className={`border-white/60 ${sectionSurface}`}>
+              <CardHeader
+                title="On the course"
+                description={
+                  totalReviews > 0
+                    ? `${totalReviews} review${totalReviews === 1 ? "" : "s"} · ${activity.helpfulVotesReceived} helpful`
+                    : "Reviews and recognition from the community."
+                }
+              />
+              {reviewerBadges.length > 0 ? (
+                <BadgeStack badges={reviewerBadges} />
+              ) : (
+                <p className="text-sm text-slate-600">
+                  Badges unlock as reviews stack up — share a round recap to get started.
+                </p>
+              )}
+            </Card>
           )}
-        </Card>
-      ) : null}
 
-      <Card>
-        <CardHeader title="Active marketplace listings" />
-        {listings.length === 0 ? (
-          <Notice variant="info">No active listings right now.</Notice>
-        ) : (
-          <ul className="space-y-2">
-            {listings.map((listing) => {
-              const id = listing.documentId || String(listing.id);
-              const href = listing.discDocumentId
-                ? `/discs/${listing.discDocumentId}?tab=marketplace`
-                : "/marketplace";
-              return (
-                <li key={id} className="flex flex-wrap items-center justify-between gap-3 rounded-xl border border-slate-200 p-3">
-                  <div className="min-w-0">
-                    <Link href={href} className="truncate font-medium text-slate-900 hover:underline">
-                      {listing.title ?? "(Untitled listing)"}
-                    </Link>
-                    <p className="text-xs text-slate-500">
-                      {[
-                        formatPrice(listing.priceUsd, listing.currency),
-                        listing.discDisplayName || null,
-                        listing.condition ? `Condition: ${listing.condition}` : null,
-                      ]
-                        .filter(Boolean)
-                        .join(" · ")}
-                    </p>
-                  </div>
-                  <Badge variant="success">active</Badge>
-                </li>
-              );
-            })}
-          </ul>
-        )}
-      </Card>
-
-      <div className="grid gap-4 lg:grid-cols-2">
-        <Card>
-          <CardHeader title="Approved disc submissions" />
-          {discSubmissions.length === 0 ? (
-            <Notice variant="info">No approved disc submissions yet.</Notice>
-          ) : (
-            <ul className="space-y-2">
-              {discSubmissions.map((sub) => (
-                <li key={sub.documentId || sub.id} className="rounded-xl border border-slate-200 p-3 text-sm">
-                  <p className="font-medium text-slate-900">{sub.discName ?? "(Untitled)"}</p>
-                  <p className="text-xs text-slate-500">
-                    {[sub.brand, sub.createdAt ? new Date(sub.createdAt).toLocaleDateString() : null]
-                      .filter(Boolean)
-                      .join(" · ")}
-                  </p>
-                </li>
-              ))}
+          <Card className={`border-violet-100/80 bg-gradient-to-br from-violet-50/70 via-white to-sky-50/40 ${sectionSurface}`}>
+            <CardHeader title="At a glance" />
+            <ul className="space-y-1 text-sm text-slate-700">
+              <li className="flex justify-between gap-2 border-b border-slate-100/80 pb-2">
+                <span className="text-slate-600">Contributions</span>
+                <span className="font-semibold tabular-nums text-slate-900">{totalContributions}</span>
+              </li>
+              <li className="flex justify-between gap-2 border-b border-slate-100/80 pb-2">
+                <span className="text-slate-600">Reviews written</span>
+                <span className="font-semibold tabular-nums text-slate-900">{totalReviews}</span>
+              </li>
+              <li className="flex justify-between gap-2">
+                <span className="text-slate-600">Helpful votes</span>
+                <span className="font-semibold tabular-nums text-slate-900">{activity.helpfulVotesReceived}</span>
+              </li>
             </ul>
-          )}
-        </Card>
-
-        <Card>
-          <CardHeader title="Approved course submissions" />
-          {courseSubmissions.length === 0 ? (
-            <Notice variant="info">No approved course submissions yet.</Notice>
-          ) : (
-            <ul className="space-y-2">
-              {courseSubmissions.map((sub) => (
-                <li key={sub.documentId || sub.id} className="rounded-xl border border-slate-200 p-3 text-sm">
-                  <p className="font-medium text-slate-900">{sub.courseName ?? "(Untitled)"}</p>
-                  <p className="text-xs text-slate-500">
-                    {[
-                      [sub.city, sub.state].filter(Boolean).join(", ") || null,
-                      sub.createdAt ? new Date(sub.createdAt).toLocaleDateString() : null,
-                    ]
-                      .filter(Boolean)
-                      .join(" · ")}
-                  </p>
-                </li>
-              ))}
-            </ul>
-          )}
-        </Card>
+          </Card>
+        </aside>
       </div>
     </div>
   );
