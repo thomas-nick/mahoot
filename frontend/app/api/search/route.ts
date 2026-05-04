@@ -193,62 +193,57 @@ const buildStrapiHeaders = (): HeadersInit => {
   return headers;
 };
 
-const enrichDiscHitsWithPlastic = async <T extends { id: string; plastic: string | null }>(
-  discs: T[],
-): Promise<T[]> => {
-  const missing = discs.map((disc) => disc.id).filter((id, index) => !discs[index].plastic);
-  if (missing.length === 0) {
-    return discs;
-  }
-
-  const plasticByDocumentId = new Map<string, string>();
-  const fetchByEndpoint = async (endpoint: string, isVariant: boolean) => {
-    const params = new URLSearchParams({
-      "pagination[page]": "1",
-      "pagination[pageSize]": "100",
-    });
-    if (isVariant) {
-      params.set("fields[0]", "documentId");
-      params.set("populate[plastic][fields][0]", "name");
-    } else {
-      params.set("fields[0]", "documentId");
-      params.set("fields[1]", "plastic");
-    }
-    missing.forEach((id, index) => params.set(`filters[documentId][$in][${index}]`, id));
-
-    const response = await fetch(`${strapiUrl}${endpoint}?${params.toString()}`, {
-      headers: buildStrapiHeaders(),
+/** Match lib/strapi.ts `request`: retry without API token if auth is rejected. */
+const strapiGet = async (pathAndQuery: string): Promise<Response> => {
+  const path = pathAndQuery.startsWith("/") ? pathAndQuery : `/${pathAndQuery}`;
+  const url = `${strapiUrl}${path}`;
+  let response = await fetch(url, {
+    headers: buildStrapiHeaders(),
+    cache: "no-store",
+  });
+  if ((response.status === 401 || response.status === 403) && strapiToken) {
+    response = await fetch(url, {
+      headers: { "Content-Type": "application/json" },
       cache: "no-store",
     });
-    if (!response.ok) return;
-    const json = (await response.json()) as {
-      data?: Array<{
-        documentId?: string;
-        plastic?: string | { name?: string | null } | null;
-      }>;
+  }
+  return response;
+};
+
+const peelData = (raw: unknown): Record<string, unknown> | null => {
+  if (!raw || typeof raw !== "object") return null;
+  const o = raw as Record<string, unknown>;
+  if (
+    "attributes" in o &&
+    o.attributes &&
+    typeof o.attributes === "object" &&
+    !Array.isArray(o.attributes)
+  ) {
+    const attrs = o.attributes as Record<string, unknown>;
+    return {
+      ...attrs,
+      id: o.id,
+      documentId: (attrs.documentId ?? o.documentId) as string | undefined,
     };
-    for (const row of json.data ?? []) {
-      const documentId = (row.documentId ?? "").trim();
-      if (!documentId) continue;
-      const plastic =
-        typeof row.plastic === "string"
-          ? row.plastic.trim()
-          : typeof row.plastic === "object" && row.plastic?.name
-            ? row.plastic.name.trim()
-            : "";
-      if (plastic) {
-        plasticByDocumentId.set(documentId, plastic);
-      }
+  }
+  return o;
+};
+
+const peelRelation = (raw: unknown): Record<string, unknown> | null => {
+  if (raw == null) return null;
+  if (typeof raw !== "object") return null;
+  const o = raw as Record<string, unknown>;
+  if ("data" in o && o.data != null) {
+    const inner = o.data;
+    if (Array.isArray(inner)) {
+      return inner.length > 0 ? peelData(inner[0]) : null;
     }
-  };
-
-  await fetchByEndpoint("/api/disc-variants", true);
-  await fetchByEndpoint("/api/discs", false);
-
-  return discs.map((disc) => ({
-    ...disc,
-    plastic: disc.plastic ?? plasticByDocumentId.get(disc.id) ?? null,
-  }));
+    if (typeof inner === "object") {
+      return peelData(inner);
+    }
+    return null;
+  }
+  return peelData(raw);
 };
 
 type StrapiVariantRow = {
@@ -276,6 +271,119 @@ type StrapiLegacyDiscRow = {
   brand?: string | null;
   category?: string | null;
   plastic?: string | null;
+};
+
+const normalizeStrapiVariantRows = (json: unknown): StrapiVariantRow[] => {
+  if (!json || typeof json !== "object") return [];
+  const data = (json as { data?: unknown[] }).data;
+  if (!Array.isArray(data)) return [];
+  const rows: StrapiVariantRow[] = [];
+  for (const entry of data) {
+    const flat = peelData(entry);
+    if (!flat) continue;
+    const mold = peelRelation(flat.mold) as StrapiVariantRow["mold"];
+    const plasticFlat = peelRelation(flat.plastic);
+    const plastic =
+      plasticFlat && plasticFlat.name != null
+        ? { name: String(plasticFlat.name) }
+        : null;
+    rows.push({
+      documentId: flat.documentId as string | undefined,
+      externalId: flat.externalId as string | undefined,
+      displayName: (flat.displayName as string | null | undefined) ?? null,
+      releaseType: flat.releaseType as string | undefined,
+      productionStatus: flat.productionStatus as string | undefined,
+      runName: (flat.runName as string | null | undefined) ?? null,
+      runYear: typeof flat.runYear === "number" ? flat.runYear : null,
+      collectorValue: typeof flat.collectorValue === "number" ? flat.collectorValue : null,
+      rarity: typeof flat.rarity === "number" ? flat.rarity : null,
+      soughtAfter: typeof flat.soughtAfter === "number" ? flat.soughtAfter : null,
+      priceLowUsd: typeof flat.priceLowUsd === "number" ? flat.priceLowUsd : null,
+      priceHighUsd: typeof flat.priceHighUsd === "number" ? flat.priceHighUsd : null,
+      imageUrl: (flat.imageUrl as string | null | undefined) ?? null,
+      mold,
+      plastic,
+    });
+  }
+  return rows;
+};
+
+const normalizeStrapiLegacyRows = (json: unknown): StrapiLegacyDiscRow[] => {
+  if (!json || typeof json !== "object") return [];
+  const data = (json as { data?: unknown[] }).data;
+  if (!Array.isArray(data)) return [];
+  return data
+    .map((entry) => {
+      const flat = peelData(entry);
+      if (!flat) return null;
+      return {
+        documentId: flat.documentId as string | undefined,
+        externalId: flat.externalId as string | undefined,
+        name: flat.name as string | null | undefined,
+        brand: flat.brand as string | null | undefined,
+        category: flat.category as string | null | undefined,
+        plastic: flat.plastic as string | null | undefined,
+      };
+    })
+    .filter(Boolean) as StrapiLegacyDiscRow[];
+};
+
+const enrichDiscHitsWithPlastic = async <T extends { id: string; plastic: string | null }>(
+  discs: T[],
+): Promise<T[]> => {
+  const missing = discs.map((disc) => disc.id).filter((id, index) => !discs[index].plastic);
+  if (missing.length === 0) {
+    return discs;
+  }
+
+  const plasticByDocumentId = new Map<string, string>();
+  const fetchByEndpoint = async (endpoint: string, isVariant: boolean) => {
+    const params = new URLSearchParams({
+      "pagination[page]": "1",
+      "pagination[pageSize]": "100",
+    });
+    if (isVariant) {
+      params.set("fields[0]", "documentId");
+      params.set("populate[plastic][fields][0]", "name");
+    } else {
+      params.set("fields[0]", "documentId");
+      params.set("fields[1]", "plastic");
+    }
+    missing.forEach((id, index) => params.set(`filters[documentId][$in][${index}]`, id));
+
+    const response = await strapiGet(`${endpoint}?${params.toString()}`);
+    if (!response.ok) return;
+    const json = (await response.json()) as { data?: unknown[] };
+    for (const raw of json.data ?? []) {
+      const row = peelData(raw);
+      if (!row) continue;
+      const documentId = String(row.documentId ?? "").trim();
+      if (!documentId) continue;
+      const plasticRel = peelRelation(row.plastic);
+      const plastic =
+        typeof row.plastic === "string"
+          ? row.plastic.trim()
+          : plasticRel && plasticRel.name != null
+            ? String(plasticRel.name).trim()
+            : typeof row.plastic === "object" &&
+                row.plastic &&
+                "name" in row.plastic &&
+                (row.plastic as { name?: string }).name
+              ? String((row.plastic as { name?: string }).name).trim()
+              : "";
+      if (plastic) {
+        plasticByDocumentId.set(documentId, plastic);
+      }
+    }
+  };
+
+  await fetchByEndpoint("/api/disc-variants", true);
+  await fetchByEndpoint("/api/discs", false);
+
+  return discs.map((disc) => ({
+    ...disc,
+    plastic: disc.plastic ?? plasticByDocumentId.get(disc.id) ?? null,
+  }));
 };
 
 const variantSearchPopulate = (): URLSearchParams => {
@@ -324,8 +432,6 @@ const legacyDiscFields = (): URLSearchParams =>
 const searchDiscsViaStrapi = async (query: string): Promise<DiscHit[]> => {
   const trimmed = query.trim();
   if (trimmed.length < 2) return [];
-
-  const headers = buildStrapiHeaders();
 
   const variantByDisplay = variantSearchPopulate();
   variantByDisplay.set("filters[$or][0][displayName][$containsi]", trimmed);
@@ -402,26 +508,26 @@ const searchDiscsViaStrapi = async (query: string): Promise<DiscHit[]> => {
   };
 
   const fetches = await Promise.all([
-    fetch(`${strapiUrl}/api/disc-variants?${variantByDisplay.toString()}`, { headers, cache: "no-store" }),
-    fetch(`${strapiUrl}/api/disc-variants?${variantByMold.toString()}`, { headers, cache: "no-store" }),
-    fetch(`${strapiUrl}/api/disc-variants?${variantByMoldBrand.toString()}`, { headers, cache: "no-store" }),
-    fetch(`${strapiUrl}/api/discs?${legacyParams.toString()}`, { headers, cache: "no-store" }),
+    strapiGet(`/api/disc-variants?${variantByDisplay.toString()}`),
+    strapiGet(`/api/disc-variants?${variantByMold.toString()}`),
+    strapiGet(`/api/disc-variants?${variantByMoldBrand.toString()}`),
+    strapiGet(`/api/discs?${legacyParams.toString()}`),
   ]);
 
   const jsonResults = await Promise.all(
-    fetches.map((res) => (res.ok ? res.json() : Promise.resolve({ data: [] }))),
+    fetches.map(async (res) => (res.ok ? res.json() : Promise.resolve({ data: [] }))),
   );
 
   const byId = new Map<string, DiscHit>();
   for (let i = 0; i < 3; i += 1) {
-    const json = jsonResults[i] as { data?: StrapiVariantRow[] };
-    for (const row of json.data ?? []) {
+    const rows = normalizeStrapiVariantRows(jsonResults[i]);
+    for (const row of rows) {
       const hit = parseVariant(row);
       if (hit) byId.set(hit.id, hit);
     }
   }
-  const legacyJson = jsonResults[3] as { data?: StrapiLegacyDiscRow[] };
-  for (const row of legacyJson.data ?? []) {
+  const legacyRows = normalizeStrapiLegacyRows(jsonResults[3]);
+  for (const row of legacyRows) {
     const hit = parseLegacy(row);
     if (hit && !byId.has(hit.id)) byId.set(hit.id, hit);
   }
@@ -458,10 +564,7 @@ const getDiscRatingSummaryByDocumentIds = async (documentIds: string[]) => {
     }
   };
 
-  const first = await fetch(`${strapiUrl}/api/disc-ratings?${params.toString()}`, {
-    headers: buildStrapiHeaders(),
-    cache: "no-store",
-  });
+  const first = await strapiGet(`/api/disc-ratings?${params.toString()}`);
   if (!first.ok) {
     return new Map<string, { avg: number | null; count: number }>();
   }
@@ -474,10 +577,7 @@ const getDiscRatingSummaryByDocumentIds = async (documentIds: string[]) => {
 
   for (let page = 2; page <= pageCount; page += 1) {
     params.set("pagination[page]", String(page));
-    const response = await fetch(`${strapiUrl}/api/disc-ratings?${params.toString()}`, {
-      headers: buildStrapiHeaders(),
-      cache: "no-store",
-    });
+    const response = await strapiGet(`/api/disc-ratings?${params.toString()}`);
     if (!response.ok) break;
     const json = (await response.json()) as {
       data?: Array<{ discDocumentId?: string; overall?: number | null }>;
@@ -732,7 +832,13 @@ export async function GET(request: Request) {
         };
       }) ?? [];
     const discsWithPlastic = await enrichDiscHitsWithPlastic(discs);
-    const discsWithRatings = await discsWithRatingsPayload(discsWithPlastic);
+    let discsWithRatings = await discsWithRatingsPayload(discsWithPlastic);
+    if (discsWithRatings.length === 0) {
+      const strapiDiscs = await searchDiscsViaStrapi(q);
+      if (strapiDiscs.length > 0) {
+        discsWithRatings = await discsWithRatingsPayload(strapiDiscs);
+      }
+    }
 
     const courses =
       courseResults?.hits?.map((h) => {
