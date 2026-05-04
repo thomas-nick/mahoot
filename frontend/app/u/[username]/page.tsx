@@ -3,6 +3,8 @@ import { notFound } from "next/navigation";
 import { BadgeStack } from "@/app/components/BadgeChip";
 import { computeReviewerBadges, tallyDiscReviewCategories } from "@/lib/badges";
 import { getStrapiServerUrl } from "@/lib/strapi-server-url";
+import { resolvePublicUserAndProfile } from "@/lib/public-profile-strapi";
+import { collectPublicSocialLinks } from "@/lib/social-links";
 import { getReviewerActivityForUser } from "@/lib/strapi";
 import { Avatar, Badge, Card, CardHeader, Notice, PageHeader } from "@/app/components/ui";
 
@@ -13,25 +15,6 @@ export const dynamic = "force-dynamic";
 
 type Props = {
   params: Promise<{ username: string }>;
-};
-
-type StrapiUser = {
-  id: number;
-  username?: string | null;
-  email?: string | null;
-  confirmed?: boolean | null;
-  createdAt?: string | null;
-};
-
-type Profile = {
-  id?: number;
-  documentId?: string;
-  displayName?: string | null;
-  bio?: string | null;
-  city?: string | null;
-  state?: string | null;
-  country?: string | null;
-  avatarUrl?: string | null;
 };
 
 type DiscSubmission = {
@@ -72,44 +55,6 @@ const authHeaders = (): HeadersInit => {
   if (STRAPI_TOKEN) headers.Authorization = `Bearer ${STRAPI_TOKEN}`;
   return headers;
 };
-
-async function fetchUserByUsername(username: string): Promise<StrapiUser | null> {
-  // users-permissions exposes /api/users; filtering by username is supported.
-  const params = new URLSearchParams({
-    "filters[username][$eq]": username,
-    "pagination[pageSize]": "1",
-  });
-  try {
-    const response = await fetch(`${STRAPI_URL}/api/users?${params.toString()}`, {
-      headers: authHeaders(),
-      cache: "no-store",
-    });
-    if (!response.ok) return null;
-    const json = (await response.json()) as StrapiUser[] | { data?: StrapiUser[] };
-    const list: StrapiUser[] = Array.isArray(json) ? json : (json.data ?? []);
-    return list[0] ?? null;
-  } catch {
-    return null;
-  }
-}
-
-async function fetchProfile(userId: number): Promise<Profile | null> {
-  const params = new URLSearchParams({
-    "filters[user][id][$eq]": String(userId),
-    "pagination[pageSize]": "1",
-  });
-  try {
-    const response = await fetch(`${STRAPI_URL}/api/profiles?${params.toString()}`, {
-      headers: authHeaders(),
-      cache: "no-store",
-    });
-    if (!response.ok) return null;
-    const json = (await response.json()) as { data?: Profile[] };
-    return json.data?.[0] ?? null;
-  } catch {
-    return null;
-  }
-}
 
 async function fetchDiscSubmissions(userId: number): Promise<DiscSubmission[]> {
   const params = new URLSearchParams({
@@ -189,25 +134,17 @@ const formatPrice = (raw: number | string | null | undefined, currency?: string 
   return `$${value.toFixed(2)}${suffix}`;
 };
 
-const initialFromName = (label: string) => {
-  const trimmed = label.trim();
-  if (!trimmed) return "?";
-  const parts = trimmed.split(/[\s._-]+/).filter(Boolean);
-  if (parts.length === 0) return trimmed.slice(0, 1).toUpperCase();
-  if (parts.length === 1) return parts[0].slice(0, 1).toUpperCase();
-  return (parts[0].slice(0, 1) + parts[1].slice(0, 1)).toUpperCase();
-};
-
 export default async function PublicProfilePage({ params }: Props) {
   const { username } = await params;
   const trimmed = username.trim();
   if (!trimmed) notFound();
 
-  const user = await fetchUserByUsername(trimmed);
-  if (!user) notFound();
+  const resolved = await resolvePublicUserAndProfile(trimmed);
+  if (!resolved?.user?.id) notFound();
 
-  const [profile, discSubmissions, courseSubmissions, listings, activity] = await Promise.all([
-    fetchProfile(user.id),
+  const { user, profile } = resolved;
+
+  const [discSubmissions, courseSubmissions, listings, activity] = await Promise.all([
     fetchDiscSubmissions(user.id),
     fetchCourseSubmissions(user.id),
     fetchListings(user.id),
@@ -230,6 +167,8 @@ export default async function PublicProfilePage({ params }: Props) {
     helpfulVotesReceived: activity.helpfulVotesReceived,
   });
 
+  const socialLinks = collectPublicSocialLinks(profile ?? {});
+
   return (
     <div className="space-y-6">
       <PageHeader title={displayName} description={user.username ? `@${user.username}` : undefined} />
@@ -241,7 +180,7 @@ export default async function PublicProfilePage({ params }: Props) {
             <p className="truncate text-base font-semibold text-slate-900">{displayName}</p>
             {location ? <p className="text-sm text-slate-500">{location}</p> : null}
             <div className="mt-1 flex flex-wrap items-center gap-2 text-xs text-slate-500">
-              {user.confirmed ? <Badge variant="success">verified</Badge> : null}
+              {user.confirmed ? <Badge variant="success">verified email</Badge> : null}
               <span>{totalContributions} contribution{totalContributions === 1 ? "" : "s"}</span>
               {user.createdAt ? (
                 <span>· joined {new Date(user.createdAt).toLocaleDateString()}</span>
@@ -251,6 +190,33 @@ export default async function PublicProfilePage({ params }: Props) {
         </div>
         {profile?.bio ? (
           <p className="mt-4 whitespace-pre-wrap text-sm text-slate-700">{profile.bio}</p>
+        ) : null}
+
+        {socialLinks.length > 0 ? (
+          <div className="mt-4 border-t border-slate-100 pt-4">
+            <p className="text-xs font-semibold uppercase tracking-wide text-slate-500">Links</p>
+            <ul className="mt-2 flex flex-wrap gap-2">
+              {socialLinks.map((item) => (
+                <li key={item.id}>
+                  <a
+                    href={item.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center rounded-full border border-slate-200 bg-slate-50 px-3 py-1 text-xs font-medium text-slate-800 transition hover:border-slate-300 hover:bg-white"
+                  >
+                    {item.label}
+                    <span className="ml-1 text-slate-400" aria-hidden>
+                      ↗
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+            <p className="mt-2 text-[11px] text-slate-500">
+              Social and PDGA links are self-reported. They supplement — but don&apos;t replace — marketplace history
+              and community reviews below.
+            </p>
+          </div>
         ) : null}
       </Card>
 

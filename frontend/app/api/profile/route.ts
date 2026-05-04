@@ -117,6 +117,14 @@ export async function PUT(request: Request) {
     ksmAddress?: string;
     btcAddress?: string;
     cryptoNotes?: string;
+    pdgaNumber?: number | string | null;
+    socialInstagram?: string;
+    socialTwitter?: string;
+    socialYoutube?: string;
+    socialTiktok?: string;
+    socialFacebook?: string;
+    socialUdisc?: string;
+    socialLine?: string;
   };
 
   const normalizeVenmo = (raw: string) => raw.trim().replace(/^@+/, "");
@@ -127,6 +135,19 @@ export async function PUT(request: Request) {
     return trimmed;
   };
   const normalizeAddress = (raw: string) => raw.trim().replace(/\s+/g, "");
+  const clip = (raw: string, max: number) => {
+    const t = raw.trim();
+    if (!t) return null;
+    return t.slice(0, max);
+  };
+  const parsePdgaNumber = (raw: unknown): number | null => {
+    if (raw === null || raw === undefined) return null;
+    const s = String(raw).trim();
+    if (!s) return null;
+    const n = Number(s);
+    if (!Number.isInteger(n) || n < 1 || n > 9999999) return null;
+    return n;
+  };
 
   const data: Record<string, unknown> = {
     displayName: (body.displayName ?? "").trim() || null,
@@ -145,6 +166,14 @@ export async function PUT(request: Request) {
     ksmAddress: normalizeAddress(body.ksmAddress ?? "") || null,
     btcAddress: normalizeAddress(body.btcAddress ?? "") || null,
     cryptoNotes: (body.cryptoNotes ?? "").trim().slice(0, 280) || null,
+    pdgaNumber: parsePdgaNumber(body.pdgaNumber),
+    socialInstagram: clip(body.socialInstagram ?? "", 220),
+    socialTwitter: clip(body.socialTwitter ?? "", 220),
+    socialYoutube: clip(body.socialYoutube ?? "", 500),
+    socialTiktok: clip(body.socialTiktok ?? "", 220),
+    socialFacebook: clip(body.socialFacebook ?? "", 500),
+    socialUdisc: clip(body.socialUdisc ?? "", 500),
+    socialLine: clip(body.socialLine ?? "", 500),
   };
 
   const existing = await findExistingProfile(jwt, me.id, me.documentId);

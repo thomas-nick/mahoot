@@ -73,6 +73,48 @@
     },
     "ratingBayesScore": {
       "type": "decimal"
+    },
+    "releaseType": {
+      "type": "enumeration",
+      "enum": ["stock", "limited-edition", "tour-series", "money-run", "tournament-run"],
+      "default": "stock"
+    },
+    "productionStatus": {
+      "type": "enumeration",
+      "enum": ["in-production", "oop"],
+      "default": "in-production"
+    },
+    "runName": {
+      "type": "string"
+    },
+    "runYear": {
+      "type": "integer",
+      "min": 1900,
+      "max": 2100
+    },
+    "collectorValue": {
+      "type": "integer",
+      "min": 1,
+      "max": 10
+    },
+    "rarity": {
+      "type": "integer",
+      "min": 1,
+      "max": 10
+    },
+    "soughtAfter": {
+      "type": "integer",
+      "min": 1,
+      "max": 10
+    },
+    "priceLowUsd": {
+      "type": "decimal"
+    },
+    "priceHighUsd": {
+      "type": "decimal"
+    },
+    "runNotes": {
+      "type": "text"
     }
   }
 }

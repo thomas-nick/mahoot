@@ -66,8 +66,13 @@ const contributeItems: MegaItem[] = [
 const collectorLinks: { href: string; label: string; description: string }[] = [
   {
     href: "/collector",
-    label: "Collector releases",
-    description: "Rare runs, OOP plastic, and value notes.",
+    label: "Tour series & limited runs",
+    description: "Special-edition discs across the catalog.",
+  },
+  {
+    href: "/discs?productionStatus=oop",
+    label: "Out-of-production discs",
+    description: "Discontinued runs and OOP plastic.",
   },
   {
     href: "/marketplace/new",

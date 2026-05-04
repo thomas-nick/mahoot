@@ -68,6 +68,14 @@ type Profile = {
   ksmAddress?: string | null;
   btcAddress?: string | null;
   cryptoNotes?: string | null;
+  pdgaNumber?: number | null;
+  socialInstagram?: string | null;
+  socialTwitter?: string | null;
+  socialYoutube?: string | null;
+  socialTiktok?: string | null;
+  socialFacebook?: string | null;
+  socialUdisc?: string | null;
+  socialLine?: string | null;
 };
 
 type SubmissionRow = {
@@ -279,6 +287,14 @@ function AccountInner() {
           state: String(form.get("state") ?? ""),
           country: String(form.get("country") ?? ""),
           avatarUrl: String(form.get("avatarUrl") ?? ""),
+          pdgaNumber: String(form.get("pdgaNumber") ?? ""),
+          socialInstagram: String(form.get("socialInstagram") ?? ""),
+          socialTwitter: String(form.get("socialTwitter") ?? ""),
+          socialYoutube: String(form.get("socialYoutube") ?? ""),
+          socialTiktok: String(form.get("socialTiktok") ?? ""),
+          socialFacebook: String(form.get("socialFacebook") ?? ""),
+          socialUdisc: String(form.get("socialUdisc") ?? ""),
+          socialLine: String(form.get("socialLine") ?? ""),
           paypalHandle: String(form.get("paypalHandle") ?? ""),
           venmoHandle: String(form.get("venmoHandle") ?? ""),
           stripePaymentLinkUrl: String(form.get("stripePaymentLinkUrl") ?? ""),
@@ -567,6 +583,83 @@ function AccountInner() {
               <Field label="Country">
                 <Input name="country" defaultValue={profile?.country ?? ""} placeholder="Country" />
               </Field>
+            </div>
+
+            <div className="rounded-xl border border-sky-200 bg-sky-50/50 p-4 space-y-3">
+              <div>
+                <h3 className="text-sm font-semibold text-slate-900">Public links (optional)</h3>
+                <p className="text-xs text-slate-600">
+                  Shown on your public profile. Add a PDGA number or socials so buyers and reviewers can recognize you —
+                  these are self-reported; your on-site history still matters most.
+                </p>
+              </div>
+              <Field label="PDGA number" hint="Links to pdga.com player page when set">
+                <Input
+                  name="pdgaNumber"
+                  type="number"
+                  min={1}
+                  max={9999999}
+                  defaultValue={profile?.pdgaNumber ?? ""}
+                  placeholder="e.g. 123456"
+                />
+              </Field>
+              <div className="grid gap-3 sm:grid-cols-2">
+                <Field label="Instagram" hint="URL or @handle">
+                  <Input
+                    name="socialInstagram"
+                    defaultValue={profile?.socialInstagram ?? ""}
+                    placeholder="@you or instagram.com/…"
+                  />
+                </Field>
+                <Field label="X (Twitter)" hint="URL or @handle">
+                  <Input
+                    name="socialTwitter"
+                    defaultValue={profile?.socialTwitter ?? ""}
+                    placeholder="@you"
+                  />
+                </Field>
+                <Field label="YouTube" hint="Channel URL or @handle">
+                  <Input
+                    name="socialYoutube"
+                    defaultValue={profile?.socialYoutube ?? ""}
+                    placeholder="Channel URL or @handle"
+                  />
+                </Field>
+                <Field label="TikTok" hint="URL or handle">
+                  <Input
+                    name="socialTiktok"
+                    defaultValue={profile?.socialTiktok ?? ""}
+                    placeholder="@you"
+                  />
+                </Field>
+                <div className="sm:col-span-2">
+                  <Field label="Facebook" hint="Profile URL">
+                    <Input
+                      name="socialFacebook"
+                      defaultValue={profile?.socialFacebook ?? ""}
+                      placeholder="https://facebook.com/…"
+                    />
+                  </Field>
+                </div>
+                <div className="sm:col-span-2">
+                  <Field label="UDisc / other" hint="Profile URL">
+                    <Input
+                      name="socialUdisc"
+                      defaultValue={profile?.socialUdisc ?? ""}
+                      placeholder="https://udisc.com/…"
+                    />
+                  </Field>
+                </div>
+                <div className="sm:col-span-2">
+                  <Field label="LINE" hint="Add-friend URL, or paste the ID after ~/">
+                    <Input
+                      name="socialLine"
+                      defaultValue={profile?.socialLine ?? ""}
+                      placeholder="line.me/… or your LINE ID"
+                    />
+                  </Field>
+                </div>
+              </div>
             </div>
 
             <div className="rounded-xl border border-slate-200 bg-slate-50 p-4 space-y-3">

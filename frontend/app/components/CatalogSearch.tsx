@@ -10,8 +10,25 @@ type DiscHit = {
   brand: string | null;
   category: string | null;
   plastic?: string | null;
+  releaseType?: string | null;
+  productionStatus?: string | null;
+  runName?: string | null;
+  runYear?: number | null;
   ratingAverageOverall?: number | null;
   ratingCount?: number;
+};
+
+const RELEASE_TYPE_LABELS: Record<string, string> = {
+  stock: "Stock",
+  "limited-edition": "Limited edition",
+  "tour-series": "Tour series",
+  "money-run": "Money run",
+  "tournament-run": "Tournament run",
+};
+
+const formatReleaseType = (value: string | null | undefined) => {
+  if (!value) return null;
+  return RELEASE_TYPE_LABELS[value] ?? value.replace(/-/g, " ");
 };
 
 type CourseHit = {
@@ -21,25 +38,6 @@ type CourseHit = {
   state: string | null;
   difficulty: string | null;
   type: string | null;
-};
-
-type CollectorHit = {
-  id: string;
-  discId: string | null;
-  discExternalId: string | null;
-  discName: string | null;
-  brand: string | null;
-  mold: string | null;
-  runName: string | null;
-  year: number | null;
-  oopStatus: string | null;
-  collectorValue: number | null;
-  rarity: number | null;
-  soughtAfter: number | null;
-  priceLowUsd: number | null;
-  priceHighUsd: number | null;
-  imageUrl: string | null;
-  notes: string | null;
 };
 
 type ListingHit = {
@@ -61,7 +59,6 @@ type SearchResponse = {
   discs: DiscHit[];
   courses: CourseHit[];
   nearbyCourses?: CourseHit[];
-  collectors?: CollectorHit[];
   listings?: ListingHit[];
   error?: string;
   discsMeta?: {
@@ -71,6 +68,7 @@ type SearchResponse = {
       category: Array<{ value: string; count: number }>;
       stability: Array<{ value: string; count: number }>;
       plastic: Array<{ value: string; count: number }>;
+      releaseType: Array<{ value: string; count: number }>;
     };
   };
   coursesMeta?: {
@@ -88,6 +86,7 @@ type HeaderFacetFilters = {
   discCategory?: string;
   discBrand?: string;
   discPlastic?: string;
+  discReleaseType?: string;
   courseState?: string;
   courseCity?: string;
   courseDifficulty?: string;
@@ -107,6 +106,7 @@ const buildSearchUrl = (query: string, filters: HeaderFacetFilters) => {
   if (filters.discCategory) params.set("discCategory", filters.discCategory);
   if (filters.discBrand) params.set("discBrand", filters.discBrand);
   if (filters.discPlastic) params.set("discPlastic", filters.discPlastic);
+  if (filters.discReleaseType) params.set("discReleaseType", filters.discReleaseType);
   if (filters.courseState) params.set("courseState", filters.courseState);
   if (filters.courseCity) params.set("courseCity", filters.courseCity);
   if (filters.courseDifficulty) params.set("courseDifficulty", filters.courseDifficulty);
@@ -176,13 +176,14 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
   }, []);
 
   const hasResults = data && (data.discs.length > 0 || data.courses.length > 0);
-  const collectors = data?.collectors ?? [];
   const listings = data?.listings ?? [];
   const hasAnyResults =
-    data && (data.discs.length > 0 || data.courses.length > 0 || collectors.length > 0 || listings.length > 0);
+    data && (data.discs.length > 0 || data.courses.length > 0 || listings.length > 0);
   const topDiscCategories = data?.discsMeta?.facets.category.slice(0, 6) ?? [];
   const topDiscBrands = data?.discsMeta?.facets.brand.slice(0, 6) ?? [];
   const topDiscPlastics = data?.discsMeta?.facets.plastic.slice(0, 6) ?? [];
+  const topDiscReleaseTypes =
+    data?.discsMeta?.facets.releaseType?.filter((bucket) => bucket.value !== "stock").slice(0, 6) ?? [];
   const topCourseStates = data?.coursesMeta?.facets.state.slice(0, 6) ?? [];
   const topCourseCities = data?.coursesMeta?.facets.city.slice(0, 6) ?? [];
   const topCourseDifficulties = data?.coursesMeta?.facets.difficulty.slice(0, 6) ?? [];
@@ -195,6 +196,10 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
         { key: "discCategory", label: `Disc category: ${filters.discCategory}` },
         { key: "discBrand", label: `Disc brand: ${filters.discBrand}` },
         { key: "discPlastic", label: `Disc plastic: ${filters.discPlastic}` },
+        {
+          key: "discReleaseType",
+          label: `Release: ${formatReleaseType(filters.discReleaseType) ?? filters.discReleaseType}`,
+        },
         { key: "courseState", label: `Course state: ${filters.courseState}` },
         { key: "courseCity", label: `Course city: ${filters.courseCity}` },
         { key: "courseDifficulty", label: `Course difficulty: ${filters.courseDifficulty}` },
@@ -205,27 +210,23 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
 
   const navResults = useMemo<NavResult[]>(() => {
     const discs =
-      data?.discs.map((d) => ({
-        key: `d-${d.id}`,
-        href: `/discs/${d.id}`,
-        title: getDiscDisplayName(d),
-        subtitle: [d.brand, d.category].filter(Boolean).join(" · ") || "Disc",
-      })) ?? [];
+      data?.discs.map((d) => {
+        const release = formatReleaseType(d.releaseType);
+        const subtitle =
+          [d.brand, d.category, release].filter(Boolean).join(" · ") || "Disc";
+        return {
+          key: `d-${d.id}`,
+          href: `/discs/${d.id}`,
+          title: getDiscDisplayName(d),
+          subtitle,
+        };
+      }) ?? [];
     const courses =
       data?.courses.map((c) => ({
         key: `c-${c.id}`,
         href: `/courses/${c.id}`,
         title: c.name,
         subtitle: [c.city, c.state].filter(Boolean).join(", ") || "Course",
-      })) ?? [];
-    const collectors =
-      data?.collectors?.map((r) => ({
-        key: `r-${r.id}`,
-        href: `/discs/${r.discId ?? r.discExternalId ?? ""}?tab=collector`,
-        title: r.runName ? `${r.year ?? ""} ${r.runName}`.trim() : r.discName ?? "Collector run",
-        subtitle:
-          [r.brand, r.mold].filter(Boolean).join(" · ") ||
-          (typeof r.collectorValue === "number" ? `Collector value ${r.collectorValue}/10` : "Collector run"),
       })) ?? [];
     const listingsNav =
       data?.listings?.map((l) => ({
@@ -247,7 +248,7 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
         title: c.name,
         subtitle: [c.city, c.state].filter(Boolean).join(", ") || "Nearby course",
       })) ?? [];
-    return [...discs, ...listingsNav, ...courses, ...collectors, ...nearby];
+    return [...discs, ...listingsNav, ...courses, ...nearby];
   }, [data]);
 
   useEffect(() => {
@@ -397,6 +398,8 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
                     {data.discs.map((d) => {
                       const navIndex = navResults.findIndex((item) => item.key === `d-${d.id}`);
                       const active = highlightedIndex === navIndex;
+                      const releaseLabel = formatReleaseType(d.releaseType);
+                      const isCollector = (d.releaseType ?? "stock") !== "stock";
                       return (
                         <li key={`d-${d.id}`} id={`d-${d.id}`} role="option" aria-selected={active}>
                           <Link
@@ -406,6 +409,11 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
                             onClick={resetAndClose}
                           >
                             <span className="font-medium text-slate-900">{getDiscDisplayName(d)}</span>
+                            {isCollector && releaseLabel ? (
+                              <span className="ml-2 inline-flex items-center rounded-full bg-slate-900 px-1.5 py-0.5 text-[10px] font-medium uppercase tracking-wide text-white">
+                                {releaseLabel}
+                              </span>
+                            ) : null}
                             <span className="ml-2 text-slate-500">
                               {[d.brand, d.category].filter(Boolean).join(" · ") || "Disc"}
                               {typeof d.ratingAverageOverall === "number" && (d.ratingCount ?? 0) > 0
@@ -505,6 +513,38 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
                                   }
                                 >
                                   {item.value} ({item.count})
+                                </button>
+                              );
+                            })}
+                          </div>
+                        </div>
+                      )}
+
+                      {topDiscReleaseTypes.length > 0 && (
+                        <div>
+                          <p className="mb-1 text-[11px] uppercase tracking-wide text-slate-400">
+                            Release type
+                          </p>
+                          <div className="flex flex-wrap gap-1.5">
+                            {topDiscReleaseTypes.map((item) => {
+                              const active = filters.discReleaseType === item.value;
+                              return (
+                                <button
+                                  key={`facet-disc-release-${item.value}`}
+                                  type="button"
+                                  className={`rounded-full px-2 py-1 text-xs ${
+                                    active
+                                      ? "bg-slate-900 text-white"
+                                      : "bg-slate-100 text-slate-700 hover:bg-slate-200"
+                                  }`}
+                                  onClick={() =>
+                                    setFilters((prev) => ({
+                                      ...prev,
+                                      discReleaseType: active ? undefined : item.value,
+                                    }))
+                                  }
+                                >
+                                  {formatReleaseType(item.value) ?? item.value} ({item.count})
                                 </button>
                               );
                             })}
@@ -755,47 +795,6 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
                 </div>
               )}
 
-              {collectors.length > 0 && (
-                <div>
-                  <div className="flex items-center justify-between px-3 pb-1">
-                    <p className="text-xs font-medium uppercase tracking-wide text-slate-400">
-                      Collector runs
-                    </p>
-                    <p className="text-xs text-slate-400">{collectors.length}</p>
-                  </div>
-                  <ul>
-                    {collectors.map((r) => {
-                      const navIndex = navResults.findIndex((item) => item.key === `r-${r.id}`);
-                      const active = highlightedIndex === navIndex;
-                      const href = `/discs/${r.discId ?? r.discExternalId ?? ""}?tab=collector`;
-                      const title = r.runName
-                        ? `${r.year ?? ""} ${r.runName}`.trim()
-                        : r.discName ?? "Collector run";
-                      const secondaryPieces = [
-                        [r.brand, r.mold].filter(Boolean).join(" · ") || null,
-                        typeof r.collectorValue === "number" ? `Value ${r.collectorValue}/10` : null,
-                        typeof r.rarity === "number" ? `Rarity ${r.rarity}/10` : null,
-                        typeof r.soughtAfter === "number" ? `Hype ${r.soughtAfter}/10` : null,
-                      ].filter(Boolean);
-                      return (
-                        <li key={`r-${r.id}`} id={`r-${r.id}`} role="option" aria-selected={active}>
-                          <Link
-                            href={href}
-                            className={`block px-3 py-2 text-sm ${active ? "bg-slate-100" : "hover:bg-slate-50"}`}
-                            onMouseEnter={() => setHighlightedIndex(navIndex)}
-                            onClick={resetAndClose}
-                          >
-                            <span className="font-medium text-slate-900">{title}</span>
-                            {secondaryPieces.length > 0 && (
-                              <span className="ml-2 text-slate-500">{secondaryPieces.join(" · ")}</span>
-                            )}
-                          </Link>
-                        </li>
-                      );
-                    })}
-                  </ul>
-                </div>
-              )}
             </div>
           )}
         </div>

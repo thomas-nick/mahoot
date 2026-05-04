@@ -2,20 +2,17 @@ const { loadStrapi } = require('./lib/strapi-app');
 const {
   DISCS_COLLECTION,
   COURSES_COLLECTION,
-  COLLECTOR_RELEASES_COLLECTION,
   LISTINGS_COLLECTION,
   createClient,
   ensureCollections,
   mapDisc,
   mapCourse,
-  mapCollectorRelease,
   mapMarketListing,
   importBatches,
 } = require('./lib/typesense');
 
 const DISC_UID = 'api::disc.disc';
 const DISC_VARIANT_UID = 'api::disc-variant.disc-variant';
-const COLLECTOR_RELEASE_UID = 'api::collector-release.collector-release';
 const MARKET_LISTING_UID = 'api::market-listing.market-listing';
 const COURSE_UID = 'api::course.course';
 
@@ -27,7 +24,6 @@ const run = async () => {
     await ensureCollections(client);
     const discService = strapi.documents(DISC_UID);
     const discVariantService = strapi.documents(DISC_VARIANT_UID);
-    const collectorService = strapi.documents(COLLECTOR_RELEASE_UID);
     const marketListingService = strapi.documents(MARKET_LISTING_UID);
     const courseService = strapi.documents(COURSE_UID);
     const variantDiscs = await discVariantService.findMany({
@@ -42,6 +38,16 @@ const run = async () => {
         'turn',
         'fade',
         'stability',
+        'imageUrl',
+        'releaseType',
+        'productionStatus',
+        'runName',
+        'runYear',
+        'collectorValue',
+        'rarity',
+        'soughtAfter',
+        'priceLowUsd',
+        'priceHighUsd',
       ],
       populate: {
         mold: {
@@ -81,29 +87,6 @@ const run = async () => {
     }
     const discs = Array.from(docsById.values());
 
-    const collectorReleases = await collectorService.findMany({
-      status: 'published',
-      fields: [
-        'id',
-        'documentId',
-        'externalId',
-        'discDocumentId',
-        'runName',
-        'year',
-        'oopStatus',
-        'collectorValue',
-        'rarity',
-        'soughtAfter',
-        'priceLowUsd',
-        'priceHighUsd',
-        'notes',
-        'imageUrl',
-      ],
-      pagination: { page: 1, pageSize: 50000 },
-    });
-
-    const collectorDocs = collectorReleases.map((release) => mapCollectorRelease(release));
-
     const marketListings = await marketListingService.findMany({
       status: 'published',
       populate: {
@@ -140,11 +123,10 @@ const run = async () => {
 
     await importBatches(client, DISCS_COLLECTION, discs);
     await importBatches(client, COURSES_COLLECTION, courses.map(mapCourse));
-    await importBatches(client, COLLECTOR_RELEASES_COLLECTION, collectorDocs);
     await importBatches(client, LISTINGS_COLLECTION, listingDocs);
 
     console.log(
-      `Typesense reindex complete. Indexed ${discs.length} discs, ${courses.length} courses, ${collectorDocs.length} collector releases, and ${listingDocs.length} marketplace listings.`
+      `Typesense reindex complete. Indexed ${discs.length} discs, ${courses.length} courses, and ${listingDocs.length} marketplace listings.`
     );
   } finally {
     await strapi.destroy();

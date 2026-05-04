@@ -18,6 +18,14 @@ const PROFILE_FIELDS = [
   'ksmAddress',
   'btcAddress',
   'cryptoNotes',
+  'pdgaNumber',
+  'socialInstagram',
+  'socialLine',
+  'socialTwitter',
+  'socialYoutube',
+  'socialTiktok',
+  'socialFacebook',
+  'socialUdisc',
 ] as const;
 
 const pickProfileFields = (raw: Record<string, unknown>): Record<string, unknown> => {
@@ -28,6 +36,39 @@ const pickProfileFields = (raw: Record<string, unknown>): Record<string, unknown
     }
   }
   return out;
+};
+
+const pickPublicProfile = (row: Record<string, unknown>) => {
+  const out: Record<string, unknown> = {};
+  for (const key of PROFILE_FIELDS) {
+    if (Object.prototype.hasOwnProperty.call(row, key)) {
+      out[key] = row[key];
+    }
+  }
+  if (typeof row.id === 'number') {
+    out.id = row.id;
+  } else if (typeof row.id === 'string' && row.id.trim() !== '') {
+    const n = Number(row.id);
+    if (Number.isFinite(n)) out.id = n;
+  }
+  if (typeof row.documentId === 'string') {
+    out.documentId = row.documentId;
+  }
+  return out;
+};
+
+const pickPublicUser = (u: Record<string, unknown>) => {
+  const id = typeof u.id === 'number' ? u.id : Number(u.id);
+  if (!Number.isFinite(id)) {
+    throw new errors.ApplicationError('Invalid user id');
+  }
+  return {
+    id,
+    documentId: typeof u.documentId === 'string' ? u.documentId : undefined,
+    username: typeof u.username === 'string' ? u.username : null,
+    confirmed: Boolean(u.confirmed),
+    createdAt: typeof u.createdAt === 'string' ? u.createdAt : null,
+  };
 };
 
 const requireDataObject = (body: unknown): Record<string, unknown> => {
@@ -48,6 +89,81 @@ const requireDataObject = (body: unknown): Record<string, unknown> => {
  * the owning user server-side from `ctx.state.user`.
  */
 export default factories.createCoreController('api::profile.profile', ({ strapi }) => ({
+  /**
+   * Public server-side resolve for `/u/:username`.
+   * Uses the Document Service so we are not blocked by REST sanitization stripping `user`
+   * from profile list responses or by disabled `user.find` for the Public role.
+   */
+  async lookupPublic(ctx) {
+    const q = ctx.query as { username?: string | string[] };
+    const raw0 = Array.isArray(q.username) ? q.username[0] : q.username;
+    const raw = String(raw0 ?? '').trim();
+    if (!raw) {
+      throw new errors.ValidationError('Missing username');
+    }
+    let decoded = raw;
+    try {
+      decoded = decodeURIComponent(raw);
+    } catch {
+      decoded = raw;
+    }
+    decoded = decoded.trim();
+    if (!decoded) {
+      throw new errors.ValidationError('Missing username');
+    }
+
+    const variants = Array.from(new Set([decoded, decoded.toLowerCase()].filter(Boolean)));
+
+    const findProfileBundle = async (usernameFilter: string) => {
+      const profiles = await strapi.documents('api::profile.profile').findMany({
+        filters: {
+          user: {
+            username: { $eqi: usernameFilter },
+          },
+        },
+        populate: ['user'],
+        limit: 1,
+      });
+      const profile = profiles[0] as Record<string, unknown> | undefined;
+      if (!profile) {
+        return null;
+      }
+      const u = profile.user as Record<string, unknown> | undefined;
+      if (!u?.id || u.blocked) {
+        return null;
+      }
+      const { user: _drop, ...profileRest } = profile;
+      return { user: pickPublicUser(u), profile: pickPublicProfile(profileRest) };
+    };
+
+    const findUserOnly = async (usernameFilter: string) => {
+      const users = await strapi.documents('plugin::users-permissions.user').findMany({
+        filters: { username: { $eqi: usernameFilter } },
+        limit: 1,
+      });
+      const u = users[0] as Record<string, unknown> | undefined;
+      if (!u?.id || u.blocked) {
+        return null;
+      }
+      return { user: pickPublicUser(u), profile: null };
+    };
+
+    for (const v of variants) {
+      const bundle = await findProfileBundle(v);
+      if (bundle) {
+        return ctx.send({ data: bundle });
+      }
+    }
+    for (const v of variants) {
+      const bundle = await findUserOnly(v);
+      if (bundle) {
+        return ctx.send({ data: bundle });
+      }
+    }
+
+    throw new errors.NotFoundError(`No user for username: ${decoded}`);
+  },
+
   async create(ctx) {
     await this.validateQuery(ctx);
     const sanitizedQuery = await this.sanitizeQuery(ctx);

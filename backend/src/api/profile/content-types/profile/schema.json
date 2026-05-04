@@ -124,6 +124,79 @@
         }
       }
     },
+    "pdgaNumber": {
+      "type": "integer",
+      "min": 1,
+      "max": 9999999,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Optional PDGA player number — links to pdga.com for extra credibility (self-reported)."
+        }
+      }
+    },
+    "socialInstagram": {
+      "type": "string",
+      "maxLength": 220,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Instagram URL or @handle (shown on public profile)."
+        }
+      }
+    },
+    "socialLine": {
+      "type": "string",
+      "maxLength": 500,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "LINE profile or add-friend URL (line.me/…), or paste the ID segment after ~/ (shown on public profile)."
+        }
+      }
+    },
+    "socialTwitter": {
+      "type": "string",
+      "maxLength": 220,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "X/Twitter URL or @handle (shown on public profile)."
+        }
+      }
+    },
+    "socialYoutube": {
+      "type": "string",
+      "maxLength": 500,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "YouTube channel URL or @handle (shown on public profile)."
+        }
+      }
+    },
+    "socialTiktok": {
+      "type": "string",
+      "maxLength": 220,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "TikTok URL or handle (shown on public profile)."
+        }
+      }
+    },
+    "socialFacebook": {
+      "type": "string",
+      "maxLength": 500,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Facebook profile URL (shown on public profile)."
+        }
+      }
+    },
+    "socialUdisc": {
+      "type": "string",
+      "maxLength": 500,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "UDisc or other disc-golf profile URL (shown on public profile)."
+        }
+      }
+    },
     "user": {
       "type": "relation",
       "relation": "manyToOne",

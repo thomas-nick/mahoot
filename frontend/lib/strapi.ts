@@ -18,6 +18,15 @@ export type StrapiMedia = {
   alternativeText?: string | null;
 };
 
+export type DiscReleaseType =
+  | "stock"
+  | "limited-edition"
+  | "tour-series"
+  | "money-run"
+  | "tournament-run";
+
+export type DiscProductionStatus = "in-production" | "oop";
+
 export type Disc = {
   id: number;
   documentId: string;
@@ -44,6 +53,16 @@ export type Disc = {
   imageUrl: string | null;
   color: string | null;
   backgroundColor: string | null;
+  releaseType?: DiscReleaseType | null;
+  productionStatus?: DiscProductionStatus | null;
+  runName?: string | null;
+  runYear?: number | null;
+  collectorValue?: number | null;
+  rarity?: number | null;
+  soughtAfter?: number | null;
+  priceLowUsd?: number | null;
+  priceHighUsd?: number | null;
+  runNotes?: string | null;
 };
 
 export type DiscMold = {
@@ -79,6 +98,16 @@ type DiscVariant = {
   stability: string | null;
   link: string | null;
   imageUrl: string | null;
+  releaseType?: DiscReleaseType | null;
+  productionStatus?: DiscProductionStatus | null;
+  runName?: string | null;
+  runYear?: number | null;
+  collectorValue?: number | null;
+  rarity?: number | null;
+  soughtAfter?: number | null;
+  priceLowUsd?: number | null;
+  priceHighUsd?: number | null;
+  runNotes?: string | null;
   mold?: {
     documentId?: string | null;
     externalId?: string | null;
@@ -204,25 +233,6 @@ export type DiscRatingSummary = {
   ratingCount: number;
 };
 
-export type CollectorRelease = {
-  id: number;
-  documentId?: string;
-  externalId?: string | null;
-  discDocumentId: string;
-  discExternalId?: string | null;
-  discName?: string | null;
-  runName: string;
-  year: number;
-  oopStatus?: "in-production" | "oop" | "limited-run" | "tour-series" | null;
-  collectorValue?: number | null;
-  rarity?: number | null;
-  soughtAfter?: number | null;
-  priceLowUsd?: number | null;
-  priceHighUsd?: number | null;
-  imageUrl?: string | null;
-  notes?: string | null;
-};
-
 type Pagination = {
   page: number;
   pageSize: number;
@@ -240,11 +250,27 @@ export type DiscFacetOptions = {
   categories: string[];
   plastics: string[];
   stabilities: string[];
+  releaseTypes: string[];
   speedRange: {
     min: number | null;
     max: number | null;
   };
 };
+
+export const DISC_RELEASE_TYPES: DiscReleaseType[] = [
+  "stock",
+  "limited-edition",
+  "tour-series",
+  "money-run",
+  "tournament-run",
+];
+
+export const COLLECTOR_RELEASE_TYPES: DiscReleaseType[] = [
+  "limited-edition",
+  "tour-series",
+  "money-run",
+  "tournament-run",
+];
 
 export type CourseListResult = {
   items: Course[];
@@ -442,6 +468,9 @@ const discMatchesListFilters = (
     stability?: string;
     speedMin?: number;
     speedMax?: number;
+    releaseType?: string;
+    releaseTypes?: string[];
+    productionStatus?: string;
   },
 ) => {
   const q = input.query?.trim();
@@ -459,6 +488,24 @@ const discMatchesListFilters = (
   }
   if (input.stability && disc.stability !== input.stability) {
     return false;
+  }
+  if (input.releaseType) {
+    const release = disc.releaseType ?? "stock";
+    if (release !== input.releaseType) {
+      return false;
+    }
+  }
+  if (input.releaseTypes && input.releaseTypes.length > 0) {
+    const release = disc.releaseType ?? "stock";
+    if (!input.releaseTypes.includes(release)) {
+      return false;
+    }
+  }
+  if (input.productionStatus) {
+    const status = disc.productionStatus ?? "in-production";
+    if (status !== input.productionStatus) {
+      return false;
+    }
   }
   const speed = numericSpeed(disc.speed);
   if (input.speedMin !== undefined) {
@@ -544,6 +591,16 @@ const mapDiscVariantToDisc = (variant: DiscVariant): Disc => {
     imageUrl: variant.imageUrl ?? null,
     color: mold?.color ?? null,
     backgroundColor: mold?.backgroundColor ?? null,
+    releaseType: variant.releaseType ?? "stock",
+    productionStatus: variant.productionStatus ?? "in-production",
+    runName: variant.runName ?? null,
+    runYear: variant.runYear ?? null,
+    collectorValue: variant.collectorValue ?? null,
+    rarity: variant.rarity ?? null,
+    soughtAfter: variant.soughtAfter ?? null,
+    priceLowUsd: variant.priceLowUsd ?? null,
+    priceHighUsd: variant.priceHighUsd ?? null,
+    runNotes: variant.runNotes ?? null,
   };
 };
 
@@ -628,6 +685,9 @@ export const getDiscs = async (input: {
   stability?: string;
   speedMin?: number;
   speedMax?: number;
+  releaseType?: string;
+  releaseTypes?: string[];
+  productionStatus?: string;
 }) => {
   const page = input.page ?? 1;
   const pageSize = input.pageSize ?? 12;
@@ -643,7 +703,7 @@ export const getDiscs = async (input: {
     "filters[speed][$lte]": input.speedMax,
     status: "published",
   });
-  const variantQuery = toQueryString({
+  const variantFilterParams: Record<string, string | number | undefined> = {
     "pagination[page]": page,
     "pagination[pageSize]": pageSize,
     "sort[0]": "displayName:asc",
@@ -654,6 +714,16 @@ export const getDiscs = async (input: {
     "filters[stability][$eq]": input.stability,
     "filters[speed][$gte]": input.speedMin,
     "filters[speed][$lte]": input.speedMax,
+    "filters[releaseType][$eq]": input.releaseType,
+    "filters[productionStatus][$eq]": input.productionStatus,
+  };
+  if (input.releaseTypes && input.releaseTypes.length > 0) {
+    input.releaseTypes.forEach((value, index) => {
+      variantFilterParams[`filters[releaseType][$in][${index}]`] = value;
+    });
+  }
+  const variantQuery = toQueryString({
+    ...variantFilterParams,
     "populate[mold][fields][0]": "name",
     "populate[mold][fields][1]": "brand",
     "populate[mold][fields][2]": "category",
@@ -788,6 +858,7 @@ export const getDiscFacetOptions = async (): Promise<DiscFacetOptions> => {
     const categories = new Set<string>();
     const plastics = new Set<string>();
     const stabilities = new Set<string>();
+    const releaseTypes = new Set<string>();
     const speeds: number[] = [];
 
     for (const variant of allVariants) {
@@ -795,6 +866,7 @@ export const getDiscFacetOptions = async (): Promise<DiscFacetOptions> => {
       if (variant.mold?.category) categories.add(variant.mold.category);
       if (variant.plastic?.name) plastics.add(variant.plastic.name);
       if (variant.stability) stabilities.add(variant.stability);
+      if (variant.releaseType) releaseTypes.add(variant.releaseType);
       if (typeof variant.speed === "number") speeds.push(variant.speed);
     }
 
@@ -803,6 +875,7 @@ export const getDiscFacetOptions = async (): Promise<DiscFacetOptions> => {
       categories: Array.from(categories).sort((a, b) => a.localeCompare(b)),
       plastics: Array.from(plastics).sort((a, b) => a.localeCompare(b)),
       stabilities: Array.from(stabilities).sort((a, b) => a.localeCompare(b)),
+      releaseTypes: DISC_RELEASE_TYPES.filter((type) => releaseTypes.has(type) || type === "stock"),
       speedRange: {
         min: speeds.length ? Math.min(...speeds) : null,
         max: speeds.length ? Math.max(...speeds) : null,
@@ -833,6 +906,7 @@ export const getDiscFacetOptions = async (): Promise<DiscFacetOptions> => {
         categories: Array.from(categories).sort((a, b) => a.localeCompare(b)),
         plastics: [],
         stabilities: Array.from(stabilities).sort((a, b) => a.localeCompare(b)),
+        releaseTypes: ["stock"],
         speedRange: {
           min: speeds.length ? Math.min(...speeds) : null,
           max: speeds.length ? Math.max(...speeds) : null,
@@ -844,6 +918,7 @@ export const getDiscFacetOptions = async (): Promise<DiscFacetOptions> => {
         categories: [],
         plastics: [],
         stabilities: [],
+        releaseTypes: ["stock"],
         speedRange: { min: null, max: null },
       };
     }
@@ -1365,20 +1440,46 @@ export const getDiscRatingSummariesByDocumentIds = async (documentIds: string[])
   );
 };
 
-export const getCollectorReleasesByDiscDocumentId = async (discDocumentId: string) => {
-  const query = toQueryString({
-    "filters[discDocumentId][$eq]": discDocumentId,
-    "sort[0]": "year:asc",
-    "sort[1]": "runName:asc",
-    "pagination[pageSize]": 100,
+/**
+ * Sibling release variants of the same mold (e.g. all the special-edition Sextons
+ * for a given Firebird). Used by the disc detail "Releases" tab to avoid the
+ * old separate collector-release content type.
+ */
+export const getMoldReleaseSiblings = async (input: {
+  moldExternalId: string | null | undefined;
+  excludeDocumentId?: string;
+}): Promise<Disc[]> => {
+  const moldExternalId = (input.moldExternalId ?? "").trim();
+  if (!moldExternalId) return [];
+
+  const variantQuery = toQueryString({
+    "filters[mold][externalId][$eq]": moldExternalId,
+    "sort[0]": "runYear:desc",
+    "sort[1]": "displayName:asc",
+    "pagination[pageSize]": 50,
     status: "published",
+    "populate[mold][fields][0]": "name",
+    "populate[mold][fields][1]": "brand",
+    "populate[mold][fields][2]": "category",
+    "populate[mold][fields][3]": "externalId",
+    "populate[mold][fields][4]": "color",
+    "populate[mold][fields][5]": "backgroundColor",
+    "populate[mold][fields][6]": "speed",
+    "populate[mold][fields][7]": "glide",
+    "populate[mold][fields][8]": "turn",
+    "populate[mold][fields][9]": "fade",
+    "populate[mold][fields][10]": "stability",
+    "populate[plastic][fields][0]": "name",
+    "populate[plastic][fields][1]": "externalId",
   });
 
   try {
-    const payload = await request<StrapiListResponse<CollectorRelease>>(`/api/collector-releases?${query}`);
-    return payload.data ?? [];
+    const payload = await request<StrapiListResponse<DiscVariant>>(`/api/disc-variants?${variantQuery}`);
+    const mapped = payload.data.map(mapDiscVariantToDisc);
+    const excludeId = (input.excludeDocumentId ?? "").trim();
+    return excludeId ? mapped.filter((disc) => disc.documentId !== excludeId) : mapped;
   } catch {
-    return [] as CollectorRelease[];
+    return [];
   }
 };
 

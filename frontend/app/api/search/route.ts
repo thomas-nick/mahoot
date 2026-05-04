@@ -28,6 +28,16 @@ type DiscDoc = {
   brand?: string;
   category?: string;
   plastic?: string;
+  releaseType?: string;
+  productionStatus?: string;
+  runName?: string;
+  runYear?: number;
+  collectorValue?: number;
+  rarity?: number;
+  soughtAfter?: number;
+  priceLowUsd?: number;
+  priceHighUsd?: number;
+  imageUrl?: string;
 };
 
 type CourseDoc = {
@@ -44,25 +54,6 @@ type CourseDoc = {
   pros?: string;
   cons?: string;
   description?: string;
-};
-
-type CollectorDoc = {
-  id: string;
-  discId?: string;
-  discExternalId?: string;
-  discName?: string;
-  brand?: string;
-  mold?: string;
-  runName?: string;
-  year?: number;
-  oopStatus?: string;
-  collectorValue?: number;
-  rarity?: number;
-  soughtAfter?: number;
-  priceLowUsd?: number;
-  priceHighUsd?: number;
-  imageUrl?: string;
-  notes?: string;
 };
 
 type ListingDoc = {
@@ -85,7 +76,6 @@ type MultiSearchResponse = {
   results: Array<
     | MultiSearchResult<DiscDoc>
     | MultiSearchResult<CourseDoc>
-    | MultiSearchResult<CollectorDoc>
     | MultiSearchResult<ListingDoc>
   >;
 };
@@ -99,6 +89,7 @@ const emptyDiscMeta = {
     category: [] as FacetBucket[],
     stability: [] as FacetBucket[],
     plastic: [] as FacetBucket[],
+    releaseType: [] as FacetBucket[],
   },
 };
 
@@ -115,23 +106,22 @@ const emptyCourseMeta = {
   },
 };
 
-type CollectorHit = {
+type DiscHit = {
   id: string;
-  discId: string | null;
-  discExternalId: string | null;
-  discName: string | null;
+  name: string;
   brand: string | null;
-  mold: string | null;
+  category: string | null;
+  plastic: string | null;
+  releaseType: string;
+  productionStatus: string;
   runName: string | null;
-  year: number | null;
-  oopStatus: string | null;
+  runYear: number | null;
   collectorValue: number | null;
   rarity: number | null;
   soughtAfter: number | null;
   priceLowUsd: number | null;
   priceHighUsd: number | null;
   imageUrl: string | null;
-  notes: string | null;
 };
 
 type ListingHit = {
@@ -202,9 +192,9 @@ const buildStrapiHeaders = (): HeadersInit => {
   return headers;
 };
 
-const enrichDiscHitsWithPlastic = async (
-  discs: Array<{ id: string; plastic: string | null; name: string; brand: string | null; category: string | null }>,
-) => {
+const enrichDiscHitsWithPlastic = async <T extends { id: string; plastic: string | null }>(
+  discs: T[],
+): Promise<T[]> => {
   const missing = discs.map((disc) => disc.id).filter((id, index) => !discs[index].plastic);
   if (missing.length === 0) {
     return discs;
@@ -332,6 +322,8 @@ const buildDiscFilterBy = (searchParams: URLSearchParams) => {
   const category = (searchParams.get("discCategory") ?? "").trim();
   const stability = (searchParams.get("discStability") ?? "").trim();
   const plastic = (searchParams.get("discPlastic") ?? "").trim();
+  const releaseType = (searchParams.get("discReleaseType") ?? "").trim();
+  const productionStatus = (searchParams.get("discProductionStatus") ?? "").trim();
   const speedMin = parseNumber(searchParams.get("discSpeedMin"));
   const speedMax = parseNumber(searchParams.get("discSpeedMax"));
 
@@ -346,6 +338,12 @@ const buildDiscFilterBy = (searchParams: URLSearchParams) => {
   }
   if (plastic) {
     filters.push(`plastic:=${JSON.stringify(plastic)}`);
+  }
+  if (releaseType) {
+    filters.push(`releaseType:=${JSON.stringify(releaseType)}`);
+  }
+  if (productionStatus) {
+    filters.push(`productionStatus:=${JSON.stringify(productionStatus)}`);
   }
   if (speedMin !== null) {
     filters.push(`speed:>=${speedMin}`);
@@ -403,9 +401,8 @@ export async function GET(request: Request) {
   if (q.length < 2) {
     return NextResponse.json({
       configured: Boolean(getTypesenseConfig()),
-      discs: [],
+      discs: [] as DiscHit[],
       courses: [],
-      collectors: [] as CollectorHit[],
       listings: [] as ListingHit[],
       nearbyCourses: [] as NearbyCourseHit[],
       discsMeta: emptyDiscMeta,
@@ -419,9 +416,8 @@ export async function GET(request: Request) {
       {
         configured: false,
         error: "Typesense is not configured on the server.",
-        discs: [],
+        discs: [] as DiscHit[],
         courses: [],
-        collectors: [] as CollectorHit[],
         listings: [] as ListingHit[],
         nearbyCourses: [] as NearbyCourseHit[],
         discsMeta: emptyDiscMeta,
@@ -439,10 +435,10 @@ export async function GET(request: Request) {
       {
         collection: "discs",
         q,
-        query_by: "name,brand,category,plastic,stability,externalId",
+        query_by: "name,brand,category,plastic,stability,runName,externalId",
         per_page: 8,
         prefix: true,
-        facet_by: "brand,category,stability,plastic",
+        facet_by: "brand,category,stability,plastic,releaseType",
         max_facet_values: 20,
         ...(discFilterBy ? { filter_by: discFilterBy } : {}),
       },
@@ -455,15 +451,6 @@ export async function GET(request: Request) {
         facet_by: "state,city",
         max_facet_values: 20,
         ...(courseFilterBy ? { filter_by: courseFilterBy } : {}),
-      },
-      {
-        collection: "collector_releases",
-        q,
-        query_by: "runName,discName,brand,mold,oopStatus",
-        per_page: 6,
-        prefix: true,
-        facet_by: "brand,mold,oopStatus,year",
-        max_facet_values: 20,
       },
       {
         collection: "listings",
@@ -496,9 +483,8 @@ export async function GET(request: Request) {
           configured: true,
           error: `Typesense error: ${res.status}`,
           detail: text.slice(0, 200),
-          discs: [],
+          discs: [] as DiscHit[],
           courses: [],
-          collectors: [] as CollectorHit[],
           listings: [] as ListingHit[],
           nearbyCourses: [] as NearbyCourseHit[],
           discsMeta: emptyDiscMeta,
@@ -511,10 +497,9 @@ export async function GET(request: Request) {
     const data = (await res.json()) as MultiSearchResponse;
     const discResults = data.results?.[0] as MultiSearchResult<DiscDoc> | undefined;
     const courseResults = data.results?.[1] as MultiSearchResult<CourseDoc> | undefined;
-    const collectorResults = data.results?.[2] as MultiSearchResult<CollectorDoc> | undefined;
-    const listingResults = data.results?.[3] as MultiSearchResult<ListingDoc> | undefined;
+    const listingResults = data.results?.[2] as MultiSearchResult<ListingDoc> | undefined;
 
-    const discs =
+    const discs: DiscHit[] =
       discResults?.hits?.map((h) => {
         const doc = h.document;
         return {
@@ -523,6 +508,16 @@ export async function GET(request: Request) {
           brand: doc.brand ?? null,
           category: doc.category ?? null,
           plastic: doc.plastic ?? null,
+          releaseType: doc.releaseType ?? "stock",
+          productionStatus: doc.productionStatus ?? "in-production",
+          runName: doc.runName ?? null,
+          runYear: typeof doc.runYear === "number" ? doc.runYear : null,
+          collectorValue: typeof doc.collectorValue === "number" ? doc.collectorValue : null,
+          rarity: typeof doc.rarity === "number" ? doc.rarity : null,
+          soughtAfter: typeof doc.soughtAfter === "number" ? doc.soughtAfter : null,
+          priceLowUsd: typeof doc.priceLowUsd === "number" ? doc.priceLowUsd : null,
+          priceHighUsd: typeof doc.priceHighUsd === "number" ? doc.priceHighUsd : null,
+          imageUrl: doc.imageUrl ?? null,
         };
       }) ?? [];
     const discsWithPlastic = await enrichDiscHitsWithPlastic(discs);
@@ -544,29 +539,6 @@ export async function GET(request: Request) {
           country: doc.country ?? null,
           difficulty: doc.difficulty ?? null,
           type: doc.type ?? null,
-        };
-      }) ?? [];
-
-    const collectors: CollectorHit[] =
-      collectorResults?.hits?.map((h) => {
-        const doc = h.document;
-        return {
-          id: String(doc.id ?? ""),
-          discId: doc.discId ?? null,
-          discExternalId: doc.discExternalId ?? null,
-          discName: doc.discName ?? null,
-          brand: doc.brand ?? null,
-          mold: doc.mold ?? null,
-          runName: doc.runName ?? null,
-          year: typeof doc.year === "number" ? doc.year : null,
-          oopStatus: doc.oopStatus ?? null,
-          collectorValue: typeof doc.collectorValue === "number" ? doc.collectorValue : null,
-          rarity: typeof doc.rarity === "number" ? doc.rarity : null,
-          soughtAfter: typeof doc.soughtAfter === "number" ? doc.soughtAfter : null,
-          priceLowUsd: typeof doc.priceLowUsd === "number" ? doc.priceLowUsd : null,
-          priceHighUsd: typeof doc.priceHighUsd === "number" ? doc.priceHighUsd : null,
-          imageUrl: doc.imageUrl ?? null,
-          notes: doc.notes ?? null,
         };
       }) ?? [];
 
@@ -645,7 +617,6 @@ export async function GET(request: Request) {
       configured: true,
       discs: discsWithRatings,
       courses,
-      collectors,
       listings,
       nearbyCourses,
       discsMeta: {
@@ -655,6 +626,7 @@ export async function GET(request: Request) {
           category: toFacetBuckets(discResults?.facet_counts, "category"),
           stability: toFacetBuckets(discResults?.facet_counts, "stability"),
           plastic: toFacetBuckets(discResults?.facet_counts, "plastic"),
+          releaseType: toFacetBuckets(discResults?.facet_counts, "releaseType"),
         },
       },
       coursesMeta: {
@@ -673,9 +645,8 @@ export async function GET(request: Request) {
       {
         configured: true,
         error: message,
-        discs: [],
+        discs: [] as DiscHit[],
         courses: [],
-        collectors: [] as CollectorHit[],
         listings: [] as ListingHit[],
         nearbyCourses: [] as NearbyCourseHit[],
         discsMeta: emptyDiscMeta,

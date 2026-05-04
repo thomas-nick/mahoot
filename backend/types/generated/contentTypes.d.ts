@@ -430,85 +430,6 @@ export interface AdminUser extends Struct.CollectionTypeSchema {
   };
 }
 
-export interface ApiCollectorReleaseCollectorRelease
-  extends Struct.CollectionTypeSchema {
-  collectionName: 'collector_releases';
-  info: {
-    displayName: 'Collector Release';
-    pluralName: 'collector-releases';
-    singularName: 'collector-release';
-  };
-  options: {
-    draftAndPublish: false;
-  };
-  attributes: {
-    collectorValue: Schema.Attribute.Integer &
-      Schema.Attribute.SetMinMax<
-        {
-          max: 10;
-          min: 1;
-        },
-        number
-      >;
-    createdAt: Schema.Attribute.DateTime;
-    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    discDocumentId: Schema.Attribute.String & Schema.Attribute.Required;
-    discExternalId: Schema.Attribute.String;
-    discName: Schema.Attribute.String;
-    externalId: Schema.Attribute.String & Schema.Attribute.Unique;
-    imageUrl: Schema.Attribute.String &
-      Schema.Attribute.SetPluginOptions<{
-        'content-manager': {
-          description: 'Optional image URL for this collector run (e.g. stamp photo).';
-        };
-      }>;
-    locale: Schema.Attribute.String & Schema.Attribute.Private;
-    localizations: Schema.Attribute.Relation<
-      'oneToMany',
-      'api::collector-release.collector-release'
-    > &
-      Schema.Attribute.Private;
-    notes: Schema.Attribute.Text;
-    oopStatus: Schema.Attribute.Enumeration<
-      ['in-production', 'oop', 'limited-run', 'tour-series']
-    > &
-      Schema.Attribute.DefaultTo<'in-production'>;
-    priceHighUsd: Schema.Attribute.Decimal;
-    priceLowUsd: Schema.Attribute.Decimal;
-    publishedAt: Schema.Attribute.DateTime;
-    rarity: Schema.Attribute.Integer &
-      Schema.Attribute.SetMinMax<
-        {
-          max: 10;
-          min: 1;
-        },
-        number
-      >;
-    runName: Schema.Attribute.String & Schema.Attribute.Required;
-    soughtAfter: Schema.Attribute.Integer &
-      Schema.Attribute.SetMinMax<
-        {
-          max: 10;
-          min: 1;
-        },
-        number
-      >;
-    updatedAt: Schema.Attribute.DateTime;
-    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    year: Schema.Attribute.Integer &
-      Schema.Attribute.Required &
-      Schema.Attribute.SetMinMax<
-        {
-          max: 2100;
-          min: 1900;
-        },
-        number
-      >;
-  };
-}
-
 export interface ApiCourseRatingVoteCourseRatingVote
   extends Struct.CollectionTypeSchema {
   collectionName: 'course_rating_votes';
@@ -1096,6 +1017,14 @@ export interface ApiDiscVariantDiscVariant extends Struct.CollectionTypeSchema {
     draftAndPublish: true;
   };
   attributes: {
+    collectorValue: Schema.Attribute.Integer &
+      Schema.Attribute.SetMinMax<
+        {
+          max: 10;
+          min: 1;
+        },
+        number
+      >;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -1121,11 +1050,45 @@ export interface ApiDiscVariantDiscVariant extends Struct.CollectionTypeSchema {
       'api::plastic-type.plastic-type'
     > &
       Schema.Attribute.Required;
+    priceHighUsd: Schema.Attribute.Decimal;
+    priceLowUsd: Schema.Attribute.Decimal;
+    productionStatus: Schema.Attribute.Enumeration<['in-production', 'oop']> &
+      Schema.Attribute.DefaultTo<'in-production'>;
     publishedAt: Schema.Attribute.DateTime;
+    rarity: Schema.Attribute.Integer &
+      Schema.Attribute.SetMinMax<
+        {
+          max: 10;
+          min: 1;
+        },
+        number
+      >;
     ratingAverageOverall: Schema.Attribute.Decimal;
     ratingBayesScore: Schema.Attribute.Decimal;
     ratingCount: Schema.Attribute.Integer;
+    releaseType: Schema.Attribute.Enumeration<
+      ['stock', 'limited-edition', 'tour-series', 'money-run', 'tournament-run']
+    > &
+      Schema.Attribute.DefaultTo<'stock'>;
+    runName: Schema.Attribute.String;
+    runNotes: Schema.Attribute.Text;
+    runYear: Schema.Attribute.Integer &
+      Schema.Attribute.SetMinMax<
+        {
+          max: 2100;
+          min: 1900;
+        },
+        number
+      >;
     slug: Schema.Attribute.String;
+    soughtAfter: Schema.Attribute.Integer &
+      Schema.Attribute.SetMinMax<
+        {
+          max: 10;
+          min: 1;
+        },
+        number
+      >;
     speed: Schema.Attribute.Decimal;
     stability: Schema.Attribute.String;
     turn: Schema.Attribute.Decimal;
@@ -1608,7 +1571,83 @@ export interface ApiProfileProfile extends Struct.CollectionTypeSchema {
       Schema.Attribute.SetMinMaxLength<{
         maxLength: 120;
       }>;
+    pdgaNumber: Schema.Attribute.Integer &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Optional PDGA player number \u2014 links to pdga.com for extra credibility (self-reported).';
+        };
+      }> &
+      Schema.Attribute.SetMinMax<
+        {
+          max: 9999999;
+          min: 1;
+        },
+        number
+      >;
     publishedAt: Schema.Attribute.DateTime;
+    socialFacebook: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Facebook profile URL (shown on public profile).';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 500;
+      }>;
+    socialInstagram: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Instagram URL or @handle (shown on public profile).';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 220;
+      }>;
+    socialLine: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'LINE profile or add-friend URL (line.me/\u2026), or paste the ID segment after ~/ (shown on public profile).';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 500;
+      }>;
+    socialTiktok: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'TikTok URL or handle (shown on public profile).';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 220;
+      }>;
+    socialTwitter: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'X/Twitter URL or @handle (shown on public profile).';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 220;
+      }>;
+    socialUdisc: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'UDisc or other disc-golf profile URL (shown on public profile).';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 500;
+      }>;
+    socialYoutube: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'YouTube channel URL or @handle (shown on public profile).';
+        };
+      }> &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 500;
+      }>;
     solAddress: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         'content-manager': {
@@ -2159,7 +2198,6 @@ declare module '@strapi/strapi' {
       'admin::transfer-token': AdminTransferToken;
       'admin::transfer-token-permission': AdminTransferTokenPermission;
       'admin::user': AdminUser;
-      'api::collector-release.collector-release': ApiCollectorReleaseCollectorRelease;
       'api::course-rating-vote.course-rating-vote': ApiCourseRatingVoteCourseRatingVote;
       'api::course-rating.course-rating': ApiCourseRatingCourseRating;
       'api::course-submission.course-submission': ApiCourseSubmissionCourseSubmission;

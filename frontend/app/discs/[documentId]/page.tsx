@@ -9,13 +9,11 @@ import { getDiscDimensionsByExternalId } from "@/lib/disc-dimensions";
 import { rankFlightOnlyNeighbors } from "@/lib/disc-similarity";
 import {
   getAllDiscsForSimilarity,
-  getCollectorReleasesByDiscDocumentId,
   getDiscByDocumentId,
   getDiscRatingsByDocumentId,
   getMarketListingsByDiscDocumentId,
+  getMoldReleaseSiblings,
 } from "@/lib/strapi";
-import { CollectorReleaseForm } from "./CollectorReleaseForm";
-import { CollectorReleaseManager } from "./CollectorReleaseManager";
 import { DiscRatingForm } from "./DiscRatingForm";
 import { EditDiscLink } from "./EditDiscLink";
 import { MarketplaceListingForm } from "./MarketplaceListingForm";
@@ -28,7 +26,32 @@ type DiscDetailProps = {
   searchParams: Promise<{ tab?: string }>;
 };
 
-type DiscTab = "specs" | "similar" | "collector" | "marketplace";
+type DiscTab = "specs" | "similar" | "releases" | "marketplace";
+
+const RELEASE_TYPE_LABELS: Record<string, string> = {
+  stock: "Stock",
+  "limited-edition": "Limited edition",
+  "tour-series": "Tour series",
+  "money-run": "Money run",
+  "tournament-run": "Tournament run",
+};
+
+const formatReleaseType = (value: string | null | undefined) => {
+  if (!value) return "Stock";
+  return RELEASE_TYPE_LABELS[value] ?? value.replace(/-/g, " ");
+};
+
+const formatProductionStatus = (value: string | null | undefined) => {
+  if (value === "oop") return "Out of production";
+  return "In production";
+};
+
+const formatPriceRange = (low: number | null | undefined, high: number | null | undefined) => {
+  if (low != null && high != null) return `$${low}–$${high}`;
+  if (low != null) return `from $${low}`;
+  if (high != null) return `up to $${high}`;
+  return null;
+};
 
 const getDiscDisplayName = (disc: {
   name: string;
@@ -45,8 +68,12 @@ const getDiscDisplayName = (disc: {
 export default async function DiscDetailPage({ params, searchParams }: DiscDetailProps) {
   const { documentId } = await params;
   const { tab } = await searchParams;
+  // Accept legacy `?tab=collector` for backwards compatibility but render it as the new releases tab.
+  const normalizedTab = tab === "collector" ? "releases" : tab;
   const activeTab: DiscTab =
-    tab === "similar" || tab === "collector" || tab === "marketplace" ? tab : "specs";
+    normalizedTab === "similar" || normalizedTab === "releases" || normalizedTab === "marketplace"
+      ? normalizedTab
+      : "specs";
   const disc = await getDiscByDocumentId(documentId);
 
   if (!disc) {
@@ -61,14 +88,19 @@ export default async function DiscDetailPage({ params, searchParams }: DiscDetai
     rimThicknessCm: disc.rimThicknessCm ?? csvDimensions.rimThicknessCm,
     maxWeightGr: disc.maxWeightGr ?? csvDimensions.maxWeightGr,
   };
-  const [allDiscs, discRatings, collectorReleases, marketListings] = await Promise.all([
+  const [allDiscs, discRatings, releaseSiblings, marketListings] = await Promise.all([
     getAllDiscsForSimilarity(),
     getDiscRatingsByDocumentId(documentId),
-    getCollectorReleasesByDiscDocumentId(documentId),
+    getMoldReleaseSiblings({
+      moldExternalId: disc.moldExternalId,
+      excludeDocumentId: disc.documentId,
+    }),
     getMarketListingsByDiscDocumentId(documentId),
   ]);
   const similarByFlight = rankFlightOnlyNeighbors(disc, allDiscs, 5);
   const ratingSummary = summarizeRatings(discRatings);
+  const isCollectorRelease = (disc.releaseType ?? "stock") !== "stock";
+  const priceRange = formatPriceRange(disc.priceLowUsd, disc.priceHighUsd);
 
   return (
     <article className="space-y-6">
@@ -114,6 +146,30 @@ export default async function DiscDetailPage({ params, searchParams }: DiscDetai
             <div>
               <h1 className="text-3xl font-semibold">{getDiscDisplayName(disc)}</h1>
               <p className="mt-1 text-sm text-slate-600">{disc.category || "No category"}</p>
+              {(isCollectorRelease || (disc.productionStatus ?? "in-production") === "oop") ? (
+                <div className="mt-2 flex flex-wrap items-center gap-2">
+                  {isCollectorRelease ? (
+                    <span className="rounded-full bg-slate-900 px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-white">
+                      {formatReleaseType(disc.releaseType)}
+                    </span>
+                  ) : null}
+                  {(disc.productionStatus ?? "in-production") === "oop" ? (
+                    <span className="rounded-full bg-amber-100 px-2.5 py-0.5 text-[11px] font-medium text-amber-800">
+                      Out of production
+                    </span>
+                  ) : null}
+                  {disc.runYear ? (
+                    <span className="rounded-full bg-slate-100 px-2.5 py-0.5 text-[11px] font-medium text-slate-700">
+                      {disc.runYear}
+                      {disc.runName ? ` · ${disc.runName}` : ""}
+                    </span>
+                  ) : disc.runName ? (
+                    <span className="rounded-full bg-slate-100 px-2.5 py-0.5 text-[11px] font-medium text-slate-700">
+                      {disc.runName}
+                    </span>
+                  ) : null}
+                </div>
+              ) : null}
             </div>
 
             <div className="flex flex-wrap items-center gap-3">
@@ -244,9 +300,9 @@ export default async function DiscDetailPage({ params, searchParams }: DiscDetai
               active={activeTab === "similar"}
             />
             <TabLink
-              href={`/discs/${disc.documentId}?tab=collector`}
-              label="Collector"
-              active={activeTab === "collector"}
+              href={`/discs/${disc.documentId}?tab=releases`}
+              label="Other releases"
+              active={activeTab === "releases"}
             />
             <TabLink
               href={`/discs/${disc.documentId}?tab=marketplace`}
@@ -324,18 +380,89 @@ export default async function DiscDetailPage({ params, searchParams }: DiscDetai
         </section>
       ) : null}
 
-      {activeTab === "collector" ? (
-        <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
-          <h2 className="text-xl font-semibold text-slate-900">Collector Runs</h2>
-          <p className="mt-1 text-sm text-slate-600">
-            Year-based collectible releases for this disc with value, rarity, and demand signals.
-          </p>
-          <CollectorReleaseManager releases={collectorReleases} />
-          <CollectorReleaseForm
-            discDocumentId={disc.documentId}
-            discExternalId={disc.externalId}
-            discName={disc.name}
-          />
+      {activeTab === "releases" ? (
+        <section className="space-y-6">
+          {isCollectorRelease ? (
+            <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
+              <div className="flex flex-wrap items-center gap-2">
+                <h2 className="text-xl font-semibold text-slate-900">Release details</h2>
+                <span className="rounded-full bg-slate-900 px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-white">
+                  {formatReleaseType(disc.releaseType)}
+                </span>
+                <span className="rounded-full bg-slate-100 px-2 py-0.5 text-[11px] font-medium text-slate-700">
+                  {formatProductionStatus(disc.productionStatus)}
+                </span>
+              </div>
+              <p className="mt-1 text-sm text-slate-600">
+                {[disc.runYear, disc.runName].filter(Boolean).join(" · ") ||
+                  "Special-edition run details for this variant."}
+              </p>
+              <div className="mt-3 flex flex-wrap gap-2 text-xs text-slate-700">
+                <MetricPill label="Collector value" value={disc.collectorValue ?? null} />
+                <MetricPill label="Rarity" value={disc.rarity ?? null} />
+                <MetricPill label="Sought after" value={disc.soughtAfter ?? null} />
+              </div>
+              {priceRange ? (
+                <p className="mt-2 text-xs text-slate-600">
+                  Estimated value: <span className="font-medium text-slate-900">{priceRange}</span>
+                </p>
+              ) : null}
+              {disc.runNotes ? (
+                <p className="mt-3 whitespace-pre-wrap text-sm text-slate-700">{disc.runNotes}</p>
+              ) : null}
+            </section>
+          ) : null}
+
+          <section className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
+            <h2 className="text-xl font-semibold text-slate-900">Other releases of this mold</h2>
+            <p className="mt-1 text-sm text-slate-600">
+              Tour-series, limited-edition, and special runs of {disc.moldName ?? disc.name}.
+            </p>
+            {releaseSiblings.length === 0 ? (
+              <p className="mt-3 text-sm text-slate-600">
+                No other releases on file yet — submit a new disc variant to add one.
+              </p>
+            ) : (
+              <ul className="mt-4 space-y-2">
+                {releaseSiblings.map((sibling) => {
+                  const siblingPrice = formatPriceRange(sibling.priceLowUsd, sibling.priceHighUsd);
+                  const yearLabel =
+                    typeof sibling.runYear === "number" && Number.isFinite(sibling.runYear)
+                      ? sibling.runYear
+                      : null;
+                  const detailParts = [
+                    sibling.plasticName,
+                    yearLabel,
+                    sibling.runName,
+                    siblingPrice,
+                  ].filter(Boolean);
+                  return (
+                    <li key={sibling.documentId}>
+                      <Link
+                        href={`/discs/${sibling.documentId}`}
+                        className="flex flex-wrap items-center justify-between gap-2 rounded-xl border border-slate-200 p-3 text-sm transition hover:border-slate-300 hover:bg-slate-50"
+                      >
+                        <span className="flex flex-wrap items-center gap-2">
+                          <span className="font-medium text-slate-900">{sibling.name}</span>
+                          <span className="rounded-full bg-slate-100 px-2 py-0.5 text-[11px] font-medium text-slate-700">
+                            {formatReleaseType(sibling.releaseType)}
+                          </span>
+                          {(sibling.productionStatus ?? "in-production") === "oop" ? (
+                            <span className="rounded-full bg-amber-100 px-2 py-0.5 text-[11px] font-medium text-amber-800">
+                              OOP
+                            </span>
+                          ) : null}
+                        </span>
+                        {detailParts.length > 0 ? (
+                          <span className="text-xs text-slate-600">{detailParts.join(" · ")}</span>
+                        ) : null}
+                      </Link>
+                    </li>
+                  );
+                })}
+              </ul>
+            )}
+          </section>
         </section>
       ) : null}
 
@@ -410,6 +537,15 @@ function Metric({ label, value }: { label: string; value: number | null }) {
       <p className="text-xs uppercase tracking-wide text-slate-500">{label}</p>
       <p className="mt-1 text-xl font-semibold">{value ?? "-"}</p>
     </div>
+  );
+}
+
+function MetricPill({ label, value }: { label: string; value: number | null }) {
+  return (
+    <span className="rounded-full bg-slate-100 px-2.5 py-1">
+      {label}: {value ?? "-"}
+      {value !== null ? "/10" : ""}
+    </span>
   );
 }
 

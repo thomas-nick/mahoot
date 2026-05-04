@@ -104,7 +104,7 @@ export function HeaderSearch() {
             <div className="mb-2 flex items-center gap-2 px-1 text-xs text-slate-500">
               <SearchIcon />
               <span className="flex-1">
-                Search discs, courses, marketplace listings, and collector runs.
+                Search discs, courses, and marketplace listings — release type filters included.
               </span>
               <button
                 type="button"

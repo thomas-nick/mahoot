@@ -36,6 +36,19 @@ const getDiscDisplayName = (disc: { name: string; plasticName?: string | null })
   return `${plastic} ${disc.name}`.trim();
 };
 
+const RELEASE_TYPE_LABELS: Record<string, string> = {
+  stock: "Stock",
+  "limited-edition": "Limited edition",
+  "tour-series": "Tour series",
+  "money-run": "Money run",
+  "tournament-run": "Tournament run",
+};
+
+const formatReleaseType = (value: string | null | undefined) => {
+  if (!value) return "Stock";
+  return RELEASE_TYPE_LABELS[value] ?? value.replace(/-/g, " ");
+};
+
 const withQuery = (
   baseParams: Record<string, string | undefined>,
   updates: Record<string, string | undefined>
@@ -58,10 +71,22 @@ export default async function DiscsPage({ searchParams }: DiscsPageProps) {
   const category = getString(params.category);
   const plastic = getString(params.plastic);
   const stability = getString(params.stability);
+  const releaseType = getString(params.releaseType);
+  const productionStatus = getString(params.productionStatus);
   const speedMin = getNumber(params.speedMin);
   const speedMax = getNumber(params.speedMax);
 
-  const hasActiveFilter = Boolean(q || brand || category || plastic || stability || speedMin || speedMax);
+  const hasActiveFilter = Boolean(
+    q ||
+      brand ||
+      category ||
+      plastic ||
+      stability ||
+      releaseType ||
+      productionStatus ||
+      speedMin ||
+      speedMax,
+  );
 
   const currentParams: Record<string, string | undefined> = {
     q,
@@ -69,6 +94,8 @@ export default async function DiscsPage({ searchParams }: DiscsPageProps) {
     category,
     plastic,
     stability,
+    releaseType,
+    productionStatus,
     speedMin: speedMin?.toString(),
     speedMax: speedMax?.toString(),
   };
@@ -84,6 +111,16 @@ export default async function DiscsPage({ searchParams }: DiscsPageProps) {
     { key: "category", label: `Category: ${category}`, value: category },
     { key: "plastic", label: `Plastic: ${plastic}`, value: plastic },
     { key: "stability", label: `Stability: ${stability}`, value: stability },
+    {
+      key: "releaseType",
+      label: `Release: ${formatReleaseType(releaseType)}`,
+      value: releaseType,
+    },
+    {
+      key: "productionStatus",
+      label: `Production: ${productionStatus === "oop" ? "Out of production" : "In production"}`,
+      value: productionStatus,
+    },
     { key: "speedMin", label: `Speed ≥ ${speedMin}`, value: speedMin?.toString() },
     { key: "speedMax", label: `Speed ≤ ${speedMax}`, value: speedMax?.toString() },
   ].filter((item) => item.value);
@@ -141,6 +178,27 @@ export default async function DiscsPage({ searchParams }: DiscsPageProps) {
           className="rounded-lg border border-slate-300 px-3 py-2 text-sm outline-none focus:border-slate-500"
         />
         <button className="rounded-lg bg-slate-900 px-3 py-2 text-sm text-white">Apply</button>
+        <select
+          name="releaseType"
+          defaultValue={releaseType ?? ""}
+          className="rounded-lg border border-slate-300 px-3 py-2 text-sm outline-none focus:border-slate-500"
+        >
+          <option value="">Any release type</option>
+          {facetOptions.releaseTypes.map((value) => (
+            <option key={value} value={value}>
+              {formatReleaseType(value)}
+            </option>
+          ))}
+        </select>
+        <select
+          name="productionStatus"
+          defaultValue={productionStatus ?? ""}
+          className="rounded-lg border border-slate-300 px-3 py-2 text-sm outline-none focus:border-slate-500"
+        >
+          <option value="">Any production state</option>
+          <option value="in-production">In production</option>
+          <option value="oop">Out of production</option>
+        </select>
         <input
           type="number"
           name="speedMin"
@@ -187,6 +245,8 @@ export default async function DiscsPage({ searchParams }: DiscsPageProps) {
           category={category}
           plastic={plastic}
           stability={stability}
+          releaseType={releaseType}
+          productionStatus={productionStatus}
           speedMin={speedMin}
           speedMax={speedMax}
           buildHref={buildHref}
@@ -267,6 +327,8 @@ async function FilteredDiscList({
   category,
   plastic,
   stability,
+  releaseType,
+  productionStatus,
   speedMin,
   speedMax,
   buildHref,
@@ -278,11 +340,25 @@ async function FilteredDiscList({
   category?: string;
   plastic?: string;
   stability?: string;
+  releaseType?: string;
+  productionStatus?: string;
   speedMin?: number;
   speedMax?: number;
   buildHref: (nextPage: number) => string;
 }) {
-  const result = await getDiscs({ page, pageSize, query, brand, category, plastic, stability, speedMin, speedMax });
+  const result = await getDiscs({
+    page,
+    pageSize,
+    query,
+    brand,
+    category,
+    plastic,
+    stability,
+    releaseType,
+    productionStatus,
+    speedMin,
+    speedMax,
+  });
   const ratingSummaries = await getDiscRatingSummariesByDocumentIds(
     result.items.map((disc) => disc.documentId),
   );
@@ -349,6 +425,14 @@ async function FilteredDiscList({
                 ) : null}
                 {disc.plasticName ? (
                   <span className="rounded-full bg-slate-100 px-2 py-0.5">{disc.plasticName}</span>
+                ) : null}
+                {(disc.releaseType ?? "stock") !== "stock" ? (
+                  <span className="rounded-full bg-slate-900 px-2 py-0.5 text-white">
+                    {formatReleaseType(disc.releaseType)}
+                  </span>
+                ) : null}
+                {(disc.productionStatus ?? "in-production") === "oop" ? (
+                  <span className="rounded-full bg-amber-100 px-2 py-0.5 text-amber-800">OOP</span>
                 ) : null}
                 <span className="rounded bg-slate-100 px-2 py-1">S {disc.speed ?? "-"}</span>
                 <span className="rounded bg-slate-100 px-2 py-1">G {disc.glide ?? "-"}</span>

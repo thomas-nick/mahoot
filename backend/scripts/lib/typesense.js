@@ -2,8 +2,9 @@ const Typesense = require('typesense');
 
 const DISCS_COLLECTION = 'discs';
 const COURSES_COLLECTION = 'courses';
-const COLLECTOR_RELEASES_COLLECTION = 'collector_releases';
 const LISTINGS_COLLECTION = 'listings';
+
+const LEGACY_COLLECTIONS_TO_DROP = ['collector_releases'];
 
 const toFloat = (value) => {
   if (value === null || value === undefined || value === '') {
@@ -52,9 +53,16 @@ const ensureCollections = async (client) => {
         { name: 'turn', type: 'float', optional: true },
         { name: 'fade', type: 'float', optional: true },
         { name: 'stability', type: 'string', facet: true, optional: true },
-        { name: 'collectorHas', type: 'bool', facet: true, optional: true },
-        { name: 'collectorMaxValue', type: 'float', optional: true },
-        { name: 'collectorMaxYear', type: 'int32', optional: true },
+        { name: 'releaseType', type: 'string', facet: true, optional: true },
+        { name: 'productionStatus', type: 'string', facet: true, optional: true },
+        { name: 'runName', type: 'string', optional: true },
+        { name: 'runYear', type: 'int32', facet: true, optional: true },
+        { name: 'collectorValue', type: 'int32', optional: true },
+        { name: 'rarity', type: 'int32', optional: true },
+        { name: 'soughtAfter', type: 'int32', optional: true },
+        { name: 'priceLowUsd', type: 'float', optional: true },
+        { name: 'priceHighUsd', type: 'float', optional: true },
+        { name: 'imageUrl', type: 'string', optional: true },
       ],
     },
     {
@@ -76,27 +84,6 @@ const ensureCollections = async (client) => {
         { name: 'location', type: 'geopoint', optional: true },
         { name: 'latitude', type: 'float', optional: true },
         { name: 'longitude', type: 'float', optional: true },
-      ],
-    },
-    {
-      name: COLLECTOR_RELEASES_COLLECTION,
-      fields: [
-        { name: 'id', type: 'string' },
-        { name: 'discId', type: 'string', optional: true },
-        { name: 'discExternalId', type: 'string', optional: true },
-        { name: 'discName', type: 'string', optional: true },
-        { name: 'brand', type: 'string', facet: true, optional: true },
-        { name: 'mold', type: 'string', facet: true, optional: true },
-        { name: 'runName', type: 'string', optional: true },
-        { name: 'year', type: 'int32', facet: true, optional: true },
-        { name: 'oopStatus', type: 'string', facet: true, optional: true },
-        { name: 'collectorValue', type: 'float', optional: true },
-        { name: 'rarity', type: 'float', optional: true },
-        { name: 'soughtAfter', type: 'float', optional: true },
-        { name: 'priceLowUsd', type: 'float', optional: true },
-        { name: 'priceHighUsd', type: 'float', optional: true },
-        { name: 'imageUrl', type: 'string', optional: true },
-        { name: 'notes', type: 'string', optional: true },
       ],
     },
     {
@@ -150,6 +137,21 @@ const ensureCollections = async (client) => {
       }
     }
   }
+
+  for (const legacyName of LEGACY_COLLECTIONS_TO_DROP) {
+    try {
+      await client.collections(legacyName).delete();
+    } catch (error) {
+      if (error.httpStatus !== 404) {
+        throw error;
+      }
+    }
+  }
+};
+
+const toInt = (value) => {
+  const parsed = toFloat(value);
+  return parsed === undefined ? undefined : Math.trunc(parsed);
 };
 
 const mapDisc = (disc) => {
@@ -173,6 +175,16 @@ const mapDisc = (disc) => {
     turn: toFloat(disc.turn ?? mold.turn),
     fade: toFloat(disc.fade ?? mold.fade),
     stability: asString(disc.stability ?? mold.stability),
+    releaseType: asString(disc.releaseType || 'stock'),
+    productionStatus: asString(disc.productionStatus || 'in-production'),
+    runName: asString(disc.runName),
+    runYear: toInt(disc.runYear),
+    collectorValue: toInt(disc.collectorValue),
+    rarity: toInt(disc.rarity),
+    soughtAfter: toInt(disc.soughtAfter),
+    priceLowUsd: toFloat(disc.priceLowUsd),
+    priceHighUsd: toFloat(disc.priceHighUsd),
+    imageUrl: asString(disc.imageUrl),
   };
 };
 
@@ -201,28 +213,6 @@ const mapCourse = (course) => ({
     };
   })(),
 });
-
-const mapCollectorRelease = (release) => {
-  const disc = release.disc || {};
-  return {
-    id: asString(release.documentId ?? release.id ?? release.externalId),
-    discId: asString(release.discDocumentId),
-    discExternalId: asString(release.discExternalId),
-    discName: asString(release.discName ?? disc.displayName ?? disc.name),
-    brand: asString(release.brand ?? disc.brand),
-    mold: asString(release.mold ?? (disc.mold && disc.mold.name)),
-    runName: asString(release.runName),
-    year: toFloat(release.year),
-    oopStatus: asString(release.oopStatus),
-    collectorValue: toFloat(release.collectorValue),
-    rarity: toFloat(release.rarity),
-    soughtAfter: toFloat(release.soughtAfter),
-    priceLowUsd: toFloat(release.priceLowUsd),
-    priceHighUsd: toFloat(release.priceHighUsd),
-    imageUrl: asString(release.imageUrl),
-    notes: asString(release.notes),
-  };
-};
 
 const mapMarketListing = (listing) => {
   const seller = listing.seller || {};
@@ -261,13 +251,11 @@ const importBatches = async (client, collectionName, docs, batchSize = 200) => {
 module.exports = {
   DISCS_COLLECTION,
   COURSES_COLLECTION,
-  COLLECTOR_RELEASES_COLLECTION,
   LISTINGS_COLLECTION,
   createClient,
   ensureCollections,
   mapDisc,
   mapCourse,
-  mapCollectorRelease,
   mapMarketListing,
   importBatches,
 };
