@@ -10,6 +10,7 @@ type DiscHit = {
   brand: string | null;
   category: string | null;
   plastic: string | null;
+  externalId?: string | null;
 };
 
 type SelectedDisc = {
@@ -140,7 +141,7 @@ export function NewListingFlow() {
     <div className="space-y-3">
       <Field
         label="Search the disc catalog"
-        hint="Type at least 2 letters. Results come from the same search index used across the site."
+        hint="Type at least 2 letters. Uses Typesense when configured; otherwise searches the live Strapi catalog (same discs as the index)."
       >
         <Input
           value={query}
@@ -152,8 +153,8 @@ export function NewListingFlow() {
 
       {searchState === "unconfigured" ? (
         <Notice variant="warn">
-          Disc search isn&apos;t configured. Ask an admin to set up Typesense, or add the disc to
-          the catalog first via Submit a disc.
+          Search returned no usable backend. Ensure Strapi is reachable (catalog fallback) or set Typesense env vars for
+          full site search.
         </Notice>
       ) : null}
 
@@ -180,7 +181,7 @@ export function NewListingFlow() {
                     onClick={() =>
                       setSelected({
                         documentId: hit.id,
-                        externalId: "",
+                        externalId: hit.externalId?.trim() ?? "",
                         displayName: composeDisplayName(hit) || hit.name,
                         brand: hit.brand,
                         category: hit.category,

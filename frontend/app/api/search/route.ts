@@ -112,6 +112,7 @@ type DiscHit = {
   brand: string | null;
   category: string | null;
   plastic: string | null;
+  externalId: string | null;
   releaseType: string;
   productionStatus: string;
   runName: string | null;
@@ -250,6 +251,185 @@ const enrichDiscHitsWithPlastic = async <T extends { id: string; plastic: string
   }));
 };
 
+type StrapiVariantRow = {
+  documentId?: string;
+  externalId?: string;
+  displayName?: string | null;
+  releaseType?: string;
+  productionStatus?: string;
+  runName?: string | null;
+  runYear?: number | null;
+  collectorValue?: number | null;
+  rarity?: number | null;
+  soughtAfter?: number | null;
+  priceLowUsd?: number | null;
+  priceHighUsd?: number | null;
+  imageUrl?: string | null;
+  mold?: { name?: string | null; brand?: string | null; category?: string | null };
+  plastic?: { name?: string | null } | null;
+};
+
+type StrapiLegacyDiscRow = {
+  documentId?: string;
+  externalId?: string;
+  name?: string | null;
+  brand?: string | null;
+  category?: string | null;
+  plastic?: string | null;
+};
+
+const variantSearchPopulate = (): URLSearchParams => {
+  const p = new URLSearchParams({
+    status: "published",
+    "pagination[pageSize]": "12",
+    "pagination[page]": "1",
+    "fields[0]": "documentId",
+    "fields[1]": "externalId",
+    "fields[2]": "displayName",
+    "fields[3]": "releaseType",
+    "fields[4]": "productionStatus",
+    "fields[5]": "runName",
+    "fields[6]": "runYear",
+    "fields[7]": "collectorValue",
+    "fields[8]": "rarity",
+    "fields[9]": "soughtAfter",
+    "fields[10]": "priceLowUsd",
+    "fields[11]": "priceHighUsd",
+    "fields[12]": "imageUrl",
+    "populate[mold][fields][0]": "name",
+    "populate[mold][fields][1]": "brand",
+    "populate[mold][fields][2]": "category",
+    "populate[plastic][fields][0]": "name",
+  });
+  return p;
+};
+
+const legacyDiscFields = (): URLSearchParams =>
+  new URLSearchParams({
+    status: "published",
+    "pagination[pageSize]": "12",
+    "pagination[page]": "1",
+    "fields[0]": "documentId",
+    "fields[1]": "externalId",
+    "fields[2]": "name",
+    "fields[3]": "brand",
+    "fields[4]": "category",
+    "fields[5]": "plastic",
+  });
+
+/**
+ * Catalog search when Typesense is unavailable: query published disc-variants + legacy discs via Strapi.
+ * Matches how the reindex job builds the discs collection (variants + legacy rows).
+ */
+const searchDiscsViaStrapi = async (query: string): Promise<DiscHit[]> => {
+  const trimmed = query.trim();
+  if (trimmed.length < 2) return [];
+
+  const headers = buildStrapiHeaders();
+
+  const variantByDisplay = variantSearchPopulate();
+  variantByDisplay.set("filters[$or][0][displayName][$containsi]", trimmed);
+  variantByDisplay.set("filters[$or][1][externalId][$containsi]", trimmed);
+
+  const variantByMold = variantSearchPopulate();
+  variantByMold.set("filters[mold][name][$containsi]", trimmed);
+
+  const variantByMoldBrand = variantSearchPopulate();
+  variantByMoldBrand.set("filters[mold][brand][$containsi]", trimmed);
+
+  const legacyParams = legacyDiscFields();
+  legacyParams.set("filters[$or][0][name][$containsi]", trimmed);
+  legacyParams.set("filters[$or][1][brand][$containsi]", trimmed);
+  legacyParams.set("filters[$or][2][externalId][$containsi]", trimmed);
+
+  const parseVariant = (row: StrapiVariantRow): DiscHit | null => {
+    const id = (row.documentId ?? "").trim();
+    if (!id) return null;
+    const mold = row.mold ?? {};
+    const plasticName =
+      row.plastic && typeof row.plastic === "object" && row.plastic.name
+        ? String(row.plastic.name).trim() || null
+        : null;
+    const name =
+      (row.displayName ?? "").trim() ||
+      (mold.name ?? "").trim() ||
+      [mold.brand, plasticName].filter(Boolean).join(" ").trim() ||
+      "Disc";
+    const ext = (row.externalId ?? "").trim();
+    return {
+      id,
+      name,
+      brand: mold.brand ? String(mold.brand) : null,
+      category: mold.category ? String(mold.category) : null,
+      plastic: plasticName,
+      externalId: ext || null,
+      releaseType: row.releaseType ?? "stock",
+      productionStatus: row.productionStatus ?? "in-production",
+      runName: row.runName ?? null,
+      runYear: typeof row.runYear === "number" ? row.runYear : null,
+      collectorValue: typeof row.collectorValue === "number" ? row.collectorValue : null,
+      rarity: typeof row.rarity === "number" ? row.rarity : null,
+      soughtAfter: typeof row.soughtAfter === "number" ? row.soughtAfter : null,
+      priceLowUsd: typeof row.priceLowUsd === "number" ? row.priceLowUsd : null,
+      priceHighUsd: typeof row.priceHighUsd === "number" ? row.priceHighUsd : null,
+      imageUrl: row.imageUrl ?? null,
+    };
+  };
+
+  const parseLegacy = (row: StrapiLegacyDiscRow): DiscHit | null => {
+    const id = (row.documentId ?? "").trim();
+    if (!id) return null;
+    const plastic = typeof row.plastic === "string" ? row.plastic.trim() || null : null;
+    const ext = (row.externalId ?? "").trim();
+    return {
+      id,
+      name: (row.name ?? "").trim() || "Disc",
+      brand: row.brand ?? null,
+      category: row.category ?? null,
+      plastic,
+      externalId: ext || null,
+      releaseType: "stock",
+      productionStatus: "in-production",
+      runName: null,
+      runYear: null,
+      collectorValue: null,
+      rarity: null,
+      soughtAfter: null,
+      priceLowUsd: null,
+      priceHighUsd: null,
+      imageUrl: null,
+    };
+  };
+
+  const fetches = await Promise.all([
+    fetch(`${strapiUrl}/api/disc-variants?${variantByDisplay.toString()}`, { headers, cache: "no-store" }),
+    fetch(`${strapiUrl}/api/disc-variants?${variantByMold.toString()}`, { headers, cache: "no-store" }),
+    fetch(`${strapiUrl}/api/disc-variants?${variantByMoldBrand.toString()}`, { headers, cache: "no-store" }),
+    fetch(`${strapiUrl}/api/discs?${legacyParams.toString()}`, { headers, cache: "no-store" }),
+  ]);
+
+  const jsonResults = await Promise.all(
+    fetches.map((res) => (res.ok ? res.json() : Promise.resolve({ data: [] }))),
+  );
+
+  const byId = new Map<string, DiscHit>();
+  for (let i = 0; i < 3; i += 1) {
+    const json = jsonResults[i] as { data?: StrapiVariantRow[] };
+    for (const row of json.data ?? []) {
+      const hit = parseVariant(row);
+      if (hit) byId.set(hit.id, hit);
+    }
+  }
+  const legacyJson = jsonResults[3] as { data?: StrapiLegacyDiscRow[] };
+  for (const row of legacyJson.data ?? []) {
+    const hit = parseLegacy(row);
+    if (hit && !byId.has(hit.id)) byId.set(hit.id, hit);
+  }
+
+  const list = Array.from(byId.values()).slice(0, 12);
+  return enrichDiscHitsWithPlastic(list);
+};
+
 const getDiscRatingSummaryByDocumentIds = async (documentIds: string[]) => {
   const ids = Array.from(new Set(documentIds.map((id) => id.trim()).filter(Boolean)));
   if (ids.length === 0) {
@@ -305,15 +485,24 @@ const getDiscRatingSummaryByDocumentIds = async (documentIds: string[]) => {
     applyRows(json.data ?? []);
   }
 
-  return new Map(
+  return new Map<string, { avg: number | null; count: number }>(
     ids.map((id) => {
       const stats = aggregate.get(id);
       if (!stats || stats.count === 0) {
-        return [id, { avg: null, count: 0 }];
+        return [id, { avg: null, count: 0 }] as const;
       }
-      return [id, { avg: Number((stats.total / stats.count).toFixed(2)), count: stats.count }];
+      return [id, { avg: Number((stats.total / stats.count).toFixed(2)), count: stats.count }] as const;
     }),
   );
+};
+
+const discsWithRatingsPayload = async (discs: DiscHit[]) => {
+  const discRatingsById = await getDiscRatingSummaryByDocumentIds(discs.map((disc) => disc.id));
+  return discs.map((disc) => ({
+    ...disc,
+    ratingAverageOverall: discRatingsById.get(disc.id)?.avg ?? null,
+    ratingCount: discRatingsById.get(disc.id)?.count ?? 0,
+  }));
 };
 
 const buildDiscFilterBy = (searchParams: URLSearchParams) => {
@@ -412,19 +601,21 @@ export async function GET(request: Request) {
 
   const config = getTypesenseConfig();
   if (!config) {
-    return NextResponse.json(
-      {
-        configured: false,
-        error: "Typesense is not configured on the server.",
-        discs: [] as DiscHit[],
-        courses: [],
-        listings: [] as ListingHit[],
-        nearbyCourses: [] as NearbyCourseHit[],
-        discsMeta: emptyDiscMeta,
-        coursesMeta: emptyCourseMeta,
+    const discsBase = await searchDiscsViaStrapi(q);
+    const discs = await discsWithRatingsPayload(discsBase);
+    return NextResponse.json({
+      configured: true,
+      discSearchSource: "strapi",
+      discs,
+      courses: [],
+      listings: [] as ListingHit[],
+      nearbyCourses: [] as NearbyCourseHit[],
+      discsMeta: {
+        found: discs.length,
+        facets: emptyDiscMeta.facets,
       },
-      { status: 503 }
-    );
+      coursesMeta: emptyCourseMeta,
+    });
   }
 
   const { host, port, protocol, apiKey } = config;
@@ -478,6 +669,25 @@ export async function GET(request: Request) {
 
     if (!res.ok) {
       const text = await res.text();
+      const fallbackDiscsBase = await searchDiscsViaStrapi(q);
+      const fallbackDiscs = await discsWithRatingsPayload(fallbackDiscsBase);
+      if (fallbackDiscs.length > 0) {
+        return NextResponse.json({
+          configured: true,
+          discSearchSource: "strapi",
+          error: `Typesense error ${res.status}; discs loaded from the catalog instead.`,
+          detail: text.slice(0, 200),
+          discs: fallbackDiscs,
+          courses: [],
+          listings: [] as ListingHit[],
+          nearbyCourses: [] as NearbyCourseHit[],
+          discsMeta: {
+            found: fallbackDiscs.length,
+            facets: emptyDiscMeta.facets,
+          },
+          coursesMeta: emptyCourseMeta,
+        });
+      }
       return NextResponse.json(
         {
           configured: true,
@@ -508,6 +718,7 @@ export async function GET(request: Request) {
           brand: doc.brand ?? null,
           category: doc.category ?? null,
           plastic: doc.plastic ?? null,
+          externalId: doc.externalId ? String(doc.externalId) : null,
           releaseType: doc.releaseType ?? "stock",
           productionStatus: doc.productionStatus ?? "in-production",
           runName: doc.runName ?? null,
@@ -521,12 +732,7 @@ export async function GET(request: Request) {
         };
       }) ?? [];
     const discsWithPlastic = await enrichDiscHitsWithPlastic(discs);
-    const discRatingsById = await getDiscRatingSummaryByDocumentIds(discsWithPlastic.map((disc) => disc.id));
-    const discsWithRatings = discsWithPlastic.map((disc) => ({
-      ...disc,
-      ratingAverageOverall: discRatingsById.get(disc.id)?.avg ?? null,
-      ratingCount: discRatingsById.get(disc.id)?.count ?? 0,
-    }));
+    const discsWithRatings = await discsWithRatingsPayload(discsWithPlastic);
 
     const courses =
       courseResults?.hits?.map((h) => {
@@ -641,6 +847,28 @@ export async function GET(request: Request) {
     });
   } catch (e) {
     const message = e instanceof Error ? e.message : "Unknown error";
+    try {
+      const fallbackDiscsBase = await searchDiscsViaStrapi(q);
+      const fallbackDiscs = await discsWithRatingsPayload(fallbackDiscsBase);
+      if (fallbackDiscs.length > 0) {
+        return NextResponse.json({
+          configured: true,
+          discSearchSource: "strapi",
+          error: `${message} — discs loaded from the catalog instead.`,
+          discs: fallbackDiscs,
+          courses: [],
+          listings: [] as ListingHit[],
+          nearbyCourses: [] as NearbyCourseHit[],
+          discsMeta: {
+            found: fallbackDiscs.length,
+            facets: emptyDiscMeta.facets,
+          },
+          coursesMeta: emptyCourseMeta,
+        });
+      }
+    } catch {
+      /* ignore */
+    }
     return NextResponse.json(
       {
         configured: true,
