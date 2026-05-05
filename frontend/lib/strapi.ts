@@ -1422,11 +1422,11 @@ export const getDiscRatingSummariesByDocumentIds = async (documentIds: string[])
     return new Map<string, DiscRatingSummary>();
   }
 
-  return new Map(
-    ids.map((id) => {
+  return new Map<string, DiscRatingSummary>(
+    ids.map((id): [string, DiscRatingSummary] => {
       const stats = aggregate.get(id);
       if (!stats || stats.count === 0) {
-        return [id, { discDocumentId: id, ratingAverageOverall: null, ratingCount: 0 } satisfies DiscRatingSummary];
+        return [id, { discDocumentId: id, ratingAverageOverall: null, ratingCount: 0 }];
       }
       return [
         id,
@@ -1434,7 +1434,7 @@ export const getDiscRatingSummariesByDocumentIds = async (documentIds: string[])
           discDocumentId: id,
           ratingAverageOverall: Number((stats.total / stats.count).toFixed(2)),
           ratingCount: stats.count,
-        } satisfies DiscRatingSummary,
+        },
       ];
     }),
   );

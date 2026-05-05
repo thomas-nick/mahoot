@@ -21,3 +21,6 @@ frontend/out/
 npm-debug.log*
 .turbo
 .cursor-recovery/
+
+# Nested clone accident (same name as repo root)
+/mahoot/

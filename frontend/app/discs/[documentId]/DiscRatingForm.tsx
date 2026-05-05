@@ -16,13 +16,13 @@ type SubmitState =
   | { kind: "error"; message: string };
 
 const tenBarFields = [
-  { name: "overall", label: "Overall *", required: true },
-  { name: "feelGrip", label: "Feel / Grip" },
-  { name: "forgiving", label: "Forgiving" },
-  { name: "windTrust", label: "Wind trust" },
-  { name: "shotShaping", label: "Shot shaping" },
-  { name: "distancePotential", label: "Distance potential" },
-  { name: "consistency", label: "Consistency" },
+  { name: "overall", label: "Overall *", required: true as const },
+  { name: "feelGrip", label: "Feel / Grip", required: false as const },
+  { name: "forgiving", label: "Forgiving", required: false as const },
+  { name: "windTrust", label: "Wind trust", required: false as const },
+  { name: "shotShaping", label: "Shot shaping", required: false as const },
+  { name: "distancePotential", label: "Distance potential", required: false as const },
+  { name: "consistency", label: "Consistency", required: false as const },
 ] as const;
 
 const armSpeedOptions = ["", "arm-under-300", "arm-300-350", "arm-350-400", "arm-over-400"] as const;
