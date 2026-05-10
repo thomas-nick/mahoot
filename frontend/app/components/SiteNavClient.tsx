@@ -338,6 +338,7 @@ export function SiteNavClient({ discFacets }: { discFacets: SiteNavDiscFacets })
 
   const isDiscsPath = pathname.startsWith("/discs");
   const isCoursesActive = pathname.startsWith("/courses");
+  const isAsiaActive = pathname.startsWith("/asia");
   const isMarketplaceActive = pathname.startsWith("/marketplace");
   const isLeaderboardsActive = pathname.startsWith("/leaderboards");
   const isContributeActive = contributeItems.some((item) => pathname.startsWith(item.href));
@@ -358,6 +359,10 @@ export function SiteNavClient({ discFacets }: { discFacets: SiteNavDiscFacets })
 
       <Link href="/courses" className={linkClasses(isCoursesActive)}>
         Courses
+      </Link>
+
+      <Link href="/asia" className={linkClasses(isAsiaActive)}>
+        Asia
       </Link>
 
       <Link href="/marketplace" className={linkClasses(isMarketplaceActive)}>

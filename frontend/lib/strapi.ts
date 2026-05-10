@@ -962,6 +962,7 @@ export const getCourses = async (input: {
   query?: string;
   state?: string;
   city?: string;
+  country?: string;
   difficulty?: string;
   type?: string;
 }) => {
@@ -974,6 +975,7 @@ export const getCourses = async (input: {
     "filters[name][$containsi]": input.query,
     "filters[state][$eq]": input.state,
     "filters[city][$eq]": input.city,
+    "filters[country][$eq]": input.country,
     "filters[difficulty][$eq]": input.difficulty,
     "filters[type][$eq]": input.type,
     status: "published",
@@ -1647,6 +1649,134 @@ export const getSellerPaymentMethods = async (
   }
 };
 
+export type PublicProfileDirectoryEntry = {
+  userId: number;
+  username: string;
+  displayName: string | null;
+  city: string | null;
+  country: string | null;
+  avatarUrl: string | null;
+  profileDocumentId: string | null;
+};
+
+function parseProfileListUserRelation(raw: unknown): { id: number; username: string | null; blocked: boolean } | null {
+  if (raw == null || typeof raw !== "object") return null;
+  const o = raw as Record<string, unknown>;
+  const inner =
+    "data" in o && o.data != null && typeof o.data === "object" && !Array.isArray(o.data)
+      ? (o.data as Record<string, unknown>)
+      : o;
+  const id = typeof inner.id === "number" ? inner.id : Number(inner.id);
+  if (!Number.isFinite(id)) return null;
+  return {
+    id,
+    username: typeof inner.username === "string" ? inner.username : null,
+    blocked: Boolean(inner.blocked),
+  };
+}
+
+/**
+ * Public directory rows for a country. Matches `/u/[username]` rules: linked user must
+ * exist, not be blocked, and have a username (required to link to the public profile).
+ */
+export const getPublicProfilesByCountry = cache(async (strapiCountry: string, limit = 48): Promise<PublicProfileDirectoryEntry[]> => {
+  const trimmed = (strapiCountry ?? "").trim();
+  if (!trimmed) return [];
+
+  const query = toQueryString({
+    "filters[country][$eq]": trimmed,
+    "pagination[page]": 1,
+    "pagination[pageSize]": Math.min(Math.max(limit, 1), STRAPI_SAFE_PAGE_SIZE),
+    "populate[user]": "true",
+  });
+
+  try {
+    const payload = await request<
+      StrapiListResponse<{
+        documentId?: string;
+        displayName?: string | null;
+        city?: string | null;
+        country?: string | null;
+        avatarUrl?: string | null;
+        user?: unknown;
+      }>
+    >(`/api/profiles?${query}`);
+
+    const rows = payload.data ?? [];
+    const out: PublicProfileDirectoryEntry[] = [];
+
+    for (const row of rows) {
+      const u = parseProfileListUserRelation(row.user);
+      if (!u || u.blocked) continue;
+      const username = (u.username ?? "").trim();
+      if (!username) continue;
+
+      out.push({
+        userId: u.id,
+        username,
+        displayName: row.displayName ?? null,
+        city: row.city ?? null,
+        country: row.country ?? null,
+        avatarUrl: row.avatarUrl ?? null,
+        profileDocumentId: typeof row.documentId === "string" ? row.documentId : null,
+      });
+    }
+
+    out.sort((a, b) => {
+      const aName = (a.displayName ?? a.username).toLowerCase();
+      const bName = (b.displayName ?? b.username).toLowerCase();
+      return aName.localeCompare(bName);
+    });
+
+    return out.slice(0, limit);
+  } catch {
+    return [];
+  }
+});
+
+export type PublicProfileActivityEntry = PublicProfileDirectoryEntry & {
+  discReviewCount: number;
+  courseReviewCount: number;
+  helpfulVotesReceived: number;
+  activityScore: number;
+};
+
+/**
+ * Mahoot reviewer activity only (reviews + helpful votes) — not competitive skill.
+ * Fetches a bounded pool of public profiles in-country, scores in parallel, returns top N.
+ */
+export async function getPublicProfilesByCountryRankedByReviewerActivity(
+  strapiCountry: string,
+  limit = 12,
+): Promise<PublicProfileActivityEntry[]> {
+  const trimmed = (strapiCountry ?? "").trim();
+  if (!trimmed) return [];
+
+  const pool = await getPublicProfilesByCountry(trimmed, 48);
+  if (pool.length === 0) return [];
+
+  const scored = await Promise.all(
+    pool.map(async (entry) => {
+      const { discReviewCount, courseReviewCount, helpfulVotesReceived } = await getReviewerActivityCounts(entry.userId);
+      const activityScore = discReviewCount + courseReviewCount + helpfulVotesReceived;
+      return {
+        ...entry,
+        discReviewCount,
+        courseReviewCount,
+        helpfulVotesReceived,
+        activityScore,
+      };
+    }),
+  );
+
+  scored.sort((a, b) => {
+    if (b.activityScore !== a.activityScore) return b.activityScore - a.activityScore;
+    return (a.displayName ?? a.username).localeCompare(b.displayName ?? b.username);
+  });
+
+  return scored.filter((row) => row.activityScore > 0).slice(0, Math.max(limit, 0));
+}
+
 // ============================================================================
 // Leaderboards
 // ============================================================================
@@ -1713,6 +1843,7 @@ export const getAllDiscRatingSummaries = cache(async (): Promise<Map<string, Dis
 export const getTopRatedCourses = async (input: {
   limit?: number;
   state?: string;
+  country?: string;
   minRatings?: number;
 }): Promise<Course[]> => {
   const limit = input.limit ?? 8;
@@ -1728,6 +1859,9 @@ export const getTopRatedCourses = async (input: {
   if (input.state) {
     params["filters[state][$eq]"] = input.state;
   }
+  if (input.country) {
+    params["filters[country][$eq]"] = input.country;
+  }
   try {
     const payload = await request<StrapiListResponse<Course>>(`/api/courses?${toQueryString(params)}`);
     return (payload.data ?? []).slice(0, limit);
@@ -1737,7 +1871,11 @@ export const getTopRatedCourses = async (input: {
 };
 
 /** Most-reviewed courses (volume leaderboard). */
-export const getMostReviewedCourses = async (input: { limit?: number; state?: string }): Promise<Course[]> => {
+export const getMostReviewedCourses = async (input: {
+  limit?: number;
+  state?: string;
+  country?: string;
+}): Promise<Course[]> => {
   const limit = input.limit ?? 8;
   const params: Record<string, string | number> = {
     "pagination[page]": 1,
@@ -1749,6 +1887,9 @@ export const getMostReviewedCourses = async (input: { limit?: number; state?: st
   };
   if (input.state) {
     params["filters[state][$eq]"] = input.state;
+  }
+  if (input.country) {
+    params["filters[country][$eq]"] = input.country;
   }
   try {
     const payload = await request<StrapiListResponse<Course>>(`/api/courses?${toQueryString(params)}`);
@@ -1776,17 +1917,10 @@ export type ReviewerActivityForUser = {
  * Aggregate everything we need to compute badges and the rate-3 widget for
  * a given user, with two paginated requests against Strapi (disc + course).
  */
-export const getReviewerActivityForUser = async (userId: number): Promise<ReviewerActivityForUser> => {
-  if (!Number.isFinite(userId) || userId <= 0) {
-    return {
-      discReviewCount: 0,
-      courseReviewCount: 0,
-      helpfulVotesReceived: 0,
-      ratedDiscDocumentIds: [],
-      ratedDiscCategoryByDocumentId: new Map(),
-    };
-  }
-
+async function fetchUserRatingRows(userId: number): Promise<{
+  discRatings: Array<Pick<DiscRating, "discDocumentId" | "helpfulCount">>;
+  courseRatings: Array<Pick<CourseRating, "helpfulCount">>;
+}> {
   const fetchAllDiscRatings = async () => {
     const all: Array<Pick<DiscRating, "discDocumentId" | "helpfulCount">> = [];
     let page = 1;
@@ -1830,17 +1964,52 @@ export const getReviewerActivityForUser = async (userId: number): Promise<Review
     return all;
   };
 
-  let discRatings: Array<Pick<DiscRating, "discDocumentId" | "helpfulCount">> = [];
-  let courseRatings: Array<Pick<CourseRating, "helpfulCount">> = [];
   try {
-    [discRatings, courseRatings] = await Promise.all([fetchAllDiscRatings(), fetchAllCourseRatings()]);
+    const [discRatings, courseRatings] = await Promise.all([fetchAllDiscRatings(), fetchAllCourseRatings()]);
+    return { discRatings, courseRatings };
   } catch {
-    /* swallow — partial data still yields useful badges */
+    return { discRatings: [], courseRatings: [] };
   }
+}
+
+/** Lightweight counts for leaderboards (no per-disc category map). */
+export const getReviewerActivityCounts = async (
+  userId: number,
+): Promise<{ discReviewCount: number; courseReviewCount: number; helpfulVotesReceived: number }> => {
+  if (!Number.isFinite(userId) || userId <= 0) {
+    return { discReviewCount: 0, courseReviewCount: 0, helpfulVotesReceived: 0 };
+  }
+  const { discRatings, courseRatings } = await fetchUserRatingRows(userId);
+  const helpfulVotesReceived =
+    discRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0) +
+    courseRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0);
+  return {
+    discReviewCount: discRatings.length,
+    courseReviewCount: courseRatings.length,
+    helpfulVotesReceived,
+  };
+};
+
+export const getReviewerActivityForUser = async (userId: number): Promise<ReviewerActivityForUser> => {
+  if (!Number.isFinite(userId) || userId <= 0) {
+    return {
+      discReviewCount: 0,
+      courseReviewCount: 0,
+      helpfulVotesReceived: 0,
+      ratedDiscDocumentIds: [],
+      ratedDiscCategoryByDocumentId: new Map(),
+    };
+  }
+
+  const { discRatings, courseRatings } = await fetchUserRatingRows(userId);
 
   const ratedDiscDocumentIds = Array.from(
     new Set(discRatings.map((rating) => rating.discDocumentId).filter(Boolean) as string[]),
   );
+
+  const helpfulVotesReceived =
+    discRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0) +
+    courseRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0);
 
   const ratedDiscCategoryByDocumentId = new Map<string, string | null>();
   if (ratedDiscDocumentIds.length > 0) {
@@ -1854,10 +2023,6 @@ export const getReviewerActivityForUser = async (userId: number): Promise<Review
       /* ignore */
     }
   }
-
-  const helpfulVotesReceived =
-    discRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0) +
-    courseRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0);
 
   return {
     discReviewCount: discRatings.length,

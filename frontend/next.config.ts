@@ -24,7 +24,7 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
-        hostname: "i.ebayimg.com",
+        hostname: "flagcdn.com",
       },
     ],
   },

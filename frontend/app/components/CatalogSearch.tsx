@@ -123,7 +123,25 @@ const getDiscDisplayName = (disc: DiscHit) => {
   return `${plastic} ${disc.name}`.trim();
 };
 
-export function CatalogSearch({ variant = "default" }: { variant?: "default" | "hero" }) {
+const HomeSearchIcon = () => (
+  <svg
+    aria-hidden
+    viewBox="0 0 24 24"
+    width="20"
+    height="20"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+    className="text-slate-400"
+  >
+    <circle cx="11" cy="11" r="7" />
+    <line x1="20" y1="20" x2="16.65" y2="16.65" />
+  </svg>
+);
+
+export function CatalogSearch({ variant = "default" }: { variant?: "default" | "hero" | "homepage" }) {
   const router = useRouter();
   const [query, setQuery] = useState("");
   const [open, setOpen] = useState(false);
@@ -275,6 +293,15 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
   const onInputKeyDown = (event: React.KeyboardEvent<HTMLInputElement>) => {
     if (!open || navResults.length === 0) {
       if (event.key === "Escape") setOpen(false);
+      if (event.key === "Enter" && variant === "homepage" && query.trim().length >= 2) {
+        event.preventDefault();
+        const idx = highlightedIndex >= 0 ? highlightedIndex : 0;
+        const target = navResults[idx];
+        if (target) {
+          router.push(target.href);
+          resetAndClose();
+        }
+      }
       return;
     }
 
@@ -290,12 +317,20 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
       return;
     }
 
-    if (event.key === "Enter" && highlightedIndex >= 0) {
+    if (event.key === "Enter") {
       event.preventDefault();
-      const target = navResults[highlightedIndex];
-      if (target) {
-        router.push(target.href);
-        resetAndClose();
+      const idx =
+        highlightedIndex >= 0
+          ? highlightedIndex
+          : variant === "homepage" && navResults.length > 0
+            ? 0
+            : -1;
+      if (idx >= 0) {
+        const target = navResults[idx];
+        if (target) {
+          router.push(target.href);
+          resetAndClose();
+        }
       }
       return;
     }
@@ -306,45 +341,97 @@ export function CatalogSearch({ variant = "default" }: { variant?: "default" | "
   };
 
   const isHero = variant === "hero";
+  const isHomepage = variant === "homepage";
+  const inputId = isHomepage ? "catalog-search-homepage" : "catalog-search";
+  const wideResultsPanel = isHero || isHomepage;
+
+  const submitHomepageSearch = () => {
+    setOpen(true);
+    if (query.trim().length < 2) return;
+    const idx = highlightedIndex >= 0 ? highlightedIndex : 0;
+    const target = navResults[idx];
+    if (target) {
+      router.push(target.href);
+      resetAndClose();
+    }
+  };
 
   return (
     <div
       ref={rootRef}
-      className={`relative w-full min-w-0 flex-1 ${
-        isHero ? "max-w-3xl" : "max-w-md sm:max-w-sm"
+      className={`relative w-full min-w-0 ${
+        isHomepage ? "max-w-2xl" : isHero ? "max-w-3xl flex-1" : "max-w-md flex-1 sm:max-w-sm"
       }`}
     >
-      <label htmlFor="catalog-search" className="sr-only">
-        Search discs and courses
+      <label htmlFor={inputId} className="sr-only">
+        Search discs, courses, and marketplace
       </label>
-      <div className="relative">
-        <input
-          id="catalog-search"
-          type="search"
-          value={query}
-          onChange={(e) => {
-            setQuery(e.target.value);
-            setOpen(true);
-          }}
-          onFocus={() => setOpen(true)}
-          onKeyDown={onInputKeyDown}
-          aria-activedescendant={highlightedIndex >= 0 ? navResults[highlightedIndex]?.key : undefined}
-          placeholder="Search discs, courses & marketplace…"
-          autoComplete="off"
-          className={`w-full rounded-xl border border-slate-300 bg-slate-50 pr-14 outline-none placeholder:text-slate-400 focus:border-slate-500 focus:bg-white ${
-            isHero ? "px-4 py-3 text-base" : "px-3 py-2 text-sm"
-          }`}
-        />
-        {activeFilterList.length > 0 && (
-          <span className="pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 rounded-full bg-slate-900 px-2 py-0.5 text-[11px] text-white">
-            {activeFilterList.length}
+      {isHomepage ? (
+        <div className="flex items-center gap-0.5 rounded-full border border-white/25 bg-white py-1.5 pl-4 pr-1.5 shadow-[0_12px_40px_-4px_rgba(0,0,0,0.25)] ring-1 ring-black/10">
+          <span className="flex shrink-0" aria-hidden>
+            <HomeSearchIcon />
           </span>
-        )}
-      </div>
+          <input
+            id={inputId}
+            type="search"
+            value={query}
+            onChange={(e) => {
+              setQuery(e.target.value);
+              setOpen(true);
+            }}
+            onFocus={() => setOpen(true)}
+            onKeyDown={onInputKeyDown}
+            aria-activedescendant={highlightedIndex >= 0 ? navResults[highlightedIndex]?.key : undefined}
+            placeholder="Search discs, courses, marketplace listings…"
+            autoComplete="off"
+            className="min-w-0 flex-1 border-0 bg-transparent py-3 pl-3 pr-2 text-base text-slate-900 outline-none placeholder:text-slate-400 focus:ring-0"
+          />
+          {activeFilterList.length > 0 && (
+            <span
+              className="mr-1 hidden shrink-0 rounded-full bg-slate-900 px-2 py-0.5 text-[11px] text-white sm:inline"
+              title="Active filters"
+            >
+              {activeFilterList.length}
+            </span>
+          )}
+          <button
+            type="button"
+            onClick={submitHomepageSearch}
+            className="shrink-0 rounded-full bg-emerald-500 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-emerald-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-600"
+          >
+            Search
+          </button>
+        </div>
+      ) : (
+        <div className="relative">
+          <input
+            id={inputId}
+            type="search"
+            value={query}
+            onChange={(e) => {
+              setQuery(e.target.value);
+              setOpen(true);
+            }}
+            onFocus={() => setOpen(true)}
+            onKeyDown={onInputKeyDown}
+            aria-activedescendant={highlightedIndex >= 0 ? navResults[highlightedIndex]?.key : undefined}
+            placeholder="Search discs, courses & marketplace…"
+            autoComplete="off"
+            className={`w-full rounded-xl border border-slate-300 bg-slate-50 pr-14 outline-none placeholder:text-slate-400 focus:border-slate-500 focus:bg-white ${
+              isHero ? "px-4 py-3 text-base" : "px-3 py-2 text-sm"
+            }`}
+          />
+          {activeFilterList.length > 0 && (
+            <span className="pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 rounded-full bg-slate-900 px-2 py-0.5 text-[11px] text-white">
+              {activeFilterList.length}
+            </span>
+          )}
+        </div>
+      )}
       {open && query.trim().length >= 2 && (
         <div
           className={`absolute left-0 right-0 top-full z-50 mt-1 overflow-y-auto rounded-xl border border-slate-200 bg-white py-2 shadow-lg ${
-            isHero ? "max-h-[min(70vh,460px)]" : "max-h-[min(70vh,380px)]"
+            wideResultsPanel ? "max-h-[min(70vh,460px)]" : "max-h-[min(70vh,380px)]"
           }`}
         >
           {activeFilterList.length > 0 && (

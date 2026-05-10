@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { CatalogSearch } from "@/app/components/CatalogSearch";
 import { DiscImage } from "@/app/components/DiscImage";
 import { FrontAuthPanel } from "@/app/components/FrontAuthPanel";
 import { FrontHeroSearchButton } from "@/app/components/FrontHeroSearchButton";
@@ -112,7 +113,11 @@ export default async function Home() {
               for players.
             </p>
 
-            <div className="mt-7 flex flex-col gap-3 sm:flex-row sm:items-center">
+            <div className="mt-8 w-full max-w-2xl">
+              <CatalogSearch variant="homepage" />
+            </div>
+
+            <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:items-center">
               <FrontHeroSearchButton />
               <Link
                 href="/marketplace"
