@@ -1,0 +1,61 @@
+{
+  "kind": "collectionType",
+  "collectionName": "course_aliases",
+  "info": {
+    "singularName": "course-alias",
+    "pluralName": "course-aliases",
+    "displayName": "Course Alias",
+    "description": "Remembers how external course names (UDisc, PDGA, etc.) map to canonical Courses so importers don't re-prompt."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "externalName": {
+      "type": "string",
+      "required": true,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Raw name as seen in the source (e.g. UDisc `CourseName` column)."
+        }
+      }
+    },
+    "normalizedName": {
+      "type": "string",
+      "required": true,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Lowercase / punctuation-stripped form. Indexed for fast lookup."
+        }
+      }
+    },
+    "source": {
+      "type": "enumeration",
+      "enum": [
+        "udisc",
+        "pdga",
+        "manual",
+        "submission"
+      ],
+      "required": true,
+      "default": "manual"
+    },
+    "course": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::course.course",
+      "required": true
+    },
+    "confidence": {
+      "type": "decimal",
+      "min": 0,
+      "max": 1,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Fuzzy-match score at time of acceptance. Lower = a human override worth auditing."
+        }
+      }
+    }
+  }
+}

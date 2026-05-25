@@ -1,0 +1,44 @@
+{
+  "kind": "collectionType",
+  "collectionName": "hole_scores",
+  "info": {
+    "singularName": "hole-score",
+    "pluralName": "hole-scores",
+    "displayName": "Hole Score",
+    "description": "One player's strokes on one hole of one round. Kept as its own table so per-hole analytics (avg, best) are real SQL."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "player": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::round-player.round-player",
+      "required": true,
+      "inversedBy": "scores"
+    },
+    "holeNumber": {
+      "type": "integer",
+      "required": true,
+      "min": 1,
+      "max": 36
+    },
+    "strokes": {
+      "type": "integer",
+      "required": true,
+      "min": 1,
+      "max": 30
+    },
+    "putts": {
+      "type": "integer",
+      "min": 0
+    },
+    "penalties": {
+      "type": "integer",
+      "min": 0,
+      "default": 0
+    }
+  }
+}

@@ -957,6 +957,12 @@ export interface ApiDiscSubmissionDiscSubmission
         };
       }>;
     imageUrl: Schema.Attribute.String;
+    description: Schema.Attribute.Text &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Public-facing disc description; copied to the Disc when approved.';
+        };
+      }>;
     link: Schema.Attribute.String;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
@@ -1140,6 +1146,12 @@ export interface ApiDiscDisc extends Struct.CollectionTypeSchema {
       }>;
     imageUrl: Schema.Attribute.String;
     link: Schema.Attribute.String;
+    description: Schema.Attribute.Text &
+      Schema.Attribute.SetPluginOptions<{
+        'content-manager': {
+          description: 'Public description (e.g. from approved submissions).';
+        };
+      }>;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<'oneToMany', 'api::disc.disc'> &
       Schema.Attribute.Private;

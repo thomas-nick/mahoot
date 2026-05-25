@@ -99,6 +99,7 @@ async function upsertDiscFromSubmission(strapi: any, submission: Record<string, 
     maxWeightGr: toNumber(submission.maxWeightGr) ?? undefined,
     link: submission.link ?? undefined,
     imageUrl: submission.imageUrl ?? undefined,
+    description: submission.description ?? undefined,
     color: submission.color ?? undefined,
     backgroundColor: submission.backgroundColor ?? undefined,
   };

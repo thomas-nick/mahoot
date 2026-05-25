@@ -35,6 +35,7 @@ const toDiscData = (submission: Record<string, any>) => ({
   maxWeightGr: toNumber(submission.maxWeightGr) ?? undefined,
   link: submission.link ?? undefined,
   imageUrl: submission.imageUrl ?? undefined,
+  description: submission.description ?? undefined,
   color: submission.color ?? undefined,
   backgroundColor: submission.backgroundColor ?? undefined,
 });
@@ -98,6 +99,7 @@ export default factories.createCoreService(SUBMISSION_UID, ({ strapi }) => ({
           'maxWeightGr',
           'link',
           'imageUrl',
+          'description',
           'color',
           'backgroundColor',
           'moderation',

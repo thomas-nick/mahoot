@@ -77,7 +77,8 @@ const collectionSchemas = [
       { name: 'glide', type: 'float', optional: true },
       { name: 'turn', type: 'float', optional: true },
       { name: 'fade', type: 'float', optional: true },
-      { name: 'stability', type: 'string', facet: true, optional: true }
+      { name: 'stability', type: 'string', facet: true, optional: true },
+      { name: 'description', type: 'string', optional: true }
     ],
   },
   {
@@ -124,6 +125,7 @@ export const mapDiscToDocument = (disc: AnyRecord) => ({
       turn: toNumber(disc.turn) ?? undefined,
       fade: toNumber(disc.fade) ?? undefined,
       stability: toStringOrEmpty(disc.stability),
+      description: toStringOrEmpty(disc.description),
     };
   })(),
 });
@@ -173,7 +175,18 @@ export const getTypesenseSync = () => {
 
     for (const schema of collectionSchemas) {
       try {
-        await client.collections(schema.name).retrieve();
+        const existing = await client.collections(schema.name).retrieve();
+        if (schema.name === DISC_COLLECTION) {
+          const fields = (existing as { fields?: { name: string }[] }).fields ?? [];
+          const hasDescription = fields.some((f) => f.name === 'description');
+          if (!hasDescription) {
+            await retry(() =>
+              client.collections(schema.name).update({
+                fields: [{ name: 'description', type: 'string', optional: true }],
+              } as any)
+            );
+          }
+        }
       } catch (error: any) {
         if (error?.httpStatus === 404) {
           await retry(() => client.collections().create(schema as any));

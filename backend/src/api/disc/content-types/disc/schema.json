@@ -95,6 +95,14 @@
     "link": {
       "type": "string"
     },
+    "description": {
+      "type": "text",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Public description (e.g. from approved submissions)."
+        }
+      }
+    },
     "imageUrl": {
       "type": "string"
     },

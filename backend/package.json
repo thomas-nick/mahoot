@@ -10,6 +10,7 @@
     "dev": "strapi develop",
     "develop": "strapi develop",
     "import:courses": "node ./scripts/import-courses.js",
+    "import:udisc-layouts": "node ./scripts/import-layouts-from-udisc.js",
     "import:discs": "node ./scripts/import-discs.js",
     "import:disc-molds": "node ./scripts/import-disc-molds.js",
     "import:plastic-types": "node ./scripts/import-plastic-types.js",

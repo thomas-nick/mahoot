@@ -1,6 +1,9 @@
 import { NextResponse } from "next/server";
 import { getStrapiServerUrl } from "@/lib/strapi-server-url";
 
+const MAX_NOTES_LEN = 3000;
+const MAX_DESCRIPTION_LEN = 10000;
+
 const strapiConnectionError = (cause: unknown, strapiUrl: string) => {
   const msg = cause instanceof Error ? cause.message : String(cause);
   const isFetchFailed =
@@ -33,11 +36,37 @@ const normalizeToken = (value: string | undefined) => {
   return token;
 };
 
-const toNumberOrNull = (raw: FormDataEntryValue | null) => {
-  const value = String(raw ?? "").trim();
-  if (!value) return null;
+const trimStr = (raw: unknown) => String(raw ?? "").trim();
+
+const toNumberOrNull = (raw: unknown): number | null => {
+  if (raw === null || raw === undefined || raw === "") return null;
+  const value = typeof raw === "number" ? raw : String(raw).trim();
+  if (value === "") return null;
   const parsed = Number(value);
   return Number.isFinite(parsed) ? parsed : NaN;
+};
+
+/** Accept JSON (`application/json`) or `multipart/form-data` / `application/x-www-form-urlencoded`. */
+const readSubmissionFields = async (request: Request): Promise<Record<string, unknown>> => {
+  const ct = request.headers.get("content-type") ?? "";
+  if (ct.includes("application/json")) {
+    const body = (await request.json()) as unknown;
+    if (body && typeof body === "object" && "data" in body) {
+      const inner = (body as { data: unknown }).data;
+      if (inner && typeof inner === "object") {
+        return inner as Record<string, unknown>;
+      }
+    }
+    return (body && typeof body === "object" ? body : {}) as Record<string, unknown>;
+  }
+
+  const form = await request.formData();
+  const out: Record<string, unknown> = {};
+  for (const [key, value] of form.entries()) {
+    if (typeof File !== "undefined" && value instanceof File) continue;
+    out[key] = value;
+  }
+  return out;
 };
 
 export async function POST(request: Request) {
@@ -49,7 +78,7 @@ export async function POST(request: Request) {
   if (!token) {
     return NextResponse.json(
       { error: "Missing STRAPI_SUBMISSIONS_TOKEN or STRAPI_API_TOKEN on server." },
-      { status: 500 }
+      { status: 500 },
     );
   }
 
@@ -74,30 +103,31 @@ export async function POST(request: Request) {
     if (!me.confirmed) {
       return NextResponse.json(
         { error: "Please verify your email before submitting a disc." },
-        { status: 403 }
+        { status: 403 },
       );
     }
 
-    const form = await request.formData();
-    const discName = String(form.get("discName") ?? "").trim();
-    const brand = String(form.get("brand") ?? "").trim();
-    const category = String(form.get("category") ?? "").trim();
-    const speed = toNumberOrNull(form.get("speed"));
-    const glide = toNumberOrNull(form.get("glide"));
-    const turn = toNumberOrNull(form.get("turn"));
-    const fade = toNumberOrNull(form.get("fade"));
-    const stability = String(form.get("stability") ?? "").trim();
-    const plastic = String(form.get("plastic") ?? "").trim();
-    const diameterCm = toNumberOrNull(form.get("diameterCm"));
-    const heightCm = toNumberOrNull(form.get("heightCm"));
-    const rimDepthCm = toNumberOrNull(form.get("rimDepthCm"));
-    const rimThicknessCm = toNumberOrNull(form.get("rimThicknessCm"));
-    const maxWeightGr = toNumberOrNull(form.get("maxWeightGr"));
-    const link = String(form.get("link") ?? "").trim();
-    const imageUrl = String(form.get("imageUrl") ?? "").trim();
-    const color = String(form.get("color") ?? "").trim();
-    const backgroundColor = String(form.get("backgroundColor") ?? "").trim();
-    const notes = String(form.get("notes") ?? "").trim();
+    const input = await readSubmissionFields(request);
+    const discName = trimStr(input.discName);
+    const brand = trimStr(input.brand);
+    const category = trimStr(input.category);
+    const speed = toNumberOrNull(input.speed);
+    const glide = toNumberOrNull(input.glide);
+    const turn = toNumberOrNull(input.turn);
+    const fade = toNumberOrNull(input.fade);
+    const stability = trimStr(input.stability);
+    const plastic = trimStr(input.plastic);
+    const diameterCm = toNumberOrNull(input.diameterCm);
+    const heightCm = toNumberOrNull(input.heightCm);
+    const rimDepthCm = toNumberOrNull(input.rimDepthCm);
+    const rimThicknessCm = toNumberOrNull(input.rimThicknessCm);
+    const maxWeightGr = toNumberOrNull(input.maxWeightGr);
+    const link = trimStr(input.link);
+    const imageUrl = trimStr(input.imageUrl);
+    const color = trimStr(input.color);
+    const backgroundColor = trimStr(input.backgroundColor);
+    const description = trimStr(input.description);
+    const notes = trimStr(input.notes);
 
     if (!discName) {
       return NextResponse.json({ error: "Disc name is required." }, { status: 400 });
@@ -108,8 +138,17 @@ export async function POST(request: Request) {
     if ([diameterCm, heightCm, rimDepthCm, rimThicknessCm, maxWeightGr].some((v) => Number.isNaN(v))) {
       return NextResponse.json({ error: "Dimensions must be valid numbers." }, { status: 400 });
     }
-    if (notes.length > 3000) {
-      return NextResponse.json({ error: "Notes must be 3000 characters or fewer." }, { status: 400 });
+    if (notes.length > MAX_NOTES_LEN) {
+      return NextResponse.json(
+        { error: `Notes must be ${MAX_NOTES_LEN} characters or fewer.` },
+        { status: 400 },
+      );
+    }
+    if (description.length > MAX_DESCRIPTION_LEN) {
+      return NextResponse.json(
+        { error: `Description must be ${MAX_DESCRIPTION_LEN} characters or fewer.` },
+        { status: 400 },
+      );
     }
 
     const payload = {
@@ -132,6 +171,7 @@ export async function POST(request: Request) {
         imageUrl: imageUrl || null,
         color: color || null,
         backgroundColor: backgroundColor || null,
+        description: description || null,
         notes: notes || null,
         submittedBy: { connect: [me.id] },
       },
@@ -151,7 +191,6 @@ export async function POST(request: Request) {
       const firstDetail = await createResponse.text();
       const shouldRetrySubmittedByFormat = firstDetail.includes("Invalid key submittedBy");
       if (shouldRetrySubmittedByFormat) {
-        // Try alternate relation format used by some Strapi setups.
         const fallbackPayload = {
           data: {
             ...payload.data,
@@ -170,7 +209,7 @@ export async function POST(request: Request) {
       } else {
         return NextResponse.json(
           { error: `Submission failed (${createResponse.status}): ${firstDetail.slice(0, 200)}` },
-          { status: 502 }
+          { status: 502 },
         );
       }
     }
@@ -179,7 +218,7 @@ export async function POST(request: Request) {
       const detail = await createResponse.text();
       return NextResponse.json(
         { error: `Submission failed (${createResponse.status}): ${detail.slice(0, 200)}` },
-        { status: 502 }
+        { status: 502 },
       );
     }
 

@@ -41,6 +41,7 @@ type FormValues = {
   imageUrl: string;
   color: string;
   backgroundColor: string;
+  description: string;
   notes: string;
 };
 
@@ -71,6 +72,7 @@ const initialValues: FormValues = {
   imageUrl: "",
   color: "",
   backgroundColor: "",
+  description: "",
   notes: "",
 };
 
@@ -212,7 +214,7 @@ export function SubmitDiscForm() {
     ].every((value) => {
       if (!value.trim()) return true;
       return Number.isFinite(Number(value));
-    }) && values.notes.length <= 3000;
+    }) && values.notes.length <= 3000 && values.description.length <= 10000;
 
   const submitDisabledReason = useMemo(() => {
     if (values.discName.trim().length === 0) return "Disc name is required.";
@@ -234,6 +236,7 @@ export function SubmitDiscForm() {
       return "Flight numbers and dimensions must be valid numbers.";
     }
     if (values.notes.length > 3000) return "Notes must be 3000 characters or fewer.";
+    if (values.description.length > 10000) return "Description must be 10000 characters or fewer.";
     return "";
   }, [values]);
 
@@ -496,6 +499,16 @@ export function SubmitDiscForm() {
           </div>
 
           <textarea
+            name="description"
+            rows={6}
+            value={values.description}
+            onChange={(event) => updateValue("description", event.target.value)}
+            placeholder="Public description (optional — shown on the disc page after approval)"
+            className={submissionUi.textarea}
+          />
+          <p className={submissionUi.helperText}>{values.description.length} / 10000 max</p>
+
+          <textarea
             name="notes"
             rows={5}
             value={values.notes}
@@ -567,7 +580,11 @@ export function SubmitDiscForm() {
             </div>
           </dl>
           <div>
-            <p className="text-xs uppercase tracking-wide text-slate-500">Notes</p>
+            <p className="text-xs uppercase tracking-wide text-slate-500">Description</p>
+            <p className="mt-1 whitespace-pre-wrap text-sm text-slate-700">{values.description.trim() || "-"}</p>
+          </div>
+          <div>
+            <p className="text-xs uppercase tracking-wide text-slate-500">Notes for moderation</p>
             <p className="mt-1 whitespace-pre-wrap text-sm text-slate-700">{values.notes || "-"}</p>
           </div>
         </div>

@@ -193,6 +193,13 @@ export default async function DiscDetailPage({ params, searchParams }: DiscDetai
               <Metric label="Turn" value={disc.turn} />
               <Metric label="Fade" value={disc.fade} />
             </div>
+
+            {disc.description?.trim() ? (
+              <div className="rounded-xl border border-slate-100 bg-slate-50/80 p-4">
+                <h2 className="text-xs font-semibold uppercase tracking-wide text-slate-500">About</h2>
+                <p className="mt-2 whitespace-pre-wrap text-sm text-slate-800">{disc.description.trim()}</p>
+              </div>
+            ) : null}
           </div>
         </div>
       </section>

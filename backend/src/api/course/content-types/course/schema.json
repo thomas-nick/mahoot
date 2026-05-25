@@ -92,9 +92,21 @@
       "type": "json",
       "pluginOptions": {
         "content-manager": {
-          "description": "Optional hole/layout data for this course."
+          "description": "DEPRECATED — superseded by the courseLayouts relation. Kept for legacy reads; do not write new data here."
         }
       }
+    },
+    "courseLayouts": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::course-layout.course-layout",
+      "mappedBy": "course"
+    },
+    "courseAliases": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::course-alias.course-alias",
+      "mappedBy": "course"
     },
     "ratingAverageOverall": {
       "type": "decimal"

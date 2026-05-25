@@ -51,6 +51,8 @@ export type Disc = {
   maxWeightGr?: number | null;
   link: string | null;
   imageUrl: string | null;
+  /** Public description (legacy disc + synced from approved submissions). */
+  description?: string | null;
   color: string | null;
   backgroundColor: string | null;
   releaseType?: DiscReleaseType | null;
@@ -63,7 +65,6 @@ export type Disc = {
   priceLowUsd?: number | null;
   priceHighUsd?: number | null;
   runNotes?: string | null;
-  description?: string | null;
 };
 
 export type DiscMold = {
@@ -109,7 +110,6 @@ type DiscVariant = {
   priceLowUsd?: number | null;
   priceHighUsd?: number | null;
   runNotes?: string | null;
-  description?: string | null;
   mold?: {
     documentId?: string | null;
     externalId?: string | null;
@@ -419,6 +419,7 @@ const getDiscFromTypesenseById = async (documentId: string): Promise<Disc | null
     turn?: number;
     fade?: number;
     stability?: string;
+    description?: string;
   };
   const resolvedExternalId = doc.externalId ?? documentId;
   const plasticName = doc.plastic ?? null;
@@ -446,6 +447,7 @@ const getDiscFromTypesenseById = async (documentId: string): Promise<Disc | null
     maxWeightGr: null,
     link: null,
     imageUrl: null,
+    description: doc.description ?? null,
     color: null,
     backgroundColor: null,
   };
@@ -555,6 +557,7 @@ const LEGACY_DISC_BROWSE_FIELDS = [
   "stability",
   "link",
   "imageUrl",
+  "description",
   "color",
   "backgroundColor",
 ] as const;
@@ -591,6 +594,7 @@ const mapDiscVariantToDisc = (variant: DiscVariant): Disc => {
     maxWeightGr: mold?.maxWeightGr ?? null,
     link: variant.link ?? null,
     imageUrl: variant.imageUrl ?? null,
+    description: null,
     color: mold?.color ?? null,
     backgroundColor: mold?.backgroundColor ?? null,
     releaseType: variant.releaseType ?? "stock",
@@ -603,7 +607,6 @@ const mapDiscVariantToDisc = (variant: DiscVariant): Disc => {
     priceLowUsd: variant.priceLowUsd ?? null,
     priceHighUsd: variant.priceHighUsd ?? null,
     runNotes: variant.runNotes ?? null,
-    description: variant.description ?? null,
   };
 };
 
@@ -1652,6 +1655,134 @@ export const getSellerPaymentMethods = async (
   }
 };
 
+export type PublicProfileDirectoryEntry = {
+  userId: number;
+  username: string;
+  displayName: string | null;
+  city: string | null;
+  country: string | null;
+  avatarUrl: string | null;
+  profileDocumentId: string | null;
+};
+
+function parseProfileListUserRelation(raw: unknown): { id: number; username: string | null; blocked: boolean } | null {
+  if (raw == null || typeof raw !== "object") return null;
+  const o = raw as Record<string, unknown>;
+  const inner =
+    "data" in o && o.data != null && typeof o.data === "object" && !Array.isArray(o.data)
+      ? (o.data as Record<string, unknown>)
+      : o;
+  const id = typeof inner.id === "number" ? inner.id : Number(inner.id);
+  if (!Number.isFinite(id)) return null;
+  return {
+    id,
+    username: typeof inner.username === "string" ? inner.username : null,
+    blocked: Boolean(inner.blocked),
+  };
+}
+
+/**
+ * Public directory rows for a country. Matches `/u/[username]` rules: linked user must
+ * exist, not be blocked, and have a username (required to link to the public profile).
+ */
+export const getPublicProfilesByCountry = cache(async (strapiCountry: string, limit = 48): Promise<PublicProfileDirectoryEntry[]> => {
+  const trimmed = (strapiCountry ?? "").trim();
+  if (!trimmed) return [];
+
+  const query = toQueryString({
+    "filters[country][$eq]": trimmed,
+    "pagination[page]": 1,
+    "pagination[pageSize]": Math.min(Math.max(limit, 1), STRAPI_SAFE_PAGE_SIZE),
+    "populate[user]": "true",
+  });
+
+  try {
+    const payload = await request<
+      StrapiListResponse<{
+        documentId?: string;
+        displayName?: string | null;
+        city?: string | null;
+        country?: string | null;
+        avatarUrl?: string | null;
+        user?: unknown;
+      }>
+    >(`/api/profiles?${query}`);
+
+    const rows = payload.data ?? [];
+    const out: PublicProfileDirectoryEntry[] = [];
+
+    for (const row of rows) {
+      const u = parseProfileListUserRelation(row.user);
+      if (!u || u.blocked) continue;
+      const username = (u.username ?? "").trim();
+      if (!username) continue;
+
+      out.push({
+        userId: u.id,
+        username,
+        displayName: row.displayName ?? null,
+        city: row.city ?? null,
+        country: row.country ?? null,
+        avatarUrl: row.avatarUrl ?? null,
+        profileDocumentId: typeof row.documentId === "string" ? row.documentId : null,
+      });
+    }
+
+    out.sort((a, b) => {
+      const aName = (a.displayName ?? a.username).toLowerCase();
+      const bName = (b.displayName ?? b.username).toLowerCase();
+      return aName.localeCompare(bName);
+    });
+
+    return out.slice(0, limit);
+  } catch {
+    return [];
+  }
+});
+
+export type PublicProfileActivityEntry = PublicProfileDirectoryEntry & {
+  discReviewCount: number;
+  courseReviewCount: number;
+  helpfulVotesReceived: number;
+  activityScore: number;
+};
+
+/**
+ * Mahoot reviewer activity only (reviews + helpful votes) — not competitive skill.
+ * Fetches a bounded pool of public profiles in-country, scores in parallel, returns top N.
+ */
+export async function getPublicProfilesByCountryRankedByReviewerActivity(
+  strapiCountry: string,
+  limit = 12,
+): Promise<PublicProfileActivityEntry[]> {
+  const trimmed = (strapiCountry ?? "").trim();
+  if (!trimmed) return [];
+
+  const pool = await getPublicProfilesByCountry(trimmed, 48);
+  if (pool.length === 0) return [];
+
+  const scored = await Promise.all(
+    pool.map(async (entry) => {
+      const { discReviewCount, courseReviewCount, helpfulVotesReceived } = await getReviewerActivityCounts(entry.userId);
+      const activityScore = discReviewCount + courseReviewCount + helpfulVotesReceived;
+      return {
+        ...entry,
+        discReviewCount,
+        courseReviewCount,
+        helpfulVotesReceived,
+        activityScore,
+      };
+    }),
+  );
+
+  scored.sort((a, b) => {
+    if (b.activityScore !== a.activityScore) return b.activityScore - a.activityScore;
+    return (a.displayName ?? a.username).localeCompare(b.displayName ?? b.username);
+  });
+
+  return scored.filter((row) => row.activityScore > 0).slice(0, Math.max(limit, 0));
+}
+
 // ============================================================================
 // Leaderboards
 // ============================================================================
@@ -1792,17 +1923,10 @@ export type ReviewerActivityForUser = {
  * Aggregate everything we need to compute badges and the rate-3 widget for
  * a given user, with two paginated requests against Strapi (disc + course).
  */
-export const getReviewerActivityForUser = async (userId: number): Promise<ReviewerActivityForUser> => {
-  if (!Number.isFinite(userId) || userId <= 0) {
-    return {
-      discReviewCount: 0,
-      courseReviewCount: 0,
-      helpfulVotesReceived: 0,
-      ratedDiscDocumentIds: [],
-      ratedDiscCategoryByDocumentId: new Map(),
-    };
-  }
-
+async function fetchUserRatingRows(userId: number): Promise<{
+  discRatings: Array<Pick<DiscRating, "discDocumentId" | "helpfulCount">>;
+  courseRatings: Array<Pick<CourseRating, "helpfulCount">>;
+}> {
   const fetchAllDiscRatings = async () => {
     const all: Array<Pick<DiscRating, "discDocumentId" | "helpfulCount">> = [];
     let page = 1;
@@ -1846,17 +1970,52 @@ export const getReviewerActivityForUser = async (userId: number): Promise<Review
     return all;
   };
 
-  let discRatings: Array<Pick<DiscRating, "discDocumentId" | "helpfulCount">> = [];
-  let courseRatings: Array<Pick<CourseRating, "helpfulCount">> = [];
   try {
-    [discRatings, courseRatings] = await Promise.all([fetchAllDiscRatings(), fetchAllCourseRatings()]);
+    const [discRatings, courseRatings] = await Promise.all([fetchAllDiscRatings(), fetchAllCourseRatings()]);
+    return { discRatings, courseRatings };
   } catch {
-    /* swallow — partial data still yields useful badges */
+    return { discRatings: [], courseRatings: [] };
   }
+}
+
+/** Lightweight counts for leaderboards (no per-disc category map). */
+export const getReviewerActivityCounts = async (
+  userId: number,
+): Promise<{ discReviewCount: number; courseReviewCount: number; helpfulVotesReceived: number }> => {
+  if (!Number.isFinite(userId) || userId <= 0) {
+    return { discReviewCount: 0, courseReviewCount: 0, helpfulVotesReceived: 0 };
+  }
+  const { discRatings, courseRatings } = await fetchUserRatingRows(userId);
+  const helpfulVotesReceived =
+    discRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0) +
+    courseRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0);
+  return {
+    discReviewCount: discRatings.length,
+    courseReviewCount: courseRatings.length,
+    helpfulVotesReceived,
+  };
+};
+
+export const getReviewerActivityForUser = async (userId: number): Promise<ReviewerActivityForUser> => {
+  if (!Number.isFinite(userId) || userId <= 0) {
+    return {
+      discReviewCount: 0,
+      courseReviewCount: 0,
+      helpfulVotesReceived: 0,
+      ratedDiscDocumentIds: [],
+      ratedDiscCategoryByDocumentId: new Map(),
+    };
+  }
+
+  const { discRatings, courseRatings } = await fetchUserRatingRows(userId);
 
   const ratedDiscDocumentIds = Array.from(
     new Set(discRatings.map((rating) => rating.discDocumentId).filter(Boolean) as string[]),
   );
+
+  const helpfulVotesReceived =
+    discRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0) +
+    courseRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0);
 
   const ratedDiscCategoryByDocumentId = new Map<string, string | null>();
   if (ratedDiscDocumentIds.length > 0) {
@@ -1871,10 +2030,6 @@ export const getReviewerActivityForUser = async (userId: number): Promise<Review
     }
   }
 
-  const helpfulVotesReceived =
-    discRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0) +
-    courseRatings.reduce((sum, rating) => sum + (rating.helpfulCount ?? 0), 0);
-
   return {
     discReviewCount: discRatings.length,
     courseReviewCount: courseRatings.length,
@@ -1882,100 +2037,4 @@ export const getReviewerActivityForUser = async (userId: number): Promise<Review
     ratedDiscDocumentIds,
     ratedDiscCategoryByDocumentId,
   };
-};
-
-// ============================================================================
-// Asia / public profile directory (country on profile)
-// ============================================================================
-
-export type PublicProfileDirectoryEntry = {
-  userId: number;
-  username: string;
-  displayName: string | null;
-  city: string | null;
-  avatarUrl: string | null;
-};
-
-export type PublicProfileActivityEntry = PublicProfileDirectoryEntry & {
-  discReviewCount: number;
-  courseReviewCount: number;
-  helpfulVotesReceived: number;
-};
-
-type ProfileRowWithUser = {
-  displayName?: string | null;
-  city?: string | null;
-  avatarUrl?: string | null;
-  user?: unknown;
-};
-
-const peelProfileUser = (raw: unknown): { id: number; username: string; blocked: boolean } | null => {
-  if (!raw || typeof raw !== "object") return null;
-  const o = raw as Record<string, unknown>;
-  const inner =
-    o.data && typeof o.data === "object" && !Array.isArray(o.data) ? (o.data as Record<string, unknown>) : o;
-  const id = Number(inner.id);
-  const username = String(inner.username ?? "").trim();
-  if (!Number.isFinite(id) || id <= 0 || !username) return null;
-  return { id, username, blocked: Boolean(inner.blocked) };
-};
-
-export const getPublicProfilesByCountry = async (
-  country: string,
-  limit: number,
-): Promise<PublicProfileDirectoryEntry[]> => {
-  const trimmed = country.trim();
-  if (!trimmed) return [];
-  const safeLimit = Math.min(Math.max(limit, 1), 100);
-  const q = toQueryString({
-    "filters[country][$eq]": trimmed,
-    "pagination[page]": 1,
-    "pagination[pageSize]": safeLimit,
-    "populate[user][fields][0]": "id",
-    "populate[user][fields][1]": "username",
-    "populate[user][fields][2]": "blocked",
-    "fields[0]": "displayName",
-    "fields[1]": "city",
-    "fields[2]": "avatarUrl",
-  });
-  try {
-    const payload = await request<StrapiListResponse<ProfileRowWithUser>>(`/api/profiles?${q}`);
-    const out: PublicProfileDirectoryEntry[] = [];
-    for (const row of payload.data ?? []) {
-      const u = peelProfileUser(row.user);
-      if (!u || u.blocked) continue;
-      out.push({
-        userId: u.id,
-        username: u.username,
-        displayName: row.displayName ?? null,
-        city: row.city ?? null,
-        avatarUrl: row.avatarUrl ?? null,
-      });
-    }
-    return out;
-  } catch {
-    return [];
-  }
-};
-
-export const getPublicProfilesByCountryRankedByReviewerActivity = async (
-  country: string,
-  limit: number,
-): Promise<PublicProfileActivityEntry[]> => {
-  const safeLimit = Math.min(Math.max(limit, 1), 48);
-  const candidates = await getPublicProfilesByCountry(country, 80);
-  const scored = await Promise.all(
-    candidates.map(async (c) => {
-      const a = await getReviewerActivityForUser(c.userId);
-      const score = a.discReviewCount + a.courseReviewCount + a.helpfulVotesReceived;
-      return { c, a, score };
-    }),
-  );
-  scored.sort((x, y) => y.score - x.score);
-  return scored.slice(0, safeLimit).map(({ c, a }) => ({
-    ...c,
-    discReviewCount: a.discReviewCount,
-    courseReviewCount: a.courseReviewCount,
-    helpfulVotesReceived: a.helpfulVotesReceived,
-  }));
 };

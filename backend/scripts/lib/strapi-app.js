@@ -57,7 +57,38 @@ const upsertByExternalId = async (strapi, uid, payload) => {
   return 'created';
 };
 
+/**
+ * Upsert a CourseAlias row keyed by (source, normalizedName).
+ * Returns { documentId, mode: 'created' | 'updated' }.
+ */
+const upsertCourseAlias = async (strapi, { source, externalName, normalizedName, courseDocumentId, confidence }) => {
+  const uid = 'api::course-alias.course-alias';
+  const service = strapi.documents(uid);
+
+  const existing = await service.findFirst({
+    fields: ['documentId'],
+    filters: { source: { $eq: source }, normalizedName: { $eq: normalizedName } },
+  });
+
+  const data = {
+    source,
+    externalName,
+    normalizedName,
+    course: courseDocumentId,
+    confidence: typeof confidence === 'number' ? confidence : null,
+  };
+
+  if (existing?.documentId) {
+    await service.update({ documentId: existing.documentId, data });
+    return { documentId: existing.documentId, mode: 'updated' };
+  }
+
+  const created = await service.create({ data });
+  return { documentId: created.documentId, mode: 'created' };
+};
+
 module.exports = {
   loadStrapi,
   upsertByExternalId,
+  upsertCourseAlias,
 };

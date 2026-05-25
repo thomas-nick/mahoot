@@ -90,6 +90,14 @@
     "imageUrl": {
       "type": "string"
     },
+    "description": {
+      "type": "text",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Public-facing disc description; copied to the Disc when approved."
+        }
+      }
+    },
     "color": {
       "type": "string"
     },

@@ -1,0 +1,82 @@
+{
+  "kind": "collectionType",
+  "collectionName": "round_players",
+  "info": {
+    "singularName": "round-player",
+    "pluralName": "round-players",
+    "displayName": "Round Player",
+    "description": "One person on the card for a Round. Stores totals so leaderboards don't re-aggregate every read."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "round": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::round.round",
+      "required": true,
+      "inversedBy": "players"
+    },
+    "displayName": {
+      "type": "string",
+      "required": true
+    },
+    "linkedUser": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Optional link to a real dgportal user. When set, stats roll up to that account."
+        }
+      }
+    },
+    "position": {
+      "type": "integer",
+      "required": true,
+      "min": 1,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Tee-off / card order. 1 is usually the scorekeeper."
+        }
+      }
+    },
+    "isScorekeeper": {
+      "type": "boolean",
+      "required": true,
+      "default": false
+    },
+    "total": {
+      "type": "integer",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Sum of strokes across all completed holes. Recomputed on hole-score writes."
+        }
+      }
+    },
+    "plusMinus": {
+      "type": "integer",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Total minus layout par. Negative = under par."
+        }
+      }
+    },
+    "rating": {
+      "type": "integer",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Optional PDGA-style round rating, if supplied by source (UDisc)."
+        }
+      }
+    },
+    "scores": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::hole-score.hole-score",
+      "mappedBy": "player"
+    }
+  }
+}

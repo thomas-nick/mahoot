@@ -726,7 +726,7 @@ export async function GET(request: Request) {
       {
         collection: "discs",
         q,
-        query_by: "name,brand,category,plastic,stability,runName,externalId",
+        query_by: "name,brand,category,plastic,stability,runName,externalId,description",
         per_page: 8,
         prefix: true,
         facet_by: "brand,category,stability,plastic,releaseType",

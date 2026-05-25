@@ -1,0 +1,82 @@
+{
+  "kind": "collectionType",
+  "collectionName": "rounds",
+  "info": {
+    "singularName": "round",
+    "pluralName": "rounds",
+    "displayName": "Round",
+    "description": "One play of a CourseLayout. Has many RoundPlayers."
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "externalId": {
+      "type": "string",
+      "unique": true,
+      "pluginOptions": {
+        "content-manager": {
+          "description": "Optional stable id from the original source (e.g. UDisc round) so re-imports are idempotent."
+        }
+      }
+    },
+    "layout": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::course-layout.course-layout",
+      "required": true,
+      "inversedBy": "rounds"
+    },
+    "startedAt": {
+      "type": "datetime",
+      "required": true
+    },
+    "endedAt": {
+      "type": "datetime"
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": [
+        "upcoming",
+        "in_progress",
+        "completed",
+        "abandoned"
+      ],
+      "required": true,
+      "default": "in_progress"
+    },
+    "source": {
+      "type": "enumeration",
+      "enum": [
+        "udisc",
+        "manual",
+        "live"
+      ],
+      "required": true,
+      "default": "manual"
+    },
+    "owner": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user",
+      "pluginOptions": {
+        "content-manager": {
+          "description": "The dgportal user this round belongs to. Null = legacy/imported, no owner."
+        }
+      }
+    },
+    "players": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::round-player.round-player",
+      "mappedBy": "round"
+    },
+    "notes": {
+      "type": "text"
+    },
+    "weather": {
+      "type": "string"
+    }
+  }
+}

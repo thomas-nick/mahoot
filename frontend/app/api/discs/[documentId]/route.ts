@@ -106,6 +106,10 @@ export async function PUT(
   const rimDepthCm = toOptionalNumber(body.rimDepthCm, "Rim depth");
   const rimThicknessCm = toOptionalNumber(body.rimThicknessCm, "Rim thickness");
   const maxWeightGr = toOptionalNumber(body.maxWeightGr, "Max weight");
+  const descriptionRaw = String(body.description ?? "").trim();
+  if (descriptionRaw.length > 10000) {
+    return NextResponse.json({ error: "Description must be 10000 characters or fewer." }, { status: 400 });
+  }
   const numericChecks = [speed, glide, turn, fade, diameterCm, heightCm, rimDepthCm, rimThicknessCm, maxWeightGr];
   const numericError = numericChecks.find((check) => check.error)?.error;
   if (numericError) {
@@ -149,6 +153,7 @@ export async function PUT(
             maxWeightGr: maxWeightGr.value,
             color: toOptionalString(body.color),
             backgroundColor: toOptionalString(body.backgroundColor),
+            description: descriptionRaw || null,
           },
         };
 

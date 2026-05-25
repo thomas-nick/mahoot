@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_round_layout_holes",
+  "info": {
+    "displayName": "Layout Hole",
+    "description": "A single hole inside a CourseLayout (par + optional distance).",
+    "icon": "circle"
+  },
+  "options": {},
+  "attributes": {
+    "number": {
+      "type": "integer",
+      "required": true,
+      "min": 1,
+      "max": 36
+    },
+    "par": {
+      "type": "integer",
+      "required": true,
+      "min": 1,
+      "max": 12
+    },
+    "feet": {
+      "type": "integer",
+      "min": 0
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

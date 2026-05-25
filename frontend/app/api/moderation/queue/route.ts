@@ -75,7 +75,11 @@ const toItem = (raw: RawSub, kind: "disc" | "course"): Item | null => {
         : [raw.city, raw.state].filter(Boolean).join(", ") || null,
     moderation: raw.moderation ?? "pending",
     imageUrl: raw.imageUrl ?? null,
-    notes: raw.notes ?? raw.description ?? null,
+    notes:
+      kind === "disc"
+        ? [raw.description, raw.notes].filter((s) => Boolean(s && String(s).trim())).join("\n\n---\n\n") ||
+          null
+        : raw.notes ?? raw.description ?? null,
     createdAt: raw.createdAt ?? null,
     submittedBy: {
       id: submittedBy?.id ?? null,
