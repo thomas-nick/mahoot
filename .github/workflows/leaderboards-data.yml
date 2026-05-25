@@ -1,0 +1,57 @@
+name: Refresh leaderboards data
+
+on:
+  schedule:
+    # Monday 17:00 UTC — after typical StatMando weekly refresh
+    - cron: "0 17 * * 1"
+    # Tuesday 13:00 UTC — catches DGPT events that finish Sunday/Monday
+    - cron: "0 13 * * 2"
+  workflow_dispatch:
+    inputs:
+      discover_asia:
+        description: "Also run --discover for Asia event discovery (slow)"
+        required: false
+        default: "false"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    defaults:
+      run:
+        working-directory: scripts/leaderboards
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: scripts/leaderboards/requirements.txt
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh DGPT data (with PDGA event overlay)
+        run: python3 update.py MPO FPO --refresh-events
+
+      - name: Refresh Asia tour data + rating histories
+        run: python3 asia.py --refresh-events --rating-history
+
+      - name: Discover new Asia events (manual runs only)
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.discover_asia == 'true'
+        run: python3 asia.py --discover
+
+      - name: Commit updated data
+        working-directory: ${{ github.workspace }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scripts/leaderboards/data/ frontend/public/data/leaderboards/
+          if git diff --staged --quiet; then
+            echo "No data changes"
+            exit 0
+          fi
+          git commit -m "chore: refresh leaderboards data $(date -u +%Y-%m-%d)"
+          git push

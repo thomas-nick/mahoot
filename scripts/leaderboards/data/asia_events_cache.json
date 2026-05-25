@@ -1,0 +1,6077 @@
+{
+  "96943": {
+    "event_id": "96943",
+    "title": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+    "location": "Kaohsiung, Kaohsiung City, Chinese Taipei",
+    "dates": "09-Jan to 11-Jan-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "asia_tour",
+    "is_asia_tour": true,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 91,
+    "results": [
+      {
+        "pdga": 45971,
+        "name": "Calvin Heimburg",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 180.0,
+        "rating": 1052,
+        "prize": "$731",
+        "weighted_points": 200.0
+      },
+      {
+        "pdga": 128836,
+        "name": "Jacky Chen",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 172.5,
+        "rating": 1006,
+        "prize": "$381",
+        "weighted_points": 150.0
+      },
+      {
+        "pdga": 84274,
+        "name": "Tsz Ho Ming",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 165.0,
+        "rating": 1001,
+        "prize": "$254",
+        "weighted_points": 110.0
+      },
+      {
+        "pdga": 55052,
+        "name": "Joey Bruno",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 157.5,
+        "rating": 962,
+        "prize": "$191",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 8139,
+        "name": "Manabu Kajiyama",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 150.0,
+        "rating": 1030,
+        "prize": "$127",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 319042,
+        "name": "Nils Julian Loberg",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 142.5,
+        "rating": null,
+        "prize": "$95",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 239015,
+        "name": "Christian Fernando",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 135.0,
+        "rating": 941,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 56592,
+        "name": "Hyundo Jang",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 127.5,
+        "rating": 948,
+        "prize": "$32",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 264509,
+        "name": "Kento Nishimura",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 127.5,
+        "rating": 964,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 280544,
+        "name": "Terry Tang",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 127.5,
+        "rating": 937,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 144129,
+        "name": "Chia Pin Lee",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 105.0,
+        "rating": 925,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 129558,
+        "name": "James Lai",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 105.0,
+        "rating": 960,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 275278,
+        "name": "Peng-Jun Li",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 90.0,
+        "rating": 958,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 247286,
+        "name": "Hsien Yu Chen",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 82.5,
+        "rating": 903,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 277801,
+        "name": "Joseph Chen Hao Wong",
+        "division": "MPO",
+        "place": 15,
+        "pdga_points": 75.0,
+        "rating": 935,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 318854,
+        "name": "Jacob Jaderston",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 67.5,
+        "rating": null,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 287079,
+        "name": "Hsien-Jung Chu",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 67.5,
+        "rating": 955,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 240017,
+        "name": "Tatsuya Haseba",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 67.5,
+        "rating": 934,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 113527,
+        "name": "Chan Chun Yin",
+        "division": "MPO",
+        "place": 19,
+        "pdga_points": 45.0,
+        "rating": 914,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 91705,
+        "name": "Nathan Owen",
+        "division": "MPO",
+        "place": 20,
+        "pdga_points": 37.5,
+        "rating": 885,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 149296,
+        "name": "Nicky Woo",
+        "division": "MPO",
+        "place": 21,
+        "pdga_points": 30.0,
+        "rating": 893,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 262849,
+        "name": "Junyeong Kim",
+        "division": "MPO",
+        "place": 21,
+        "pdga_points": 30.0,
+        "rating": 923,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 215878,
+        "name": "Gunhui Kim",
+        "division": "MPO",
+        "place": 23,
+        "pdga_points": 15.0,
+        "rating": 877,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 104893,
+        "name": "Hyonkuk Seo",
+        "division": "MPO",
+        "place": 24,
+        "pdga_points": 0.0,
+        "rating": 908,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 43610,
+        "name": "Chia-Fang Chen",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 27.0,
+        "rating": 898,
+        "prize": "$286",
+        "weighted_points": 200.0
+      },
+      {
+        "pdga": 133080,
+        "name": "Su Mei Yang",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 22.5,
+        "rating": 891,
+        "prize": "$159",
+        "weighted_points": 150.0
+      },
+      {
+        "pdga": 56593,
+        "name": "Jiwon Kim",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 18.0,
+        "rating": 837,
+        "prize": "",
+        "weighted_points": 110.0
+      },
+      {
+        "pdga": 275294,
+        "name": "Chen Chen",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 18.0,
+        "rating": 900,
+        "prize": "",
+        "weighted_points": 110.0
+      },
+      {
+        "pdga": 275301,
+        "name": "Hui-Fen Liu",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 9.0,
+        "rating": 861,
+        "prize": "",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 276385,
+        "name": "Tomoko Kitahara",
+        "division": "FPO",
+        "place": 6,
+        "pdga_points": 4.5,
+        "rating": 876,
+        "prize": "",
+        "weighted_points": 40.0
+      }
+    ]
+  },
+  "96727": {
+    "event_id": "96727",
+    "title": "Siam Open 2026 - PDGA Asia Tour Event #2",
+    "location": "Bangkok, Thailand",
+    "dates": "20-Jan to 22-Jan-2026",
+    "year": "2026",
+    "tier": "B",
+    "level": "asia_tour",
+    "is_asia_tour": true,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 84,
+    "results": [
+      {
+        "pdga": 91397,
+        "name": "Clay Edwards",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 127.5,
+        "rating": 1016,
+        "prize": "$253",
+        "weighted_points": 200.0
+      },
+      {
+        "pdga": 91925,
+        "name": "Jakub Semer\u00e1d",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 120.0,
+        "rating": 1020,
+        "prize": "$126",
+        "weighted_points": 150.0
+      },
+      {
+        "pdga": 95059,
+        "name": "Japi Pistokoski",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 112.5,
+        "rating": 960,
+        "prize": "$95",
+        "weighted_points": 110.0
+      },
+      {
+        "pdga": 84867,
+        "name": "Tomi Lehtonen",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 105.0,
+        "rating": 993,
+        "prize": "$63",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 174343,
+        "name": "Ben Holding",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 97.5,
+        "rating": 976,
+        "prize": "$32",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 215169,
+        "name": "Martin Fischer",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 90.0,
+        "rating": 980,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 55052,
+        "name": "Joey Bruno",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 82.5,
+        "rating": 962,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 239015,
+        "name": "Christian Fernando",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 75.0,
+        "rating": 943,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 197036,
+        "name": "Pichet Panturat",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 67.5,
+        "rating": 971,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 57990,
+        "name": "Ron Kaspersen",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 60.0,
+        "rating": 955,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 80765,
+        "name": "Sauli Sumen",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 52.5,
+        "rating": 975,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 144129,
+        "name": "Chia Pin Lee",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 52.5,
+        "rating": 916,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 289027,
+        "name": "Xinrui Chen",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 37.5,
+        "rating": 895,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 318445,
+        "name": "Melvin Bach",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 30.0,
+        "rating": null,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 90008,
+        "name": "Arto Myllyl\u00e4",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 30.0,
+        "rating": 928,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 282484,
+        "name": "Patiparn \" Fame \" Arjor",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 15.0,
+        "rating": 951,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 273757,
+        "name": "Zelong Li",
+        "division": "MPO",
+        "place": 17,
+        "pdga_points": 7.5,
+        "rating": 896,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 43610,
+        "name": "Chia-Fang Chen",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 18.0,
+        "rating": 898,
+        "prize": "$95",
+        "weighted_points": 200.0
+      },
+      {
+        "pdga": 55234,
+        "name": "Margaret Patterson",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 13.5,
+        "rating": 864,
+        "prize": "$32",
+        "weighted_points": 150.0
+      },
+      {
+        "pdga": 152810,
+        "name": "Echo Li",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 9.0,
+        "rating": 852,
+        "prize": "",
+        "weighted_points": 110.0
+      },
+      {
+        "pdga": 133080,
+        "name": "Su Mei Yang",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 4.5,
+        "rating": 890,
+        "prize": "",
+        "weighted_points": 70.0
+      }
+    ]
+  },
+  "95859": {
+    "event_id": "95859",
+    "title": "Samui Swine Classic XIII - Pros. Presented by Latitude64 - PDGA Asia Tour Event #3",
+    "location": "Koh Samui, Thailand",
+    "dates": "30-Jan to 01-Feb-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "asia_tour",
+    "is_asia_tour": true,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 88,
+    "results": [
+      {
+        "pdga": 26416,
+        "name": "Philo Brathwaite",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 195.0,
+        "rating": 1003,
+        "prize": "$715",
+        "weighted_points": 200.0
+      },
+      {
+        "pdga": 91397,
+        "name": "Clay Edwards",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 190.0,
+        "rating": 1016,
+        "prize": "$470",
+        "weighted_points": 150.0
+      },
+      {
+        "pdga": 28597,
+        "name": "Shasta Criss",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 185.0,
+        "rating": 994,
+        "prize": "$341",
+        "weighted_points": 110.0
+      },
+      {
+        "pdga": 37919,
+        "name": "Samuel Price",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 180.0,
+        "rating": 981,
+        "prize": "$273",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 91925,
+        "name": "Jakub Semer\u00e1d",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 175.0,
+        "rating": 1020,
+        "prize": "$224",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 108524,
+        "name": "Phap Lam",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 170.0,
+        "rating": 944,
+        "prize": "$188",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 165.0,
+        "rating": 1007,
+        "prize": "$162",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 92164,
+        "name": "Joni Luumi",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 160.0,
+        "rating": 993,
+        "prize": "$140",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 215169,
+        "name": "Martin Fischer",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 160.0,
+        "rating": 980,
+        "prize": "$140",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 282484,
+        "name": "Patiparn \" Fame \" Arjor",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 150.0,
+        "rating": 951,
+        "prize": "$120",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 132871,
+        "name": "Richard Creelman",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 145.0,
+        "rating": 964,
+        "prize": "$106",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 55052,
+        "name": "Joey Bruno",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 145.0,
+        "rating": 962,
+        "prize": "$106",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 263885,
+        "name": "Wesley de Ridder",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 135.0,
+        "rating": 936,
+        "prize": "$94",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 239015,
+        "name": "Christian Fernando",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 130.0,
+        "rating": 943,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 130789,
+        "name": "Heath Allison",
+        "division": "MPO",
+        "place": 15,
+        "pdga_points": 125.0,
+        "rating": 950,
+        "prize": "$88",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 95059,
+        "name": "Japi Pistokoski",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 120.0,
+        "rating": 960,
+        "prize": "$79",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 242765,
+        "name": "Anton Heikkil\u00e4",
+        "division": "MPO",
+        "place": 17,
+        "pdga_points": 115.0,
+        "rating": 927,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 84274,
+        "name": "Tsz Ho Ming",
+        "division": "MPO",
+        "place": 17,
+        "pdga_points": 115.0,
+        "rating": 996,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 90008,
+        "name": "Arto Myllyl\u00e4",
+        "division": "MPO",
+        "place": 17,
+        "pdga_points": 115.0,
+        "rating": 928,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 80765,
+        "name": "Sauli Sumen",
+        "division": "MPO",
+        "place": 20,
+        "pdga_points": 100.0,
+        "rating": 975,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 57990,
+        "name": "Ron Kaspersen",
+        "division": "MPO",
+        "place": 20,
+        "pdga_points": 100.0,
+        "rating": 955,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 318445,
+        "name": "Melvin Bach",
+        "division": "MPO",
+        "place": 20,
+        "pdga_points": 100.0,
+        "rating": null,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 116486,
+        "name": "Sean Raj",
+        "division": "MPO",
+        "place": 23,
+        "pdga_points": 85.0,
+        "rating": 946,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 174343,
+        "name": "Ben Holding",
+        "division": "MPO",
+        "place": 23,
+        "pdga_points": 85.0,
+        "rating": 976,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 73124,
+        "name": "Rainer Kala",
+        "division": "MPO",
+        "place": 25,
+        "pdga_points": 75.0,
+        "rating": 893,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 123068,
+        "name": "Aaron Ressler",
+        "division": "MPO",
+        "place": 26,
+        "pdga_points": 70.0,
+        "rating": 940,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 197036,
+        "name": "Pichet Panturat",
+        "division": "MPO",
+        "place": 27,
+        "pdga_points": 65.0,
+        "rating": 971,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 122780,
+        "name": "Leon Crellin",
+        "division": "MPO",
+        "place": 28,
+        "pdga_points": 60.0,
+        "rating": 912,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 115837,
+        "name": "Ethan Brill",
+        "division": "MPO",
+        "place": 29,
+        "pdga_points": 55.0,
+        "rating": 931,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 211257,
+        "name": "Yuan Yao",
+        "division": "MPO",
+        "place": 30,
+        "pdga_points": 50.0,
+        "rating": 812,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 76247,
+        "name": "Kalev-Kristjan Tamm",
+        "division": "MPO",
+        "place": 30,
+        "pdga_points": 50.0,
+        "rating": 857,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 138521,
+        "name": "Petri Hautala",
+        "division": "MPO",
+        "place": 32,
+        "pdga_points": 40.0,
+        "rating": 966,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 84194,
+        "name": "Kris Oliver Maiberg",
+        "division": "MPO",
+        "place": 32,
+        "pdga_points": 40.0,
+        "rating": 926,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 110965,
+        "name": "Didrik Fjeld Elset",
+        "division": "MPO",
+        "place": 34,
+        "pdga_points": 30.0,
+        "rating": 926,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 58708,
+        "name": "Riley Hayes",
+        "division": "MPO",
+        "place": 35,
+        "pdga_points": 25.0,
+        "rating": 934,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 201852,
+        "name": "Chris Hyde",
+        "division": "MPO",
+        "place": 37,
+        "pdga_points": 15.0,
+        "rating": 901,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 110155,
+        "name": "Runar Johansen",
+        "division": "MPO",
+        "place": 38,
+        "pdga_points": 10.0,
+        "rating": 850,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 136577,
+        "name": "Grant Feldt",
+        "division": "MPO",
+        "place": 39,
+        "pdga_points": 5.0,
+        "rating": 917,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 55234,
+        "name": "Margaret Patterson",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 15.0,
+        "rating": 864,
+        "prize": "$253",
+        "weighted_points": 200.0
+      },
+      {
+        "pdga": 61990,
+        "name": "Katka Bo\u010fov\u00e1",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 12.0,
+        "rating": 927,
+        "prize": "$152",
+        "weighted_points": 150.0
+      },
+      {
+        "pdga": 152810,
+        "name": "Echo Li",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 9.0,
+        "rating": 852,
+        "prize": "",
+        "weighted_points": 110.0
+      },
+      {
+        "pdga": 282457,
+        "name": "Khim Chotchuang",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 6.0,
+        "rating": 849,
+        "prize": "",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 147080,
+        "name": "Katie Brinkerhoff",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 3.0,
+        "rating": 843,
+        "prize": "",
+        "weighted_points": 70.0
+      }
+    ]
+  },
+  "97037": {
+    "event_id": "97037",
+    "title": "Chiang Mai Open IV - PDGA Asia Tour Event #4",
+    "location": "Chiang Mai, Thailand",
+    "dates": "06-Feb to 08-Feb-2026",
+    "year": "2026",
+    "tier": "B",
+    "level": "asia_tour",
+    "is_asia_tour": true,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 116,
+    "results": [
+      {
+        "pdga": 91397,
+        "name": "Clay Edwards",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 165.0,
+        "rating": 1016,
+        "prize": "$466",
+        "weighted_points": 200.0
+      },
+      {
+        "pdga": 91925,
+        "name": "Jakub Semer\u00e1d",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 157.5,
+        "rating": 1020,
+        "prize": "$275",
+        "weighted_points": 150.0
+      },
+      {
+        "pdga": 28597,
+        "name": "Shasta Criss",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 150.0,
+        "rating": 994,
+        "prize": "$160",
+        "weighted_points": 110.0
+      },
+      {
+        "pdga": 113958,
+        "name": "Songqing Guo",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 142.5,
+        "rating": 979,
+        "prize": "$96",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 95059,
+        "name": "Japi Pistokoski",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 135.0,
+        "rating": 960,
+        "prize": "$64",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 267726,
+        "name": "Mathis Villetelle",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 127.5,
+        "rating": 953,
+        "prize": "$32",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 57990,
+        "name": "Ron Kaspersen",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 120.0,
+        "rating": 955,
+        "prize": "$16",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 80765,
+        "name": "Sauli Sumen",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 112.5,
+        "rating": 975,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 90008,
+        "name": "Arto Myllyl\u00e4",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 112.5,
+        "rating": 928,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 84274,
+        "name": "Tsz Ho Ming",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 97.5,
+        "rating": 996,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 132871,
+        "name": "Richard Creelman",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 90.0,
+        "rating": 964,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 239015,
+        "name": "Christian Fernando",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 90.0,
+        "rating": 943,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 291619,
+        "name": "Juha Suomalainen",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 75.0,
+        "rating": 950,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 294815,
+        "name": "GoWan \u200b",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 67.5,
+        "rating": 929,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 55052,
+        "name": "Joey Bruno",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 67.5,
+        "rating": 962,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 101832,
+        "name": "Jianchao Long",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 52.5,
+        "rating": 918,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 273498,
+        "name": "Sawang Suepthaosakun",
+        "division": "MPO",
+        "place": 17,
+        "pdga_points": 45.0,
+        "rating": 900,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 197036,
+        "name": "Pichet Panturat",
+        "division": "MPO",
+        "place": 18,
+        "pdga_points": 37.5,
+        "rating": 971,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 227317,
+        "name": "Saran Ritthaisong",
+        "division": "MPO",
+        "place": 18,
+        "pdga_points": 37.5,
+        "rating": 898,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 282484,
+        "name": "Patiparn \" Fame \" Arjor",
+        "division": "MPO",
+        "place": 20,
+        "pdga_points": 22.5,
+        "rating": 951,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 242765,
+        "name": "Anton Heikkil\u00e4",
+        "division": "MPO",
+        "place": 21,
+        "pdga_points": 15.0,
+        "rating": 927,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 156684,
+        "name": "Jasper Sluimer",
+        "division": "MPO",
+        "place": 22,
+        "pdga_points": 7.5,
+        "rating": 907,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 282457,
+        "name": "Khim Chotchuang",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 18.0,
+        "rating": 849,
+        "prize": "$127",
+        "weighted_points": 200.0
+      },
+      {
+        "pdga": 55234,
+        "name": "Margaret Patterson",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 13.5,
+        "rating": 864,
+        "prize": "$64",
+        "weighted_points": 150.0
+      },
+      {
+        "pdga": 273481,
+        "name": "Jiraporn Pagangpalang",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 9.0,
+        "rating": 863,
+        "prize": "",
+        "weighted_points": 110.0
+      },
+      {
+        "pdga": 309292,
+        "name": "Jiraporn Eff Autthiya",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 4.5,
+        "rating": null,
+        "prize": "",
+        "weighted_points": 70.0
+      }
+    ]
+  },
+  "97272": {
+    "event_id": "97272",
+    "title": "Lipad Pilipinas IV - PDGA Asia Tour #5 presented by Province of Tarlac",
+    "location": "San Jose, Tarlac, Philippines",
+    "dates": "27-Feb to 01-Mar-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "asia_tour",
+    "is_asia_tour": true,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 117,
+    "results": [
+      {
+        "pdga": 55052,
+        "name": "Joey Bruno",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 35.0,
+        "rating": 965,
+        "prize": "$140",
+        "weighted_points": 200.0
+      },
+      {
+        "pdga": 203384,
+        "name": "Jackson Proctor",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 30.0,
+        "rating": 971,
+        "prize": "$90",
+        "weighted_points": 150.0
+      },
+      {
+        "pdga": 239015,
+        "name": "Christian Fernando",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 25.0,
+        "rating": 957,
+        "prize": "",
+        "weighted_points": 110.0
+      },
+      {
+        "pdga": 268881,
+        "name": "Raden Bagaloyos",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 20.0,
+        "rating": 924,
+        "prize": "",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 295332,
+        "name": "Van Joseph Brudo",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 15.0,
+        "rating": 894,
+        "prize": "",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 252830,
+        "name": "Sammuel Sulit",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 10.0,
+        "rating": 849,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 84274,
+        "name": "Tsz Ho Ming",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 0.0,
+        "rating": 988,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 133080,
+        "name": "Su Mei Yang",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 9.0,
+        "rating": 893,
+        "prize": "$110",
+        "weighted_points": 200.0
+      },
+      {
+        "pdga": 239051,
+        "name": "Maryviel Dublin",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 6.0,
+        "rating": 862,
+        "prize": "",
+        "weighted_points": 150.0
+      },
+      {
+        "pdga": 245499,
+        "name": "Karyle Pante",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 3.0,
+        "rating": 781,
+        "prize": "",
+        "weighted_points": 110.0
+      }
+    ]
+  },
+  "97704": {
+    "event_id": "97704",
+    "title": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+    "location": "Kunigami-gun, Okinawa, Japan",
+    "dates": "06-Mar to 08-Mar-2026",
+    "year": "2026",
+    "tier": "B",
+    "level": "b_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 75,
+    "results": [
+      {
+        "pdga": 128836,
+        "name": "Jacky Chen",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 135.0,
+        "rating": 1009,
+        "prize": "$314",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 8139,
+        "name": "Manabu Kajiyama",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 127.5,
+        "rating": 1026,
+        "prize": "$157",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 55052,
+        "name": "Joey Bruno",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 120.0,
+        "rating": 965,
+        "prize": "$94",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 166436,
+        "name": "Shinichi Yoshitsuru",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 112.5,
+        "rating": 965,
+        "prize": "$63",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 239872,
+        "name": "Kaede Matayoshi",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 105.0,
+        "rating": 979,
+        "prize": "$31",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 147116,
+        "name": "Kyle Carlson",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 97.5,
+        "rating": 958,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 132871,
+        "name": "Richard Creelman",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 90.0,
+        "rating": 963,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 102802,
+        "name": "Kouichi Fukuta",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 82.5,
+        "rating": 988,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 264509,
+        "name": "Kento Nishimura",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 82.5,
+        "rating": 966,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 95059,
+        "name": "Japi Pistokoski",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 67.5,
+        "rating": 966,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 317401,
+        "name": "Damon Dane",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 60.0,
+        "rating": null,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 315070,
+        "name": "William Douthitt",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 60.0,
+        "rating": 917,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 156088,
+        "name": "Takeshi Shimakage",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 45.0,
+        "rating": 960,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 310063,
+        "name": "Cody Gardner",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 37.5,
+        "rating": 808,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 273776,
+        "name": "Cole Headley",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 22.5,
+        "rating": 912,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 115973,
+        "name": "Yousuke Nakahodo",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 22.5,
+        "rating": 933,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 243755,
+        "name": "Duncan Teal",
+        "division": "MPO",
+        "place": 18,
+        "pdga_points": 7.5,
+        "rating": 857,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 133080,
+        "name": "Su Mei Yang",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 31.5,
+        "rating": 893,
+        "prize": "$188",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 43610,
+        "name": "Chia-Fang Chen",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 27.0,
+        "rating": 931,
+        "prize": "$94",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 102761,
+        "name": "Mari Watanobe",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 22.5,
+        "rating": 911,
+        "prize": "",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 275301,
+        "name": "Hui-Fen Liu",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 18.0,
+        "rating": 887,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 257013,
+        "name": "Nakahodo Fumi",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 13.5,
+        "rating": 776,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 3603,
+        "name": "Reiko Kinomiya",
+        "division": "FPO",
+        "place": 6,
+        "pdga_points": 9.0,
+        "rating": 851,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 252034,
+        "name": "Virginina Liao",
+        "division": "FPO",
+        "place": 7,
+        "pdga_points": 4.5,
+        "rating": 792,
+        "prize": "",
+        "weighted_points": 10.0
+      }
+    ]
+  },
+  "97588": {
+    "event_id": "97588",
+    "title": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
+    "location": "Shanghai, Shanghai Shi, China",
+    "dates": "13-Mar to 15-Mar-2026",
+    "year": "2026",
+    "tier": "B",
+    "level": "asia_tour",
+    "is_asia_tour": true,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 153,
+    "results": [
+      {
+        "pdga": 128836,
+        "name": "Jacky Chen",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 195.0,
+        "rating": 1009,
+        "prize": "$499",
+        "weighted_points": 200.0
+      },
+      {
+        "pdga": 55052,
+        "name": "Joey Bruno",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 187.5,
+        "rating": 965,
+        "prize": "$349",
+        "weighted_points": 150.0
+      },
+      {
+        "pdga": 294815,
+        "name": "GoWan \u200b",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 180.0,
+        "rating": 939,
+        "prize": "$250",
+        "weighted_points": 110.0
+      },
+      {
+        "pdga": 113958,
+        "name": "Songqing Guo",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 172.5,
+        "rating": 982,
+        "prize": "$171",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 280544,
+        "name": "Terry Tang",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 172.5,
+        "rating": 970,
+        "prize": "",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 291619,
+        "name": "Juha Suomalainen",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 157.5,
+        "rating": 948,
+        "prize": "$125",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 84274,
+        "name": "Tsz Ho Ming",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 150.0,
+        "rating": 988,
+        "prize": "$100",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 296491,
+        "name": "\u632f\u534e \u9646",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 142.5,
+        "rating": 934,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 249786,
+        "name": "Jiayuan Guo",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 135.0,
+        "rating": 922,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 149000,
+        "name": "Liqiang Jia",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 135.0,
+        "rating": 947,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 101832,
+        "name": "Jianchao Long",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 120.0,
+        "rating": 919,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 144129,
+        "name": "Chia Pin Lee",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 120.0,
+        "rating": 932,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 153113,
+        "name": "Kaibo Yang",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 105.0,
+        "rating": 933,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 293944,
+        "name": "\u7ee7\u9f99 \u5218",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 97.5,
+        "rating": 910,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 287593,
+        "name": "Jian Liu",
+        "division": "MPO",
+        "place": 15,
+        "pdga_points": 90.0,
+        "rating": 922,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 113527,
+        "name": "Chan Chun Yin",
+        "division": "MPO",
+        "place": 15,
+        "pdga_points": 90.0,
+        "rating": 907,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 276833,
+        "name": "Xuan Li",
+        "division": "MPO",
+        "place": 17,
+        "pdga_points": 75.0,
+        "rating": 868,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 315373,
+        "name": "Leon Yang",
+        "division": "MPO",
+        "place": 18,
+        "pdga_points": 67.5,
+        "rating": 909,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 286701,
+        "name": "Yun Peng",
+        "division": "MPO",
+        "place": 19,
+        "pdga_points": 60.0,
+        "rating": 865,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 8723,
+        "name": "Michael Hu",
+        "division": "MPO",
+        "place": 19,
+        "pdga_points": 60.0,
+        "rating": 900,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 208787,
+        "name": "Tyler Miller",
+        "division": "MPO",
+        "place": 21,
+        "pdga_points": 45.0,
+        "rating": 885,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 249777,
+        "name": "Teng Yu",
+        "division": "MPO",
+        "place": 22,
+        "pdga_points": 37.5,
+        "rating": 869,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 277801,
+        "name": "Joseph Chen Hao Wong",
+        "division": "MPO",
+        "place": 22,
+        "pdga_points": 37.5,
+        "rating": 940,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 149296,
+        "name": "Nicky Woo",
+        "division": "MPO",
+        "place": 24,
+        "pdga_points": 22.5,
+        "rating": 899,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 315701,
+        "name": "Dong Wang",
+        "division": "MPO",
+        "place": 25,
+        "pdga_points": 15.0,
+        "rating": 859,
+        "prize": "",
+        "weighted_points": 16.0
+      },
+      {
+        "pdga": 299000,
+        "name": "Chengming Su",
+        "division": "MPO",
+        "place": 26,
+        "pdga_points": 7.5,
+        "rating": 866,
+        "prize": "",
+        "weighted_points": 6.0
+      },
+      {
+        "pdga": 133080,
+        "name": "Su Mei Yang",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 45.0,
+        "rating": 886,
+        "prize": "$304",
+        "weighted_points": 200.0
+      },
+      {
+        "pdga": 43610,
+        "name": "Chia-Fang Chen",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 40.5,
+        "rating": 931,
+        "prize": "$192",
+        "weighted_points": 150.0
+      },
+      {
+        "pdga": 261275,
+        "name": "Liao Xiaoqiong",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 36.0,
+        "rating": 872,
+        "prize": "$144",
+        "weighted_points": 110.0
+      },
+      {
+        "pdga": 275301,
+        "name": "Hui-Fen Liu",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 31.5,
+        "rating": 887,
+        "prize": "",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 227437,
+        "name": "Tingting Hu",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 27.0,
+        "rating": 810,
+        "prize": "",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 304961,
+        "name": "Zihui Zhou",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 27.0,
+        "rating": 807,
+        "prize": "",
+        "weighted_points": 70.0
+      },
+      {
+        "pdga": 228239,
+        "name": "Yanwen Ma",
+        "division": "FPO",
+        "place": 7,
+        "pdga_points": 18.0,
+        "rating": 862,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 297118,
+        "name": "DING QIAN",
+        "division": "FPO",
+        "place": 8,
+        "pdga_points": 13.5,
+        "rating": 788,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 322670,
+        "name": "YUE YING LIN",
+        "division": "FPO",
+        "place": 9,
+        "pdga_points": 9.0,
+        "rating": null,
+        "prize": "",
+        "weighted_points": 40.0
+      },
+      {
+        "pdga": 283449,
+        "name": "Ye Tao",
+        "division": "FPO",
+        "place": 10,
+        "pdga_points": 4.5,
+        "rating": 709,
+        "prize": "",
+        "weighted_points": 40.0
+      }
+    ]
+  },
+  "87628": {
+    "event_id": "87628",
+    "title": "The13th Okinawa Open",
+    "location": "Kunigami-gun, Okinawa, Japan",
+    "dates": "22-Feb to 23-Feb-2025",
+    "year": "2025",
+    "tier": "B",
+    "level": "b_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 71,
+    "results": [
+      {
+        "pdga": 102802,
+        "name": "Kouichi Fukuta",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 157.5,
+        "rating": 987,
+        "prize": "$268",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 84274,
+        "name": "Tsz Ho Ming",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 150.0,
+        "rating": 986,
+        "prize": "$121",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 8139,
+        "name": "Manabu Kajiyama",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 142.5,
+        "rating": 1014,
+        "prize": "$47",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 135.0,
+        "rating": 999,
+        "prize": "$27",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 161040,
+        "name": "Kenta Aranami",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 127.5,
+        "rating": 985,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 65847,
+        "name": "Sou Miura",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 120.0,
+        "rating": 985,
+        "prize": "$20",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 239872,
+        "name": "Kaede Matayoshi",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 112.5,
+        "rating": 974,
+        "prize": "$13",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 242988,
+        "name": "Alexander Mynars",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 105.0,
+        "rating": 967,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 56592,
+        "name": "Hyundo Jang",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 97.5,
+        "rating": 953,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 147116,
+        "name": "Kyle Carlson",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 97.5,
+        "rating": 956,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 207435,
+        "name": "Takara Koganezawa",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 82.5,
+        "rating": 964,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 272969,
+        "name": "Ryuji Matsuda",
+        "division": "MPO",
+        "place": 12,
+        "pdga_points": 75.0,
+        "rating": 934,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 115973,
+        "name": "Yousuke Nakahodo",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 67.5,
+        "rating": 916,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 148161,
+        "name": "Jacob Canfield",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 60.0,
+        "rating": 890,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 161451,
+        "name": "Bobby Bender",
+        "division": "MPO",
+        "place": 15,
+        "pdga_points": 52.5,
+        "rating": 891,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 104893,
+        "name": "Hyonkuk Seo",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 45.0,
+        "rating": 903,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 172653,
+        "name": "Hiroto Inada",
+        "division": "MPO",
+        "place": 17,
+        "pdga_points": 37.5,
+        "rating": 981,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 243755,
+        "name": "Duncan Teal",
+        "division": "MPO",
+        "place": 18,
+        "pdga_points": 30.0,
+        "rating": 827,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 246588,
+        "name": "Yu Chen Lu",
+        "division": "MPO",
+        "place": 19,
+        "pdga_points": 22.5,
+        "rating": 865,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 215878,
+        "name": "Gunhui Kim",
+        "division": "MPO",
+        "place": 20,
+        "pdga_points": 15.0,
+        "rating": 909,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 128836,
+        "name": "Jacky Chen",
+        "division": "MPO",
+        "place": 21,
+        "pdga_points": 0.0,
+        "rating": 1027,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 43610,
+        "name": "Chia-Fang Chen",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 27.0,
+        "rating": 908,
+        "prize": "$94",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 223296,
+        "name": "Tomoka Aranami",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 22.5,
+        "rating": 901,
+        "prize": "",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 237772,
+        "name": "Lil\u2019 Jumping",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 18.0,
+        "rating": 850,
+        "prize": "$40",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 3603,
+        "name": "Reiko Kinomiya",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 13.5,
+        "rating": 852,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 274750,
+        "name": "Akiha Koganezawa",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 9.0,
+        "rating": 820,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 56593,
+        "name": "Jiwon Kim",
+        "division": "FPO",
+        "place": 6,
+        "pdga_points": 4.5,
+        "rating": 783,
+        "prize": "",
+        "weighted_points": 10.0
+      }
+    ]
+  },
+  "88891": {
+    "event_id": "88891",
+    "title": "The 24th Chubu Open Presented by INFINITE DISCS",
+    "location": "Nakatsugawa-shi, Gifu, Japan",
+    "dates": "15-Mar to 16-Mar-2025",
+    "year": "2025",
+    "tier": "B",
+    "level": "b_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 48,
+    "results": [
+      {
+        "pdga": 80387,
+        "name": "Yutaro Sakai",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 105.0,
+        "rating": 1008,
+        "prize": "$153",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 194840,
+        "name": "Charles Hemstock",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 97.5,
+        "rating": 956,
+        "prize": "$113",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 84274,
+        "name": "Tsz Ho Ming",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 90.0,
+        "rating": 989,
+        "prize": "$53",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 80981,
+        "name": "Chadwick Miller",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 82.5,
+        "rating": 986,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 8034,
+        "name": "Yusaku Yoshino",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 75.0,
+        "rating": 994,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 65847,
+        "name": "Sou Miura",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 75.0,
+        "rating": 980,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 75.0,
+        "rating": 1004,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 8060,
+        "name": "Yasushi Jitsuhiro",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 52.5,
+        "rating": 983,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 102802,
+        "name": "Kouichi Fukuta",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 52.5,
+        "rating": 996,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 156088,
+        "name": "Takeshi Shimakage",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 37.5,
+        "rating": 964,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 179519,
+        "name": "Mikiya Matsuhisa",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 30.0,
+        "rating": 975,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 113402,
+        "name": "Kansuke Sakai",
+        "division": "MPO",
+        "place": 12,
+        "pdga_points": 22.5,
+        "rating": 945,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 275351,
+        "name": "Mizuki Takeuchi",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 7.5,
+        "rating": 939,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 8140,
+        "name": "Rika Takaki",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 27.0,
+        "rating": 939,
+        "prize": "$100",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 223296,
+        "name": "Tomoka Aranami",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 22.5,
+        "rating": 900,
+        "prize": "",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 102761,
+        "name": "Mari Watanobe",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 18.0,
+        "rating": 910,
+        "prize": "$47",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 65846,
+        "name": "Yuka Nakagawara",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 13.5,
+        "rating": 918,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 276385,
+        "name": "Tomoko Kitahara",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 9.0,
+        "rating": 861,
+        "prize": "",
+        "weighted_points": 17.5
+      }
+    ]
+  },
+  "89761": {
+    "event_id": "89761",
+    "title": "The 22nd Saga Yoshinogari Open",
+    "location": "Kanzaki-gun, Saga, Japan",
+    "dates": "12-Apr to 13-Apr-2025",
+    "year": "2025",
+    "tier": "B",
+    "level": "b_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 71,
+    "results": [
+      {
+        "pdga": 8139,
+        "name": "Manabu Kajiyama",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 97.5,
+        "rating": 1015,
+        "prize": "$91",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 84274,
+        "name": "Tsz Ho Ming",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 90.0,
+        "rating": 990,
+        "prize": "$35",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 194840,
+        "name": "Charles Hemstock",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 82.5,
+        "rating": 965,
+        "prize": "$21",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 75.0,
+        "rating": 999,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 8153,
+        "name": "Masatoshi Ishihara",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 67.5,
+        "rating": 994,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 65847,
+        "name": "Sou Miura",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 60.0,
+        "rating": 980,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 6669,
+        "name": "Tooru Hamasaki",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 52.5,
+        "rating": 980,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 56592,
+        "name": "Hyundo Jang",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 45.0,
+        "rating": 948,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 59529,
+        "name": "Daisuke Kuroda",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 37.5,
+        "rating": 952,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 264509,
+        "name": "Kento Nishimura",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 37.5,
+        "rating": 944,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 8141,
+        "name": "Yoshiyasu Kajiyama",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 22.5,
+        "rating": 968,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 3614,
+        "name": "Hiroshi Yokota",
+        "division": "MPO",
+        "place": 12,
+        "pdga_points": 15.0,
+        "rating": 933,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 240017,
+        "name": "Tatsuya Haseba",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 7.5,
+        "rating": 942,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 8140,
+        "name": "Rika Takaki",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 22.5,
+        "rating": 939,
+        "prize": "$49",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 102761,
+        "name": "Mari Watanobe",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 18.0,
+        "rating": 911,
+        "prize": "",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 65846,
+        "name": "Yuka Nakagawara",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 13.5,
+        "rating": 916,
+        "prize": "",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 276385,
+        "name": "Tomoko Kitahara",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 9.0,
+        "rating": 866,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 56593,
+        "name": "Jiwon Kim",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 4.5,
+        "rating": 775,
+        "prize": "",
+        "weighted_points": 17.5
+      }
+    ]
+  },
+  "90538": {
+    "event_id": "90538",
+    "title": "The 32nd Tokyo Open",
+    "location": "Koto-ku, Tokyo, Japan",
+    "dates": "19-Apr to 20-Apr-2025",
+    "year": "2025",
+    "tier": "B",
+    "level": "b_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 80,
+    "results": [
+      {
+        "pdga": 8153,
+        "name": "Masatoshi Ishihara",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 105.0,
+        "rating": 994,
+        "prize": "$281",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 80387,
+        "name": "Yutaro Sakai",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 97.5,
+        "rating": 1014,
+        "prize": "$140",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 8207,
+        "name": "Dai Takakura",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 90.0,
+        "rating": 989,
+        "prize": "$105",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 226315,
+        "name": "Asahi Jitsuhiro",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 90.0,
+        "rating": 975,
+        "prize": "$56",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 75.0,
+        "rating": 999,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 8139,
+        "name": "Manabu Kajiyama",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 75.0,
+        "rating": 1015,
+        "prize": "$28",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 150995,
+        "name": "Kazumasa Fujiwara",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 60.0,
+        "rating": 956,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 8060,
+        "name": "Yasushi Jitsuhiro",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 52.5,
+        "rating": 981,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 172653,
+        "name": "Hiroto Inada",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 45.0,
+        "rating": 956,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 156088,
+        "name": "Takeshi Shimakage",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 37.5,
+        "rating": 965,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 80981,
+        "name": "Chadwick Miller",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 30.0,
+        "rating": 993,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 8177,
+        "name": "Kenta Nagaoka",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 30.0,
+        "rating": 975,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 65847,
+        "name": "Sou Miura",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 0.0,
+        "rating": 980,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 241405,
+        "name": "Kazuki Samata",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 22.5,
+        "rating": 922,
+        "prize": "$176",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 65543,
+        "name": "Shigeko Sekiguchi",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 18.0,
+        "rating": 879,
+        "prize": "$70",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 223296,
+        "name": "Tomoka Aranami",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 13.5,
+        "rating": 901,
+        "prize": "",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 3603,
+        "name": "Reiko Kinomiya",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 4.5,
+        "rating": 851,
+        "prize": "",
+        "weighted_points": 17.5
+      }
+    ]
+  },
+  "91149": {
+    "event_id": "91149",
+    "title": "The 9th Fukui Open",
+    "location": "Sakai-shi, Fukui, Japan",
+    "dates": "24-May to 25-May-2025",
+    "year": "2025",
+    "tier": "B",
+    "level": "b_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 53,
+    "results": [
+      {
+        "pdga": 8139,
+        "name": "Manabu Kajiyama",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 67.5,
+        "rating": 1020,
+        "prize": "$139",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 60.0,
+        "rating": 998,
+        "prize": "$104",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 80387,
+        "name": "Yutaro Sakai",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 52.5,
+        "rating": 1012,
+        "prize": "$70",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 8207,
+        "name": "Dai Takakura",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 45.0,
+        "rating": 987,
+        "prize": "$35",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 102802,
+        "name": "Kouichi Fukuta",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 37.5,
+        "rating": 993,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 113402,
+        "name": "Kansuke Sakai",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 30.0,
+        "rating": 936,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 275351,
+        "name": "Mizuki Takeuchi",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 22.5,
+        "rating": 938,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 65847,
+        "name": "Sou Miura",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 7.5,
+        "rating": 980,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 8140,
+        "name": "Rika Takaki",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 22.5,
+        "rating": 943,
+        "prize": "$104",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 7438,
+        "name": "Juliana Korver",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 18.0,
+        "rating": 938,
+        "prize": "$70",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 241405,
+        "name": "Kazuki Samata",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 13.5,
+        "rating": 924,
+        "prize": "",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 65846,
+        "name": "Yuka Nakagawara",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 9.0,
+        "rating": 911,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 3603,
+        "name": "Reiko Kinomiya",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 4.5,
+        "rating": 853,
+        "prize": "",
+        "weighted_points": 17.5
+      }
+    ]
+  },
+  "93189": {
+    "event_id": "93189",
+    "title": "The 14th Hokkaido Open",
+    "location": "Futami-gun, Hokkaido, Japan",
+    "dates": "28-Jun to 29-Jun-2025",
+    "year": "2025",
+    "tier": "B",
+    "level": "b_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 47,
+    "results": [
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 127.5,
+        "rating": 1001,
+        "prize": "$204",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 65847,
+        "name": "Sou Miura",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 120.0,
+        "rating": 977,
+        "prize": "$122",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 239872,
+        "name": "Kaede Matayoshi",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 112.5,
+        "rating": 969,
+        "prize": "$61",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 8153,
+        "name": "Masatoshi Ishihara",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 112.5,
+        "rating": 993,
+        "prize": "$61",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 102802,
+        "name": "Kouichi Fukuta",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 97.5,
+        "rating": 994,
+        "prize": "$41",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 80057,
+        "name": "Ben Wiel-Lake",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 90.0,
+        "rating": 955,
+        "prize": "$27",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 150995,
+        "name": "Kazumasa Fujiwara",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 82.5,
+        "rating": 964,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 115973,
+        "name": "Yousuke Nakahodo",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 75.0,
+        "rating": 927,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 59529,
+        "name": "Daisuke Kuroda",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 67.5,
+        "rating": 950,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 8194,
+        "name": "Kenjiro Yokota",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 60.0,
+        "rating": 960,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 8071,
+        "name": "Jun Mochizuki",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 30.0,
+        "rating": 910,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 195586,
+        "name": "Duncan Hughes",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 15.0,
+        "rating": 876,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 288405,
+        "name": "Yuta Miura",
+        "division": "MPO",
+        "place": 17,
+        "pdga_points": 7.5,
+        "rating": 876,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 3603,
+        "name": "Reiko Kinomiya",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 4.5,
+        "rating": 848,
+        "prize": "$34",
+        "weighted_points": 50.0
+      }
+    ]
+  },
+  "92377": {
+    "event_id": "92377",
+    "title": "The 27th Nippon Open Presented by DISCRAFT",
+    "location": "Yasu-shi, Shiga, Japan",
+    "dates": "05-Jul to 06-Jul-2025",
+    "year": "2025",
+    "tier": "B",
+    "level": "b_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 56,
+    "results": [
+      {
+        "pdga": 128836,
+        "name": "Jacky Chen",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 195.0,
+        "rating": 1007,
+        "prize": "$557",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 8139,
+        "name": "Manabu Kajiyama",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 187.5,
+        "rating": 1022,
+        "prize": "$278",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 180.0,
+        "rating": 1001,
+        "prize": "$174",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 80387,
+        "name": "Yutaro Sakai",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 172.5,
+        "rating": 1016,
+        "prize": "$104",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 84274,
+        "name": "Tsz Ho Ming",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 165.0,
+        "rating": 996,
+        "prize": "$84",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 102802,
+        "name": "Kouichi Fukuta",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 157.5,
+        "rating": 994,
+        "prize": "$70",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 161040,
+        "name": "Kenta Aranami",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 157.5,
+        "rating": 984,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 239872,
+        "name": "Kaede Matayoshi",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 142.5,
+        "rating": 969,
+        "prize": "$56",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 264509,
+        "name": "Kento Nishimura",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 135.0,
+        "rating": 950,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 65847,
+        "name": "Sou Miura",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 127.5,
+        "rating": 977,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 8207,
+        "name": "Dai Takakura",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 120.0,
+        "rating": 993,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 162871,
+        "name": "Tom Lee",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 120.0,
+        "rating": 944,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 8153,
+        "name": "Masatoshi Ishihara",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 105.0,
+        "rating": 993,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 166436,
+        "name": "Shinichi Yoshitsuru",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 105.0,
+        "rating": 970,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 156088,
+        "name": "Takeshi Shimakage",
+        "division": "MPO",
+        "place": 15,
+        "pdga_points": 90.0,
+        "rating": 961,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 275351,
+        "name": "Mizuki Takeuchi",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 82.5,
+        "rating": 943,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 113402,
+        "name": "Kansuke Sakai",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 82.5,
+        "rating": 940,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 94380,
+        "name": "Ted Gormley",
+        "division": "MPO",
+        "place": 19,
+        "pdga_points": 60.0,
+        "rating": 938,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 114759,
+        "name": "Alex Lopez",
+        "division": "MPO",
+        "place": 19,
+        "pdga_points": 60.0,
+        "rating": 922,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 40072,
+        "name": "Noriyuki Okaue",
+        "division": "MPO",
+        "place": 21,
+        "pdga_points": 45.0,
+        "rating": 929,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 193679,
+        "name": "Toshiki Shima",
+        "division": "MPO",
+        "place": 23,
+        "pdga_points": 30.0,
+        "rating": 937,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 161039,
+        "name": "Kohei Aranami",
+        "division": "MPO",
+        "place": 24,
+        "pdga_points": 22.5,
+        "rating": 922,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 148161,
+        "name": "Jacob Canfield",
+        "division": "MPO",
+        "place": 25,
+        "pdga_points": 15.0,
+        "rating": 914,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 102761,
+        "name": "Mari Watanobe",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 31.5,
+        "rating": 910,
+        "prize": "$209",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 223296,
+        "name": "Tomoka Aranami",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 27.0,
+        "rating": 909,
+        "prize": "",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 65846,
+        "name": "Yuka Nakagawara",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 22.5,
+        "rating": 907,
+        "prize": "$70",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 8140,
+        "name": "Rika Takaki",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 22.5,
+        "rating": 942,
+        "prize": "$70",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 276385,
+        "name": "Tomoko Kitahara",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 13.5,
+        "rating": 865,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 241405,
+        "name": "Kazuki Samata",
+        "division": "FPO",
+        "place": 6,
+        "pdga_points": 9.0,
+        "rating": 924,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 311646,
+        "name": "Rino Nishimura",
+        "division": "FPO",
+        "place": 7,
+        "pdga_points": 4.5,
+        "rating": null,
+        "prize": "",
+        "weighted_points": 10.0
+      }
+    ]
+  },
+  "94669": {
+    "event_id": "94669",
+    "title": "The 28th Kansai Open",
+    "location": "Nantan-shi, Kyoto, Japan",
+    "dates": "27-Sep to 28-Sep-2025",
+    "year": "2025",
+    "tier": "B",
+    "level": "b_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 48,
+    "results": [
+      {
+        "pdga": 8139,
+        "name": "Manabu Kajiyama",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 120.0,
+        "rating": 1027,
+        "prize": "$379",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 112.5,
+        "rating": 1005,
+        "prize": "$237",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 80387,
+        "name": "Yutaro Sakai",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 105.0,
+        "rating": 1008,
+        "prize": "$176",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 8207,
+        "name": "Dai Takakura",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 97.5,
+        "rating": 989,
+        "prize": "$135",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 102802,
+        "name": "Kouichi Fukuta",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 90.0,
+        "rating": 991,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 193680,
+        "name": "Hotaka Shima",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 82.5,
+        "rating": 976,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 113402,
+        "name": "Kansuke Sakai",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 82.5,
+        "rating": 947,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 8034,
+        "name": "Yusaku Yoshino",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 82.5,
+        "rating": 989,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 298615,
+        "name": "Tasuku Yamanaka",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 60.0,
+        "rating": 918,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 65847,
+        "name": "Sou Miura",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 60.0,
+        "rating": 983,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 156088,
+        "name": "Takeshi Shimakage",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 45.0,
+        "rating": 963,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 56592,
+        "name": "Hyundo Jang",
+        "division": "MPO",
+        "place": 12,
+        "pdga_points": 37.5,
+        "rating": 960,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 94380,
+        "name": "Ted Gormley",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 30.0,
+        "rating": 935,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 145017,
+        "name": "Kento Ikeda",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 22.5,
+        "rating": 956,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 179519,
+        "name": "Mikiya Matsuhisa",
+        "division": "MPO",
+        "place": 15,
+        "pdga_points": 15.0,
+        "rating": 975,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 241405,
+        "name": "Kazuki Samata",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 18.0,
+        "rating": 923,
+        "prize": "$216",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 102761,
+        "name": "Mari Watanobe",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 13.5,
+        "rating": 905,
+        "prize": "",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 56593,
+        "name": "Jiwon Kim",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 9.0,
+        "rating": 816,
+        "prize": "",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 237772,
+        "name": "Lil\u2019 Jumping",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 4.5,
+        "rating": 841,
+        "prize": "",
+        "weighted_points": 17.5
+      }
+    ]
+  },
+  "94274": {
+    "event_id": "94274",
+    "title": "The 37th National Championships",
+    "location": "Haramachi-ku, Fukushima, Japan",
+    "dates": "11-Oct to 13-Oct-2025",
+    "year": "2025",
+    "tier": "B",
+    "level": "b_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 85,
+    "results": [
+      {
+        "pdga": 80387,
+        "name": "Yutaro Sakai",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 120.0,
+        "rating": 1008,
+        "prize": "$533",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 127458,
+        "name": "Patrick Yu",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 112.5,
+        "rating": 996,
+        "prize": "$300",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 8139,
+        "name": "Manabu Kajiyama",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 105.0,
+        "rating": 1027,
+        "prize": "$133",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 8207,
+        "name": "Dai Takakura",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 105.0,
+        "rating": 989,
+        "prize": "$133",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 90.0,
+        "rating": 1005,
+        "prize": "$60",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 8153,
+        "name": "Masatoshi Ishihara",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 82.5,
+        "rating": 985,
+        "prize": "$47",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 102802,
+        "name": "Kouichi Fukuta",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 75.0,
+        "rating": 991,
+        "prize": "$33",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 239872,
+        "name": "Kaede Matayoshi",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 67.5,
+        "rating": 988,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 65847,
+        "name": "Sou Miura",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 60.0,
+        "rating": 983,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 113402,
+        "name": "Kansuke Sakai",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 52.5,
+        "rating": 947,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 241396,
+        "name": "Aoi Yoshida",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 45.0,
+        "rating": 990,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 150995,
+        "name": "Kazumasa Fujiwara",
+        "division": "MPO",
+        "place": 12,
+        "pdga_points": 37.5,
+        "rating": 965,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 156088,
+        "name": "Takeshi Shimakage",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 30.0,
+        "rating": 963,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 59529,
+        "name": "Daisuke Kuroda",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 22.5,
+        "rating": 943,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 161040,
+        "name": "Kenta Aranami",
+        "division": "MPO",
+        "place": 15,
+        "pdga_points": 15.0,
+        "rating": 979,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 133158,
+        "name": "Itaru Kambayashi",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 7.5,
+        "rating": 933,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 241405,
+        "name": "Kazuki Samata",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 27.0,
+        "rating": 923,
+        "prize": "$266",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 8140,
+        "name": "Rika Takaki",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 22.5,
+        "rating": 936,
+        "prize": "$133",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 223296,
+        "name": "Tomoka Aranami",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 18.0,
+        "rating": 916,
+        "prize": "",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 65846,
+        "name": "Yuka Nakagawara",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 13.5,
+        "rating": 905,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 241401,
+        "name": "Marina Saitou",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 9.0,
+        "rating": 875,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 276385,
+        "name": "Tomoko Kitahara",
+        "division": "FPO",
+        "place": 6,
+        "pdga_points": 4.5,
+        "rating": 875,
+        "prize": "",
+        "weighted_points": 10.0
+      }
+    ]
+  },
+  "96591": {
+    "event_id": "96591",
+    "title": "The 4th Maiko Classic",
+    "location": "Minamisouma-shi, Niigata, Japan",
+    "dates": "25-Oct to 26-Oct-2025",
+    "year": "2025",
+    "tier": "B",
+    "level": "b_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 42,
+    "results": [
+      {
+        "pdga": 80387,
+        "name": "Yutaro Sakai",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 120.0,
+        "rating": 1012,
+        "prize": "$261",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 65847,
+        "name": "Sou Miura",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 112.5,
+        "rating": 981,
+        "prize": "$163",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 113402,
+        "name": "Kansuke Sakai",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 105.0,
+        "rating": 950,
+        "prize": "$98",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 102802,
+        "name": "Kouichi Fukuta",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 97.5,
+        "rating": 991,
+        "prize": "$59",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 97.5,
+        "rating": 1010,
+        "prize": "$59",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 8153,
+        "name": "Masatoshi Ishihara",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 82.5,
+        "rating": 985,
+        "prize": "$36",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 8207,
+        "name": "Dai Takakura",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 82.5,
+        "rating": 998,
+        "prize": "$36",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 241396,
+        "name": "Aoi Yoshida",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 67.5,
+        "rating": 990,
+        "prize": "$26",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 179519,
+        "name": "Mikiya Matsuhisa",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 60.0,
+        "rating": 958,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 239872,
+        "name": "Kaede Matayoshi",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 52.5,
+        "rating": 978,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 156088,
+        "name": "Takeshi Shimakage",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 45.0,
+        "rating": 962,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 59529,
+        "name": "Daisuke Kuroda",
+        "division": "MPO",
+        "place": 12,
+        "pdga_points": 37.5,
+        "rating": 943,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 150995,
+        "name": "Kazumasa Fujiwara",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 30.0,
+        "rating": 964,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 275351,
+        "name": "Mizuki Takeuchi",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 22.5,
+        "rating": 941,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 133158,
+        "name": "Itaru Kambayashi",
+        "division": "MPO",
+        "place": 15,
+        "pdga_points": 15.0,
+        "rating": 934,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 223296,
+        "name": "Tomoka Aranami",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 18.0,
+        "rating": 916,
+        "prize": "",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 102761,
+        "name": "Mari Watanobe",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 13.5,
+        "rating": 902,
+        "prize": "$52",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 3603,
+        "name": "Reiko Kinomiya",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 4.5,
+        "rating": 853,
+        "prize": "",
+        "weighted_points": 17.5
+      }
+    ]
+  },
+  "93358": {
+    "event_id": "93358",
+    "title": "The 4th Disc Golf Japan Series",
+    "location": "Utsunomiya-shi, Tochigi, Japan",
+    "dates": "22-Nov to 24-Nov-2025",
+    "year": "2025",
+    "tier": "B",
+    "level": "b_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 47,
+    "results": [
+      {
+        "pdga": 8139,
+        "name": "Manabu Kajiyama",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 172.5,
+        "rating": 1030,
+        "prize": "$521",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 165.0,
+        "rating": 1004,
+        "prize": "$260",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 65847,
+        "name": "Sou Miura",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 157.5,
+        "rating": 982,
+        "prize": "$195",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 153394,
+        "name": "Masafumi Ono",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 150.0,
+        "rating": 955,
+        "prize": "$130",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 8153,
+        "name": "Masatoshi Ishihara",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 142.5,
+        "rating": 989,
+        "prize": "$52",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 80981,
+        "name": "Chadwick Miller",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 142.5,
+        "rating": 988,
+        "prize": "$52",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 239872,
+        "name": "Kaede Matayoshi",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 142.5,
+        "rating": 976,
+        "prize": "$52",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 102802,
+        "name": "Kouichi Fukuta",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 120.0,
+        "rating": 994,
+        "prize": "$26",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 242595,
+        "name": "Kei Suhara",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 112.5,
+        "rating": 930,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 214758,
+        "name": "Taiyo Yamaguchi",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 105.0,
+        "rating": 954,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 184537,
+        "name": "Tomohiro Yokoyama",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 97.5,
+        "rating": 910,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 193679,
+        "name": "Toshiki Shima",
+        "division": "MPO",
+        "place": 12,
+        "pdga_points": 90.0,
+        "rating": 934,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 59530,
+        "name": "Shuhei Kurobuchi",
+        "division": "MPO",
+        "place": 13,
+        "pdga_points": 82.5,
+        "rating": 937,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 133158,
+        "name": "Itaru Kambayashi",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 75.0,
+        "rating": 930,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 214406,
+        "name": "Tsubasa Kayahara",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 75.0,
+        "rating": 943,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 304170,
+        "name": "Ryoichi Ogushi",
+        "division": "MPO",
+        "place": 16,
+        "pdga_points": 60.0,
+        "rating": 936,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 56592,
+        "name": "Hyundo Jang",
+        "division": "MPO",
+        "place": 17,
+        "pdga_points": 52.5,
+        "rating": 951,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 240382,
+        "name": "Kazunori Akaishi",
+        "division": "MPO",
+        "place": 18,
+        "pdga_points": 45.0,
+        "rating": 936,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 104893,
+        "name": "Hyonkuk Seo",
+        "division": "MPO",
+        "place": 19,
+        "pdga_points": 37.5,
+        "rating": 906,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 272969,
+        "name": "Ryuji Matsuda",
+        "division": "MPO",
+        "place": 20,
+        "pdga_points": 30.0,
+        "rating": 917,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 155088,
+        "name": "Hiroaki Kitahara",
+        "division": "MPO",
+        "place": 21,
+        "pdga_points": 22.5,
+        "rating": 922,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 318186,
+        "name": "Takeshi Sugiyama",
+        "division": "MPO",
+        "place": 22,
+        "pdga_points": 15.0,
+        "rating": null,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 161039,
+        "name": "Kohei Aranami",
+        "division": "MPO",
+        "place": 23,
+        "pdga_points": 7.5,
+        "rating": 920,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 223296,
+        "name": "Tomoka Aranami",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 31.5,
+        "rating": 917,
+        "prize": "",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 102761,
+        "name": "Mari Watanobe",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 27.0,
+        "rating": 902,
+        "prize": "$260",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 155089,
+        "name": "Mihoko Kitahara",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 18.0,
+        "rating": 853,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 56593,
+        "name": "Jiwon Kim",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 13.5,
+        "rating": 818,
+        "prize": "$130",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 3603,
+        "name": "Reiko Kinomiya",
+        "division": "FPO",
+        "place": 6,
+        "pdga_points": 9.0,
+        "rating": 849,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 241401,
+        "name": "Marina Saitou",
+        "division": "FPO",
+        "place": 7,
+        "pdga_points": 4.5,
+        "rating": 888,
+        "prize": "",
+        "weighted_points": 10.0
+      }
+    ]
+  },
+  "96928": {
+    "event_id": "96928",
+    "title": "The 39th Kyushu Open",
+    "location": "Fukuoka-shi, Fukuoka, Japan",
+    "dates": "29-Nov to 30-Nov-2025",
+    "year": "2025",
+    "tier": "B",
+    "level": "b_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 88,
+    "results": [
+      {
+        "pdga": 8139,
+        "name": "Manabu Kajiyama",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 262.5,
+        "rating": 1030,
+        "prize": "$640",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 255.0,
+        "rating": 1004,
+        "prize": "$320",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 84274,
+        "name": "Tsz Ho Ming",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 247.5,
+        "rating": 1000,
+        "prize": "$154",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 150995,
+        "name": "Kazumasa Fujiwara",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 240.0,
+        "rating": 965,
+        "prize": "$77",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 65847,
+        "name": "Sou Miura",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 232.5,
+        "rating": 982,
+        "prize": "$51",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 8177,
+        "name": "Kenta Nagaoka",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 232.5,
+        "rating": 982,
+        "prize": "$51",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 264509,
+        "name": "Kento Nishimura",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 232.5,
+        "rating": 964,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 6669,
+        "name": "Tooru Hamasaki",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 210.0,
+        "rating": 978,
+        "prize": "$38",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 240017,
+        "name": "Tatsuya Haseba",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 202.5,
+        "rating": 934,
+        "prize": "$19",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 55625,
+        "name": "Sy Spencer",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 202.5,
+        "rating": 929,
+        "prize": "$19",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 263885,
+        "name": "Wesley de Ridder",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 187.5,
+        "rating": 932,
+        "prize": "$19",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 80074,
+        "name": "Keith Hutson",
+        "division": "MPO",
+        "place": 12,
+        "pdga_points": 180.0,
+        "rating": 943,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 315070,
+        "name": "William Douthitt",
+        "division": "MPO",
+        "place": 12,
+        "pdga_points": 180.0,
+        "rating": 874,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 147116,
+        "name": "Kyle Carlson",
+        "division": "MPO",
+        "place": 14,
+        "pdga_points": 165.0,
+        "rating": 957,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 225773,
+        "name": "Shohei Kitahara",
+        "division": "MPO",
+        "place": 15,
+        "pdga_points": 157.5,
+        "rating": 903,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 293944,
+        "name": "\u7ee7\u9f99 \u5218",
+        "division": "MPO",
+        "place": 17,
+        "pdga_points": 142.5,
+        "rating": 912,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 273776,
+        "name": "Cole Headley",
+        "division": "MPO",
+        "place": 17,
+        "pdga_points": 142.5,
+        "rating": 875,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 317123,
+        "name": "Joshua Owings",
+        "division": "MPO",
+        "place": 19,
+        "pdga_points": 127.5,
+        "rating": null,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 155088,
+        "name": "Hiroaki Kitahara",
+        "division": "MPO",
+        "place": 19,
+        "pdga_points": 127.5,
+        "rating": 922,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 195586,
+        "name": "Duncan Hughes",
+        "division": "MPO",
+        "place": 22,
+        "pdga_points": 105.0,
+        "rating": 873,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 113527,
+        "name": "Chan Chun Yin",
+        "division": "MPO",
+        "place": 22,
+        "pdga_points": 105.0,
+        "rating": 914,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 214077,
+        "name": "Takenori Hayama",
+        "division": "MPO",
+        "place": 24,
+        "pdga_points": 90.0,
+        "rating": 911,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 233928,
+        "name": "Keifer Wilson",
+        "division": "MPO",
+        "place": 25,
+        "pdga_points": 82.5,
+        "rating": 913,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 184537,
+        "name": "Tomohiro Yokoyama",
+        "division": "MPO",
+        "place": 26,
+        "pdga_points": 75.0,
+        "rating": 910,
+        "prize": "",
+        "weighted_points": 1.5
+      },
+      {
+        "pdga": 3614,
+        "name": "Hiroshi Yokota",
+        "division": "MPO",
+        "place": 27,
+        "pdga_points": 67.5,
+        "rating": 926,
+        "prize": "",
+        "weighted_points": 1.5
+      },
+      {
+        "pdga": 148161,
+        "name": "Jacob Canfield",
+        "division": "MPO",
+        "place": 28,
+        "pdga_points": 60.0,
+        "rating": 891,
+        "prize": "",
+        "weighted_points": 1.5
+      },
+      {
+        "pdga": 246588,
+        "name": "Yu Chen Lu",
+        "division": "MPO",
+        "place": 30,
+        "pdga_points": 45.0,
+        "rating": 882,
+        "prize": "",
+        "weighted_points": 1.5
+      },
+      {
+        "pdga": 149296,
+        "name": "Nicky Woo",
+        "division": "MPO",
+        "place": 31,
+        "pdga_points": 37.5,
+        "rating": 893,
+        "prize": "",
+        "weighted_points": 1.5
+      },
+      {
+        "pdga": 275295,
+        "name": "Chak Wah Chan",
+        "division": "MPO",
+        "place": 32,
+        "pdga_points": 30.0,
+        "rating": 887,
+        "prize": "",
+        "weighted_points": 1.5
+      },
+      {
+        "pdga": 273765,
+        "name": "Yinyu Wang",
+        "division": "MPO",
+        "place": 33,
+        "pdga_points": 22.5,
+        "rating": 776,
+        "prize": "",
+        "weighted_points": 1.5
+      },
+      {
+        "pdga": 316110,
+        "name": "Mizuho Motonaga",
+        "division": "MPO",
+        "place": 34,
+        "pdga_points": 15.0,
+        "rating": null,
+        "prize": "",
+        "weighted_points": 1.5
+      },
+      {
+        "pdga": 102761,
+        "name": "Mari Watanobe",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 54.0,
+        "rating": 902,
+        "prize": "$230",
+        "weighted_points": 50.0
+      },
+      {
+        "pdga": 8140,
+        "name": "Rika Takaki",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 49.5,
+        "rating": 927,
+        "prize": "$115",
+        "weighted_points": 37.5
+      },
+      {
+        "pdga": 65846,
+        "name": "Yuka Nakagawara",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 45.0,
+        "rating": 908,
+        "prize": "$77",
+        "weighted_points": 27.5
+      },
+      {
+        "pdga": 8209,
+        "name": "Mayu Iwasaki",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 40.5,
+        "rating": 944,
+        "prize": "$38",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 237772,
+        "name": "Lil\u2019 Jumping",
+        "division": "FPO",
+        "place": 5,
+        "pdga_points": 36.0,
+        "rating": 841,
+        "prize": "",
+        "weighted_points": 17.5
+      },
+      {
+        "pdga": 311646,
+        "name": "Rino Nishimura",
+        "division": "FPO",
+        "place": 6,
+        "pdga_points": 31.5,
+        "rating": 870,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 276385,
+        "name": "Tomoko Kitahara",
+        "division": "FPO",
+        "place": 7,
+        "pdga_points": 27.0,
+        "rating": 876,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 155089,
+        "name": "Mihoko Kitahara",
+        "division": "FPO",
+        "place": 8,
+        "pdga_points": 22.5,
+        "rating": 853,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 227437,
+        "name": "Tingting Hu",
+        "division": "FPO",
+        "place": 10,
+        "pdga_points": 13.5,
+        "rating": 805,
+        "prize": "",
+        "weighted_points": 10.0
+      },
+      {
+        "pdga": 316836,
+        "name": "Tomomi Nishimura",
+        "division": "FPO",
+        "place": 11,
+        "pdga_points": 9.0,
+        "rating": null,
+        "prize": "",
+        "weighted_points": 4.0
+      }
+    ]
+  },
+  "84698": {
+    "event_id": "84698",
+    "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+    "location": "Koh Samui, Thailand",
+    "dates": "28-Jan to 30-Jan-2025",
+    "year": "2025",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 88,
+    "results": []
+  },
+  "95658": {
+    "event_id": "95658",
+    "title": "Coco-breeze 3 - gone with the wind",
+    "location": "Pattaya, Chonburi, Thailand",
+    "dates": "06-Dec to 07-Dec-2025",
+    "year": "2025",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 60,
+    "results": [
+      {
+        "pdga": 210734,
+        "name": "Ken Tuvunger",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 55.0,
+        "rating": 914,
+        "prize": "$105",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 131996,
+        "name": "Jukka Koskela",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 50.0,
+        "rating": 958,
+        "prize": "$85",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 282484,
+        "name": "Patiparn \" Fame \" Arjor",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 45.0,
+        "rating": 954,
+        "prize": "$62",
+        "weighted_points": 11.0
+      },
+      {
+        "pdga": 77027,
+        "name": "Samuli Mykk\u00e4nen",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 40.0,
+        "rating": 951,
+        "prize": "$30",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 197036,
+        "name": "Pichet Panturat",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 35.0,
+        "rating": 979,
+        "prize": "",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 30145,
+        "name": "Joseph Engelman",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 30.0,
+        "rating": 921,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 112592,
+        "name": "Danny Diaz",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 25.0,
+        "rating": 928,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 258152,
+        "name": "Phatchara Ngoensri",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 20.0,
+        "rating": 860,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 116486,
+        "name": "Sean Raj",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 15.0,
+        "rating": 951,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 301771,
+        "name": "Max Kitsanai Kasasom",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 10.0,
+        "rating": 878,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 205058,
+        "name": "Nolan Cope",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 0.0,
+        "rating": 933,
+        "prize": "",
+        "weighted_points": 1.6
+      },
+      {
+        "pdga": 282457,
+        "name": "Khim Chotchuang",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 12.0,
+        "rating": 826,
+        "prize": "$62",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 276158,
+        "name": "Ruth Anne Alcana",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 9.0,
+        "rating": 817,
+        "prize": "$30",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 316116,
+        "name": "Plaifa Kai Oak Riannok",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 6.0,
+        "rating": 745,
+        "prize": "",
+        "weighted_points": 11.0
+      },
+      {
+        "pdga": 316177,
+        "name": "Nanthawan Nan Wongmaneevan",
+        "division": "FPO",
+        "place": 4,
+        "pdga_points": 3.0,
+        "rating": 797,
+        "prize": "",
+        "weighted_points": 7.0
+      }
+    ]
+  },
+  "96436": {
+    "event_id": "96436",
+    "title": "Trat Disc Golf Open 2025",
+    "location": "Trat, Thailand",
+    "dates": "15-Nov to 16-Nov-2025",
+    "year": "2025",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 39,
+    "results": [
+      {
+        "pdga": 197036,
+        "name": "Pichet Panturat",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 25.0,
+        "rating": 979,
+        "prize": "$65",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 84867,
+        "name": "Tomi Lehtonen",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 20.0,
+        "rating": 992,
+        "prize": "$32",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 210734,
+        "name": "Ken Tuvunger",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 15.0,
+        "rating": 914,
+        "prize": "",
+        "weighted_points": 11.0
+      },
+      {
+        "pdga": 282484,
+        "name": "Patiparn \" Fame \" Arjor",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 10.0,
+        "rating": 954,
+        "prize": "",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 303764,
+        "name": "Tam Mokharat",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 5.0,
+        "rating": 831,
+        "prize": "",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 282457,
+        "name": "Khim Chotchuang",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 3.0,
+        "rating": 826,
+        "prize": "$18",
+        "weighted_points": 20.0
+      }
+    ]
+  },
+  "96352": {
+    "event_id": "96352",
+    "title": "Hyzerween VII - 28 Bogeys Later Presented by ACE Disc Golf & Manchester Disc Golf",
+    "location": "Manchester, United Kingdom",
+    "dates": "02-Nov-2025",
+    "year": "2025",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 61,
+    "results": [
+      {
+        "pdga": 17038,
+        "name": "Iain McDougall",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 35.0,
+        "rating": 963,
+        "prize": "$107",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 253467,
+        "name": "Scott Mckay",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 30.0,
+        "rating": 953,
+        "prize": "",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 123326,
+        "name": "Amadeus Sotiriou",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 25.0,
+        "rating": 935,
+        "prize": "",
+        "weighted_points": 11.0
+      },
+      {
+        "pdga": 113299,
+        "name": "Michael Sharkey",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 25.0,
+        "rating": 949,
+        "prize": "",
+        "weighted_points": 11.0
+      },
+      {
+        "pdga": 203514,
+        "name": "Peter Foden",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 15.0,
+        "rating": 948,
+        "prize": "",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 182987,
+        "name": "Luke Dodd Adkins",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 10.0,
+        "rating": 914,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 123529,
+        "name": "Alex Worm",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 5.0,
+        "rating": 930,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 77395,
+        "name": "View Georgiou",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 9.0,
+        "rating": 885,
+        "prize": "$68",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 276393,
+        "name": "Jessica Riley",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 6.0,
+        "rating": 832,
+        "prize": "",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 234481,
+        "name": "Rebekah Botes",
+        "division": "FPO",
+        "place": 3,
+        "pdga_points": 3.0,
+        "rating": 810,
+        "prize": "",
+        "weighted_points": 11.0
+      }
+    ],
+    "skipped": true
+  },
+  "95844": {
+    "event_id": "95844",
+    "title": "Samui Swine Classic XIII - Ams Presented by Latitude64 - PDGA Asia Tour event #3",
+    "location": "Koh Samui, Thailand",
+    "dates": "27-Jan to 29-Jan-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "asia_tour",
+    "is_asia_tour": true,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 88,
+    "results": []
+  },
+  "99712": {
+    "event_id": "99712",
+    "title": "King of Island v.4",
+    "location": "Koh Mak, Trat, Thailand",
+    "dates": "28-Feb to 01-Mar-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 17,
+    "results": [
+      {
+        "pdga": 84867,
+        "name": "Tomi Lehtonen",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 25.0,
+        "rating": 997,
+        "prize": "$96",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 132871,
+        "name": "Richard Creelman",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 20.0,
+        "rating": 963,
+        "prize": "$48",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 80765,
+        "name": "Sauli Sumen",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 20.0,
+        "rating": 963,
+        "prize": "$48",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 95059,
+        "name": "Japi Pistokoski",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 10.0,
+        "rating": 966,
+        "prize": "",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 258152,
+        "name": "Phatchara Ngoensri",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 5.0,
+        "rating": 887,
+        "prize": "",
+        "weighted_points": 7.0
+      }
+    ]
+  },
+  "99672": {
+    "event_id": "99672",
+    "title": "City of Trat Disc Golf Championship",
+    "location": "Trat, Trat, Thailand",
+    "dates": "21-Feb to 22-Feb-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 34,
+    "results": [
+      {
+        "pdga": 95059,
+        "name": "Japi Pistokoski",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 40.0,
+        "rating": 966,
+        "prize": "$64",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 84867,
+        "name": "Tomi Lehtonen",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 35.0,
+        "rating": 997,
+        "prize": "$48",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 80765,
+        "name": "Sauli Sumen",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 30.0,
+        "rating": 963,
+        "prize": "$32",
+        "weighted_points": 11.0
+      },
+      {
+        "pdga": 132871,
+        "name": "Richard Creelman",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 25.0,
+        "rating": 963,
+        "prize": "",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 258152,
+        "name": "Phatchara Ngoensri",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 20.0,
+        "rating": 887,
+        "prize": "",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 316179,
+        "name": "Nitinan Ohm Sonkumhan",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 15.0,
+        "rating": 874,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 303764,
+        "name": "Tam Mokharat",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 10.0,
+        "rating": 814,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 321395,
+        "name": "Anthony Scales",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 5.0,
+        "rating": 895,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 282457,
+        "name": "Khim Chotchuang",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 3.0,
+        "rating": 849,
+        "prize": "$16",
+        "weighted_points": 20.0
+      }
+    ]
+  },
+  "99236": {
+    "event_id": "99236",
+    "title": "The 2026 Yasothon Valentine Classic Powered by Van City Disc Golf and Presented by PDGA Asia",
+    "location": "Yasothon, Thailand",
+    "dates": "14-Feb to 15-Feb-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 31,
+    "results": [
+      {
+        "pdga": 232892,
+        "name": "Matt Vigneux",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 25.0,
+        "rating": 886,
+        "prize": "",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 308223,
+        "name": "Den Kiattisak",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 20.0,
+        "rating": 851,
+        "prize": "",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 76749,
+        "name": "Barrett Jeffrey",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 15.0,
+        "rating": 925,
+        "prize": "",
+        "weighted_points": 11.0
+      },
+      {
+        "pdga": 6035,
+        "name": "Makoto Nagata",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 10.0,
+        "rating": 902,
+        "prize": "",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 316179,
+        "name": "Nitinan Ohm Sonkumhan",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 5.0,
+        "rating": 874,
+        "prize": "",
+        "weighted_points": 7.0
+      }
+    ]
+  },
+  "97979": {
+    "event_id": "97979",
+    "title": "Samui Winter Warm Up",
+    "location": "Koh samui, New York, Thailand",
+    "dates": "17-Jan-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 28,
+    "results": [
+      {
+        "pdga": 108524,
+        "name": "Phap Lam",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 20.0,
+        "rating": 944,
+        "prize": "$80",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 205538,
+        "name": "Peter Synnergren",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 15.0,
+        "rating": 923,
+        "prize": "$32",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 225471,
+        "name": "Greg Tidey",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 10.0,
+        "rating": 837,
+        "prize": "",
+        "weighted_points": 11.0
+      },
+      {
+        "pdga": 18801,
+        "name": "Luke Butch",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 5.0,
+        "rating": 890,
+        "prize": "",
+        "weighted_points": 7.0
+      }
+    ]
+  },
+  "99301": {
+    "event_id": "99301",
+    "title": "The 11th Annual Hyzenbrownie Open \u201cThe Greenskeeper\u2019s Guild\u201d",
+    "location": "Koh Samui, Surrathani , Thailand",
+    "dates": "24-Jan to 25-Jan-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 38,
+    "results": [
+      {
+        "pdga": 62198,
+        "name": "Steven Miller",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 55.0,
+        "rating": 986,
+        "prize": "$102",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 95059,
+        "name": "Japi Pistokoski",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 50.0,
+        "rating": 960,
+        "prize": "$59",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 263885,
+        "name": "Wesley de Ridder",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 50.0,
+        "rating": 936,
+        "prize": "$59",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 123068,
+        "name": "Aaron Ressler",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 40.0,
+        "rating": 940,
+        "prize": "$38",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 132871,
+        "name": "Richard Creelman",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 35.0,
+        "rating": 964,
+        "prize": "$25",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 58708,
+        "name": "Riley Hayes",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 30.0,
+        "rating": 934,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 57990,
+        "name": "Ron Kaspersen",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 25.0,
+        "rating": 955,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 80765,
+        "name": "Sauli Sumen",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 20.0,
+        "rating": 975,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 75552,
+        "name": "Derek Junttonen",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 15.0,
+        "rating": 909,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 101727,
+        "name": "Johan Dennefors",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 10.0,
+        "rating": 903,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 90008,
+        "name": "Arto Myllyl\u00e4",
+        "division": "MPO",
+        "place": 11,
+        "pdga_points": 5.0,
+        "rating": 928,
+        "prize": "",
+        "weighted_points": 1.6
+      }
+    ]
+  },
+  "99715": {
+    "event_id": "99715",
+    "title": "Koh Kood Open First Run",
+    "location": "Koh Kood, Trat, Thailand",
+    "dates": "07-Mar to 08-Mar-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 10,
+    "results": [
+      {
+        "pdga": 84867,
+        "name": "Tomi Lehtonen",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 25.0,
+        "rating": 997,
+        "prize": "$94",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 80765,
+        "name": "Sauli Sumen",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 20.0,
+        "rating": 963,
+        "prize": "$63",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 258152,
+        "name": "Phatchara Ngoensri",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 15.0,
+        "rating": 887,
+        "prize": "",
+        "weighted_points": 11.0
+      },
+      {
+        "pdga": 205538,
+        "name": "Peter Synnergren",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 10.0,
+        "rating": 933,
+        "prize": "",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 77027,
+        "name": "Samuli Mykk\u00e4nen",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 5.0,
+        "rating": 962,
+        "prize": "",
+        "weighted_points": 7.0
+      }
+    ]
+  },
+  "103055": {
+    "event_id": "103055",
+    "title": "Coco Splash - 3 is the magic number",
+    "location": "Pattaya, chonburi, Thailand",
+    "dates": "04-Apr to 05-Apr-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 36,
+    "results": [
+      {
+        "pdga": 201848,
+        "name": "Gabriel Herrera Land",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 15.0,
+        "rating": 958,
+        "prize": "$76",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 316179,
+        "name": "Nitinan Ohm Sonkumhan",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 10.0,
+        "rating": 876,
+        "prize": "$49",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 273498,
+        "name": "Sawang Suepthaosakun",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 0.0,
+        "rating": 925,
+        "prize": "",
+        "weighted_points": 11.0
+      },
+      {
+        "pdga": 282457,
+        "name": "Khim Chotchuang",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 6.0,
+        "rating": 862,
+        "prize": "$51",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 322782,
+        "name": "Daojai Muntrisao",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 3.0,
+        "rating": 604,
+        "prize": "$31",
+        "weighted_points": 15.0
+      }
+    ]
+  },
+  "99899": {
+    "event_id": "99899",
+    "title": "Saigon Open at the Oasis",
+    "location": "Ho Chi Minh City, Vietnam",
+    "dates": "04-Apr-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 28,
+    "results": [
+      {
+        "pdga": 73973,
+        "name": "Samuel DuCharme",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 40.0,
+        "rating": 896,
+        "prize": "",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 225524,
+        "name": "Thomas de Heus",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 35.0,
+        "rating": 881,
+        "prize": "",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 76247,
+        "name": "Kalev-Kristjan Tamm",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 30.0,
+        "rating": 924,
+        "prize": "",
+        "weighted_points": 11.0
+      },
+      {
+        "pdga": 324519,
+        "name": "John Kostoff",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 25.0,
+        "rating": null,
+        "prize": "",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 18801,
+        "name": "Luke Butch",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 20.0,
+        "rating": 895,
+        "prize": "",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 129024,
+        "name": "Ryan Longe",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 15.0,
+        "rating": 802,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 325367,
+        "name": "Lachlan Robinson",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 10.0,
+        "rating": null,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 312515,
+        "name": "Casey Vlandis",
+        "division": "MPO",
+        "place": 8,
+        "pdga_points": 5.0,
+        "rating": 921,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 225646,
+        "name": "Lauren Gallaway",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 6.0,
+        "rating": 773,
+        "prize": "",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 124255,
+        "name": "Maria Luisa Bartolome",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 3.0,
+        "rating": 795,
+        "prize": "",
+        "weighted_points": 15.0
+      }
+    ]
+  },
+  "101735": {
+    "event_id": "101735",
+    "title": "Freedom Flight Open",
+    "location": "Koh Samui, New York, Thailand",
+    "dates": "09-May-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 30,
+    "results": [
+      {
+        "pdga": 277122,
+        "name": "Enzo Collebrusco",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 25.0,
+        "rating": 878,
+        "prize": "$80",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 312515,
+        "name": "Casey Vlandis",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 20.0,
+        "rating": 917,
+        "prize": "$50",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 58708,
+        "name": "Riley Hayes",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 15.0,
+        "rating": 909,
+        "prize": "",
+        "weighted_points": 11.0
+      },
+      {
+        "pdga": 18801,
+        "name": "Luke Butch",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 10.0,
+        "rating": 891,
+        "prize": "",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 170285,
+        "name": "Rob Decker",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 5.0,
+        "rating": 862,
+        "prize": "",
+        "weighted_points": 7.0
+      }
+    ]
+  },
+  "102712": {
+    "event_id": "102712",
+    "title": "The 1st Shibukawa Open",
+    "location": "Shibukawa-shi, Gunma, Japan",
+    "dates": "03-May to 04-May-2026",
+    "year": "2026",
+    "tier": "C",
+    "level": "c_tier",
+    "is_asia_tour": false,
+    "status": "Event complete; official ratings processed.",
+    "total_players": 54,
+    "results": [
+      {
+        "pdga": 8207,
+        "name": "Dai Takakura",
+        "division": "MPO",
+        "place": 1,
+        "pdga_points": 65.0,
+        "rating": 993,
+        "prize": "$127",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 108547,
+        "name": "Ko Simmel",
+        "division": "MPO",
+        "place": 2,
+        "pdga_points": 60.0,
+        "rating": 1000,
+        "prize": "$96",
+        "weighted_points": 15.0
+      },
+      {
+        "pdga": 8153,
+        "name": "Masatoshi Ishihara",
+        "division": "MPO",
+        "place": 3,
+        "pdga_points": 55.0,
+        "rating": 984,
+        "prize": "$64",
+        "weighted_points": 11.0
+      },
+      {
+        "pdga": 150995,
+        "name": "Kazumasa Fujiwara",
+        "division": "MPO",
+        "place": 4,
+        "pdga_points": 50.0,
+        "rating": 964,
+        "prize": "$45",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 65847,
+        "name": "Sou Miura",
+        "division": "MPO",
+        "place": 5,
+        "pdga_points": 45.0,
+        "rating": 978,
+        "prize": "",
+        "weighted_points": 7.0
+      },
+      {
+        "pdga": 156088,
+        "name": "Takeshi Shimakage",
+        "division": "MPO",
+        "place": 6,
+        "pdga_points": 40.0,
+        "rating": 965,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 59530,
+        "name": "Shuhei Kurobuchi",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 35.0,
+        "rating": 935,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 172653,
+        "name": "Hiroto Inada",
+        "division": "MPO",
+        "place": 7,
+        "pdga_points": 35.0,
+        "rating": 945,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 314563,
+        "name": "Thomas Sievers",
+        "division": "MPO",
+        "place": 9,
+        "pdga_points": 25.0,
+        "rating": 912,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 59525,
+        "name": "Yusuke Takahashi",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 20.0,
+        "rating": 929,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 198268,
+        "name": "Atsuto Nagai",
+        "division": "MPO",
+        "place": 10,
+        "pdga_points": 20.0,
+        "rating": 958,
+        "prize": "",
+        "weighted_points": 4.0
+      },
+      {
+        "pdga": 241406,
+        "name": "Takehiko Sawada",
+        "division": "MPO",
+        "place": 12,
+        "pdga_points": 10.0,
+        "rating": 905,
+        "prize": "",
+        "weighted_points": 1.6
+      },
+      {
+        "pdga": 241405,
+        "name": "Kazuki Samata",
+        "division": "FPO",
+        "place": 1,
+        "pdga_points": 6.0,
+        "rating": 922,
+        "prize": "$51",
+        "weighted_points": 20.0
+      },
+      {
+        "pdga": 3603,
+        "name": "Reiko Kinomiya",
+        "division": "FPO",
+        "place": 2,
+        "pdga_points": 3.0,
+        "rating": 848,
+        "prize": "",
+        "weighted_points": 15.0
+      }
+    ]
+  }
+}

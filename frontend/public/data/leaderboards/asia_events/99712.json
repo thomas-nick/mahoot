@@ -1,0 +1,83 @@
+{
+  "event_id": "99712",
+  "title": "King of Island v.4",
+  "location": "Koh Mak, Trat, Thailand",
+  "dates": "28-Feb to 01-Mar-2026",
+  "year": "2026",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 5,
+  "avg_mpo_rating": 955.2,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 2
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 84867,
+      "name": "Tomi Lehtonen",
+      "division": "MPO",
+      "place": 1,
+      "pdga_points": 25.0,
+      "rating": 997,
+      "prize": "$96",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 132871,
+      "name": "Richard Creelman",
+      "division": "MPO",
+      "place": 2,
+      "pdga_points": 20.0,
+      "rating": 963,
+      "prize": "$48",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 80765,
+      "name": "Sauli Sumen",
+      "division": "MPO",
+      "place": 2,
+      "pdga_points": 20.0,
+      "rating": 963,
+      "prize": "$48",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    },
+    {
+      "pdga": 95059,
+      "name": "Japi Pistokoski",
+      "division": "MPO",
+      "place": 4,
+      "pdga_points": 10.0,
+      "rating": 966,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    },
+    {
+      "pdga": 258152,
+      "name": "Phatchara Ngoensri",
+      "division": "MPO",
+      "place": 5,
+      "pdga_points": 5.0,
+      "rating": 887,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "fpo": []
+}

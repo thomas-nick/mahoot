@@ -1,0 +1,409 @@
+{
+  "event_id": "96943",
+  "title": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+  "location": "Kaohsiung, Kaohsiung City, Chinese Taipei",
+  "dates": "09-Jan to 11-Jan-2026",
+  "year": "2026",
+  "tier": "C",
+  "level": "asia_tour",
+  "is_asia_tour": true,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 30,
+  "avg_mpo_rating": 946.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "count": 13
+    },
+    {
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "count": 5
+    },
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 4
+    },
+    {
+      "flag": "\ud83c\udded\ud83c\uddf0",
+      "country": "Hong Kong",
+      "count": 3
+    },
+    {
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "count": 2
+    },
+    {
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 45971,
+      "name": "Calvin Heimburg",
+      "division": "MPO",
+      "place": 1,
+      "pdga_points": 180.0,
+      "rating": 1052,
+      "prize": "$731",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 128836,
+      "name": "Jacky Chen",
+      "division": "MPO",
+      "place": 2,
+      "pdga_points": 172.5,
+      "rating": 1006,
+      "prize": "$381",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 84274,
+      "name": "Tsz Ho Ming",
+      "division": "MPO",
+      "place": 3,
+      "pdga_points": 165.0,
+      "rating": 1001,
+      "prize": "$254",
+      "flag": "\ud83c\udded\ud83c\uddf0",
+      "country": "Hong Kong",
+      "country_key": "HK"
+    },
+    {
+      "pdga": 55052,
+      "name": "Joey Bruno",
+      "division": "MPO",
+      "place": 4,
+      "pdga_points": 157.5,
+      "rating": 962,
+      "prize": "$191",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 8139,
+      "name": "Manabu Kajiyama",
+      "division": "MPO",
+      "place": 5,
+      "pdga_points": 150.0,
+      "rating": 1030,
+      "prize": "$127",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 319042,
+      "name": "Nils Julian Loberg",
+      "division": "MPO",
+      "place": 6,
+      "pdga_points": 142.5,
+      "rating": null,
+      "prize": "$95",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 239015,
+      "name": "Christian Fernando",
+      "division": "MPO",
+      "place": 7,
+      "pdga_points": 135.0,
+      "rating": 941,
+      "prize": "",
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "country_key": "PH"
+    },
+    {
+      "pdga": 56592,
+      "name": "Hyundo Jang",
+      "division": "MPO",
+      "place": 8,
+      "pdga_points": 127.5,
+      "rating": 948,
+      "prize": "$32",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 264509,
+      "name": "Kento Nishimura",
+      "division": "MPO",
+      "place": 8,
+      "pdga_points": 127.5,
+      "rating": 964,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 280544,
+      "name": "Terry Tang",
+      "division": "MPO",
+      "place": 8,
+      "pdga_points": 127.5,
+      "rating": 937,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 144129,
+      "name": "Chia Pin Lee",
+      "division": "MPO",
+      "place": 11,
+      "pdga_points": 105.0,
+      "rating": 925,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 129558,
+      "name": "James Lai",
+      "division": "MPO",
+      "place": 11,
+      "pdga_points": 105.0,
+      "rating": 960,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 275278,
+      "name": "Peng-Jun Li",
+      "division": "MPO",
+      "place": 13,
+      "pdga_points": 90.0,
+      "rating": 958,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 247286,
+      "name": "Hsien Yu Chen",
+      "division": "MPO",
+      "place": 14,
+      "pdga_points": 82.5,
+      "rating": 903,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 277801,
+      "name": "Joseph Chen Hao Wong",
+      "division": "MPO",
+      "place": 15,
+      "pdga_points": 75.0,
+      "rating": 935,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 318854,
+      "name": "Jacob Jaderston",
+      "division": "MPO",
+      "place": 16,
+      "pdga_points": 67.5,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 287079,
+      "name": "Hsien-Jung Chu",
+      "division": "MPO",
+      "place": 16,
+      "pdga_points": 67.5,
+      "rating": 955,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 240017,
+      "name": "Tatsuya Haseba",
+      "division": "MPO",
+      "place": 16,
+      "pdga_points": 67.5,
+      "rating": 934,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 113527,
+      "name": "Chan Chun Yin",
+      "division": "MPO",
+      "place": 19,
+      "pdga_points": 45.0,
+      "rating": 914,
+      "prize": "",
+      "flag": "\ud83c\udded\ud83c\uddf0",
+      "country": "Hong Kong",
+      "country_key": "HK"
+    },
+    {
+      "pdga": 91705,
+      "name": "Nathan Owen",
+      "division": "MPO",
+      "place": 20,
+      "pdga_points": 37.5,
+      "rating": 885,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 149296,
+      "name": "Nicky Woo",
+      "division": "MPO",
+      "place": 21,
+      "pdga_points": 30.0,
+      "rating": 893,
+      "prize": "",
+      "flag": "\ud83c\udded\ud83c\uddf0",
+      "country": "Hong Kong",
+      "country_key": "HK"
+    },
+    {
+      "pdga": 262849,
+      "name": "Junyeong Kim",
+      "division": "MPO",
+      "place": 21,
+      "pdga_points": 30.0,
+      "rating": 923,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 215878,
+      "name": "Gunhui Kim",
+      "division": "MPO",
+      "place": 23,
+      "pdga_points": 15.0,
+      "rating": 877,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 104893,
+      "name": "Hyonkuk Seo",
+      "division": "MPO",
+      "place": 24,
+      "pdga_points": 0.0,
+      "rating": 908,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 43610,
+      "name": "Chia-Fang Chen",
+      "division": "FPO",
+      "place": 1,
+      "pdga_points": 27.0,
+      "rating": 898,
+      "prize": "$286",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 133080,
+      "name": "Su Mei Yang",
+      "division": "FPO",
+      "place": 2,
+      "pdga_points": 22.5,
+      "rating": 891,
+      "prize": "$159",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 56593,
+      "name": "Jiwon Kim",
+      "division": "FPO",
+      "place": 3,
+      "pdga_points": 18.0,
+      "rating": 837,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 275294,
+      "name": "Chen Chen",
+      "division": "FPO",
+      "place": 3,
+      "pdga_points": 18.0,
+      "rating": 900,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 275301,
+      "name": "Hui-Fen Liu",
+      "division": "FPO",
+      "place": 5,
+      "pdga_points": 9.0,
+      "rating": 861,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 276385,
+      "name": "Tomoko Kitahara",
+      "division": "FPO",
+      "place": 6,
+      "pdga_points": 4.5,
+      "rating": 876,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ]
+}

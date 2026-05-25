@@ -1,0 +1,76 @@
+{
+  "event_id": "97979",
+  "title": "Samui Winter Warm Up",
+  "location": "Koh samui, New York, Thailand",
+  "dates": "17-Jan-2026",
+  "year": "2026",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 4,
+  "avg_mpo_rating": 898.5,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 3
+    },
+    {
+      "flag": "\ud83c\uddfb\ud83c\uddf3",
+      "country": "Vietnam",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 108524,
+      "name": "Phap Lam",
+      "division": "MPO",
+      "place": 1,
+      "pdga_points": 20.0,
+      "rating": 944,
+      "prize": "$80",
+      "flag": "\ud83c\uddfb\ud83c\uddf3",
+      "country": "Vietnam",
+      "country_key": "VN"
+    },
+    {
+      "pdga": 205538,
+      "name": "Peter Synnergren",
+      "division": "MPO",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 923,
+      "prize": "$32",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 225471,
+      "name": "Greg Tidey",
+      "division": "MPO",
+      "place": 3,
+      "pdga_points": 10.0,
+      "rating": 837,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 18801,
+      "name": "Luke Butch",
+      "division": "MPO",
+      "place": 4,
+      "pdga_points": 5.0,
+      "rating": 890,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "fpo": []
+}

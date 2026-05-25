@@ -1,0 +1,291 @@
+{
+  "event_id": "96727",
+  "title": "Siam Open 2026 - PDGA Asia Tour Event #2",
+  "location": "Bangkok, Thailand",
+  "dates": "20-Jan to 22-Jan-2026",
+  "year": "2026",
+  "tier": "B",
+  "level": "asia_tour",
+  "is_asia_tour": true,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 21,
+  "avg_mpo_rating": 958.6,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 3
+    },
+    {
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "count": 3
+    },
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 2
+    },
+    {
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 91397,
+      "name": "Clay Edwards",
+      "division": "MPO",
+      "place": 1,
+      "pdga_points": 127.5,
+      "rating": 1016,
+      "prize": "$253",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 91925,
+      "name": "Jakub Semer\u00e1d",
+      "division": "MPO",
+      "place": 2,
+      "pdga_points": 120.0,
+      "rating": 1020,
+      "prize": "$126",
+      "flag": "\ud83c\udf10",
+      "country": "Czech Republic",
+      "country_key": ""
+    },
+    {
+      "pdga": 95059,
+      "name": "Japi Pistokoski",
+      "division": "MPO",
+      "place": 3,
+      "pdga_points": 112.5,
+      "rating": 960,
+      "prize": "$95",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    },
+    {
+      "pdga": 84867,
+      "name": "Tomi Lehtonen",
+      "division": "MPO",
+      "place": 4,
+      "pdga_points": 105.0,
+      "rating": 993,
+      "prize": "$63",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 174343,
+      "name": "Ben Holding",
+      "division": "MPO",
+      "place": 5,
+      "pdga_points": 97.5,
+      "rating": 976,
+      "prize": "$32",
+      "flag": "\ud83c\udf10",
+      "country": "United Kingdom",
+      "country_key": ""
+    },
+    {
+      "pdga": 215169,
+      "name": "Martin Fischer",
+      "division": "MPO",
+      "place": 6,
+      "pdga_points": 90.0,
+      "rating": 980,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Germany",
+      "country_key": ""
+    },
+    {
+      "pdga": 55052,
+      "name": "Joey Bruno",
+      "division": "MPO",
+      "place": 7,
+      "pdga_points": 82.5,
+      "rating": 962,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 239015,
+      "name": "Christian Fernando",
+      "division": "MPO",
+      "place": 8,
+      "pdga_points": 75.0,
+      "rating": 943,
+      "prize": "",
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "country_key": "PH"
+    },
+    {
+      "pdga": 197036,
+      "name": "Pichet Panturat",
+      "division": "MPO",
+      "place": 9,
+      "pdga_points": 67.5,
+      "rating": 971,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 57990,
+      "name": "Ron Kaspersen",
+      "division": "MPO",
+      "place": 10,
+      "pdga_points": 60.0,
+      "rating": 955,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Norway",
+      "country_key": ""
+    },
+    {
+      "pdga": 80765,
+      "name": "Sauli Sumen",
+      "division": "MPO",
+      "place": 11,
+      "pdga_points": 52.5,
+      "rating": 975,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    },
+    {
+      "pdga": 144129,
+      "name": "Chia Pin Lee",
+      "division": "MPO",
+      "place": 11,
+      "pdga_points": 52.5,
+      "rating": 916,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 289027,
+      "name": "Xinrui Chen",
+      "division": "MPO",
+      "place": 13,
+      "pdga_points": 37.5,
+      "rating": 895,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 318445,
+      "name": "Melvin Bach",
+      "division": "MPO",
+      "place": 14,
+      "pdga_points": 30.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Germany",
+      "country_key": ""
+    },
+    {
+      "pdga": 90008,
+      "name": "Arto Myllyl\u00e4",
+      "division": "MPO",
+      "place": 14,
+      "pdga_points": 30.0,
+      "rating": 928,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    },
+    {
+      "pdga": 282484,
+      "name": "Patiparn \" Fame \" Arjor",
+      "division": "MPO",
+      "place": 16,
+      "pdga_points": 15.0,
+      "rating": 951,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 273757,
+      "name": "Zelong Li",
+      "division": "MPO",
+      "place": 17,
+      "pdga_points": 7.5,
+      "rating": 896,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 43610,
+      "name": "Chia-Fang Chen",
+      "division": "FPO",
+      "place": 1,
+      "pdga_points": 18.0,
+      "rating": 898,
+      "prize": "$95",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 55234,
+      "name": "Margaret Patterson",
+      "division": "FPO",
+      "place": 2,
+      "pdga_points": 13.5,
+      "rating": 864,
+      "prize": "$32",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 152810,
+      "name": "Echo Li",
+      "division": "FPO",
+      "place": 3,
+      "pdga_points": 9.0,
+      "rating": 852,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "New Zealand",
+      "country_key": ""
+    },
+    {
+      "pdga": 133080,
+      "name": "Su Mei Yang",
+      "division": "FPO",
+      "place": 4,
+      "pdga_points": 4.5,
+      "rating": 890,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    }
+  ]
+}

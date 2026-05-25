@@ -1,0 +1,154 @@
+{
+  "event_id": "97272",
+  "title": "Lipad Pilipinas IV - PDGA Asia Tour #5 presented by Province of Tarlac",
+  "location": "San Jose, Tarlac, Philippines",
+  "dates": "27-Feb to 01-Mar-2026",
+  "year": "2026",
+  "tier": "C",
+  "level": "asia_tour",
+  "is_asia_tour": true,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 10,
+  "avg_mpo_rating": 935.4,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "count": 6
+    },
+    {
+      "flag": "\ud83c\udded\ud83c\uddf0",
+      "country": "Hong Kong",
+      "count": 1
+    },
+    {
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 55052,
+      "name": "Joey Bruno",
+      "division": "MPO",
+      "place": 1,
+      "pdga_points": 35.0,
+      "rating": 965,
+      "prize": "$140",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 203384,
+      "name": "Jackson Proctor",
+      "division": "MPO",
+      "place": 2,
+      "pdga_points": 30.0,
+      "rating": 971,
+      "prize": "$90",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 239015,
+      "name": "Christian Fernando",
+      "division": "MPO",
+      "place": 3,
+      "pdga_points": 25.0,
+      "rating": 957,
+      "prize": "",
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "country_key": "PH"
+    },
+    {
+      "pdga": 268881,
+      "name": "Raden Bagaloyos",
+      "division": "MPO",
+      "place": 4,
+      "pdga_points": 20.0,
+      "rating": 924,
+      "prize": "",
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "country_key": "PH"
+    },
+    {
+      "pdga": 295332,
+      "name": "Van Joseph Brudo",
+      "division": "MPO",
+      "place": 5,
+      "pdga_points": 15.0,
+      "rating": 894,
+      "prize": "",
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "country_key": "PH"
+    },
+    {
+      "pdga": 252830,
+      "name": "Sammuel Sulit",
+      "division": "MPO",
+      "place": 6,
+      "pdga_points": 10.0,
+      "rating": 849,
+      "prize": "",
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "country_key": "PH"
+    },
+    {
+      "pdga": 84274,
+      "name": "Tsz Ho Ming",
+      "division": "MPO",
+      "place": 7,
+      "pdga_points": 0.0,
+      "rating": 988,
+      "prize": "",
+      "flag": "\ud83c\udded\ud83c\uddf0",
+      "country": "Hong Kong",
+      "country_key": "HK"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 133080,
+      "name": "Su Mei Yang",
+      "division": "FPO",
+      "place": 1,
+      "pdga_points": 9.0,
+      "rating": 893,
+      "prize": "$110",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 239051,
+      "name": "Maryviel Dublin",
+      "division": "FPO",
+      "place": 2,
+      "pdga_points": 6.0,
+      "rating": 862,
+      "prize": "",
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "country_key": "PH"
+    },
+    {
+      "pdga": 245499,
+      "name": "Karyle Pante",
+      "division": "FPO",
+      "place": 3,
+      "pdga_points": 3.0,
+      "rating": 781,
+      "prize": "",
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "country_key": "PH"
+    }
+  ]
+}

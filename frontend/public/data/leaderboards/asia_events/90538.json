@@ -1,0 +1,228 @@
+{
+  "event_id": "90538",
+  "title": "The 32nd Tokyo Open",
+  "location": "Koto-ku, Tokyo, Japan",
+  "dates": "19-Apr to 20-Apr-2025",
+  "year": "2025",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 17,
+  "avg_mpo_rating": 984.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 17
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8153,
+      "name": "Masatoshi Ishihara",
+      "division": "MPO",
+      "place": 1,
+      "pdga_points": 105.0,
+      "rating": 994,
+      "prize": "$281",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 80387,
+      "name": "Yutaro Sakai",
+      "division": "MPO",
+      "place": 2,
+      "pdga_points": 97.5,
+      "rating": 1014,
+      "prize": "$140",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8207,
+      "name": "Dai Takakura",
+      "division": "MPO",
+      "place": 3,
+      "pdga_points": 90.0,
+      "rating": 989,
+      "prize": "$105",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 226315,
+      "name": "Asahi Jitsuhiro",
+      "division": "MPO",
+      "place": 3,
+      "pdga_points": 90.0,
+      "rating": 975,
+      "prize": "$56",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 108547,
+      "name": "Ko Simmel",
+      "division": "MPO",
+      "place": 5,
+      "pdga_points": 75.0,
+      "rating": 999,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8139,
+      "name": "Manabu Kajiyama",
+      "division": "MPO",
+      "place": 5,
+      "pdga_points": 75.0,
+      "rating": 1015,
+      "prize": "$28",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 150995,
+      "name": "Kazumasa Fujiwara",
+      "division": "MPO",
+      "place": 7,
+      "pdga_points": 60.0,
+      "rating": 956,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8060,
+      "name": "Yasushi Jitsuhiro",
+      "division": "MPO",
+      "place": 8,
+      "pdga_points": 52.5,
+      "rating": 981,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 172653,
+      "name": "Hiroto Inada",
+      "division": "MPO",
+      "place": 9,
+      "pdga_points": 45.0,
+      "rating": 956,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 156088,
+      "name": "Takeshi Shimakage",
+      "division": "MPO",
+      "place": 10,
+      "pdga_points": 37.5,
+      "rating": 965,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 80981,
+      "name": "Chadwick Miller",
+      "division": "MPO",
+      "place": 11,
+      "pdga_points": 30.0,
+      "rating": 993,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8177,
+      "name": "Kenta Nagaoka",
+      "division": "MPO",
+      "place": 11,
+      "pdga_points": 30.0,
+      "rating": 975,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 65847,
+      "name": "Sou Miura",
+      "division": "MPO",
+      "place": 14,
+      "pdga_points": 0.0,
+      "rating": 980,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 241405,
+      "name": "Kazuki Samata",
+      "division": "FPO",
+      "place": 1,
+      "pdga_points": 22.5,
+      "rating": 922,
+      "prize": "$176",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 65543,
+      "name": "Shigeko Sekiguchi",
+      "division": "FPO",
+      "place": 2,
+      "pdga_points": 18.0,
+      "rating": 879,
+      "prize": "$70",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 223296,
+      "name": "Tomoka Aranami",
+      "division": "FPO",
+      "place": 3,
+      "pdga_points": 13.5,
+      "rating": 901,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 3603,
+      "name": "Reiko Kinomiya",
+      "division": "FPO",
+      "place": 5,
+      "pdga_points": 4.5,
+      "rating": 851,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ]
+}

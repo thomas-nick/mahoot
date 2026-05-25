@@ -1,0 +1,192 @@
+{
+  "event_id": "102712",
+  "title": "The 1st Shibukawa Open",
+  "location": "Shibukawa-shi, Gunma, Japan",
+  "dates": "03-May to 04-May-2026",
+  "year": "2026",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 14,
+  "avg_mpo_rating": 955.7,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 13
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8207,
+      "name": "Dai Takakura",
+      "division": "MPO",
+      "place": 1,
+      "pdga_points": 65.0,
+      "rating": 993,
+      "prize": "$127",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 108547,
+      "name": "Ko Simmel",
+      "division": "MPO",
+      "place": 2,
+      "pdga_points": 60.0,
+      "rating": 1000,
+      "prize": "$96",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8153,
+      "name": "Masatoshi Ishihara",
+      "division": "MPO",
+      "place": 3,
+      "pdga_points": 55.0,
+      "rating": 984,
+      "prize": "$64",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 150995,
+      "name": "Kazumasa Fujiwara",
+      "division": "MPO",
+      "place": 4,
+      "pdga_points": 50.0,
+      "rating": 964,
+      "prize": "$45",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 65847,
+      "name": "Sou Miura",
+      "division": "MPO",
+      "place": 5,
+      "pdga_points": 45.0,
+      "rating": 978,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 156088,
+      "name": "Takeshi Shimakage",
+      "division": "MPO",
+      "place": 6,
+      "pdga_points": 40.0,
+      "rating": 965,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59530,
+      "name": "Shuhei Kurobuchi",
+      "division": "MPO",
+      "place": 7,
+      "pdga_points": 35.0,
+      "rating": 935,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 172653,
+      "name": "Hiroto Inada",
+      "division": "MPO",
+      "place": 7,
+      "pdga_points": 35.0,
+      "rating": 945,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 314563,
+      "name": "Thomas Sievers",
+      "division": "MPO",
+      "place": 9,
+      "pdga_points": 25.0,
+      "rating": 912,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 59525,
+      "name": "Yusuke Takahashi",
+      "division": "MPO",
+      "place": 10,
+      "pdga_points": 20.0,
+      "rating": 929,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 198268,
+      "name": "Atsuto Nagai",
+      "division": "MPO",
+      "place": 10,
+      "pdga_points": 20.0,
+      "rating": 958,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 241406,
+      "name": "Takehiko Sawada",
+      "division": "MPO",
+      "place": 12,
+      "pdga_points": 10.0,
+      "rating": 905,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 241405,
+      "name": "Kazuki Samata",
+      "division": "FPO",
+      "place": 1,
+      "pdga_points": 6.0,
+      "rating": 922,
+      "prize": "$51",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 3603,
+      "name": "Reiko Kinomiya",
+      "division": "FPO",
+      "place": 2,
+      "pdga_points": 3.0,
+      "rating": 848,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ]
+}

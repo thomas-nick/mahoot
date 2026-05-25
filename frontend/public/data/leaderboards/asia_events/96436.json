@@ -1,0 +1,96 @@
+{
+  "event_id": "96436",
+  "title": "Trat Disc Golf Open 2025",
+  "location": "Trat, Thailand",
+  "dates": "15-Nov to 16-Nov-2025",
+  "year": "2025",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 6,
+  "avg_mpo_rating": 934.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 5
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 197036,
+      "name": "Pichet Panturat",
+      "division": "MPO",
+      "place": 1,
+      "pdga_points": 25.0,
+      "rating": 979,
+      "prize": "$65",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 84867,
+      "name": "Tomi Lehtonen",
+      "division": "MPO",
+      "place": 2,
+      "pdga_points": 20.0,
+      "rating": 992,
+      "prize": "$32",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 210734,
+      "name": "Ken Tuvunger",
+      "division": "MPO",
+      "place": 3,
+      "pdga_points": 15.0,
+      "rating": 914,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Sweden",
+      "country_key": ""
+    },
+    {
+      "pdga": 282484,
+      "name": "Patiparn \" Fame \" Arjor",
+      "division": "MPO",
+      "place": 4,
+      "pdga_points": 10.0,
+      "rating": 954,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 303764,
+      "name": "Tam Mokharat",
+      "division": "MPO",
+      "place": 5,
+      "pdga_points": 5.0,
+      "rating": 831,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 282457,
+      "name": "Khim Chotchuang",
+      "division": "FPO",
+      "place": 1,
+      "pdga_points": 3.0,
+      "rating": 826,
+      "prize": "$18",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ]
+}
