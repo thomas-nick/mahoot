@@ -63,6 +63,7 @@ export type Disc = {
   priceLowUsd?: number | null;
   priceHighUsd?: number | null;
   runNotes?: string | null;
+  description?: string | null;
 };
 
 export type DiscMold = {
@@ -108,6 +109,7 @@ type DiscVariant = {
   priceLowUsd?: number | null;
   priceHighUsd?: number | null;
   runNotes?: string | null;
+  description?: string | null;
   mold?: {
     documentId?: string | null;
     externalId?: string | null;
@@ -601,6 +603,7 @@ const mapDiscVariantToDisc = (variant: DiscVariant): Disc => {
     priceLowUsd: variant.priceLowUsd ?? null,
     priceHighUsd: variant.priceHighUsd ?? null,
     runNotes: variant.runNotes ?? null,
+    description: variant.description ?? null,
   };
 };
 
