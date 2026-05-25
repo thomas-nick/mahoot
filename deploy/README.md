@@ -150,9 +150,12 @@ npm run build
 | Variable | Purpose |
 |----------|---------|
 | `STRAPI_URL` | Server-side only: `http://127.0.0.1:1337` (Next on the same VM → loopback) |
-| `NEXT_PUBLIC_STRAPI_URL` | Browser: `https://api.your-domain.com` |
+| `NEXT_PUBLIC_STRAPI_URL` | Browser: `https://api.your-domain.com` — **required for Google/LINE sign-in** |
+| `NEXT_PUBLIC_APP_URL` | Public app URL: `https://app.your-domain.com` — used for OAuth callback redirects |
 | `STRAPI_API_TOKEN` | Same token as Strapi admin |
 | `NODE_ENV=production` | Usually set automatically by `next start`; you can omit |
+
+Copy `frontend/.env.production.example` → `frontend/.env.production.local` and fill in your domains **before** `npm run build`. `NEXT_PUBLIC_*` values are embedded at build time; if OAuth sends users to `127.0.0.1`, you forgot this step or need to rebuild.
 
 **CORS:** Ensure Strapi allows your app origin (`https://app.your-domain.com`) if the browser calls Strapi directly (uploads, etc.). If everything is proxied through Next route handlers only, requirements are looser.
 

@@ -32,6 +32,9 @@ module.exports = {
       max_memory_restart: "3G",
       env: {
         NODE_ENV: "production",
+        // Server-side Strapi (loopback on same VPS). Client URLs must be set in
+        // frontend/.env.production.local and baked via `npm run build`.
+        STRAPI_URL: "http://127.0.0.1:1337",
       },
     },
   ],
