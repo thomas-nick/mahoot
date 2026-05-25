@@ -31,6 +31,16 @@ const GoogleMark = () => (
   </svg>
 );
 
+const LineMark = () => (
+  <svg viewBox="0 0 24 24" aria-hidden className="h-4 w-4">
+    <rect width="24" height="24" rx="5" fill="#06C755" />
+    <path
+      fill="#FFFFFF"
+      d="M12 5.5c-4.06 0-7.36 2.66-7.36 5.93 0 2.66 2.13 4.88 5.05 5.61.19.05.45.14.52.32.06.16.04.4.02.57l-.09.55c-.03.16-.13.62.55.34.68-.29 3.68-2.17 5.02-3.71.93-1.04 1.65-2.1 1.65-3.68 0-3.27-3.3-5.93-7.36-5.93z"
+    />
+  </svg>
+);
+
 export function MarketplaceSignInBanner() {
   const [hydrated, setHydrated] = useState(false);
   const [signedIn, setSignedIn] = useState(false);
@@ -64,18 +74,22 @@ export function MarketplaceSignInBanner() {
     }
   };
 
-  const onGoogle = () => {
+  const beginOAuth = (provider: "google" | "line") => {
     if (typeof window === "undefined") return;
     try {
-      sessionStorage.setItem(OAUTH_PENDING_PROVIDER_KEY, "google");
+      sessionStorage.setItem(OAUTH_PENDING_PROVIDER_KEY, provider);
     } catch {
       /* ignore */
     }
     rememberPostAuthRedirect("/marketplace");
-    trackEvent("marketplace_signin_banner_google_click");
+    trackEvent(
+      provider === "google"
+        ? "marketplace_signin_banner_google_click"
+        : "marketplace_signin_banner_line_click",
+    );
     const strapiUrl = getStrapiBrowserUrl();
-    const redirect = `${window.location.origin}/auth/callback`;
-    window.location.href = `${strapiUrl}/api/connect/google?redirect=${encodeURIComponent(
+    const redirect = `${window.location.origin}/auth/callback?provider=${encodeURIComponent(provider)}`;
+    window.location.href = `${strapiUrl}/api/connect/${provider}?redirect=${encodeURIComponent(
       redirect,
     )}`;
   };
@@ -104,11 +118,19 @@ export function MarketplaceSignInBanner() {
         <div className="flex flex-wrap items-center gap-2">
           <button
             type="button"
-            onClick={onGoogle}
+            onClick={() => beginOAuth("google")}
             className="inline-flex items-center gap-2 rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm font-medium text-slate-800 shadow-sm transition hover:border-slate-300 hover:bg-slate-50"
           >
             <GoogleMark />
             Continue with Google
+          </button>
+          <button
+            type="button"
+            onClick={() => beginOAuth("line")}
+            className="inline-flex items-center gap-2 rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm font-medium text-slate-800 shadow-sm transition hover:border-slate-300 hover:bg-slate-50"
+          >
+            <LineMark />
+            Continue with LINE
           </button>
           <Link
             href="/account?next=/marketplace"

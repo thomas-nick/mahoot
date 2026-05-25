@@ -3,7 +3,7 @@ import { normalizeOAuthProvider, repairOAuthSearchString } from "@/lib/oauth-cal
 import { getStrapiServerUrl } from "@/lib/strapi-server-url";
 
 const STRAPI_URL = getStrapiServerUrl();
-const ALLOWED_PROVIDERS = new Set(["google"]);
+const ALLOWED_PROVIDERS = new Set(["google", "line"]);
 
 const STRAPI_REDIRECT_HINT =
   "Strapi appended a second ? to your callback URL. In Strapi → Google provider, set the front-end redirect to " +
@@ -27,8 +27,13 @@ export async function GET(request: Request) {
     return NextResponse.json({ error: "Missing access token from provider callback." }, { status: 400 });
   }
 
-  const callbackUrl = `${STRAPI_URL}/api/auth/${provider}/callback?access_token=${encodeURIComponent(accessToken)}`;
-  const response = await fetch(callbackUrl, {
+  const upstream = new URL(`${STRAPI_URL}/api/auth/${provider}/callback`);
+  upstream.searchParams.set("access_token", accessToken);
+  if (idTokenParam && idTokenParam !== accessToken) {
+    upstream.searchParams.set("id_token", idTokenParam);
+  }
+
+  const response = await fetch(upstream.toString(), {
     cache: "no-store",
     headers: {
       "Content-Type": "application/json",

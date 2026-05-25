@@ -49,6 +49,16 @@ const GoogleMark = () => (
   </svg>
 );
 
+const LineMark = () => (
+  <svg viewBox="0 0 24 24" aria-hidden className="h-4 w-4">
+    <rect width="24" height="24" rx="5" fill="#06C755" />
+    <path
+      fill="#FFFFFF"
+      d="M12 5.5c-4.06 0-7.36 2.66-7.36 5.93 0 2.66 2.13 4.88 5.05 5.61.19.05.45.14.52.32.06.16.04.4.02.57l-.09.55c-.03.16-.13.62.55.34.68-.29 3.68-2.17 5.02-3.71.93-1.04 1.65-2.1 1.65-3.68 0-3.27-3.3-5.93-7.36-5.93z"
+    />
+  </svg>
+);
+
 export function AuthCard() {
   const [mode, setMode] = useState<Mode>("signin");
   const [state, setState] = useState<FormState>({ kind: "idle" });
@@ -63,16 +73,15 @@ export function AuthCard() {
     }
   }, []);
 
-  const beginGoogleOAuth = () => {
+  const beginOAuth = (provider: "google" | "line") => {
     if (typeof window === "undefined") return;
     try {
-      sessionStorage.setItem(OAUTH_PENDING_PROVIDER_KEY, "google");
+      sessionStorage.setItem(OAUTH_PENDING_PROVIDER_KEY, provider);
     } catch {
       /* ignore */
     }
-    const redirect = `${window.location.origin}/auth/callback`;
-    const connectUrl = `${strapiUrl}/api/connect/google?redirect=${encodeURIComponent(redirect)}`;
-    window.location.href = connectUrl;
+    const redirect = `${window.location.origin}/auth/callback?provider=${encodeURIComponent(provider)}`;
+    window.location.href = `${strapiUrl}/api/connect/${provider}?redirect=${encodeURIComponent(redirect)}`;
   };
 
   const onSignin = async (event: React.FormEvent<HTMLFormElement>) => {
@@ -170,8 +179,11 @@ export function AuthCard() {
       </div>
 
       <div className="space-y-2">
-        <Button variant="secondary" fullWidth onClick={beginGoogleOAuth} leadingIcon={<GoogleMark />}>
+        <Button variant="secondary" fullWidth onClick={() => beginOAuth("google")} leadingIcon={<GoogleMark />}>
           Continue with Google
+        </Button>
+        <Button variant="secondary" fullWidth onClick={() => beginOAuth("line")} leadingIcon={<LineMark />}>
+          Continue with LINE
         </Button>
       </div>
 
