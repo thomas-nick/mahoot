@@ -199,6 +199,37 @@ cd /opt/mahoot/frontend && npm ci && npm run build
 pm2 restart all
 ```
 
+## 9. Auto-deploy leaderboards data (cron)
+
+The GitHub Action `.github/workflows/leaderboards-data.yml` pushes JSON to `main` on **Mon 17:00 UTC** and **Tue 13:00 UTC**. The Next app bundles that JSON at build time, so the VPS must pull and rebuild after those commits land.
+
+Script: `deploy/refresh-leaderboards.sh` (pull + `npm run build` in frontend + `pm2 restart next`). Logs: `deploy/logs/refresh-leaderboards.log`.
+
+**One-time setup on the VPS** (as root):
+
+```bash
+chmod +x /opt/mahoot/deploy/refresh-leaderboards.sh
+mkdir -p /opt/mahoot/deploy/logs
+
+# Edit root crontab — times are UTC, 30 min after the GH Action
+crontab -e
+```
+
+Add:
+
+```cron
+# Mahoot: deploy leaderboards JSON after weekly GitHub Action refresh
+30 17 * * 1  /opt/mahoot/deploy/refresh-leaderboards.sh
+30 13 * * 2  /opt/mahoot/deploy/refresh-leaderboards.sh
+```
+
+Manual test:
+
+```bash
+/opt/mahoot/deploy/refresh-leaderboards.sh
+tail -20 /opt/mahoot/deploy/logs/refresh-leaderboards.log
+```
+
 ## 10. Optional: Typesense in Docker
 
 ```bash
