@@ -1,7 +1,7 @@
 {
   "title": "PDGA Asia Tour & Regional Leaderboard",
   "description": "MPO + FPO results across 2025-2026 Asian PDGA events",
-  "updated_at": "2026-05-25T03:11:07.859313+00:00",
+  "updated_at": "2026-05-25T18:25:41.686118+00:00",
   "years": [
     "2025",
     "2026"
@@ -340,7 +340,7 @@
           "delta_pct": 0.0
         },
         "pdga_rank": 26,
-        "weighted_rank": 32,
+        "weighted_rank": 33,
         "country_rank": 1
       }
     },
@@ -360,13 +360,13 @@
         "city": "New Taipei City / Taiwan R.o.c.",
         "nationality": "",
         "pdga_points": 697.5,
-        "tour_weighted_points": 454.0,
+        "tour_weighted_points": 604.0,
         "events_played": 5,
         "wins": 3,
         "podiums": 4,
         "top10": 4,
-        "asia_tour_events": 2,
-        "asia_tour_points": 367.5,
+        "asia_tour_events": 3,
+        "asia_tour_points": 502.5,
         "division": "MPO",
         "last_active": "09-Jan to 11-Jan-2026",
         "by_level": {
@@ -383,10 +383,10 @@
             "wins": 0
           },
           "asia_tour": {
-            "events": 2,
-            "points": 367.5,
-            "weighted": 350.0,
-            "wins": 1
+            "events": 3,
+            "points": 502.5,
+            "weighted": 550.0,
+            "wins": 2
           },
           "a_tier": {
             "events": 0,
@@ -395,10 +395,10 @@
             "wins": 0
           },
           "b_tier": {
-            "events": 3,
-            "points": 330.0,
-            "weighted": 104.0,
-            "wins": 2
+            "events": 2,
+            "points": 195.0,
+            "weighted": 54.0,
+            "wins": 1
           },
           "c_tier": {
             "events": 0,
@@ -438,8 +438,8 @@
             "dates": "06-Mar to 08-Mar-2026",
             "year": "2026",
             "tier": "B",
-            "level": "b_tier",
-            "is_asia_tour": false,
+            "level": "asia_tour",
+            "is_asia_tour": true,
             "location": "Kunigami-gun, Okinawa, Japan",
             "place": 1,
             "pdga_points": 135.0
@@ -553,7 +553,7 @@
           "delta_pct": 71.8
         },
         "pdga_rank": 10,
-        "weighted_rank": 7,
+        "weighted_rank": 3,
         "country_rank": 1
       }
     },
@@ -1213,7 +1213,7 @@
           "delta_pct": 0.0
         },
         "pdga_rank": 85,
-        "weighted_rank": 90,
+        "weighted_rank": 94,
         "country_rank": 1
       }
     },
@@ -1636,7 +1636,7 @@
           "delta_pct": 0.0
         },
         "pdga_rank": 20,
-        "weighted_rank": 85,
+        "weighted_rank": 89,
         "country_rank": 1
       }
     },
@@ -1849,7 +1849,7 @@
           "delta_pct": 1.8
         },
         "pdga_rank": 22,
-        "weighted_rank": 60,
+        "weighted_rank": 62,
         "country_rank": 1
       }
     },
@@ -2042,7 +2042,7 @@
           "delta_pct": 127.3
         },
         "pdga_rank": 38,
-        "weighted_rank": 46,
+        "weighted_rank": 48,
         "country_rank": 1
       }
     },
@@ -2219,7 +2219,7 @@
           "delta_pct": 0.0
         },
         "pdga_rank": 49,
-        "weighted_rank": 64,
+        "weighted_rank": 66,
         "country_rank": 1
       }
     },
@@ -2239,13 +2239,13 @@
         "city": "Denver",
         "nationality": "",
         "pdga_points": 795.0,
-        "tour_weighted_points": 519.5,
+        "tour_weighted_points": 602.0,
         "events_played": 7,
         "wins": 1,
         "podiums": 3,
         "top10": 5,
-        "asia_tour_events": 6,
-        "asia_tour_points": 675.0,
+        "asia_tour_events": 7,
+        "asia_tour_points": 795.0,
         "division": "MPO",
         "last_active": "09-Jan to 11-Jan-2026",
         "by_level": {
@@ -2262,9 +2262,9 @@
             "wins": 0
           },
           "asia_tour": {
-            "events": 6,
-            "points": 675.0,
-            "weighted": 492.0,
+            "events": 7,
+            "points": 795.0,
+            "weighted": 602.0,
             "wins": 1
           },
           "a_tier": {
@@ -2274,9 +2274,9 @@
             "wins": 0
           },
           "b_tier": {
-            "events": 1,
-            "points": 120.0,
-            "weighted": 27.5,
+            "events": 0,
+            "points": 0.0,
+            "weighted": 0.0,
             "wins": 0
           },
           "c_tier": {
@@ -2353,8 +2353,8 @@
             "dates": "06-Mar to 08-Mar-2026",
             "year": "2026",
             "tier": "B",
-            "level": "b_tier",
-            "is_asia_tour": false,
+            "level": "asia_tour",
+            "is_asia_tour": true,
             "location": "Kunigami-gun, Okinawa, Japan",
             "place": 3,
             "pdga_points": 120.0
@@ -2601,7 +2601,7 @@
       "country_key": "TW",
       "division": "FPO",
       "rating": 900,
-      "events_played": 4,
+      "events_played": 5,
       "counting": [
         {
           "event_id": "97272",
@@ -2613,6 +2613,15 @@
           "dates": "27-Feb to 01-Mar-2026"
         },
         {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "FPO",
+          "place": 1,
+          "points": 100,
+          "dates": "06-Mar to 08-Mar-2026"
+        },
+        {
           "event_id": "97588",
           "event": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
           "tour_event": "Championship",
@@ -2629,18 +2638,18 @@
           "place": 2,
           "points": 90,
           "dates": "09-Jan to 11-Jan-2026"
-        },
-        {
-          "event_id": "96727",
-          "event": "Siam Open 2026 - PDGA Asia Tour Event #2",
-          "tour_event": "2",
-          "division": "FPO",
-          "place": 4,
-          "points": 80,
-          "dates": "20-Jan to 22-Jan-2026"
         }
       ],
       "all_results": [
+        {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "FPO",
+          "place": 1,
+          "points": 100,
+          "dates": "06-Mar to 08-Mar-2026"
+        },
         {
           "event_id": "96943",
           "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
@@ -2678,8 +2687,96 @@
           "dates": "27-Feb to 01-Mar-2026"
         }
       ],
-      "total_points": 370,
+      "total_points": 390,
       "rank": 1
+    },
+    {
+      "pdga": 43610,
+      "name": "Chia-Fang Chen #43610",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW",
+      "division": "FPO",
+      "rating": 906,
+      "events_played": 4,
+      "counting": [
+        {
+          "event_id": "96943",
+          "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+          "tour_event": "1",
+          "division": "FPO",
+          "place": 1,
+          "points": 100,
+          "dates": "09-Jan to 11-Jan-2026"
+        },
+        {
+          "event_id": "96727",
+          "event": "Siam Open 2026 - PDGA Asia Tour Event #2",
+          "tour_event": "2",
+          "division": "FPO",
+          "place": 1,
+          "points": 100,
+          "dates": "20-Jan to 22-Jan-2026"
+        },
+        {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "FPO",
+          "place": 2,
+          "points": 90,
+          "dates": "06-Mar to 08-Mar-2026"
+        },
+        {
+          "event_id": "97588",
+          "event": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
+          "tour_event": "Championship",
+          "division": "FPO",
+          "place": 2,
+          "points": 90,
+          "dates": "13-Mar to 15-Mar-2026"
+        }
+      ],
+      "all_results": [
+        {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "FPO",
+          "place": 2,
+          "points": 90,
+          "dates": "06-Mar to 08-Mar-2026"
+        },
+        {
+          "event_id": "96943",
+          "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+          "tour_event": "1",
+          "division": "FPO",
+          "place": 1,
+          "points": 100,
+          "dates": "09-Jan to 11-Jan-2026"
+        },
+        {
+          "event_id": "97588",
+          "event": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
+          "tour_event": "Championship",
+          "division": "FPO",
+          "place": 2,
+          "points": 90,
+          "dates": "13-Mar to 15-Mar-2026"
+        },
+        {
+          "event_id": "96727",
+          "event": "Siam Open 2026 - PDGA Asia Tour Event #2",
+          "tour_event": "2",
+          "division": "FPO",
+          "place": 1,
+          "points": 100,
+          "dates": "20-Jan to 22-Jan-2026"
+        }
+      ],
+      "total_points": 380,
+      "rank": 2
     },
     {
       "pdga": 55052,
@@ -2689,7 +2786,7 @@
       "country_key": "",
       "division": "MPO",
       "rating": 972,
-      "events_played": 6,
+      "events_played": 7,
       "counting": [
         {
           "event_id": "97272",
@@ -2710,6 +2807,15 @@
           "dates": "13-Mar to 15-Mar-2026"
         },
         {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "MPO",
+          "place": 3,
+          "points": 85,
+          "dates": "06-Mar to 08-Mar-2026"
+        },
+        {
           "event_id": "96943",
           "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
           "tour_event": "1",
@@ -2717,15 +2823,6 @@
           "place": 4,
           "points": 80,
           "dates": "09-Jan to 11-Jan-2026"
-        },
-        {
-          "event_id": "96727",
-          "event": "Siam Open 2026 - PDGA Asia Tour Event #2",
-          "tour_event": "2",
-          "division": "MPO",
-          "place": 7,
-          "points": 65,
-          "dates": "20-Jan to 22-Jan-2026"
         }
       ],
       "all_results": [
@@ -2737,6 +2834,15 @@
           "place": 14,
           "points": 30,
           "dates": "06-Feb to 08-Feb-2026"
+        },
+        {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "MPO",
+          "place": 3,
+          "points": 85,
+          "dates": "06-Mar to 08-Mar-2026"
         },
         {
           "event_id": "96943",
@@ -2784,78 +2890,78 @@
           "dates": "30-Jan to 01-Feb-2026"
         }
       ],
-      "total_points": 335,
-      "rank": 2
+      "total_points": 355,
+      "rank": 3
     },
     {
-      "pdga": 43610,
-      "name": "Chia-Fang Chen #43610",
+      "pdga": 128836,
+      "name": "Jacky Chen #128836",
       "flag": "\ud83c\uddf9\ud83c\uddfc",
       "country": "Chinese Taipei",
       "country_key": "TW",
-      "division": "FPO",
-      "rating": 906,
+      "division": "MPO",
+      "rating": 1019,
       "events_played": 3,
       "counting": [
         {
-          "event_id": "96943",
-          "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
-          "tour_event": "1",
-          "division": "FPO",
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "MPO",
           "place": 1,
           "points": 100,
-          "dates": "09-Jan to 11-Jan-2026"
-        },
-        {
-          "event_id": "96727",
-          "event": "Siam Open 2026 - PDGA Asia Tour Event #2",
-          "tour_event": "2",
-          "division": "FPO",
-          "place": 1,
-          "points": 100,
-          "dates": "20-Jan to 22-Jan-2026"
+          "dates": "06-Mar to 08-Mar-2026"
         },
         {
           "event_id": "97588",
           "event": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
           "tour_event": "Championship",
-          "division": "FPO",
+          "division": "MPO",
+          "place": 1,
+          "points": 100,
+          "dates": "13-Mar to 15-Mar-2026"
+        },
+        {
+          "event_id": "96943",
+          "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+          "tour_event": "1",
+          "division": "MPO",
           "place": 2,
           "points": 90,
-          "dates": "13-Mar to 15-Mar-2026"
+          "dates": "09-Jan to 11-Jan-2026"
         }
       ],
       "all_results": [
         {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "MPO",
+          "place": 1,
+          "points": 100,
+          "dates": "06-Mar to 08-Mar-2026"
+        },
+        {
           "event_id": "96943",
           "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
           "tour_event": "1",
-          "division": "FPO",
-          "place": 1,
-          "points": 100,
+          "division": "MPO",
+          "place": 2,
+          "points": 90,
           "dates": "09-Jan to 11-Jan-2026"
         },
         {
           "event_id": "97588",
           "event": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
           "tour_event": "Championship",
-          "division": "FPO",
-          "place": 2,
-          "points": 90,
-          "dates": "13-Mar to 15-Mar-2026"
-        },
-        {
-          "event_id": "96727",
-          "event": "Siam Open 2026 - PDGA Asia Tour Event #2",
-          "tour_event": "2",
-          "division": "FPO",
+          "division": "MPO",
           "place": 1,
           "points": 100,
-          "dates": "20-Jan to 22-Jan-2026"
+          "dates": "13-Mar to 15-Mar-2026"
         }
       ],
       "total_points": 290,
-      "rank": 3
+      "rank": 4
     },
     {
       "pdga": 91397,
@@ -2925,7 +3031,7 @@
         }
       ],
       "total_points": 290,
-      "rank": 4
+      "rank": 5
     },
     {
       "pdga": 55234,
@@ -2995,7 +3101,7 @@
         }
       ],
       "total_points": 280,
-      "rank": 5
+      "rank": 6
     },
     {
       "pdga": 84274,
@@ -3092,7 +3198,7 @@
         }
       ],
       "total_points": 265,
-      "rank": 6
+      "rank": 7
     },
     {
       "pdga": 239015,
@@ -3189,7 +3295,7 @@
         }
       ],
       "total_points": 255,
-      "rank": 7
+      "rank": 8
     },
     {
       "pdga": 91925,
@@ -3259,59 +3365,77 @@
         }
       ],
       "total_points": 255,
-      "rank": 8
+      "rank": 9
     },
     {
-      "pdga": 128836,
-      "name": "Jacky Chen #128836",
+      "pdga": 275301,
+      "name": "Hui-Fen Liu #275301",
       "flag": "\ud83c\uddf9\ud83c\uddfc",
       "country": "Chinese Taipei",
       "country_key": "TW",
-      "division": "MPO",
-      "rating": 1019,
-      "events_played": 2,
+      "division": "FPO",
+      "rating": 886,
+      "events_played": 3,
       "counting": [
+        {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "FPO",
+          "place": 4,
+          "points": 80,
+          "dates": "06-Mar to 08-Mar-2026"
+        },
         {
           "event_id": "97588",
           "event": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
           "tour_event": "Championship",
-          "division": "MPO",
-          "place": 1,
-          "points": 100,
+          "division": "FPO",
+          "place": 4,
+          "points": 80,
           "dates": "13-Mar to 15-Mar-2026"
         },
         {
           "event_id": "96943",
           "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
           "tour_event": "1",
-          "division": "MPO",
-          "place": 2,
-          "points": 90,
+          "division": "FPO",
+          "place": 5,
+          "points": 75,
           "dates": "09-Jan to 11-Jan-2026"
         }
       ],
       "all_results": [
         {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "FPO",
+          "place": 4,
+          "points": 80,
+          "dates": "06-Mar to 08-Mar-2026"
+        },
+        {
           "event_id": "96943",
           "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
           "tour_event": "1",
-          "division": "MPO",
-          "place": 2,
-          "points": 90,
+          "division": "FPO",
+          "place": 5,
+          "points": 75,
           "dates": "09-Jan to 11-Jan-2026"
         },
         {
           "event_id": "97588",
           "event": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
           "tour_event": "Championship",
-          "division": "MPO",
-          "place": 1,
-          "points": 100,
+          "division": "FPO",
+          "place": 4,
+          "points": 80,
           "dates": "13-Mar to 15-Mar-2026"
         }
       ],
-      "total_points": 190,
-      "rank": 9
+      "total_points": 235,
+      "rank": 10
     },
     {
       "pdga": 95059,
@@ -3321,7 +3445,7 @@
       "country_key": "",
       "division": "MPO",
       "rating": 965,
-      "events_played": 3,
+      "events_played": 4,
       "counting": [
         {
           "event_id": "96727",
@@ -3340,6 +3464,15 @@
           "place": 5,
           "points": 75,
           "dates": "06-Feb to 08-Feb-2026"
+        },
+        {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "MPO",
+          "place": 10,
+          "points": 50,
+          "dates": "06-Mar to 08-Mar-2026"
         },
         {
           "event_id": "95859",
@@ -3362,6 +3495,15 @@
           "dates": "06-Feb to 08-Feb-2026"
         },
         {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "MPO",
+          "place": 10,
+          "points": 50,
+          "dates": "06-Mar to 08-Mar-2026"
+        },
+        {
           "event_id": "96727",
           "event": "Siam Open 2026 - PDGA Asia Tour Event #2",
           "tour_event": "2",
@@ -3380,8 +3522,8 @@
           "dates": "30-Jan to 01-Feb-2026"
         }
       ],
-      "total_points": 180,
-      "rank": 10
+      "total_points": 230,
+      "rank": 11
     },
     {
       "pdga": 282457,
@@ -3433,7 +3575,7 @@
         }
       ],
       "total_points": 180,
-      "rank": 11
+      "rank": 12
     },
     {
       "pdga": 152810,
@@ -3485,7 +3627,7 @@
         }
       ],
       "total_points": 170,
-      "rank": 12
+      "rank": 13
     },
     {
       "pdga": 28597,
@@ -3537,7 +3679,59 @@
         }
       ],
       "total_points": 170,
-      "rank": 13
+      "rank": 14
+    },
+    {
+      "pdga": 8139,
+      "name": "Manabu Kajiyama #8139",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP",
+      "division": "MPO",
+      "rating": 1022,
+      "events_played": 2,
+      "counting": [
+        {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "MPO",
+          "place": 2,
+          "points": 90,
+          "dates": "06-Mar to 08-Mar-2026"
+        },
+        {
+          "event_id": "96943",
+          "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+          "tour_event": "1",
+          "division": "MPO",
+          "place": 5,
+          "points": 75,
+          "dates": "09-Jan to 11-Jan-2026"
+        }
+      ],
+      "all_results": [
+        {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "MPO",
+          "place": 2,
+          "points": 90,
+          "dates": "06-Mar to 08-Mar-2026"
+        },
+        {
+          "event_id": "96943",
+          "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+          "tour_event": "1",
+          "division": "MPO",
+          "place": 5,
+          "points": 75,
+          "dates": "09-Jan to 11-Jan-2026"
+        }
+      ],
+      "total_points": 165,
+      "rank": 15
     },
     {
       "pdga": 113958,
@@ -3589,59 +3783,77 @@
         }
       ],
       "total_points": 160,
-      "rank": 14
+      "rank": 16
     },
     {
-      "pdga": 275301,
-      "name": "Hui-Fen Liu #275301",
-      "flag": "\ud83c\uddf9\ud83c\uddfc",
-      "country": "Chinese Taipei",
-      "country_key": "TW",
-      "division": "FPO",
-      "rating": 886,
-      "events_played": 2,
+      "pdga": 132871,
+      "name": "Richard Creelman #132871",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": "",
+      "division": "MPO",
+      "rating": 960,
+      "events_played": 3,
       "counting": [
         {
-          "event_id": "97588",
-          "event": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
-          "tour_event": "Championship",
-          "division": "FPO",
-          "place": 4,
-          "points": 80,
-          "dates": "13-Mar to 15-Mar-2026"
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "MPO",
+          "place": 7,
+          "points": 65,
+          "dates": "06-Mar to 08-Mar-2026"
         },
         {
-          "event_id": "96943",
-          "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
-          "tour_event": "1",
-          "division": "FPO",
-          "place": 5,
-          "points": 75,
-          "dates": "09-Jan to 11-Jan-2026"
+          "event_id": "95859",
+          "event": "Samui Swine Classic XIII - Pros. Presented by Latitude6",
+          "tour_event": "3",
+          "division": "MPO",
+          "place": 11,
+          "points": 45,
+          "dates": "30-Jan to 01-Feb-2026"
+        },
+        {
+          "event_id": "97037",
+          "event": "Chiang Mai Open IV - PDGA Asia Tour Event #4",
+          "tour_event": "4",
+          "division": "MPO",
+          "place": 11,
+          "points": 45,
+          "dates": "06-Feb to 08-Feb-2026"
         }
       ],
       "all_results": [
         {
-          "event_id": "96943",
-          "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
-          "tour_event": "1",
-          "division": "FPO",
-          "place": 5,
-          "points": 75,
-          "dates": "09-Jan to 11-Jan-2026"
+          "event_id": "97037",
+          "event": "Chiang Mai Open IV - PDGA Asia Tour Event #4",
+          "tour_event": "4",
+          "division": "MPO",
+          "place": 11,
+          "points": 45,
+          "dates": "06-Feb to 08-Feb-2026"
         },
         {
-          "event_id": "97588",
-          "event": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
-          "tour_event": "Championship",
-          "division": "FPO",
-          "place": 4,
-          "points": 80,
-          "dates": "13-Mar to 15-Mar-2026"
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "MPO",
+          "place": 7,
+          "points": 65,
+          "dates": "06-Mar to 08-Mar-2026"
+        },
+        {
+          "event_id": "95859",
+          "event": "Samui Swine Classic XIII - Pros. Presented by Latitude6",
+          "tour_event": "3",
+          "division": "MPO",
+          "place": 11,
+          "points": 45,
+          "dates": "30-Jan to 01-Feb-2026"
         }
       ],
       "total_points": 155,
-      "rank": 15
+      "rank": 17
     },
     {
       "pdga": 280544,
@@ -3693,7 +3905,7 @@
         }
       ],
       "total_points": 140,
-      "rank": 16
+      "rank": 18
     },
     {
       "pdga": 144129,
@@ -3763,7 +3975,7 @@
         }
       ],
       "total_points": 135,
-      "rank": 17
+      "rank": 19
     },
     {
       "pdga": 215169,
@@ -3815,7 +4027,59 @@
         }
       ],
       "total_points": 130,
-      "rank": 18
+      "rank": 20
+    },
+    {
+      "pdga": 264509,
+      "name": "Kento Nishimura #264509",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP",
+      "division": "MPO",
+      "rating": 965,
+      "events_played": 2,
+      "counting": [
+        {
+          "event_id": "96943",
+          "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+          "tour_event": "1",
+          "division": "MPO",
+          "place": 8,
+          "points": 60,
+          "dates": "09-Jan to 11-Jan-2026"
+        },
+        {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "MPO",
+          "place": 8,
+          "points": 60,
+          "dates": "06-Mar to 08-Mar-2026"
+        }
+      ],
+      "all_results": [
+        {
+          "event_id": "97704",
+          "event": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+          "tour_event": "6",
+          "division": "MPO",
+          "place": 8,
+          "points": 60,
+          "dates": "06-Mar to 08-Mar-2026"
+        },
+        {
+          "event_id": "96943",
+          "event": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+          "tour_event": "1",
+          "division": "MPO",
+          "place": 8,
+          "points": 60,
+          "dates": "09-Jan to 11-Jan-2026"
+        }
+      ],
+      "total_points": 120,
+      "rank": 21
     },
     {
       "pdga": 57990,
@@ -3885,7 +4149,7 @@
         }
       ],
       "total_points": 115,
-      "rank": 19
+      "rank": 22
     },
     {
       "pdga": 294815,
@@ -3937,7 +4201,7 @@
         }
       ],
       "total_points": 115,
-      "rank": 20
+      "rank": 23
     },
     {
       "pdga": 80765,
@@ -4007,7 +4271,7 @@
         }
       ],
       "total_points": 105,
-      "rank": 21
+      "rank": 24
     },
     {
       "pdga": 90008,
@@ -4077,7 +4341,7 @@
         }
       ],
       "total_points": 105,
-      "rank": 22
+      "rank": 25
     },
     {
       "pdga": 291619,
@@ -4129,59 +4393,7 @@
         }
       ],
       "total_points": 105,
-      "rank": 23
-    },
-    {
-      "pdga": 132871,
-      "name": "Richard Creelman #132871",
-      "flag": "\ud83c\udf10",
-      "country": "United States",
-      "country_key": "",
-      "division": "MPO",
-      "rating": 960,
-      "events_played": 2,
-      "counting": [
-        {
-          "event_id": "95859",
-          "event": "Samui Swine Classic XIII - Pros. Presented by Latitude6",
-          "tour_event": "3",
-          "division": "MPO",
-          "place": 11,
-          "points": 45,
-          "dates": "30-Jan to 01-Feb-2026"
-        },
-        {
-          "event_id": "97037",
-          "event": "Chiang Mai Open IV - PDGA Asia Tour Event #4",
-          "tour_event": "4",
-          "division": "MPO",
-          "place": 11,
-          "points": 45,
-          "dates": "06-Feb to 08-Feb-2026"
-        }
-      ],
-      "all_results": [
-        {
-          "event_id": "97037",
-          "event": "Chiang Mai Open IV - PDGA Asia Tour Event #4",
-          "tour_event": "4",
-          "division": "MPO",
-          "place": 11,
-          "points": 45,
-          "dates": "06-Feb to 08-Feb-2026"
-        },
-        {
-          "event_id": "95859",
-          "event": "Samui Swine Classic XIII - Pros. Presented by Latitude6",
-          "tour_event": "3",
-          "division": "MPO",
-          "place": 11,
-          "points": 45,
-          "dates": "30-Jan to 01-Feb-2026"
-        }
-      ],
-      "total_points": 90,
-      "rank": 24
+      "rank": 26
     },
     {
       "pdga": 174343,
@@ -4233,7 +4445,7 @@
         }
       ],
       "total_points": 75,
-      "rank": 25
+      "rank": 27
     },
     {
       "pdga": 282484,
@@ -4303,7 +4515,7 @@
         }
       ],
       "total_points": 70,
-      "rank": 26
+      "rank": 28
     },
     {
       "pdga": 197036,
@@ -4373,7 +4585,7 @@
         }
       ],
       "total_points": 65,
-      "rank": 27
+      "rank": 29
     },
     {
       "pdga": 101832,
@@ -4425,7 +4637,7 @@
         }
       ],
       "total_points": 65,
-      "rank": 28
+      "rank": 30
     },
     {
       "pdga": 113527,
@@ -4477,7 +4689,7 @@
         }
       ],
       "total_points": 30,
-      "rank": 29
+      "rank": 31
     },
     {
       "pdga": 318445,
@@ -4529,7 +4741,7 @@
         }
       ],
       "total_points": 30,
-      "rank": 30
+      "rank": 32
     },
     {
       "pdga": 277801,
@@ -4581,7 +4793,7 @@
         }
       ],
       "total_points": 25,
-      "rank": 31
+      "rank": 33
     },
     {
       "pdga": 242765,
@@ -4633,7 +4845,7 @@
         }
       ],
       "total_points": 15,
-      "rank": 32
+      "rank": 34
     },
     {
       "pdga": 149296,
@@ -4685,7 +4897,7 @@
         }
       ],
       "total_points": 0,
-      "rank": 33
+      "rank": 35
     }
   ],
   "highlights": {
@@ -4866,8 +5078,8 @@
       "dates": "06-Mar to 08-Mar-2026",
       "year": "2026",
       "tier": "B",
-      "level": "b_tier",
-      "is_asia_tour": false,
+      "level": "asia_tour",
+      "is_asia_tour": true,
       "field_size": 24
     },
     {
@@ -5104,6 +5316,13 @@
       "location": "San Jose, Tarlac, Philippines",
       "dates": "27-Feb to 01-Mar-2026",
       "field_size": 10
+    },
+    {
+      "event_id": "97704",
+      "title": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+      "location": "Kunigami-gun, Okinawa, Japan",
+      "dates": "06-Mar to 08-Mar-2026",
+      "field_size": 24
     },
     {
       "event_id": "97588",
@@ -5377,13 +5596,13 @@
       "city": "Yame-shi",
       "nationality": "",
       "pdga_points": 1507.5,
-      "tour_weighted_points": 467.5,
+      "tour_weighted_points": 580.0,
       "events_played": 11,
       "wins": 5,
       "podiums": 9,
       "top10": 11,
-      "asia_tour_events": 1,
-      "asia_tour_points": 150.0,
+      "asia_tour_events": 2,
+      "asia_tour_points": 277.5,
       "division": "MPO",
       "last_active": "09-Jan to 11-Jan-2026",
       "by_level": {
@@ -5400,9 +5619,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 1,
-          "points": 150.0,
-          "weighted": 70.0,
+          "events": 2,
+          "points": 277.5,
+          "weighted": 220.0,
           "wins": 0
         },
         "a_tier": {
@@ -5412,9 +5631,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 10,
-          "points": 1357.5,
-          "weighted": 397.5,
+          "events": 9,
+          "points": 1230.0,
+          "weighted": 360.0,
           "wins": 5
         },
         "c_tier": {
@@ -5443,8 +5662,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 2,
           "pdga_points": 127.5
@@ -5606,7 +5825,7 @@
         "delta_pct": 48.8
       },
       "pdga_rank": 2,
-      "weighted_rank": 6,
+      "weighted_rank": 5,
       "country_rank": 2
     },
     {
@@ -6092,7 +6311,7 @@
         "delta_pct": 69.9
       },
       "pdga_rank": 4,
-      "weighted_rank": 20,
+      "weighted_rank": 21,
       "country_rank": 3
     },
     {
@@ -6106,13 +6325,13 @@
       "city": "Toyokawa",
       "nationality": "",
       "pdga_points": 967.5,
-      "tour_weighted_points": 170.0,
+      "tour_weighted_points": 200.0,
       "events_played": 10,
       "wins": 1,
       "podiums": 1,
       "top10": 10,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 82.5,
       "division": "MPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -6129,9 +6348,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 82.5,
+          "weighted": 40.0,
           "wins": 0
         },
         "a_tier": {
@@ -6141,9 +6360,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 10,
-          "points": 967.5,
-          "weighted": 170.0,
+          "events": 9,
+          "points": 885.0,
+          "weighted": 160.0,
           "wins": 1
         },
         "c_tier": {
@@ -6160,8 +6379,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 8,
           "pdga_points": 82.5
@@ -6335,7 +6554,7 @@
         "delta_pct": -9.7
       },
       "pdga_rank": 5,
-      "weighted_rank": 25,
+      "weighted_rank": 23,
       "country_rank": 4
     },
     {
@@ -6349,13 +6568,13 @@
       "city": "Denver",
       "nationality": "",
       "pdga_points": 795.0,
-      "tour_weighted_points": 519.5,
+      "tour_weighted_points": 602.0,
       "events_played": 7,
       "wins": 1,
       "podiums": 3,
       "top10": 5,
-      "asia_tour_events": 6,
-      "asia_tour_points": 675.0,
+      "asia_tour_events": 7,
+      "asia_tour_points": 795.0,
       "division": "MPO",
       "last_active": "09-Jan to 11-Jan-2026",
       "by_level": {
@@ -6372,9 +6591,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 6,
-          "points": 675.0,
-          "weighted": 492.0,
+          "events": 7,
+          "points": 795.0,
+          "weighted": 602.0,
           "wins": 1
         },
         "a_tier": {
@@ -6384,9 +6603,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 1,
-          "points": 120.0,
-          "weighted": 27.5,
+          "events": 0,
+          "points": 0.0,
+          "weighted": 0.0,
           "wins": 0
         },
         "c_tier": {
@@ -6463,8 +6682,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 3,
           "pdga_points": 120.0
@@ -6796,7 +7015,7 @@
         "delta_pct": -25.3
       },
       "pdga_rank": 7,
-      "weighted_rank": 14,
+      "weighted_rank": 15,
       "country_rank": 5
     },
     {
@@ -7039,7 +7258,7 @@
         "delta_pct": -17.1
       },
       "pdga_rank": 8,
-      "weighted_rank": 31,
+      "weighted_rank": 32,
       "country_rank": 6
     },
     {
@@ -7053,13 +7272,13 @@
       "city": "Sendai",
       "nationality": "",
       "pdga_points": 735.0,
-      "tour_weighted_points": 102.5,
+      "tour_weighted_points": 155.0,
       "events_played": 7,
       "wins": 0,
       "podiums": 1,
       "top10": 7,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 105.0,
       "division": "MPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -7076,9 +7295,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 105.0,
+          "weighted": 70.0,
           "wins": 0
         },
         "a_tier": {
@@ -7088,9 +7307,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 7,
-          "points": 735.0,
-          "weighted": 102.5,
+          "events": 6,
+          "points": 630.0,
+          "weighted": 85.0,
           "wins": 0
         },
         "c_tier": {
@@ -7107,8 +7326,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 5,
           "pdga_points": 105.0
@@ -7270,7 +7489,7 @@
         "delta_pct": -22.6
       },
       "pdga_rank": 9,
-      "weighted_rank": 44,
+      "weighted_rank": 28,
       "country_rank": 7
     },
     {
@@ -7284,13 +7503,13 @@
       "city": "New Taipei City / Taiwan R.o.c.",
       "nationality": "",
       "pdga_points": 697.5,
-      "tour_weighted_points": 454.0,
+      "tour_weighted_points": 604.0,
       "events_played": 5,
       "wins": 3,
       "podiums": 4,
       "top10": 4,
-      "asia_tour_events": 2,
-      "asia_tour_points": 367.5,
+      "asia_tour_events": 3,
+      "asia_tour_points": 502.5,
       "division": "MPO",
       "last_active": "09-Jan to 11-Jan-2026",
       "by_level": {
@@ -7307,10 +7526,10 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 2,
-          "points": 367.5,
-          "weighted": 350.0,
-          "wins": 1
+          "events": 3,
+          "points": 502.5,
+          "weighted": 550.0,
+          "wins": 2
         },
         "a_tier": {
           "events": 0,
@@ -7319,10 +7538,10 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 3,
-          "points": 330.0,
-          "weighted": 104.0,
-          "wins": 2
+          "events": 2,
+          "points": 195.0,
+          "weighted": 54.0,
+          "wins": 1
         },
         "c_tier": {
           "events": 0,
@@ -7362,8 +7581,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 1,
           "pdga_points": 135.0
@@ -7477,7 +7696,7 @@
         "delta_pct": 71.8
       },
       "pdga_rank": 10,
-      "weighted_rank": 7,
+      "weighted_rank": 3,
       "country_rank": 1
     },
     {
@@ -7491,13 +7710,13 @@
       "city": "Tosu-shi",
       "nationality": "",
       "pdga_points": 615.0,
-      "tour_weighted_points": 87.5,
+      "tour_weighted_points": 117.5,
       "events_played": 5,
       "wins": 0,
       "podiums": 0,
       "top10": 5,
-      "asia_tour_events": 1,
-      "asia_tour_points": 127.5,
+      "asia_tour_events": 2,
+      "asia_tour_points": 210.0,
       "division": "MPO",
       "last_active": "09-Jan to 11-Jan-2026",
       "by_level": {
@@ -7514,9 +7733,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 1,
-          "points": 127.5,
-          "weighted": 40.0,
+          "events": 2,
+          "points": 210.0,
+          "weighted": 80.0,
           "wins": 0
         },
         "a_tier": {
@@ -7526,9 +7745,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 4,
-          "points": 487.5,
-          "weighted": 47.5,
+          "events": 3,
+          "points": 405.0,
+          "weighted": 37.5,
           "wins": 0
         },
         "c_tier": {
@@ -7557,8 +7776,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 8,
           "pdga_points": 82.5
@@ -7684,7 +7903,7 @@
         "delta_pct": 71.0
       },
       "pdga_rank": 11,
-      "weighted_rank": 48,
+      "weighted_rank": 38,
       "country_rank": 8
     },
     {
@@ -7915,7 +8134,7 @@
         "delta_pct": -9.3
       },
       "pdga_rank": 12,
-      "weighted_rank": 36,
+      "weighted_rank": 37,
       "country_rank": 9
     },
     {
@@ -7929,13 +8148,13 @@
       "city": "Oulu",
       "nationality": "",
       "pdga_points": 535.0,
-      "tour_weighted_points": 248.0,
+      "tour_weighted_points": 278.0,
       "events_played": 7,
       "wins": 1,
       "podiums": 3,
       "top10": 6,
-      "asia_tour_events": 3,
-      "asia_tour_points": 367.5,
+      "asia_tour_events": 4,
+      "asia_tour_points": 435.0,
       "division": "MPO",
       "last_active": "20-Jan to 22-Jan-2026",
       "by_level": {
@@ -7952,9 +8171,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 3,
-          "points": 367.5,
-          "weighted": 196.0,
+          "events": 4,
+          "points": 435.0,
+          "weighted": 236.0,
           "wins": 0
         },
         "a_tier": {
@@ -7964,9 +8183,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 1,
-          "points": 67.5,
-          "weighted": 10.0,
+          "events": 0,
+          "points": 0.0,
+          "weighted": 0.0,
           "wins": 0
         },
         "c_tier": {
@@ -8043,8 +8262,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 10,
           "pdga_points": 67.5
@@ -8146,7 +8365,7 @@
         "delta_pct": -32.4
       },
       "pdga_rank": 13,
-      "weighted_rank": 16
+      "weighted_rank": 13
     },
     {
       "pdga": 150995,
@@ -8364,7 +8583,7 @@
         "delta_pct": 192.2
       },
       "pdga_rank": 14,
-      "weighted_rank": 66,
+      "weighted_rank": 70,
       "country_rank": 10
     },
     {
@@ -8547,7 +8766,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 15,
-      "weighted_rank": 3
+      "weighted_rank": 6
     },
     {
       "pdga": 239015,
@@ -8936,7 +9155,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 17,
-      "weighted_rank": 10
+      "weighted_rank": 11
     },
     {
       "pdga": 132871,
@@ -8949,13 +9168,13 @@
       "city": "Honolulu",
       "nationality": "",
       "pdga_points": 405.0,
-      "tour_weighted_points": 71.0,
+      "tour_weighted_points": 101.0,
       "events_played": 6,
       "wins": 0,
       "podiums": 1,
       "top10": 4,
-      "asia_tour_events": 2,
-      "asia_tour_points": 235.0,
+      "asia_tour_events": 3,
+      "asia_tour_points": 325.0,
       "division": "MPO",
       "last_active": "30-Jan to 01-Feb-2026",
       "by_level": {
@@ -8972,9 +9191,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 2,
-          "points": 235.0,
-          "weighted": 32.0,
+          "events": 3,
+          "points": 325.0,
+          "weighted": 72.0,
           "wins": 0
         },
         "a_tier": {
@@ -8984,9 +9203,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 1,
-          "points": 90.0,
-          "weighted": 10.0,
+          "events": 0,
+          "points": 0.0,
+          "weighted": 0.0,
           "wins": 0
         },
         "c_tier": {
@@ -9051,8 +9270,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 7,
           "pdga_points": 90.0
@@ -9154,7 +9373,7 @@
         "delta_pct": -2.4
       },
       "pdga_rank": 18,
-      "weighted_rank": 53
+      "weighted_rank": 46
     },
     {
       "pdga": 113402,
@@ -9372,7 +9591,7 @@
         "delta_pct": 38.1
       },
       "pdga_rank": 19,
-      "weighted_rank": 61,
+      "weighted_rank": 63,
       "country_rank": 11
     },
     {
@@ -9555,7 +9774,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 20,
-      "weighted_rank": 85,
+      "weighted_rank": 89,
       "country_rank": 1
     },
     {
@@ -9569,13 +9788,13 @@
       "city": "Funabashi-shi",
       "nationality": "",
       "pdga_points": 370.0,
-      "tour_weighted_points": 44.0,
+      "tour_weighted_points": 56.0,
       "events_played": 8,
       "wins": 0,
       "podiums": 0,
       "top10": 3,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 45.0,
       "division": "MPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -9592,9 +9811,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 45.0,
+          "weighted": 16.0,
           "wins": 0
         },
         "a_tier": {
@@ -9604,9 +9823,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 7,
-          "points": 330.0,
-          "weighted": 40.0,
+          "events": 6,
+          "points": 285.0,
+          "weighted": 36.0,
           "wins": 0
         },
         "c_tier": {
@@ -9623,8 +9842,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 13,
           "pdga_points": 45.0
@@ -9798,7 +10017,7 @@
         "delta_pct": -9.7
       },
       "pdga_rank": 21,
-      "weighted_rank": 68,
+      "weighted_rank": 67,
       "country_rank": 12
     },
     {
@@ -10005,7 +10224,7 @@
         "delta_pct": 1.8
       },
       "pdga_rank": 22,
-      "weighted_rank": 60,
+      "weighted_rank": 62,
       "country_rank": 1
     },
     {
@@ -10019,13 +10238,13 @@
       "city": "Uruma city",
       "nationality": "",
       "pdga_points": 360.0,
-      "tour_weighted_points": 24.0,
+      "tour_weighted_points": 54.0,
       "events_played": 3,
       "wins": 0,
       "podiums": 0,
       "top10": 2,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 97.5,
       "division": "MPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -10042,9 +10261,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 97.5,
+          "weighted": 40.0,
           "wins": 0
         },
         "a_tier": {
@@ -10054,9 +10273,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 3,
-          "points": 360.0,
-          "weighted": 24.0,
+          "events": 2,
+          "points": 262.5,
+          "weighted": 14.0,
           "wins": 0
         },
         "c_tier": {
@@ -10073,8 +10292,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 6,
           "pdga_points": 97.5
@@ -10188,7 +10407,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 23,
-      "weighted_rank": 102,
+      "weighted_rank": 69,
       "country_rank": 13
     },
     {
@@ -10419,7 +10638,7 @@
         "delta_pct": -13.2
       },
       "pdga_rank": 24,
-      "weighted_rank": 37
+      "weighted_rank": 39
     },
     {
       "pdga": 28597,
@@ -10759,7 +10978,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 26,
-      "weighted_rank": 32,
+      "weighted_rank": 33,
       "country_rank": 1
     },
     {
@@ -10954,7 +11173,7 @@
         "delta_pct": -48.6
       },
       "pdga_rank": 27,
-      "weighted_rank": 45
+      "weighted_rank": 47
     },
     {
       "pdga": 280544,
@@ -11084,7 +11303,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 28,
-      "weighted_rank": 39,
+      "weighted_rank": 41,
       "country_rank": 2
     },
     {
@@ -11267,7 +11486,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 29,
-      "weighted_rank": 91,
+      "weighted_rank": 95,
       "country_rank": 14
     },
     {
@@ -11450,7 +11669,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 30,
-      "weighted_rank": 67,
+      "weighted_rank": 71,
       "country_rank": 3
     },
     {
@@ -11623,7 +11842,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 31,
-      "weighted_rank": 93,
+      "weighted_rank": 97,
       "country_rank": 15
     },
     {
@@ -11818,7 +12037,7 @@
         "delta_pct": -55.6
       },
       "pdga_rank": 32,
-      "weighted_rank": 52
+      "weighted_rank": 54
     },
     {
       "pdga": 6669,
@@ -11988,7 +12207,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 33,
-      "weighted_rank": 110,
+      "weighted_rank": 113,
       "country_rank": 16
     },
     {
@@ -12159,7 +12378,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 34,
-      "weighted_rank": 106,
+      "weighted_rank": 110,
       "country_rank": 17
     },
     {
@@ -12342,7 +12561,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 35,
-      "weighted_rank": 80,
+      "weighted_rank": 84,
       "country_rank": 18
     },
     {
@@ -12513,7 +12732,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 36,
-      "weighted_rank": 50
+      "weighted_rank": 51
     },
     {
       "pdga": 294815,
@@ -12658,7 +12877,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 37,
-      "weighted_rank": 35,
+      "weighted_rank": 36,
       "country_rank": 2
     },
     {
@@ -12845,7 +13064,7 @@
         "delta_pct": 127.3
       },
       "pdga_rank": 38,
-      "weighted_rank": 46,
+      "weighted_rank": 48,
       "country_rank": 1
     },
     {
@@ -13023,7 +13242,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 39,
-      "weighted_rank": 84,
+      "weighted_rank": 88,
       "country_rank": 2
     },
     {
@@ -13037,13 +13256,13 @@
       "city": "Ginowan",
       "nationality": "",
       "pdga_points": 240.0,
-      "tour_weighted_points": 8.0,
+      "tour_weighted_points": 20.0,
       "events_played": 2,
       "wins": 0,
       "podiums": 0,
       "top10": 0,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 60.0,
       "division": "MPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -13060,9 +13279,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 60.0,
+          "weighted": 16.0,
           "wins": 0
         },
         "a_tier": {
@@ -13072,9 +13291,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 2,
-          "points": 240.0,
-          "weighted": 8.0,
+          "events": 1,
+          "points": 180.0,
+          "weighted": 4.0,
           "wins": 0
         },
         "c_tier": {
@@ -13091,8 +13310,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 11,
           "pdga_points": 60.0
@@ -13134,7 +13353,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 40,
-      "weighted_rank": 177,
+      "weighted_rank": 114,
       "country_rank": 19
     },
     {
@@ -13260,7 +13479,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 41,
-      "weighted_rank": 111,
+      "weighted_rank": 115,
       "country_rank": 3
     },
     {
@@ -13401,7 +13620,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 42,
-      "weighted_rank": 65,
+      "weighted_rank": 68,
       "country_rank": 4
     },
     {
@@ -13603,7 +13822,7 @@
         "delta_pct": 88.9
       },
       "pdga_rank": 43,
-      "weighted_rank": 47,
+      "weighted_rank": 49,
       "country_rank": 2
     },
     {
@@ -13617,13 +13836,13 @@
       "city": "Sumida-ku",
       "nationality": "",
       "pdga_points": 217.5,
-      "tour_weighted_points": 21.5,
+      "tour_weighted_points": 74.0,
       "events_played": 2,
       "wins": 0,
       "podiums": 0,
       "top10": 1,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 112.5,
       "division": "MPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -13640,9 +13859,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 112.5,
+          "weighted": 70.0,
           "wins": 0
         },
         "a_tier": {
@@ -13652,9 +13871,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 2,
-          "points": 217.5,
-          "weighted": 21.5,
+          "events": 1,
+          "points": 105.0,
+          "weighted": 4.0,
           "wins": 0
         },
         "c_tier": {
@@ -13671,8 +13890,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 4,
           "pdga_points": 112.5
@@ -13774,7 +13993,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 44,
-      "weighted_rank": 107,
+      "weighted_rank": 53,
       "country_rank": 20
     },
     {
@@ -13981,7 +14200,7 @@
         "delta_pct": 144.4
       },
       "pdga_rank": 45,
-      "weighted_rank": 33,
+      "weighted_rank": 34,
       "country_rank": 3
     },
     {
@@ -14140,7 +14359,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 46,
-      "weighted_rank": 167,
+      "weighted_rank": 173,
       "country_rank": 2
     },
     {
@@ -14154,13 +14373,13 @@
       "city": "Machida-shi",
       "nationality": "",
       "pdga_points": 198.0,
-      "tour_weighted_points": 305.0,
+      "tour_weighted_points": 387.5,
       "events_played": 8,
       "wins": 2,
       "podiums": 8,
       "top10": 8,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 22.5,
       "division": "FPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -14177,9 +14396,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 22.5,
+          "weighted": 110.0,
           "wins": 0
         },
         "a_tier": {
@@ -14189,9 +14408,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 8,
-          "points": 198.0,
-          "weighted": 305.0,
+          "events": 7,
+          "points": 175.5,
+          "weighted": 277.5,
           "wins": 2
         },
         "c_tier": {
@@ -14208,8 +14427,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 3,
           "pdga_points": 22.5
@@ -14383,7 +14602,7 @@
         "delta_pct": 38.9
       },
       "pdga_rank": 47,
-      "weighted_rank": 12,
+      "weighted_rank": 10,
       "country_rank": 21
     },
     {
@@ -14542,7 +14761,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 48,
-      "weighted_rank": 22
+      "weighted_rank": 24
     },
     {
       "pdga": 108524,
@@ -14712,7 +14931,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 49,
-      "weighted_rank": 64,
+      "weighted_rank": 66,
       "country_rank": 1
     },
     {
@@ -14883,7 +15102,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 50,
-      "weighted_rank": 49
+      "weighted_rank": 50
     },
     {
       "pdga": 45971,
@@ -15041,7 +15260,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 51,
-      "weighted_rank": 23
+      "weighted_rank": 25
     },
     {
       "pdga": 37919,
@@ -15199,7 +15418,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 52,
-      "weighted_rank": 54
+      "weighted_rank": 55
     },
     {
       "pdga": 194840,
@@ -15369,7 +15588,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 53,
-      "weighted_rank": 62
+      "weighted_rank": 64
     },
     {
       "pdga": 80074,
@@ -15527,7 +15746,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 54,
-      "weighted_rank": 204
+      "weighted_rank": 206
     },
     {
       "pdga": 101832,
@@ -15697,7 +15916,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 55,
-      "weighted_rank": 87,
+      "weighted_rank": 91,
       "country_rank": 5
     },
     {
@@ -15868,7 +16087,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 56,
-      "weighted_rank": 201,
+      "weighted_rank": 203,
       "country_rank": 22
     },
     {
@@ -16087,7 +16306,7 @@
         "delta_pct": 46.7
       },
       "pdga_rank": 57,
-      "weighted_rank": 15,
+      "weighted_rank": 16,
       "country_rank": 23
     },
     {
@@ -16101,13 +16320,13 @@
       "city": "Chatan",
       "nationality": "United States",
       "pdga_points": 165.0,
-      "tour_weighted_points": 8.0,
+      "tour_weighted_points": 20.0,
       "events_played": 2,
       "wins": 0,
       "podiums": 0,
       "top10": 0,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 22.5,
       "division": "MPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -16124,9 +16343,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 22.5,
+          "weighted": 16.0,
           "wins": 0
         },
         "a_tier": {
@@ -16136,9 +16355,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 2,
-          "points": 165.0,
-          "weighted": 8.0,
+          "events": 1,
+          "points": 142.5,
+          "weighted": 4.0,
           "wins": 0
         },
         "c_tier": {
@@ -16155,8 +16374,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 16,
           "pdga_points": 22.5
@@ -16223,7 +16442,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 58,
-      "weighted_rank": 178,
+      "weighted_rank": 116,
       "country_rank": 24
     },
     {
@@ -16237,13 +16456,13 @@
       "city": "urasoe",
       "nationality": "",
       "pdga_points": 165.0,
-      "tour_weighted_points": 18.0,
+      "tour_weighted_points": 30.0,
       "events_played": 3,
       "wins": 0,
       "podiums": 0,
       "top10": 1,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 22.5,
       "division": "MPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -16260,9 +16479,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 22.5,
+          "weighted": 16.0,
           "wins": 0
         },
         "a_tier": {
@@ -16272,9 +16491,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 3,
-          "points": 165.0,
-          "weighted": 18.0,
+          "events": 2,
+          "points": 142.5,
+          "weighted": 14.0,
           "wins": 0
         },
         "c_tier": {
@@ -16291,8 +16510,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 16,
           "pdga_points": 22.5
@@ -16406,7 +16625,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 59,
-      "weighted_rank": 123,
+      "weighted_rank": 98,
       "country_rank": 25
     },
     {
@@ -16601,7 +16820,7 @@
         "delta_pct": 111.1
       },
       "pdga_rank": 60,
-      "weighted_rank": 95,
+      "weighted_rank": 100,
       "country_rank": 26
     },
     {
@@ -16760,7 +16979,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 61,
-      "weighted_rank": 69
+      "weighted_rank": 72
     },
     {
       "pdga": 8034,
@@ -16930,7 +17149,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 62,
-      "weighted_rank": 96,
+      "weighted_rank": 101,
       "country_rank": 27
     },
     {
@@ -17089,7 +17308,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 63,
-      "weighted_rank": 205,
+      "weighted_rank": 207,
       "country_rank": 28
     },
     {
@@ -17320,7 +17539,7 @@
         "delta_pct": 18.5
       },
       "pdga_rank": 64,
-      "weighted_rank": 13,
+      "weighted_rank": 14,
       "country_rank": 29
     },
     {
@@ -17479,7 +17698,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 65,
-      "weighted_rank": 126,
+      "weighted_rank": 131,
       "country_rank": 30
     },
     {
@@ -17650,7 +17869,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 66,
-      "weighted_rank": 179,
+      "weighted_rank": 182,
       "country_rank": 31
     },
     {
@@ -17739,7 +17958,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 67,
-      "weighted_rank": 70,
+      "weighted_rank": 73,
       "country_rank": 4
     },
     {
@@ -17853,7 +18072,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 68,
-      "weighted_rank": 71,
+      "weighted_rank": 74,
       "country_rank": 6
     },
     {
@@ -17867,13 +18086,13 @@
       "city": "New Taipei City (R.o.c.)",
       "nationality": "",
       "pdga_points": 139.5,
-      "tour_weighted_points": 637.5,
+      "tour_weighted_points": 750.0,
       "events_played": 5,
       "wins": 3,
       "podiums": 5,
       "top10": 5,
-      "asia_tour_events": 3,
-      "asia_tour_points": 85.5,
+      "asia_tour_events": 4,
+      "asia_tour_points": 112.5,
       "division": "FPO",
       "last_active": "09-Jan to 11-Jan-2026",
       "by_level": {
@@ -17890,9 +18109,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 3,
-          "points": 85.5,
-          "weighted": 550.0,
+          "events": 4,
+          "points": 112.5,
+          "weighted": 700.0,
           "wins": 2
         },
         "a_tier": {
@@ -17902,9 +18121,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 2,
-          "points": 54.0,
-          "weighted": 87.5,
+          "events": 1,
+          "points": 27.0,
+          "weighted": 50.0,
           "wins": 1
         },
         "c_tier": {
@@ -17957,8 +18176,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 2,
           "pdga_points": 27.0
@@ -18189,7 +18408,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 70,
-      "weighted_rank": 72,
+      "weighted_rank": 75,
       "country_rank": 7
     },
     {
@@ -18348,7 +18567,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 71,
-      "weighted_rank": 73,
+      "weighted_rank": 76,
       "country_rank": 8
     },
     {
@@ -18531,7 +18750,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 72,
-      "weighted_rank": 176,
+      "weighted_rank": 181,
       "country_rank": 32
     },
     {
@@ -18711,7 +18930,7 @@
         "delta_pct": -78.8
       },
       "pdga_rank": 73,
-      "weighted_rank": 104,
+      "weighted_rank": 108,
       "country_rank": 33
     },
     {
@@ -18817,7 +19036,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 74,
-      "weighted_rank": 88
+      "weighted_rank": 92
     },
     {
       "pdga": 242765,
@@ -18967,7 +19186,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 75,
-      "weighted_rank": 89
+      "weighted_rank": 93
     },
     {
       "pdga": 267726,
@@ -19125,7 +19344,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 76,
-      "weighted_rank": 74
+      "weighted_rank": 77
     },
     {
       "pdga": 317123,
@@ -19213,7 +19432,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 77,
-      "weighted_rank": 206
+      "weighted_rank": 208
     },
     {
       "pdga": 130789,
@@ -19351,7 +19570,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 78,
-      "weighted_rank": 131
+      "weighted_rank": 135
     },
     {
       "pdga": 195586,
@@ -19506,7 +19725,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 79,
-      "weighted_rank": 180,
+      "weighted_rank": 183,
       "country_rank": 34
     },
     {
@@ -19665,7 +19884,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 80,
-      "weighted_rank": 207
+      "weighted_rank": 209
     },
     {
       "pdga": 193679,
@@ -19835,7 +20054,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 81,
-      "weighted_rank": 181,
+      "weighted_rank": 184,
       "country_rank": 35
     },
     {
@@ -20018,7 +20237,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 82,
-      "weighted_rank": 124,
+      "weighted_rank": 129,
       "country_rank": 36
     },
     {
@@ -20189,7 +20408,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 83,
-      "weighted_rank": 182,
+      "weighted_rank": 185,
       "country_rank": 37
     },
     {
@@ -20408,7 +20627,7 @@
         "delta_pct": 36.4
       },
       "pdga_rank": 84,
-      "weighted_rank": 34,
+      "weighted_rank": 35,
       "country_rank": 38
     },
     {
@@ -20529,7 +20748,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 85,
-      "weighted_rank": 90,
+      "weighted_rank": 94,
       "country_rank": 1
     },
     {
@@ -20543,13 +20762,13 @@
       "city": "New Taipei City",
       "nationality": "",
       "pdga_points": 112.5,
-      "tour_weighted_points": 670.0,
+      "tour_weighted_points": 820.0,
       "events_played": 5,
       "wins": 3,
       "podiums": 4,
       "top10": 5,
-      "asia_tour_events": 4,
-      "asia_tour_points": 81.0,
+      "asia_tour_events": 5,
+      "asia_tour_points": 112.5,
       "division": "FPO",
       "last_active": "09-Jan to 11-Jan-2026",
       "by_level": {
@@ -20566,10 +20785,10 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 4,
-          "points": 81.0,
-          "weighted": 620.0,
-          "wins": 2
+          "events": 5,
+          "points": 112.5,
+          "weighted": 820.0,
+          "wins": 3
         },
         "a_tier": {
           "events": 0,
@@ -20578,10 +20797,10 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 1,
-          "points": 31.5,
-          "weighted": 50.0,
-          "wins": 1
+          "events": 0,
+          "points": 0.0,
+          "weighted": 0.0,
+          "wins": 0
         },
         "c_tier": {
           "events": 0,
@@ -20645,8 +20864,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 1,
           "pdga_points": 31.5
@@ -20895,7 +21114,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 87,
-      "weighted_rank": 81
+      "weighted_rank": 85
     },
     {
       "pdga": 241396,
@@ -21020,7 +21239,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 88,
-      "weighted_rank": 159,
+      "weighted_rank": 165,
       "country_rank": 39
     },
     {
@@ -21179,7 +21398,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 89,
-      "weighted_rank": 168,
+      "weighted_rank": 174,
       "country_rank": 40
     },
     {
@@ -21350,7 +21569,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 90,
-      "weighted_rank": 161
+      "weighted_rank": 167
     },
     {
       "pdga": 129558,
@@ -21498,7 +21717,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 91,
-      "weighted_rank": 132,
+      "weighted_rank": 136,
       "country_rank": 2
     },
     {
@@ -21657,7 +21876,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 92,
-      "weighted_rank": 133,
+      "weighted_rank": 137,
       "country_rank": 9
     },
     {
@@ -21786,7 +22005,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 93,
-      "weighted_rank": 169
+      "weighted_rank": 175
     },
     {
       "pdga": 272969,
@@ -21916,7 +22135,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 94,
-      "weighted_rank": 183,
+      "weighted_rank": 186,
       "country_rank": 41
     },
     {
@@ -22087,7 +22306,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 95,
-      "weighted_rank": 112,
+      "weighted_rank": 117,
       "country_rank": 42
     },
     {
@@ -22265,7 +22484,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 96,
-      "weighted_rank": 125,
+      "weighted_rank": 130,
       "country_rank": 43
     },
     {
@@ -22424,7 +22643,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 97,
-      "weighted_rank": 170,
+      "weighted_rank": 176,
       "country_rank": 44
     },
     {
@@ -22595,7 +22814,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 98,
-      "weighted_rank": 113,
+      "weighted_rank": 118,
       "country_rank": 3
     },
     {
@@ -22778,7 +22997,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 99,
-      "weighted_rank": 162,
+      "weighted_rank": 168,
       "country_rank": 45
     },
     {
@@ -22997,7 +23216,7 @@
         "delta_pct": -35.9
       },
       "pdga_rank": 100,
-      "weighted_rank": 21,
+      "weighted_rank": 22,
       "country_rank": 46
     },
     {
@@ -23106,7 +23325,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 101,
-      "weighted_rank": 134,
+      "weighted_rank": 138,
       "country_rank": 7
     },
     {
@@ -23254,7 +23473,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 102,
-      "weighted_rank": 86,
+      "weighted_rank": 90,
       "country_rank": 3
     },
     {
@@ -23413,7 +23632,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 103,
-      "weighted_rank": 135,
+      "weighted_rank": 139,
       "country_rank": 10
     },
     {
@@ -23562,7 +23781,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 104,
-      "weighted_rank": 97,
+      "weighted_rank": 102,
       "country_rank": 47
     },
     {
@@ -23721,7 +23940,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 105,
-      "weighted_rank": 171
+      "weighted_rank": 177
     },
     {
       "pdga": 94380,
@@ -23891,7 +24110,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 106,
-      "weighted_rank": 184,
+      "weighted_rank": 187,
       "country_rank": 48
     },
     {
@@ -24050,7 +24269,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 107,
-      "weighted_rank": 208,
+      "weighted_rank": 210,
       "country_rank": 49
     },
     {
@@ -24169,7 +24388,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 108,
-      "weighted_rank": 136,
+      "weighted_rank": 140,
       "country_rank": 8
     },
     {
@@ -24352,7 +24571,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 109,
-      "weighted_rank": 103,
+      "weighted_rank": 107,
       "country_rank": 2
     },
     {
@@ -24491,7 +24710,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 110,
-      "weighted_rank": 209,
+      "weighted_rank": 211,
       "country_rank": 50
     },
     {
@@ -24662,7 +24881,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 111,
-      "weighted_rank": 202,
+      "weighted_rank": 204,
       "country_rank": 51
     },
     {
@@ -24821,7 +25040,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 112,
-      "weighted_rank": 172,
+      "weighted_rank": 178,
       "country_rank": 52
     },
     {
@@ -24975,7 +25194,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 113,
-      "weighted_rank": 210,
+      "weighted_rank": 212,
       "country_rank": 53
     },
     {
@@ -25126,7 +25345,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 114,
-      "weighted_rank": 130
+      "weighted_rank": 134
     },
     {
       "pdga": 73124,
@@ -25284,7 +25503,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 115,
-      "weighted_rank": 137
+      "weighted_rank": 141
     },
     {
       "pdga": 276833,
@@ -25407,7 +25626,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 116,
-      "weighted_rank": 138,
+      "weighted_rank": 142,
       "country_rank": 11
     },
     {
@@ -25566,7 +25785,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 117,
-      "weighted_rank": 211,
+      "weighted_rank": 213,
       "country_rank": 54
     },
     {
@@ -25749,7 +25968,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 118,
-      "weighted_rank": 108,
+      "weighted_rank": 111,
       "country_rank": 4
     },
     {
@@ -25915,7 +26134,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 119,
-      "weighted_rank": 92
+      "weighted_rank": 96
     },
     {
       "pdga": 318854,
@@ -26003,7 +26222,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 120,
-      "weighted_rank": 139,
+      "weighted_rank": 143,
       "country_rank": 9
     },
     {
@@ -26107,7 +26326,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 121,
-      "weighted_rank": 140,
+      "weighted_rank": 144,
       "country_rank": 10
     },
     {
@@ -26326,7 +26545,7 @@
         "delta_pct": 50.0
       },
       "pdga_rank": 122,
-      "weighted_rank": 38,
+      "weighted_rank": 40,
       "country_rank": 55
     },
     {
@@ -26425,7 +26644,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 123,
-      "weighted_rank": 141,
+      "weighted_rank": 145,
       "country_rank": 12
     },
     {
@@ -26556,7 +26775,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 124,
-      "weighted_rank": 203,
+      "weighted_rank": 205,
       "country_rank": 11
     },
     {
@@ -26715,7 +26934,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 125,
-      "weighted_rank": 191
+      "weighted_rank": 193
     },
     {
       "pdga": 317401,
@@ -26728,13 +26947,13 @@
       "city": "Yogi",
       "nationality": "",
       "pdga_points": 60.0,
-      "tour_weighted_points": 4.0,
+      "tour_weighted_points": 16.0,
       "events_played": 1,
       "wins": 0,
       "podiums": 0,
       "top10": 0,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 60.0,
       "division": "MPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -26751,9 +26970,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 60.0,
+          "weighted": 16.0,
           "wins": 0
         },
         "a_tier": {
@@ -26763,9 +26982,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 1,
-          "points": 60.0,
-          "weighted": 4.0,
+          "events": 0,
+          "points": 0.0,
+          "weighted": 0.0,
           "wins": 0
         },
         "c_tier": {
@@ -26782,8 +27001,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 11,
           "pdga_points": 60.0
@@ -26803,7 +27022,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 126,
-      "weighted_rank": 212,
+      "weighted_rank": 146,
       "country_rank": 56
     },
     {
@@ -26937,7 +27156,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 127,
-      "weighted_rank": 142,
+      "weighted_rank": 147,
       "country_rank": 13
     },
     {
@@ -27076,7 +27295,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 128,
-      "weighted_rank": 143,
+      "weighted_rank": 148,
       "country_rank": 14
     },
     {
@@ -27235,7 +27454,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 129,
-      "weighted_rank": 173,
+      "weighted_rank": 179,
       "country_rank": 57
     },
     {
@@ -27394,7 +27613,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 130,
-      "weighted_rank": 213
+      "weighted_rank": 214
     },
     {
       "pdga": 298615,
@@ -27537,7 +27756,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 131,
-      "weighted_rank": 174,
+      "weighted_rank": 180,
       "country_rank": 58
     },
     {
@@ -27646,7 +27865,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 132,
-      "weighted_rank": 214,
+      "weighted_rank": 215,
       "country_rank": 59
     },
     {
@@ -27806,7 +28025,7 @@
         "delta_pct": -33.3
       },
       "pdga_rank": 133,
-      "weighted_rank": 94,
+      "weighted_rank": 99,
       "country_rank": 5
     },
     {
@@ -27820,13 +28039,13 @@
       "city": "Kaohsiung",
       "nationality": "",
       "pdga_points": 58.5,
-      "tour_weighted_points": 157.5,
+      "tour_weighted_points": 210.0,
       "events_played": 3,
       "wins": 0,
       "podiums": 0,
       "top10": 3,
-      "asia_tour_events": 2,
-      "asia_tour_points": 40.5,
+      "asia_tour_events": 3,
+      "asia_tour_points": 58.5,
       "division": "FPO",
       "last_active": "09-Jan to 11-Jan-2026",
       "by_level": {
@@ -27843,9 +28062,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 2,
-          "points": 40.5,
-          "weighted": 140.0,
+          "events": 3,
+          "points": 58.5,
+          "weighted": 210.0,
           "wins": 0
         },
         "a_tier": {
@@ -27855,9 +28074,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 1,
-          "points": 18.0,
-          "weighted": 17.5,
+          "events": 0,
+          "points": 0.0,
+          "weighted": 0.0,
           "wins": 0
         },
         "c_tier": {
@@ -27898,8 +28117,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 4,
           "pdga_points": 18.0
@@ -27949,7 +28168,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 134,
-      "weighted_rank": 26,
+      "weighted_rank": 20,
       "country_rank": 12
     },
     {
@@ -28112,7 +28331,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 135,
-      "weighted_rank": 63,
+      "weighted_rank": 65,
       "country_rank": 15
     },
     {
@@ -28221,7 +28440,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 136,
-      "weighted_rank": 192
+      "weighted_rank": 194
     },
     {
       "pdga": 62198,
@@ -28379,7 +28598,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 137,
-      "weighted_rank": 114
+      "weighted_rank": 119
     },
     {
       "pdga": 3603,
@@ -28392,13 +28611,13 @@
       "city": "Itabashi-ku",
       "nationality": "",
       "pdga_points": 52.5,
-      "tour_weighted_points": 155.0,
+      "tour_weighted_points": 185.0,
       "events_played": 8,
       "wins": 1,
       "podiums": 2,
       "top10": 8,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 9.0,
       "division": "FPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -28415,9 +28634,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 9.0,
+          "weighted": 40.0,
           "wins": 0
         },
         "a_tier": {
@@ -28427,9 +28646,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 7,
-          "points": 49.5,
-          "weighted": 140.0,
+          "events": 6,
+          "points": 40.5,
+          "weighted": 130.0,
           "wins": 1
         },
         "c_tier": {
@@ -28446,8 +28665,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 6,
           "pdga_points": 9.0
@@ -28621,7 +28840,7 @@
         "delta_pct": -23.6
       },
       "pdga_rank": 138,
-      "weighted_rank": 27,
+      "weighted_rank": 26,
       "country_rank": 60
     },
     {
@@ -28780,7 +28999,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 139,
-      "weighted_rank": 215
+      "weighted_rank": 216
     },
     {
       "pdga": 211257,
@@ -28918,7 +29137,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 140,
-      "weighted_rank": 193,
+      "weighted_rank": 195,
       "country_rank": 16
     },
     {
@@ -29052,7 +29271,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 141,
-      "weighted_rank": 153
+      "weighted_rank": 159
     },
     {
       "pdga": 56593,
@@ -29258,7 +29477,7 @@
         "delta_pct": 200.0
       },
       "pdga_rank": 142,
-      "weighted_rank": 24,
+      "weighted_rank": 27,
       "country_rank": 3
     },
     {
@@ -29462,7 +29681,7 @@
         "delta_pct": 28.6
       },
       "pdga_rank": 143,
-      "weighted_rank": 11,
+      "weighted_rank": 12,
       "country_rank": 6
     },
     {
@@ -29593,7 +29812,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 144,
-      "weighted_rank": 100,
+      "weighted_rank": 105,
       "country_rank": 7
     },
     {
@@ -29697,7 +29916,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 145,
-      "weighted_rank": 144,
+      "weighted_rank": 149,
       "country_rank": 17
     },
     {
@@ -29856,7 +30075,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 146,
-      "weighted_rank": 216,
+      "weighted_rank": 217,
       "country_rank": 61
     },
     {
@@ -30015,7 +30234,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 147,
-      "weighted_rank": 217,
+      "weighted_rank": 218,
       "country_rank": 62
     },
     {
@@ -30186,7 +30405,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 148,
-      "weighted_rank": 160
+      "weighted_rank": 166
     },
     {
       "pdga": 55234,
@@ -30368,7 +30587,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 149,
-      "weighted_rank": 5
+      "weighted_rank": 7
     },
     {
       "pdga": 227437,
@@ -30528,7 +30747,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 150,
-      "weighted_rank": 51,
+      "weighted_rank": 52,
       "country_rank": 18
     },
     {
@@ -30699,7 +30918,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 151,
-      "weighted_rank": 98,
+      "weighted_rank": 103,
       "country_rank": 63
     },
     {
@@ -30858,7 +31077,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 152,
-      "weighted_rank": 127,
+      "weighted_rank": 132,
       "country_rank": 64
     },
     {
@@ -31017,7 +31236,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 153,
-      "weighted_rank": 194
+      "weighted_rank": 196
     },
     {
       "pdga": 84194,
@@ -31175,7 +31394,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 154,
-      "weighted_rank": 195
+      "weighted_rank": 197
     },
     {
       "pdga": 73973,
@@ -31333,7 +31552,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 155,
-      "weighted_rank": 115,
+      "weighted_rank": 120,
       "country_rank": 2
     },
     {
@@ -31457,7 +31676,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 156,
-      "weighted_rank": 145,
+      "weighted_rank": 150,
       "country_rank": 13
     },
     {
@@ -31571,7 +31790,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 157,
-      "weighted_rank": 146,
+      "weighted_rank": 151,
       "country_rank": 19
     },
     {
@@ -31730,7 +31949,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 158,
-      "weighted_rank": 147,
+      "weighted_rank": 152,
       "country_rank": 8
     },
     {
@@ -31744,13 +31963,13 @@
       "city": "",
       "nationality": "",
       "pdga_points": 37.5,
-      "tour_weighted_points": 4.0,
+      "tour_weighted_points": 16.0,
       "events_played": 1,
       "wins": 0,
       "podiums": 0,
       "top10": 0,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 37.5,
       "division": "MPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -31767,9 +31986,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 37.5,
+          "weighted": 16.0,
           "wins": 0
         },
         "a_tier": {
@@ -31779,9 +31998,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 1,
-          "points": 37.5,
-          "weighted": 4.0,
+          "events": 0,
+          "points": 0.0,
+          "weighted": 0.0,
           "wins": 0
         },
         "c_tier": {
@@ -31798,8 +32017,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 14,
           "pdga_points": 37.5
@@ -31824,7 +32043,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 159,
-      "weighted_rank": 218,
+      "weighted_rank": 153,
       "country_rank": 65
     },
     {
@@ -31838,13 +32057,13 @@
       "city": "Apo",
       "nationality": "",
       "pdga_points": 37.5,
-      "tour_weighted_points": 8.0,
+      "tour_weighted_points": 20.0,
       "events_played": 2,
       "wins": 0,
       "podiums": 0,
       "top10": 0,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 7.5,
       "division": "MPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -31861,9 +32080,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 7.5,
+          "weighted": 16.0,
           "wins": 0
         },
         "a_tier": {
@@ -31873,9 +32092,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 2,
-          "points": 37.5,
-          "weighted": 8.0,
+          "events": 1,
+          "points": 30.0,
+          "weighted": 4.0,
           "wins": 0
         },
         "c_tier": {
@@ -31892,8 +32111,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 18,
           "pdga_points": 7.5
@@ -31960,7 +32179,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 160,
-      "weighted_rank": 185,
+      "weighted_rank": 121,
       "country_rank": 66
     },
     {
@@ -32079,7 +32298,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 161,
-      "weighted_rank": 148,
+      "weighted_rank": 154,
       "country_rank": 20
     },
     {
@@ -32233,7 +32452,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 162,
-      "weighted_rank": 40,
+      "weighted_rank": 42,
       "country_rank": 21
     },
     {
@@ -32354,7 +32573,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 163,
-      "weighted_rank": 116,
+      "weighted_rank": 122,
       "country_rank": 67
     },
     {
@@ -32537,7 +32756,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 164,
-      "weighted_rank": 109,
+      "weighted_rank": 112,
       "country_rank": 9
     },
     {
@@ -32691,7 +32910,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 165,
-      "weighted_rank": 154,
+      "weighted_rank": 160,
       "country_rank": 3
     },
     {
@@ -32850,7 +33069,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 166,
-      "weighted_rank": 149,
+      "weighted_rank": 155,
       "country_rank": 4
     },
     {
@@ -33016,7 +33235,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 167,
-      "weighted_rank": 117,
+      "weighted_rank": 123,
       "country_rank": 5
     },
     {
@@ -33175,7 +33394,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 168,
-      "weighted_rank": 196
+      "weighted_rank": 198
     },
     {
       "pdga": 203384,
@@ -33333,7 +33552,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 169,
-      "weighted_rank": 28
+      "weighted_rank": 29
     },
     {
       "pdga": 8071,
@@ -33662,7 +33881,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 171,
-      "weighted_rank": 186,
+      "weighted_rank": 188,
       "country_rank": 69
     },
     {
@@ -34042,7 +34261,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 174,
-      "weighted_rank": 101,
+      "weighted_rank": 106,
       "country_rank": 10
     },
     {
@@ -34151,7 +34370,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 175,
-      "weighted_rank": 55,
+      "weighted_rank": 56,
       "country_rank": 22
     },
     {
@@ -34469,7 +34688,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 177,
-      "weighted_rank": 118
+      "weighted_rank": 124
     },
     {
       "pdga": 205538,
@@ -34639,7 +34858,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 178,
-      "weighted_rank": 105,
+      "weighted_rank": 109,
       "country_rank": 12
     },
     {
@@ -34728,7 +34947,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 179,
-      "weighted_rank": 187,
+      "weighted_rank": 189,
       "country_rank": 4
     },
     {
@@ -34839,7 +35058,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 180,
-      "weighted_rank": 122
+      "weighted_rank": 128
     },
     {
       "pdga": 277122,
@@ -34972,7 +35191,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 181,
-      "weighted_rank": 119,
+      "weighted_rank": 125,
       "country_rank": 13
     },
     {
@@ -35591,7 +35810,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 186,
-      "weighted_rank": 56,
+      "weighted_rank": 57,
       "country_rank": 2
     },
     {
@@ -35705,7 +35924,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 187,
-      "weighted_rank": 155,
+      "weighted_rank": 161,
       "country_rank": 14
     },
     {
@@ -36132,7 +36351,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 190,
-      "weighted_rank": 41,
+      "weighted_rank": 43,
       "country_rank": 14
     },
     {
@@ -36461,7 +36680,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 192,
-      "weighted_rank": 75,
+      "weighted_rank": 78,
       "country_rank": 24
     },
     {
@@ -36620,7 +36839,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 193,
-      "weighted_rank": 82,
+      "weighted_rank": 86,
       "country_rank": 74
     },
     {
@@ -36779,7 +36998,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 194,
-      "weighted_rank": 83
+      "weighted_rank": 87
     },
     {
       "pdga": 201852,
@@ -36937,7 +37156,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 195,
-      "weighted_rank": 197
+      "weighted_rank": 199
     },
     {
       "pdga": 295332,
@@ -37055,7 +37274,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 196,
-      "weighted_rank": 57,
+      "weighted_rank": 58,
       "country_rank": 3
     },
     {
@@ -37154,7 +37373,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 197,
-      "weighted_rank": 150,
+      "weighted_rank": 156,
       "country_rank": 25
     },
     {
@@ -37448,7 +37667,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 200,
-      "weighted_rank": 163,
+      "weighted_rank": 169,
       "country_rank": 15
     },
     {
@@ -37607,7 +37826,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 201,
-      "weighted_rank": 164
+      "weighted_rank": 170
     },
     {
       "pdga": 75552,
@@ -37924,7 +38143,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 203,
-      "weighted_rank": 120
+      "weighted_rank": 126
     },
     {
       "pdga": 129024,
@@ -38031,13 +38250,13 @@
       "city": "Urasoe-shi",
       "nationality": "",
       "pdga_points": 13.5,
-      "tour_weighted_points": 17.5,
+      "tour_weighted_points": 70.0,
       "events_played": 1,
       "wins": 0,
       "podiums": 0,
       "top10": 1,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 13.5,
       "division": "FPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -38054,9 +38273,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 13.5,
+          "weighted": 70.0,
           "wins": 0
         },
         "a_tier": {
@@ -38066,9 +38285,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 1,
-          "points": 13.5,
-          "weighted": 17.5,
+          "events": 0,
+          "points": 0.0,
+          "weighted": 0.0,
           "wins": 0
         },
         "c_tier": {
@@ -38085,8 +38304,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 5,
           "pdga_points": 13.5
@@ -38111,7 +38330,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 205,
-      "weighted_rank": 128,
+      "weighted_rank": 59,
       "country_rank": 77
     },
     {
@@ -38240,7 +38459,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 206,
-      "weighted_rank": 76,
+      "weighted_rank": 79,
       "country_rank": 26
     },
     {
@@ -38351,7 +38570,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 207,
-      "weighted_rank": 99,
+      "weighted_rank": 104,
       "country_rank": 78
     },
     {
@@ -38510,7 +38729,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 208,
-      "weighted_rank": 29
+      "weighted_rank": 30
     },
     {
       "pdga": 110155,
@@ -38668,7 +38887,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 209,
-      "weighted_rank": 198
+      "weighted_rank": 200
     },
     {
       "pdga": 252830,
@@ -38816,7 +39035,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 210,
-      "weighted_rank": 77,
+      "weighted_rank": 80,
       "country_rank": 4
     },
     {
@@ -39094,7 +39313,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 212,
-      "weighted_rank": 188,
+      "weighted_rank": 190,
       "country_rank": 18
     },
     {
@@ -39243,7 +39462,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 213,
-      "weighted_rank": 165,
+      "weighted_rank": 171,
       "country_rank": 19
     },
     {
@@ -39767,7 +39986,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 217,
-      "weighted_rank": 42,
+      "weighted_rank": 44,
       "country_rank": 20
     },
     {
@@ -39861,7 +40080,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 218,
-      "weighted_rank": 78,
+      "weighted_rank": 81,
       "country_rank": 27
     },
     {
@@ -39960,7 +40179,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 219,
-      "weighted_rank": 129,
+      "weighted_rank": 133,
       "country_rank": 80
     },
     {
@@ -40218,7 +40437,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 221,
-      "weighted_rank": 156,
+      "weighted_rank": 162,
       "country_rank": 5
     },
     {
@@ -40377,7 +40596,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 222,
-      "weighted_rank": 151,
+      "weighted_rank": 157,
       "country_rank": 28
     },
     {
@@ -40536,7 +40755,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 223,
-      "weighted_rank": 152
+      "weighted_rank": 158
     },
     {
       "pdga": 299000,
@@ -40644,7 +40863,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 224,
-      "weighted_rank": 199,
+      "weighted_rank": 201,
       "country_rank": 29
     },
     {
@@ -40877,7 +41096,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 226,
-      "weighted_rank": 30,
+      "weighted_rank": 31,
       "country_rank": 6
     },
     {
@@ -40971,7 +41190,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 227,
-      "weighted_rank": 166,
+      "weighted_rank": 172,
       "country_rank": 21
     },
     {
@@ -41125,7 +41344,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 228,
-      "weighted_rank": 121,
+      "weighted_rank": 127,
       "country_rank": 6
     },
     {
@@ -41284,7 +41503,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 229,
-      "weighted_rank": 200
+      "weighted_rank": 202
     },
     {
       "pdga": 321395,
@@ -41535,7 +41754,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 231,
-      "weighted_rank": 189
+      "weighted_rank": 191
     },
     {
       "pdga": 309292,
@@ -41623,7 +41842,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 232,
-      "weighted_rank": 58,
+      "weighted_rank": 60,
       "country_rank": 22
     },
     {
@@ -41637,13 +41856,13 @@
       "city": "Taoyuan City",
       "nationality": "",
       "pdga_points": 4.5,
-      "tour_weighted_points": 10.0,
+      "tour_weighted_points": 40.0,
       "events_played": 1,
       "wins": 0,
       "podiums": 0,
       "top10": 1,
-      "asia_tour_events": 0,
-      "asia_tour_points": 0.0,
+      "asia_tour_events": 1,
+      "asia_tour_points": 4.5,
       "division": "FPO",
       "last_active": "06-Mar to 08-Mar-2026",
       "by_level": {
@@ -41660,9 +41879,9 @@
           "wins": 0
         },
         "asia_tour": {
-          "events": 0,
-          "points": 0.0,
-          "weighted": 0.0,
+          "events": 1,
+          "points": 4.5,
+          "weighted": 40.0,
           "wins": 0
         },
         "a_tier": {
@@ -41672,9 +41891,9 @@
           "wins": 0
         },
         "b_tier": {
-          "events": 1,
-          "points": 4.5,
-          "weighted": 10.0,
+          "events": 0,
+          "points": 0.0,
+          "weighted": 0.0,
           "wins": 0
         },
         "c_tier": {
@@ -41691,8 +41910,8 @@
           "dates": "06-Mar to 08-Mar-2026",
           "year": "2026",
           "tier": "B",
-          "level": "b_tier",
-          "is_asia_tour": false,
+          "level": "asia_tour",
+          "is_asia_tour": true,
           "location": "Kunigami-gun, Okinawa, Japan",
           "place": 7,
           "pdga_points": 4.5
@@ -41737,7 +41956,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 233,
-      "weighted_rank": 175,
+      "weighted_rank": 82,
       "country_rank": 15
     },
     {
@@ -41846,7 +42065,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 234,
-      "weighted_rank": 79,
+      "weighted_rank": 83,
       "country_rank": 30
     },
     {
@@ -42005,7 +42224,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 235,
-      "weighted_rank": 59
+      "weighted_rank": 61
     },
     {
       "pdga": 245499,
@@ -42163,7 +42382,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 236,
-      "weighted_rank": 43,
+      "weighted_rank": 45,
       "country_rank": 7
     },
     {
@@ -42257,7 +42476,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 237,
-      "weighted_rank": 190,
+      "weighted_rank": 192,
       "country_rank": 23
     },
     {
@@ -42351,7 +42570,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 238,
-      "weighted_rank": 157,
+      "weighted_rank": 163,
       "country_rank": 24
     },
     {
@@ -42510,7 +42729,7 @@
         "delta_pct": 0.0
       },
       "pdga_rank": 239,
-      "weighted_rank": 158,
+      "weighted_rank": 164,
       "country_rank": 8
     },
     {

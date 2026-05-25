@@ -1376,8 +1376,8 @@
     "dates": "06-Mar to 08-Mar-2026",
     "year": "2026",
     "tier": "B",
-    "level": "b_tier",
-    "is_asia_tour": false,
+    "level": "asia_tour",
+    "is_asia_tour": true,
     "status": "Event complete; official ratings processed.",
     "total_players": 75,
     "results": [
@@ -1389,7 +1389,7 @@
         "pdga_points": 135.0,
         "rating": 1009,
         "prize": "$314",
-        "weighted_points": 50.0
+        "weighted_points": 200.0
       },
       {
         "pdga": 8139,
@@ -1399,7 +1399,7 @@
         "pdga_points": 127.5,
         "rating": 1026,
         "prize": "$157",
-        "weighted_points": 37.5
+        "weighted_points": 150.0
       },
       {
         "pdga": 55052,
@@ -1409,7 +1409,7 @@
         "pdga_points": 120.0,
         "rating": 965,
         "prize": "$94",
-        "weighted_points": 27.5
+        "weighted_points": 110.0
       },
       {
         "pdga": 166436,
@@ -1419,7 +1419,7 @@
         "pdga_points": 112.5,
         "rating": 965,
         "prize": "$63",
-        "weighted_points": 17.5
+        "weighted_points": 70.0
       },
       {
         "pdga": 239872,
@@ -1429,7 +1429,7 @@
         "pdga_points": 105.0,
         "rating": 979,
         "prize": "$31",
-        "weighted_points": 17.5
+        "weighted_points": 70.0
       },
       {
         "pdga": 147116,
@@ -1439,7 +1439,7 @@
         "pdga_points": 97.5,
         "rating": 958,
         "prize": "",
-        "weighted_points": 10.0
+        "weighted_points": 40.0
       },
       {
         "pdga": 132871,
@@ -1449,7 +1449,7 @@
         "pdga_points": 90.0,
         "rating": 963,
         "prize": "",
-        "weighted_points": 10.0
+        "weighted_points": 40.0
       },
       {
         "pdga": 102802,
@@ -1459,7 +1459,7 @@
         "pdga_points": 82.5,
         "rating": 988,
         "prize": "",
-        "weighted_points": 10.0
+        "weighted_points": 40.0
       },
       {
         "pdga": 264509,
@@ -1469,7 +1469,7 @@
         "pdga_points": 82.5,
         "rating": 966,
         "prize": "",
-        "weighted_points": 10.0
+        "weighted_points": 40.0
       },
       {
         "pdga": 95059,
@@ -1479,7 +1479,7 @@
         "pdga_points": 67.5,
         "rating": 966,
         "prize": "",
-        "weighted_points": 10.0
+        "weighted_points": 40.0
       },
       {
         "pdga": 317401,
@@ -1489,7 +1489,7 @@
         "pdga_points": 60.0,
         "rating": null,
         "prize": "",
-        "weighted_points": 4.0
+        "weighted_points": 16.0
       },
       {
         "pdga": 315070,
@@ -1499,7 +1499,7 @@
         "pdga_points": 60.0,
         "rating": 917,
         "prize": "",
-        "weighted_points": 4.0
+        "weighted_points": 16.0
       },
       {
         "pdga": 156088,
@@ -1509,7 +1509,7 @@
         "pdga_points": 45.0,
         "rating": 960,
         "prize": "",
-        "weighted_points": 4.0
+        "weighted_points": 16.0
       },
       {
         "pdga": 310063,
@@ -1519,7 +1519,7 @@
         "pdga_points": 37.5,
         "rating": 808,
         "prize": "",
-        "weighted_points": 4.0
+        "weighted_points": 16.0
       },
       {
         "pdga": 273776,
@@ -1529,7 +1529,7 @@
         "pdga_points": 22.5,
         "rating": 912,
         "prize": "",
-        "weighted_points": 4.0
+        "weighted_points": 16.0
       },
       {
         "pdga": 115973,
@@ -1539,7 +1539,7 @@
         "pdga_points": 22.5,
         "rating": 933,
         "prize": "",
-        "weighted_points": 4.0
+        "weighted_points": 16.0
       },
       {
         "pdga": 243755,
@@ -1549,7 +1549,7 @@
         "pdga_points": 7.5,
         "rating": 857,
         "prize": "",
-        "weighted_points": 4.0
+        "weighted_points": 16.0
       },
       {
         "pdga": 133080,
@@ -1559,7 +1559,7 @@
         "pdga_points": 31.5,
         "rating": 893,
         "prize": "$188",
-        "weighted_points": 50.0
+        "weighted_points": 200.0
       },
       {
         "pdga": 43610,
@@ -1569,7 +1569,7 @@
         "pdga_points": 27.0,
         "rating": 931,
         "prize": "$94",
-        "weighted_points": 37.5
+        "weighted_points": 150.0
       },
       {
         "pdga": 102761,
@@ -1579,7 +1579,7 @@
         "pdga_points": 22.5,
         "rating": 911,
         "prize": "",
-        "weighted_points": 27.5
+        "weighted_points": 110.0
       },
       {
         "pdga": 275301,
@@ -1589,7 +1589,7 @@
         "pdga_points": 18.0,
         "rating": 887,
         "prize": "",
-        "weighted_points": 17.5
+        "weighted_points": 70.0
       },
       {
         "pdga": 257013,
@@ -1599,7 +1599,7 @@
         "pdga_points": 13.5,
         "rating": 776,
         "prize": "",
-        "weighted_points": 17.5
+        "weighted_points": 70.0
       },
       {
         "pdga": 3603,
@@ -1609,7 +1609,7 @@
         "pdga_points": 9.0,
         "rating": 851,
         "prize": "",
-        "weighted_points": 10.0
+        "weighted_points": 40.0
       },
       {
         "pdga": 252034,
@@ -1619,7 +1619,7 @@
         "pdga_points": 4.5,
         "rating": 792,
         "prize": "",
-        "weighted_points": 10.0
+        "weighted_points": 40.0
       }
     ]
   },
