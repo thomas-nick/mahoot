@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { AsiaHubFlagHero } from "@/app/asia/AsiaHubFlagHero";
@@ -40,16 +41,26 @@ export default function AsiaHubPage() {
             <li key={c.slug}>
               <Link
                 href={`/asia/${c.slug}`}
-                className="block rounded-2xl border border-slate-200/80 bg-white/90 p-4 shadow-sm transition hover:border-sky-200 hover:shadow-md"
+                className="flex items-start gap-3 rounded-2xl border border-slate-200/80 bg-white/90 p-4 shadow-sm transition hover:border-sky-200 hover:shadow-md"
               >
-                <span className="text-base font-semibold text-slate-900">{c.name}</span>
                 {c.iso2 ? (
-                  <span className="ml-2 text-xs font-medium text-slate-400">{c.iso2}</span>
+                  <div className="relative mt-0.5 h-8 w-12 shrink-0 overflow-hidden rounded border border-slate-200/80 shadow-sm">
+                    <Image
+                      src={`https://flagcdn.com/w160/${c.iso2.toLowerCase()}.png`}
+                      alt={`Flag of ${c.name}`}
+                      fill
+                      className="object-cover"
+                      sizes="48px"
+                    />
+                  </div>
                 ) : null}
-                <p className="mt-1 line-clamp-2 text-xs leading-snug text-slate-600">{c.narrative[0]}</p>
-                <span className="mt-2 inline-flex items-center text-sm font-medium text-sky-800">
-                  View hub <span className="ml-1" aria-hidden>→</span>
-                </span>
+                <div className="min-w-0 flex-1">
+                  <span className="text-base font-semibold text-slate-900">{c.name}</span>
+                  <p className="mt-1 line-clamp-2 text-xs leading-snug text-slate-600">{c.narrative[0]}</p>
+                  <span className="mt-2 inline-flex items-center text-sm font-medium text-sky-800">
+                    View hub <span className="ml-1" aria-hidden>→</span>
+                  </span>
+                </div>
               </Link>
             </li>
           ))}
