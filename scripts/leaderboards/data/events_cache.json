@@ -1,6 +1,14 @@
 {
   "aaron-gossage": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 11,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -103,6 +111,14 @@
   ],
   "abrahan-bahena": [
     {
+      "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
+      "event_key": "massive-graphics-presents-the-48th-annual-norman",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "6th Annual Mountain View Open presented by Innova",
       "event_key": "6th-annual-mountain-view-open-presented-by-innov",
       "month": "May",
@@ -200,6 +216,14 @@
     }
   ],
   "adam-hammes": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -327,6 +351,14 @@
     }
   ],
   "aidan-guthrie": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 106,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Earth Day at the Preserve - Pro",
       "event_key": "earth-day-at-the-preserve-pro",
@@ -525,6 +557,14 @@
   ],
   "alan-vazquez": [],
   "albert-tamm": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 59,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -809,6 +849,22 @@
   ],
   "alex-vonstade": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 39,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "OTB Open by MVP Disc Sports (Amateur)",
+      "event_key": "otb-open-by-mvp-disc-sports-amateur",
+      "month": "May",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "The Bomber Blast B-Tier presented by 76 El Dorado Hills Auto Care",
       "event_key": "the-bomber-blast-b-tier-presented-by-76-el-dorad",
       "month": "May",
@@ -1010,6 +1066,14 @@
   ],
   "amanda-lennartsson": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 20,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
       "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
       "month": "May",
@@ -1058,6 +1122,14 @@
     }
   ],
   "andrew-marwede": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -1157,6 +1229,14 @@
     }
   ],
   "andrew-miranda": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -1505,6 +1585,22 @@
   ],
   "annikenkristiansen-steen": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "NC 1 Open \u00d8ver\u00e5s - presented by Innova Champion Discs",
+      "event_key": "nc-1-open-ver-s-presented-by-innova-champion-dis",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA Champions Cup Presented by Vessi",
       "event_key": "2026-pdga-champions-cup-presented-by-vessi",
       "month": "Apr",
@@ -1621,6 +1717,14 @@
     }
   ],
   "anthony-barela": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -1906,6 +2010,14 @@
   ],
   "austin-turner": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -1991,6 +2103,14 @@
     }
   ],
   "ben-holding": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 80,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -2116,6 +2236,14 @@
     }
   ],
   "bennett-doemland": [
+    {
+      "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
+      "event_key": "massive-graphics-presents-the-48th-annual-norman",
+      "month": "May",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -2423,6 +2551,14 @@
   "bradley-baumgardner": [],
   "bradley-williams": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 14,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -2545,6 +2681,14 @@
     }
   ],
   "braeden-sides": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Prodigy presents the Lake Marshall Open- Pro",
       "event_key": "prodigy-presents-the-lake-marshall-open-pro",
@@ -2914,6 +3058,14 @@
   ],
   "calvin-heimburg": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -2996,6 +3148,14 @@
     }
   ],
   "calvin-lonnquist": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -3138,10 +3298,18 @@
   ],
   "cam-rico": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
-      "place": 64,
+      "place": 63,
       "tier": "A",
       "tour": ""
     },
@@ -3254,6 +3422,14 @@
     }
   ],
   "casey-white": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -3371,6 +3547,14 @@
     }
   ],
   "catrina-allen": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -3528,6 +3712,14 @@
     }
   ],
   "chandler-kramer": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -3836,6 +4028,14 @@
   "christian-byars": [],
   "clay-edwards": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
@@ -3983,6 +4183,14 @@
   ],
   "cody-kirkland": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 101,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
       "event_key": "otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -4071,6 +4279,14 @@
     }
   ],
   "cole-redalen": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -4162,6 +4378,14 @@
     }
   ],
   "colten-montgomery": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 72,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -4419,6 +4643,14 @@
   ],
   "corbin-milchesky": [
     {
+      "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
+      "event_key": "massive-graphics-presents-the-48th-annual-norman",
+      "month": "May",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT JomezPro - Innova presents WACO powered by Legit Disc Golf",
       "event_key": "jomezpro-innova-presents-waco-powered-by-legit-d",
       "month": "May",
@@ -4500,6 +4732,14 @@
     }
   ],
   "corey-ellis": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 11,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -4671,6 +4911,14 @@
   "daniel-perry": [],
   "daniel-pfaff": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 68,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 Beaver State Fling presented by Innova Champion Discs",
       "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
       "month": "May",
@@ -4729,6 +4977,14 @@
     }
   ],
   "danik-hart": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -4796,6 +5052,14 @@
     }
   ],
   "david-hurley": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 85,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 Tim Selinske United States Masters Disc Golf Championships",
       "event_key": "2026-tim-selinske-united-states-masters-disc-gol",
@@ -4930,6 +5194,14 @@
     }
   ],
   "drew-gibson": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -5098,6 +5370,14 @@
   ],
   "eagle-mcmahon": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 14,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "J719 Safari Series - Widefield",
       "event_key": "j719-safari-series-widefield",
       "month": "May",
@@ -5199,6 +5479,14 @@
     }
   ],
   "eli-swansen": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 50,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -5341,6 +5629,14 @@
   ],
   "eliezra-midtlyng": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -5455,6 +5751,14 @@
     }
   ],
   "elijah-bickel": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -5677,6 +5981,14 @@
   ],
   "ella-hansen": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -5793,6 +6105,14 @@
     }
   ],
   "elva-kate-preston": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 35,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Disc Party at Box End Park 2026",
       "event_key": "disc-party-at-box-end-park-2026",
@@ -5975,6 +6295,14 @@
   ],
   "emily-weatherman": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -6066,6 +6394,14 @@
   ],
   "emily-yale": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -6108,6 +6444,14 @@
     }
   ],
   "emmanuel-torres": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 61,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -6219,6 +6563,14 @@
     }
   ],
   "erika-stinchcomb": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 32,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -6408,6 +6760,14 @@
     }
   ],
   "evan-scott": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -6617,6 +6977,14 @@
   ],
   "ezra-aderhold": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -6683,6 +7051,14 @@
     }
   ],
   "ezra-hapner": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 86,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -6758,6 +7134,14 @@
     }
   ],
   "ezra-robinson": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -7084,6 +7468,14 @@
   ],
   "gannon-buhr": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
@@ -7176,6 +7568,14 @@
   "garrett-dknox": [],
   "garrett-gurthie": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 39,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -7250,6 +7650,14 @@
     }
   ],
   "gavin-babcock": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -7552,6 +7960,14 @@
     }
   ],
   "gt-hancock": [
+    {
+      "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
+      "event_key": "massive-graphics-presents-the-48th-annual-norman",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -8072,6 +8488,14 @@
   ],
   "heidi-laine": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -8321,6 +8745,14 @@
   ],
   "holyn-handley": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -8502,6 +8934,14 @@
     }
   ],
   "isaac-robinson": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -8767,6 +9207,14 @@
   ],
   "jacob-blair": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 88,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
@@ -8890,6 +9338,14 @@
   ],
   "jacob-courtis": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 77,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -8988,6 +9444,14 @@
     }
   ],
   "jaden-rye": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 11,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Frederiksen Insurance Open",
       "event_key": "frederiksen-insurance-open",
@@ -9144,6 +9608,14 @@
   ],
   "jake-hebenheimer": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 93,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -9226,6 +9698,14 @@
     }
   ],
   "jake-monn": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -9325,6 +9805,14 @@
     }
   ],
   "jakub-semerd": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 20,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -9450,6 +9938,14 @@
   "james-bennett": [],
   "james-collier": [],
   "james-conrad": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -9660,6 +10156,14 @@
   ],
   "jason-lawson": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 54,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Howling at The Den Supported by Innova",
       "event_key": "howling-at-the-den-supported-by-innova",
       "month": "May",
@@ -9854,10 +10358,18 @@
   ],
   "jeffrey-mccormick": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 107,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
-      "place": 65,
+      "place": 64,
       "tier": "A",
       "tour": ""
     },
@@ -9888,6 +10400,14 @@
     }
   ],
   "jennifer-allen": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 Tim Selinske United States Masters Disc Golf Championships",
       "event_key": "2026-tim-selinske-united-states-masters-disc-gol",
@@ -9947,6 +10467,14 @@
     }
   ],
   "jennifer-smiley": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 24,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -10062,6 +10590,14 @@
     }
   ],
   "jeremy-koling": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Innova presents WACO powered by Legit Disc Golf",
       "event_key": "jomezpro-innova-presents-waco-powered-by-legit-d",
@@ -10183,6 +10719,14 @@
   ],
   "jessica-gurthie": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -10260,6 +10804,14 @@
   "jimmy-martinez": [],
   "jj-campbell": [],
   "joe-carey": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 94,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -10432,6 +10984,14 @@
     }
   ],
   "joey-temali": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 61,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -10795,6 +11355,14 @@
   ],
   "joseph-anderson": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 32,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -10935,6 +11503,14 @@
     }
   ],
   "justin-bougher": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 80,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "The Bomber Blast B-Tier presented by 76 El Dorado Hills Auto Care",
       "event_key": "the-bomber-blast-b-tier-presented-by-76-el-dorad",
@@ -11101,6 +11677,14 @@
   ],
   "karissa-dedmon": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Mayhem at Martha McLean (CDGS event #5 - Sponsored by Innova)",
       "event_key": "mayhem-at-martha-mclean-cdgs-event-5-sponsored-b",
       "month": "May",
@@ -11159,6 +11743,14 @@
     }
   ],
   "kat-mertsch": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -11275,6 +11867,14 @@
   ],
   "katherine-aydelott-284553": [],
   "kelley-foster": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 27,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -11409,6 +12009,14 @@
   ],
   "kirby-snyder": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 72,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 Beaver State Fling presented by Innova Champion Discs",
       "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
       "month": "May",
@@ -11499,6 +12107,14 @@
     }
   ],
   "konastar-montgomery": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -12072,6 +12688,14 @@
   ],
   "levi-stout": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 39,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -12269,6 +12893,14 @@
   ],
   "lisa-fajkus": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
@@ -12360,6 +12992,14 @@
   ],
   "logan-plake": [],
   "logan-riding": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "The First Responders Open 6.0",
       "event_key": "the-first-responders-open-6-0",
@@ -12510,6 +13150,14 @@
   ],
   "lucas-carmichael": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 50,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Discraft's 303 Open Hosted by Visit Pueblo",
       "event_key": "discraft-s-303-open-hosted-by-visit-pueblo",
       "month": "May",
@@ -12609,6 +13257,14 @@
   ],
   "luke-humphries": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 64,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -12699,6 +13355,14 @@
     }
   ],
   "luke-samson": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 77,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -12822,6 +13486,14 @@
     }
   ],
   "luke-taylor": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -12982,6 +13654,22 @@
   ],
   "madison-tomaino": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "WGE: Free For All at Timber with Portland Disc Golf Women",
+      "event_key": "wge-free-for-all-at-timber-with-portland-disc-go",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "2026 Beaver State Fling presented by Innova Champion Discs",
       "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
       "month": "May",
@@ -13065,6 +13753,14 @@
   ],
   "madison-walker": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 22,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -13123,6 +13819,14 @@
     }
   ],
   "maria-oliva": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 32,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -13273,6 +13977,14 @@
   ],
   "martin-evans": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 90,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
       "event_key": "otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -13349,6 +14061,14 @@
     }
   ],
   "matt-bell": [
+    {
+      "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
+      "event_key": "massive-graphics-presents-the-48th-annual-norman",
+      "month": "May",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -13547,6 +14267,14 @@
     }
   ],
   "matthew-alexander": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -13756,6 +14484,14 @@
   ],
   "matthew-orum": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
@@ -13947,6 +14683,30 @@
   ],
   "maximus-meyer": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "The Ranch Feb. Friday Flex Presented by Disc Giant",
+      "event_key": "the-ranch-feb-friday-flex-presented-by-disc-gian",
+      "month": "Feb",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Feb. Friday Flex @ Lizard Presented by Disc Giant",
+      "event_key": "feb-friday-flex-lizard-presented-by-disc-giant",
+      "month": "Feb",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
       "event_key": "otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -13984,6 +14744,14 @@
   ],
   "micah-rousse-178069": [],
   "michael-arauza": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 86,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Sierra Spring Cup",
       "event_key": "sierra-spring-cup",
@@ -14124,6 +14892,14 @@
     }
   ],
   "missy-gannon": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -14278,6 +15054,14 @@
   ],
   "nate-toutolmin": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 74,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
@@ -14320,6 +15104,14 @@
     }
   ],
   "nathalie-ortiz": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -14493,6 +15285,14 @@
     }
   ],
   "nathan-sexton-1": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 Tim Selinske United States Masters Disc Golf Championships",
       "event_key": "2026-tim-selinske-united-states-masters-disc-gol",
@@ -15076,6 +15876,14 @@
   ],
   "noah-meintsma": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
@@ -15102,6 +15910,14 @@
     }
   ],
   "nolan-ramser": [
+    {
+      "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
+      "event_key": "massive-graphics-presents-the-48th-annual-norman",
+      "month": "May",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT JomezPro - Innova presents WACO powered by Legit Disc Golf",
       "event_key": "jomezpro-innova-presents-waco-powered-by-legit-d",
@@ -15176,6 +15992,14 @@
     }
   ],
   "ohn-scoggins": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -15326,6 +16150,14 @@
   ],
   "owen-hamilton": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 70,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Lake Chabot New Years Classic 2026",
       "event_key": "lake-chabot-new-years-classic-2026",
       "month": "Jan",
@@ -15402,6 +16234,14 @@
     }
   ],
   "paige-pierce": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -15486,6 +16326,14 @@
   ],
   "parker-austin": [],
   "parker-welck": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -15594,6 +16442,14 @@
   ],
   "paul-davidson": [],
   "paul-krans": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -15761,6 +16617,14 @@
     }
   ],
   "paul-ulibarri": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -15935,6 +16799,14 @@
   ],
   "ratana-mcmahon": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 41,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "J719 Post Safari Flex - Widefield",
       "event_key": "j719-post-safari-flex-widefield",
       "month": "May",
@@ -16026,6 +16898,14 @@
   ],
   "raven-klein": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 29,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -16092,6 +16972,14 @@
     }
   ],
   "raven-newsom": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 59,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -16281,6 +17169,14 @@
     }
   ],
   "rebecca-don": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -16512,6 +17408,14 @@
   "reese-petersen": [],
   "richard-wysocki": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -16578,6 +17482,14 @@
     }
   ],
   "robert-burridge": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 50,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -16847,6 +17759,14 @@
   ],
   "ryan-monn": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 98,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -17031,6 +17951,22 @@
   "samantha-bonacci": [],
   "samuel-aldrich": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 83,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Sierra Spring Cup",
+      "event_key": "sierra-spring-cup",
+      "month": "May",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
       "event_key": "otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -17190,6 +18126,22 @@
   ],
   "sawyer-barlow": [],
   "scott-adams": [
+    {
+      "event": "2026 Katy Days Open",
+      "event_key": "2026-katy-days-open",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
+      "event_key": "massive-graphics-presents-the-48th-annual-norman",
+      "month": "May",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 Eagle Classic Sponsored by Discmania",
       "event_key": "2026-eagle-classic-sponsored-by-discmania",
@@ -17438,6 +18390,14 @@
   ],
   "sias-elmore": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 80,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
@@ -17537,6 +18497,14 @@
   ],
   "silas-schultz": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -17612,6 +18580,14 @@
   ],
   "silva-saarinen": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -17681,6 +18657,14 @@
     }
   ],
   "simon-lizotte": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -17798,6 +18782,14 @@
     }
   ],
   "sofia-donnecke": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -18176,6 +19168,14 @@
   ],
   "taylor-chocek": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -18352,6 +19352,14 @@
   ],
   "thomas-tomaselli": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 90,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
@@ -18510,6 +19518,14 @@
     }
   ],
   "tim-denna": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 50,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -18775,6 +19791,14 @@
   ],
   "trevon-crowe": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 83,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -18948,6 +19972,14 @@
   ],
   "trinity-bryant": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 26,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -19015,6 +20047,14 @@
   ],
   "tristan-cook": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 77,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
@@ -19049,6 +20089,14 @@
     }
   ],
   "ty-love": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 41,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -19223,6 +20271,14 @@
   ],
   "vin-mkel": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 22,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
       "month": "Apr",
@@ -19265,6 +20321,14 @@
     }
   ],
   "violet-main": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -19418,6 +20482,14 @@
   "wynn-coggin": [],
   "xaelen-nash": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 70,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
@@ -19527,6 +20599,22 @@
     }
   ],
   "zach-arlinghaus": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "WGE - Lexington Open XXVIII powered by Bomb Discs and Prodigy",
+      "event_key": "wge-lexington-open-xxviii-powered-by-bomb-discs-",
+      "month": "May",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -19717,6 +20805,14 @@
   ],
   "zachary-nash": [
     {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "LowPutt Disc Golf Presents Brownwood Birdie Bash +WGE",
       "event_key": "lowputt-disc-golf-presents-brownwood-birdie-bash",
       "month": "May",
@@ -19900,6 +20996,14 @@
     }
   ],
   "zoe-andyke": [
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 29,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T18:24:48.485166+00:00",
+  "updated_at": "2026-05-26T16:38:39.334813+00:00",
   "divisions": {
     "MPO": {
       "weeks": [
@@ -252,49 +252,49 @@
               {
                 "id": "gannon-buhr",
                 "label": "Gannon Buhr",
-                "points": 1667.5,
+                "points": 1855.0,
                 "rank": 1
-              },
-              {
-                "id": "richard-wysocki",
-                "label": "Richard Wysocki",
-                "points": 820.0,
-                "rank": 2
               },
               {
                 "id": "calvin-heimburg",
                 "label": "Calvin Heimburg",
-                "points": 777.8,
+                "points": 1027.8,
+                "rank": 2
+              },
+              {
+                "id": "richard-wysocki",
+                "label": "Richard Wysocki",
+                "points": 840.0,
                 "rank": 3
               },
               {
                 "id": "isaac-robinson",
                 "label": "Isaac Robinson",
-                "points": 656.2,
+                "points": 706.2,
                 "rank": 4
+              },
+              {
+                "id": "adam-hammes",
+                "label": "Adam Hammes",
+                "points": 677.0,
+                "rank": 5
               },
               {
                 "id": "jaden-rye",
                 "label": "Jaden Rye",
-                "points": 655.5,
-                "rank": 5
+                "points": 675.5,
+                "rank": 6
               },
               {
                 "id": "niklas-anttila",
                 "label": "Niklas Anttila",
                 "points": 556.2,
-                "rank": 6
-              },
-              {
-                "id": "adam-hammes",
-                "label": "Adam Hammes",
-                "points": 539.5,
                 "rank": 7
               },
               {
-                "id": "evan-smith",
-                "label": "Evan Smith",
-                "points": 423.4,
+                "id": "anthony-barela",
+                "label": "Anthony Barela",
+                "points": 507.5,
                 "rank": 8
               }
             ]
@@ -313,32 +313,15 @@
               },
               {
                 "week": "2026-22",
-                "value": 1667.5,
+                "value": 1855.0,
                 "rank": 1
-              }
-            ]
-          },
-          {
-            "id": "richard-wysocki",
-            "label": "Richard Wysocki",
-            "color": "#dc2626",
-            "points": [
-              {
-                "week": "2026-20",
-                "value": 800.0,
-                "rank": 2
-              },
-              {
-                "week": "2026-22",
-                "value": 820.0,
-                "rank": 2
               }
             ]
           },
           {
             "id": "calvin-heimburg",
             "label": "Calvin Heimburg",
-            "color": "#059669",
+            "color": "#dc2626",
             "points": [
               {
                 "week": "2026-20",
@@ -347,7 +330,24 @@
               },
               {
                 "week": "2026-22",
-                "value": 777.8,
+                "value": 1027.8,
+                "rank": 2
+              }
+            ]
+          },
+          {
+            "id": "richard-wysocki",
+            "label": "Richard Wysocki",
+            "color": "#059669",
+            "points": [
+              {
+                "week": "2026-20",
+                "value": 800.0,
+                "rank": 2
+              },
+              {
+                "week": "2026-22",
+                "value": 840.0,
                 "rank": 3
               }
             ]
@@ -364,24 +364,24 @@
               },
               {
                 "week": "2026-22",
-                "value": 656.2,
+                "value": 706.2,
                 "rank": 4
               }
             ]
           },
           {
-            "id": "jaden-rye",
-            "label": "Jaden Rye",
+            "id": "adam-hammes",
+            "label": "Adam Hammes",
             "color": "#d97706",
             "points": [
               {
                 "week": "2026-20",
-                "value": null,
-                "rank": null
+                "value": 402.0,
+                "rank": 6
               },
               {
                 "week": "2026-22",
-                "value": 655.5,
+                "value": 677.0,
                 "rank": 5
               }
             ]
@@ -638,21 +638,21 @@
             "week": "2026-22",
             "standings": [
               {
-                "id": "ohn-scoggins",
-                "label": "Ohn Scoggins",
-                "points": 1435.0,
+                "id": "holyn-handley",
+                "label": "Holyn Handley",
+                "points": 1590.0,
                 "rank": 1
               },
               {
-                "id": "holyn-handley",
-                "label": "Holyn Handley",
-                "points": 1340.0,
+                "id": "ohn-scoggins",
+                "label": "Ohn Scoggins",
+                "points": 1572.5,
                 "rank": 2
               },
               {
                 "id": "silva-saarinen",
                 "label": "Silva Saarinen",
-                "points": 994.7,
+                "points": 1182.2,
                 "rank": 3
               },
               {
@@ -662,27 +662,27 @@
                 "rank": 4
               },
               {
-                "id": "valerie-mandujano",
-                "label": "Valerie Mandujano",
-                "points": 523.2,
+                "id": "missy-gannon",
+                "label": "Missy Gannon",
+                "points": 542.5,
                 "rank": 5
               },
               {
                 "id": "lisa-fajkus",
                 "label": "Lisa Fajkus",
-                "points": 515.7,
+                "points": 535.7,
                 "rank": 6
               },
               {
                 "id": "kat-mertsch",
                 "label": "Kat Mertsch",
-                "points": 511.9,
+                "points": 531.9,
                 "rank": 7
               },
               {
-                "id": "missy-gannon",
-                "label": "Missy Gannon",
-                "points": 492.5,
+                "id": "valerie-mandujano",
+                "label": "Valerie Mandujano",
+                "points": 523.2,
                 "rank": 8
               }
             ]
@@ -690,26 +690,9 @@
         ],
         "series": [
           {
-            "id": "ohn-scoggins",
-            "label": "Ohn Scoggins",
-            "color": "#2563eb",
-            "points": [
-              {
-                "week": "2026-20",
-                "value": 1297.5,
-                "rank": 1
-              },
-              {
-                "week": "2026-22",
-                "value": 1435.0,
-                "rank": 1
-              }
-            ]
-          },
-          {
             "id": "holyn-handley",
             "label": "Holyn Handley",
-            "color": "#dc2626",
+            "color": "#2563eb",
             "points": [
               {
                 "week": "2026-20",
@@ -718,7 +701,24 @@
               },
               {
                 "week": "2026-22",
-                "value": 1340.0,
+                "value": 1590.0,
+                "rank": 1
+              }
+            ]
+          },
+          {
+            "id": "ohn-scoggins",
+            "label": "Ohn Scoggins",
+            "color": "#dc2626",
+            "points": [
+              {
+                "week": "2026-20",
+                "value": 1297.5,
+                "rank": 1
+              },
+              {
+                "week": "2026-22",
+                "value": 1572.5,
                 "rank": 2
               }
             ]
@@ -735,7 +735,7 @@
               },
               {
                 "week": "2026-22",
-                "value": 994.7,
+                "value": 1182.2,
                 "rank": 3
               }
             ]
@@ -758,18 +758,18 @@
             ]
           },
           {
-            "id": "valerie-mandujano",
-            "label": "Valerie Mandujano",
+            "id": "missy-gannon",
+            "label": "Missy Gannon",
             "color": "#d97706",
             "points": [
               {
                 "week": "2026-20",
-                "value": 523.2,
-                "rank": 5
+                "value": null,
+                "rank": null
               },
               {
                 "week": "2026-22",
-                "value": 523.2,
+                "value": 542.5,
                 "rank": 5
               }
             ]
