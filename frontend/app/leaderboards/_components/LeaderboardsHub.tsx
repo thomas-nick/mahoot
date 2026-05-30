@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import type { HubBoardGroup, HubBoardPreview, LeaderboardsHubSnapshot } from "../_lib/leaderboardsHubTypes";
+import { LeaderboardsHighlights } from "./LeaderboardsHighlights";
 import { SiteNav } from "./SiteNav";
 
 type Props = {
@@ -21,14 +22,9 @@ function BoardCard({ board }: { board: HubBoardPreview }) {
     <Link href={board.href} className="leaderboard-hub-card">
       <span className="leaderboard-hub-card-bar" style={{ background: board.accent }} aria-hidden />
       <span className="leaderboard-hub-card-eyebrow">{board.eyebrow}</span>
-      <h2 className="leaderboard-hub-card-title">{board.title}</h2>
-      <p className="leaderboard-hub-card-stat">{board.statPrimary}</p>
-      {board.statSecondary && <p className="leaderboard-hub-card-stat-sub">{board.statSecondary}</p>}
-      <p className="leaderboard-hub-card-blurb">{board.blurb}</p>
-      <div className="leaderboard-hub-card-foot">
-        <span className="leaderboard-hub-card-cta">{board.cta}</span>
-        {board.updatedAt && <span className="leaderboard-hub-card-updated">Updated {board.updatedAt}</span>}
-      </div>
+      <h3 className="leaderboard-hub-card-title">{board.title}</h3>
+      <p className="leaderboard-hub-card-stat">{board.stat}</p>
+      <span className="leaderboard-hub-card-cta">{board.cta}</span>
     </Link>
   );
 }
@@ -44,46 +40,79 @@ export function LeaderboardsHub({ snapshot }: Props) {
     <div className="page-content theme-clean mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-10">
       <SiteNav />
 
-      <header className="page-hero mt-4">
+      <header className="page-hero">
         <p className="page-hero-eyebrow">2026 Season</p>
-        <h1 className="page-hero-title mt-2">Leaderboards</h1>
+        <h1 className="page-hero-title">Leaderboards</h1>
         <p className="page-hero-tag">
-          Live tour standings, brand championship, Asia pros, and multi-producer tournament coverage.
-          {snapshot.latestUpdated && <> · Data through {snapshot.latestUpdated}</>}
+          Live tour standings, the brand championship, Asia pros, and multi-producer tournament coverage —
+          one home for every Mahoot leaderboard.
         </p>
-      </header>
-
-      {snapshot.featured && (
-        <Link href={snapshot.featured.href} className="leaderboard-hub-featured">
-          <span className="leaderboard-hub-featured-label">Latest Elite finish</span>
-          <h2 className="leaderboard-hub-featured-title">{snapshot.featured.title}</h2>
-          <p className="leaderboard-hub-featured-winners">
-            <span>MPO · {snapshot.featured.winnerMpo}</span>
-            {snapshot.featured.winnerFpo && <span>FPO · {snapshot.featured.winnerFpo}</span>}
-            {snapshot.featured.fieldSize != null && (
-              <span className="leaderboard-hub-featured-field">{snapshot.featured.fieldSize} players</span>
-            )}
-          </p>
-          <span className="leaderboard-hub-featured-cta">Results &amp; watch grid →</span>
-        </Link>
-      )}
-
-      {grouped.map(({ group, label, boards }) => (
-        <section key={group} className="leaderboard-hub-section">
-          <h2 className="leaderboard-hub-section-title">{label}</h2>
-          <div className={`leaderboard-hub-grid leaderboard-hub-grid-${group}`}>
-            {boards.map((board) => (
-              <BoardCard key={board.href} board={board} />
+        {snapshot.heroStats.length > 0 && (
+          <div className="page-hero-stats">
+            {snapshot.heroStats.map((s) => (
+              <div key={s.label} className="page-hero-stat">
+                <span className="page-hero-stat-value">{s.value}</span>
+                <span className="page-hero-stat-label">{s.label}</span>
+              </div>
             ))}
           </div>
-        </section>
-      ))}
+        )}
+        {snapshot.latestUpdated && (
+          <p className="page-hero-updated">Live · Updated {snapshot.latestUpdated}</p>
+        )}
+      </header>
 
-      <p className="leaderboard-hub-note">
-        <strong>Player Tour Stats</strong> uses Mahoot&apos;s weighted season model (StatMando + PDGA).
-        {" "}
-        <strong>Tour finishes &amp; profiles</strong> is PDGA Elite/Major results linked to YouTube coverage.
-      </p>
+      {snapshot.anchors.length > 0 && (
+        <div className="leaderboard-hub-anchors">
+          {snapshot.anchors.map((a) => (
+            <Link key={a.key} href={a.href} className="leaderboard-hub-anchor">
+              <span className="leaderboard-hub-anchor-medal" aria-hidden>{a.medal}</span>
+              <span className="leaderboard-hub-anchor-label">{a.label}</span>
+              <span className="leaderboard-hub-anchor-name">{a.name}</span>
+              <span className="leaderboard-hub-anchor-sub">{a.sub}</span>
+            </Link>
+          ))}
+        </div>
+      )}
+
+      <LeaderboardsHighlights highlights={snapshot.highlights} />
+
+      <section className="asia-section">
+        <header className="asia-section-header">
+          <div>
+            <h2 className="asia-section-title">All leaderboards</h2>
+            <p className="asia-section-sub">Pick a board to dive into standings, profiles, or coverage</p>
+          </div>
+        </header>
+
+        {grouped.map(({ group, label, boards }) => (
+          <div key={group} className="leaderboard-hub-group">
+            <p className="leaderboard-hub-group-label">{label}</p>
+            <div className="leaderboard-hub-grid">
+              {boards.map((board) => (
+                <BoardCard key={board.href} board={board} />
+              ))}
+            </div>
+          </div>
+        ))}
+      </section>
+
+      <details className="tour-scoring-details">
+        <summary className="tour-scoring-summary">
+          <span>What&apos;s the difference?</span>
+          <span className="tour-scoring-summary-hint">Player Tour vs Tour finishes</span>
+        </summary>
+        <section className="tour-scoring-legend">
+          <p className="data-insights-sub">
+            <strong>Player Tour Stats</strong> ranks pros by Mahoot&apos;s weighted season model — Majors,
+            Elite Series and A-tiers scored by finish and tier, alongside the live DGPT world rank.
+          </p>
+          <p className="data-insights-sub">
+            <strong>Tour finishes &amp; profiles</strong> is raw PDGA Elite &amp; Major results linked to
+            multi-producer round coverage, with player profiles, streaks, form, and head-to-head.
+          </p>
+        </section>
+      </details>
     </div>
   );
 }
