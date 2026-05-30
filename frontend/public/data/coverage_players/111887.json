@@ -11,6 +11,20 @@
   "pdga_points": 5185.0,
   "last_event_year": "2025",
   "first_event_year": "2023",
+  "finish_history": [
+    133,
+    68,
+    91,
+    55,
+    70,
+    39,
+    41,
+    54,
+    112,
+    60,
+    99,
+    86
+  ],
   "results": [
     {
       "coverage_event_id": "2025_discmania_challenge",

@@ -11,6 +11,20 @@
   "pdga_points": 10359.0,
   "last_event_year": "2025",
   "first_event_year": "2020",
+  "finish_history": [
+    2,
+    10,
+    2,
+    4,
+    9,
+    32,
+    7,
+    9,
+    9,
+    10,
+    4,
+    6
+  ],
   "results": [
     {
       "coverage_event_id": "2025_green_mountain_championship",

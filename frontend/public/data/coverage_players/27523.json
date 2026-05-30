@@ -11,6 +11,20 @@
   "pdga_points": 66860.0,
   "last_event_year": "2026",
   "first_event_year": "2019",
+  "finish_history": [
+    1,
+    1,
+    7,
+    4,
+    25,
+    7,
+    20,
+    8,
+    3,
+    2,
+    99,
+    3
+  ],
   "results": [
     {
       "coverage_event_id": "2026_pdga_champions_cup",

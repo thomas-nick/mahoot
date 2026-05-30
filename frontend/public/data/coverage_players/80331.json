@@ -11,6 +11,20 @@
   "pdga_points": 54305.0,
   "last_event_year": "2026",
   "first_event_year": "2020",
+  "finish_history": [
+    12,
+    31,
+    12,
+    51,
+    64,
+    15,
+    60,
+    21,
+    22,
+    43,
+    22,
+    39
+  ],
   "results": [
     {
       "coverage_event_id": "2026_open_at_austin",

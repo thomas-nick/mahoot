@@ -6,6 +6,7 @@ import { useMemo, useState } from "react";
 import type { CoveragePlayer, CoveragePlayerResult } from "../_lib/coveragePlayerTypes";
 import type { CoverageTourTagId } from "../_lib/coverageTypes";
 import { CoverageTourTagBadge } from "./CoverageTourTagBadge";
+import { CoverageFinishTrend } from "./CoverageFinishTrend";
 import { COVERAGE_STAT_TIPS, CoverageStatTip } from "./CoverageStatTip";
 
 type Props = {
@@ -274,6 +275,18 @@ export function CoveragePlayerProfile({ player }: Props) {
               tip={COVERAGE_STAT_TIPS.pdgaPts}
             />
           </div>
+
+          {player.results.length >= 3 && (
+            <>
+              <h3 className="coverage-player-stat-heading">
+                Finish trend{" "}
+                <CoverageStatTip tip="Placement in each filmed Elite or Major event over time. Lower is better — the shaded band marks podium finishes (top 3)." className="coverage-stat-tip-heading">
+                  ⓘ
+                </CoverageStatTip>
+              </h3>
+              <CoverageFinishTrend results={player.results} />
+            </>
+          )}
 
           <div className="player-level-grid coverage-player-stat-grid">
             {player.form_avg_finish != null && (player.form_events ?? 0) > 0 && (

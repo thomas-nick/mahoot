@@ -11,6 +11,19 @@
   "pdga_points": 6135.0,
   "last_event_year": "2025",
   "first_event_year": "2022",
+  "finish_history": [
+    43,
+    84,
+    72,
+    76,
+    49,
+    86,
+    75,
+    130,
+    64,
+    60,
+    95
+  ],
   "results": [
     {
       "coverage_event_id": "2025_preserve_championship",

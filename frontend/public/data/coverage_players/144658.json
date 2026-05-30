@@ -11,6 +11,15 @@
   "pdga_points": 1875.0,
   "last_event_year": "2025",
   "first_event_year": "2023",
+  "finish_history": [
+    15,
+    8,
+    27,
+    6,
+    15,
+    15,
+    12
+  ],
   "results": [
     {
       "coverage_event_id": "2025_mvp_open",

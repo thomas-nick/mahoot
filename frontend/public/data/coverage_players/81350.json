@@ -11,6 +11,9 @@
   "pdga_points": 200.0,
   "last_event_year": "2020",
   "first_event_year": "2020",
+  "finish_history": [
+    91
+  ],
   "results": [
     {
       "coverage_event_id": "2020_mvp_open_at_maple_hill",

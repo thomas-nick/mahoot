@@ -11,6 +11,20 @@
   "pdga_points": 18085.0,
   "last_event_year": "2026",
   "first_event_year": "2019",
+  "finish_history": [
+    80,
+    87,
+    104,
+    66,
+    38,
+    121,
+    167,
+    87,
+    78,
+    90,
+    62,
+    87
+  ],
   "results": [
     {
       "coverage_event_id": "2026_supreme_flight_open",

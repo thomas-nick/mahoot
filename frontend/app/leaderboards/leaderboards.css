@@ -3061,6 +3061,25 @@ body:has(.theme-clean) .page-shell {
   align-self: center;
 }
 
+.coverage-finish-trend {
+  margin: 0.25rem 0 0.5rem;
+  padding: 0.5rem 0.25rem;
+}
+.coverage-finish-trend .trend-chart-svg {
+  width: 100%;
+  height: auto;
+}
+.coverage-finish-line {
+  stroke: var(--accent);
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.coverage-finish-podium-band {
+  fill: #0d9488;
+  opacity: 0.1;
+}
+
 .asia-streak {
   display: inline-flex;
   align-items: center;

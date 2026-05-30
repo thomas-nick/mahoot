@@ -11,6 +11,11 @@
   "pdga_points": 710.0,
   "last_event_year": "2022",
   "first_event_year": "2020",
+  "finish_history": [
+    118,
+    94,
+    90
+  ],
   "results": [
     {
       "coverage_event_id": "2022_portland_open",

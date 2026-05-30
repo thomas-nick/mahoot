@@ -47,6 +47,7 @@ export interface CoveragePlayer extends Partial<CoveragePlayerStreaks> {
   pdga_points: number;
   last_event_year: string | null;
   first_event_year: string | null;
+  finish_history?: number[];
   media?: CoveragePlayerMedia;
   results: CoveragePlayerResult[];
 }
@@ -66,6 +67,7 @@ export interface CoveragePlayerSummary {
   current_win_streak?: number;
   current_podium_streak?: number;
   form_avg_finish?: number | null;
+  finish_history?: number[];
   media_rounds?: number;
   media_lead_cards?: number;
 }

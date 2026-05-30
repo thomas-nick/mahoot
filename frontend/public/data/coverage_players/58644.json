@@ -11,6 +11,20 @@
   "pdga_points": 11115.0,
   "last_event_year": "2025",
   "first_event_year": "2019",
+  "finish_history": [
+    44,
+    136,
+    180,
+    116,
+    98,
+    116,
+    71,
+    111,
+    200,
+    50,
+    75,
+    107
+  ],
   "results": [
     {
       "coverage_event_id": "2025_supreme_flight_open",

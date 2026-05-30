@@ -11,6 +11,18 @@
   "pdga_points": 6170.0,
   "last_event_year": "2024",
   "first_event_year": "2020",
+  "finish_history": [
+    23,
+    26,
+    68,
+    3,
+    46,
+    64,
+    87,
+    112,
+    59,
+    45
+  ],
   "results": [
     {
       "coverage_event_id": "2024_dynamic_discs_open",

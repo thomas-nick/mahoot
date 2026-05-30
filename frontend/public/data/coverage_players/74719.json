@@ -11,6 +11,13 @@
   "pdga_points": 5210.0,
   "last_event_year": "2023",
   "first_event_year": "2019",
+  "finish_history": [
+    45,
+    36,
+    26,
+    17,
+    39
+  ],
   "results": [
     {
       "coverage_event_id": "2023_las_vegas_challenge",

@@ -11,6 +11,12 @@
   "pdga_points": 252.0,
   "last_event_year": "2023",
   "first_event_year": "2021",
+  "finish_history": [
+    36,
+    36,
+    52,
+    49
+  ],
   "results": [
     {
       "coverage_event_id": "2023_the_preserve_championship",

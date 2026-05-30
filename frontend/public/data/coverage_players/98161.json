@@ -11,6 +11,20 @@
   "pdga_points": 15645.0,
   "last_event_year": "2026",
   "first_event_year": "2020",
+  "finish_history": [
+    78,
+    96,
+    122,
+    37,
+    88,
+    106,
+    45,
+    123,
+    45,
+    92,
+    112,
+    82
+  ],
   "results": [
     {
       "coverage_event_id": "2026_queen_city_classic",

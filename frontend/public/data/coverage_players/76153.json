@@ -11,6 +11,17 @@
   "pdga_points": 5785.0,
   "last_event_year": "2025",
   "first_event_year": "2021",
+  "finish_history": [
+    26,
+    104,
+    92,
+    59,
+    98,
+    94,
+    105,
+    113,
+    74
+  ],
   "results": [
     {
       "coverage_event_id": "2025_ledgestone_open",

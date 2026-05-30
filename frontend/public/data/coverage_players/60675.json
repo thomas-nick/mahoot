@@ -11,6 +11,10 @@
   "pdga_points": 380.0,
   "last_event_year": "2020",
   "first_event_year": "2019",
+  "finish_history": [
+    142,
+    128
+  ],
   "results": [
     {
       "coverage_event_id": "2020_las_vegas_challenge",

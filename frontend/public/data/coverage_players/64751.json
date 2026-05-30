@@ -11,6 +11,20 @@
   "pdga_points": 1470.0,
   "last_event_year": "2022",
   "first_event_year": "2019",
+  "finish_history": [
+    11,
+    5,
+    20,
+    13,
+    31,
+    31,
+    31,
+    33,
+    24,
+    44,
+    24,
+    28
+  ],
   "results": [
     {
       "coverage_event_id": "2022_mvp_open_at_maple_hill",

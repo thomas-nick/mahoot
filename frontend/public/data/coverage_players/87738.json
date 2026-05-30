@@ -11,6 +11,13 @@
   "pdga_points": 2910.0,
   "last_event_year": "2024",
   "first_event_year": "2020",
+  "finish_history": [
+    35,
+    63,
+    72,
+    37,
+    99
+  ],
   "results": [
     {
       "coverage_event_id": "2024_des_moines_challenge",

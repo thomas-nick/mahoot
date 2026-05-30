@@ -11,6 +11,16 @@
   "pdga_points": 6075.0,
   "last_event_year": "2024",
   "first_event_year": "2019",
+  "finish_history": [
+    19,
+    52,
+    37,
+    64,
+    64,
+    97,
+    127,
+    73
+  ],
   "results": [
     {
       "coverage_event_id": "2024_usdgc",

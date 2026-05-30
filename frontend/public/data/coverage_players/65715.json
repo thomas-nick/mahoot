@@ -11,6 +11,20 @@
   "pdga_points": 20755.0,
   "last_event_year": "2025",
   "first_event_year": "2020",
+  "finish_history": [
+    69,
+    45,
+    78,
+    66,
+    63,
+    62,
+    38,
+    94,
+    78,
+    61,
+    86,
+    56
+  ],
   "results": [
     {
       "coverage_event_id": "2025_pdga_pro_worlds",

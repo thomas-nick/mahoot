@@ -11,6 +11,11 @@
   "pdga_points": 1310.0,
   "last_event_year": "2023",
   "first_event_year": "2021",
+  "finish_history": [
+    53,
+    71,
+    97
+  ],
   "results": [
     {
       "coverage_event_id": "2023_otb_open",

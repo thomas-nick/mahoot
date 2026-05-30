@@ -11,6 +11,12 @@
   "pdga_points": 573.0,
   "last_event_year": "2022",
   "first_event_year": "2021",
+  "finish_history": [
+    29,
+    24,
+    27,
+    18
+  ],
   "results": [
     {
       "coverage_event_id": "2022_idlewild_open",

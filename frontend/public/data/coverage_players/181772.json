@@ -11,6 +11,12 @@
   "pdga_points": 1161.0,
   "last_event_year": "2026",
   "first_event_year": "2025",
+  "finish_history": [
+    30,
+    11,
+    8,
+    10
+  ],
   "results": [
     {
       "coverage_event_id": "2026_big_easy_open",

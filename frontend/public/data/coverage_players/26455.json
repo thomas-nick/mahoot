@@ -11,6 +11,13 @@
   "pdga_points": 2860.0,
   "last_event_year": "2024",
   "first_event_year": "2020",
+  "finish_history": [
+    52,
+    55,
+    184,
+    103,
+    136
+  ],
   "results": [
     {
       "coverage_event_id": "2024_chess_com_invitational",

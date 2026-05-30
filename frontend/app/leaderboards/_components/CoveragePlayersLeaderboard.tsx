@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useMemo, useState } from "react";
 import type { CoveragePlayersIndex } from "../_lib/coveragePlayerTypes";
 import { filterByDivision, type DivisionFilter } from "../_lib/coverageMatchup";
+import { FinishSparkline } from "./FinishSparkline";
 
 type SortMode = "wins" | "podiums" | "points" | "events" | "streak" | "form" | "filmed" | "lead";
 
@@ -129,6 +130,11 @@ export function CoveragePlayersLeaderboard({ index, division = "all" }: Props) {
                     {p.form_avg_finish != null && ` · form ${p.form_avg_finish}`}
                   </p>
                 </div>
+                {p.finish_history && p.finish_history.length >= 2 && (
+                  <div className="asia-row-sparkline" title="Recent finishes (lower is better)">
+                    <FinishSparkline history={p.finish_history} />
+                  </div>
+                )}
                 <div className="clean-points-block">
                   <p className="clean-points">
                     {sort === "form" ? primary.toFixed(1) : Math.round(primary).toLocaleString()}

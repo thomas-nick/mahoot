@@ -11,6 +11,20 @@
   "pdga_points": 12720.0,
   "last_event_year": "2025",
   "first_event_year": "2022",
+  "finish_history": [
+    72,
+    79,
+    71,
+    81,
+    91,
+    55,
+    50,
+    31,
+    106,
+    3,
+    51,
+    64
+  ],
   "results": [
     {
       "coverage_event_id": "2025_music_city_open",

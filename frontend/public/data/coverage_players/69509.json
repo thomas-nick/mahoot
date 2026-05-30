@@ -11,6 +11,20 @@
   "pdga_points": 50035.0,
   "last_event_year": "2026",
   "first_event_year": "2019",
+  "finish_history": [
+    21,
+    6,
+    16,
+    21,
+    20,
+    45,
+    14,
+    88,
+    26,
+    41,
+    6,
+    9
+  ],
   "results": [
     {
       "coverage_event_id": "2026_jonesboro_open",

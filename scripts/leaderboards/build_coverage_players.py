@@ -187,6 +187,9 @@ def finalize_player(raw: dict, media_by_tag: dict[str, dict]) -> dict:
     streaks = compute_streaks(results)
     media = media_by_tag.get(tag)
 
+    chron = sorted(results, key=lambda r: (r.get("year") or "", r.get("coverage_event_id") or ""))
+    finish_history = [r["place"] for r in chron if r.get("place")][-12:]
+
     out = {
         "pdga": raw["pdga"],
         "name": raw["name"],
@@ -200,6 +203,7 @@ def finalize_player(raw: dict, media_by_tag: dict[str, dict]) -> dict:
         "pdga_points": round(pdga_points, 1),
         "last_event_year": max(years) if years else None,
         "first_event_year": min(years) if years else None,
+        "finish_history": finish_history,
         "results": results,
         **streaks,
     }
@@ -255,6 +259,7 @@ def main() -> None:
                 "current_win_streak": p.get("current_win_streak", 0),
                 "current_podium_streak": p.get("current_podium_streak", 0),
                 "form_avg_finish": p.get("form_avg_finish"),
+                "finish_history": p["finish_history"],
                 "media_rounds": (p.get("media") or {}).get("rounds"),
                 "media_lead_cards": (p.get("media") or {}).get("lead_cards"),
             }

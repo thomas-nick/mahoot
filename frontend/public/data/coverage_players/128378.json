@@ -11,6 +11,20 @@
   "pdga_points": 28745.0,
   "last_event_year": "2025",
   "first_event_year": "2020",
+  "finish_history": [
+    70,
+    60,
+    77,
+    41,
+    97,
+    55,
+    42,
+    202,
+    59,
+    101,
+    80,
+    87
+  ],
   "results": [
     {
       "coverage_event_id": "2025_great_lakes_open",

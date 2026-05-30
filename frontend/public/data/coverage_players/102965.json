@@ -11,6 +11,11 @@
   "pdga_points": 1250.0,
   "last_event_year": "2023",
   "first_event_year": "2020",
+  "finish_history": [
+    63,
+    88,
+    95
+  ],
   "results": [
     {
       "coverage_event_id": "2023_music_city_open",

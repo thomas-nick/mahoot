@@ -11,6 +11,9 @@
   "pdga_points": 260.0,
   "last_event_year": "2022",
   "first_event_year": "2022",
+  "finish_history": [
+    93
+  ],
   "results": [
     {
       "coverage_event_id": "2022_las_vegas_challenge",

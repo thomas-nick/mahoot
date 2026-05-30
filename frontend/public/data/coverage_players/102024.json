@@ -11,6 +11,12 @@
   "pdga_points": 210.0,
   "last_event_year": "2024",
   "first_event_year": "2021",
+  "finish_history": [
+    25,
+    30,
+    32,
+    42
+  ],
   "results": [
     {
       "coverage_event_id": "2024_portland_open",
