@@ -55,7 +55,7 @@ export function CoveragePlayersLeaderboard({ index, division = "all" }: Props) {
                   : players[0]?.events_played || 1;
 
   return (
-    <section className="asia-section coverage-players-section">
+    <>
       <div className="asia-controls">
         <div className="asia-control-group">
           {(
@@ -163,6 +163,6 @@ export function CoveragePlayersLeaderboard({ index, division = "all" }: Props) {
           );
         })}
       </ul>
-    </section>
+    </>
   );
 }

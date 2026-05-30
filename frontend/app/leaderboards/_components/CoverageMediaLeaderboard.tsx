@@ -33,16 +33,7 @@ export function CoverageMediaLeaderboard({ index, division = "all" }: Props) {
         : players[0]?.rounds || 1;
 
   return (
-    <section className="asia-section coverage-players-section">
-      <header className="asia-section-header">
-        <div>
-          <h2 className="asia-section-title">Most filmed</h2>
-          <p className="asia-section-sub">
-            Round video appearances across {index.event_count} events in the coverage catalog
-          </p>
-        </div>
-      </header>
-
+    <>
       <div className="asia-controls">
         <div className="asia-control-group">
           {(
@@ -106,6 +97,6 @@ export function CoverageMediaLeaderboard({ index, division = "all" }: Props) {
           );
         })}
       </ul>
-    </section>
+    </>
   );
 }
