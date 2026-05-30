@@ -4445,3 +4445,89 @@ body:has(.theme-clean) .page-shell {
 .coverage-player-year-header .coverage-stat-tip {
   border-bottom-style: dotted;
 }
+
+/* Worlds coverage browser */
+.worlds-year-grid {
+  margin-bottom: 0.75rem;
+}
+.worlds-toolbar {
+  margin-top: 0.5rem;
+}
+.worlds-edition-year {
+  min-width: 2rem;
+  font-weight: 800;
+}
+.worlds-edition-detail {
+  padding: 0.75rem 1rem 1rem 3.25rem;
+}
+.worlds-producer-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.85rem;
+}
+.worlds-producer-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid;
+  font-size: 0.72rem;
+  font-weight: 700;
+  background: var(--surface);
+}
+.worlds-producer-group {
+  margin-top: 0.85rem;
+}
+.worlds-producer-group:first-of-type {
+  margin-top: 0;
+}
+.worlds-producer-group-label {
+  margin: 0 0 0.4rem;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.worlds-video-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.35rem;
+}
+.worlds-video-link {
+  display: block;
+  padding: 0.55rem 0.7rem;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s, background 0.15s;
+}
+.worlds-video-link:hover {
+  border-color: color-mix(in srgb, var(--accent) 35%, var(--border));
+  background: color-mix(in srgb, var(--accent) 4%, var(--surface));
+}
+.worlds-video-title {
+  display: block;
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.35;
+}
+.worlds-video-meta {
+  display: block;
+  margin-top: 0.15rem;
+  font-size: 0.72rem;
+  color: var(--text-muted);
+}
+.worlds-video-players {
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 0.72rem;
+  color: var(--text-dim);
+  line-height: 1.3;
+}

@@ -152,7 +152,7 @@ function EventRow({ result: r }: { result: CoveragePlayerResult }) {
 }
 
 export function CoveragePlayerProfile({ player }: Props) {
-  const [tab, setTab] = useState<Tab>("events");
+  const [tab, setTab] = useState<Tab>("stats");
 
   const avgPlace = useMemo(() => {
     if (!player.results.length) return null;

@@ -34,13 +34,18 @@ const links: NavLink[] = [
     isActive: (p) => p.startsWith("/leaderboards/asia"),
   },
   {
+    href: "/leaderboards/coverage/worlds",
+    label: "Worlds",
+    isActive: (p) => p.startsWith("/leaderboards/coverage/worlds"),
+  },
+  {
     href: "/leaderboards/coverage",
     label: "Tournament Coverage",
     isActive: (p) => {
       if (p === "/leaderboards/coverage") return true;
       const rest = p.replace("/leaderboards/coverage/", "");
       if (!rest || rest.includes("/")) return false;
-      return rest !== "players" && !rest.startsWith("player/");
+      return rest !== "players" && rest !== "worlds" && !rest.startsWith("player/") && rest !== "matchup";
     },
   },
 ];

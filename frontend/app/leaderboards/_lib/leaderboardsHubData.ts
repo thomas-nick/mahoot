@@ -14,6 +14,7 @@ import type { AsiaData } from "./asiaTypes";
 import type { CoverageCatalog } from "./coverageTypes";
 import type { CoverageEventResults, CoverageResultsIndex } from "./coverageResultsTypes";
 import type { CoverageMediaStatsIndex, CoveragePlayersIndex } from "./coveragePlayerTypes";
+import type { WorldsCoverageCatalog } from "./worldsCoverageTypes";
 
 const DATA = path.join(process.cwd(), "public", "data");
 
@@ -99,7 +100,7 @@ async function load2026Events(resultsIndex: CoverageResultsIndex | null): Promis
 }
 
 export async function loadLeaderboardsHubSnapshot(): Promise<LeaderboardsHubSnapshot> {
-  const [manuCup, playerTour, asia, catalog, resultsIndex, playersIndex, mediaIndex] = await Promise.all([
+  const [manuCup, playerTour, asia, catalog, resultsIndex, playersIndex, mediaIndex, worldsCatalog] = await Promise.all([
     readJson<ManufacturersCupData>(path.join(DATA, "leaderboards", "manufacturers_cup.json")),
     readJson<PlayerTourData>(path.join(DATA, "leaderboards", "player_tour_stats.json")),
     readJson<AsiaData>(path.join(DATA, "leaderboards", "asia_players.json")),
@@ -107,6 +108,7 @@ export async function loadLeaderboardsHubSnapshot(): Promise<LeaderboardsHubSnap
     readJson<CoverageResultsIndex>(path.join(DATA, "coverage_results", "index.json")),
     readJson<CoveragePlayersIndex>(path.join(DATA, "coverage_players", "index.json")),
     readJson<CoverageMediaStatsIndex>(path.join(DATA, "coverage_media_stats", "index.json")),
+    readJson<WorldsCoverageCatalog>(path.join(DATA, "worlds_coverage.json")),
   ]);
 
   const events2026 = await load2026Events(resultsIndex);
@@ -309,6 +311,18 @@ export async function loadLeaderboardsHubSnapshot(): Promise<LeaderboardsHubSnap
       stat: `${catalog.event_count} events · ${catalog.video_count.toLocaleString()} videos`,
       cta: "Watch events →",
       accent: "#c2410c",
+      group: "watch",
+    });
+  }
+  if (worldsCatalog) {
+    updatedTimes.push(worldsCatalog.updated_at);
+    boards.push({
+      href: "/leaderboards/coverage/worlds",
+      eyebrow: "Jomez · Gatekeeper · CCD · GK Pro",
+      title: "Worlds Archive",
+      stat: `${worldsCatalog.video_count} videos · ${worldsCatalog.year_range.earliest ?? "—"}–${worldsCatalog.year_range.latest ?? "—"}`,
+      cta: "Browse Worlds →",
+      accent: "#b45309",
       group: "watch",
     });
   }
