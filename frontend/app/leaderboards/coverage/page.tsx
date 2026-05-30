@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { CoverageDashboard } from "../_components/CoverageDashboard";
-import { SiteNav } from "../_components/SiteNav";
 import { loadCoverageCatalog } from "../_lib/coverageData";
 
 export const metadata: Metadata = {
@@ -11,21 +10,14 @@ export const metadata: Metadata = {
 
 export default async function CoveragePage() {
   const data = await loadCoverageCatalog();
-
-  return (
-    <>
-      <div className="page-content mx-auto max-w-6xl px-4 pt-6 sm:px-6 sm:pt-10">
-        <SiteNav />
+  if (!data) {
+    return (
+      <div className="page-content theme-clean mx-auto max-w-6xl px-4 py-10 sm:px-6">
+        <p className="coverage-empty">
+          Coverage catalog not found. Run build_coverage_catalog.py --mahoot from the ytapi repo.
+        </p>
       </div>
-      {data ? (
-        <CoverageDashboard data={data} />
-      ) : (
-        <div className="page-content theme-clean mx-auto max-w-6xl px-4 py-10 sm:px-6">
-          <p className="coverage-empty">
-            Coverage catalog not found. Run build_coverage_catalog.py --mahoot from the ytapi repo.
-          </p>
-        </div>
-      )}
-    </>
-  );
+    );
+  }
+  return <CoverageDashboard data={data} />;
 }

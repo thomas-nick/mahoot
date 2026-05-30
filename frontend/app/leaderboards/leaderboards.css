@@ -3694,3 +3694,70 @@ body:has(.theme-clean) .page-shell {
   color: #111827;
   line-height: 1.35;
 }
+
+/* Player / tag sections (shared with Jomez-style filters) */
+.jomezpro-tag-section {
+  margin: 1.25rem 0 0.5rem;
+}
+.jomezpro-tag-header {
+  margin-bottom: 0.65rem;
+}
+.jomezpro-tag-title {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #111827;
+}
+.jomezpro-tag-sub {
+  margin: 0.2rem 0 0;
+  font-size: 0.82rem;
+  color: #6b7280;
+}
+.jomezpro-player-tag-grid {
+  margin-top: 0.35rem;
+}
+.coverage-source-grid {
+  margin-top: 0.75rem;
+}
+.asia-search.coverage-search {
+  margin: 1rem 0 0.75rem;
+  width: 100%;
+}
+.coverage-highlight-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+.coverage-highlight-link:hover {
+  transform: translateY(-1px);
+}
+.coverage-event-year {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+.coverage-event-detail {
+  padding: 0.75rem 1rem 1rem;
+}
+.coverage-event-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.5rem;
+}
+.coverage-event-pills-hero {
+  margin: 0.5rem 0 0.25rem;
+}
+.coverage-event-detail-copy {
+  margin: 0 0 0.65rem;
+  font-size: 0.88rem;
+  color: #6b7280;
+}
+.coverage-event-open-link {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #2563eb;
+}
+.coverage-event-open-link:hover {
+  color: #1d4ed8;
+}

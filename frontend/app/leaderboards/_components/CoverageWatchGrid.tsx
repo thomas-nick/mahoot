@@ -1,7 +1,7 @@
 "use client";
 
 import type { CoverageEvent, CoverageSource } from "../_lib/coverageTypes";
-import { formatRoundLabel } from "../_lib/coverageData";
+import { formatCardTypeLabel, formatRoundLabel, sortRoundRowsNewestFirst } from "../_lib/coverageData";
 
 const SOURCE_ORDER: CoverageSource[] = ["jomezpro", "gkpro", "gatekeeper"];
 
@@ -18,6 +18,7 @@ type CoverageWatchGridProps = {
 
 export function CoverageWatchGrid({ event, sourceLabels }: CoverageWatchGridProps) {
   const activeSources = SOURCE_ORDER.filter((s) => event.sources.includes(s));
+  const rows = sortRoundRowsNewestFirst(event.round_rows);
 
   if (event.round_rows.length === 0) {
     return <p className="coverage-empty">No round videos indexed for this event yet.</p>;
@@ -40,7 +41,7 @@ export function CoverageWatchGrid({ event, sourceLabels }: CoverageWatchGridProp
           </tr>
         </thead>
         <tbody>
-          {event.round_rows.map((row) => (
+          {rows.map((row) => (
             <tr key={row.row_key}>
               <td className="coverage-round-label">{formatRoundLabel(row)}</td>
               <td className="coverage-upload">
@@ -53,7 +54,9 @@ export function CoverageWatchGrid({ event, sourceLabels }: CoverageWatchGridProp
                     {cells.length === 0 ? (
                       <span className="coverage-missing">—</span>
                     ) : (
-                      cells.map((cell) => (
+                      cells.map((cell) => {
+                        const cardLabel = formatCardTypeLabel(cell.card_type);
+                        return (
                         <a
                           key={cell.id}
                           href={cell.url}
@@ -61,12 +64,15 @@ export function CoverageWatchGrid({ event, sourceLabels }: CoverageWatchGridProp
                           rel="noreferrer"
                           className="coverage-video-card"
                         >
-                          <span className="coverage-card-type">{cell.card_type}</span>
+                          {cardLabel && (
+                            <span className="coverage-card-type">{cardLabel}</span>
+                          )}
                           <span className="coverage-players">
                             {cell.players.slice(0, 4).join(", ") || cell.title}
                           </span>
                         </a>
-                      ))
+                        );
+                      })
                     )}
                   </td>
                 );
