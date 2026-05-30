@@ -1,0 +1,38 @@
+{
+  "pdga": 62088,
+  "name": "Tee Vetne",
+  "name_tag": "tee_vetne",
+  "division": "MPO",
+  "rating": 988,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1005.0,
+  "last_event_year": "2025",
+  "first_event_year": "2025",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 134,
+      "pdga_points": 1005.0,
+      "rating": 988,
+      "prize": "",
+      "score": "266",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 134.0,
+  "form_events": 1
+}

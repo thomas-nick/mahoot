@@ -1,0 +1,52 @@
+{
+  "pdga": 162735,
+  "name": "Eden Fornoff",
+  "name_tag": "eden_fornoff",
+  "division": "FPO",
+  "rating": 928,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 282.0,
+  "last_event_year": "2025",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2025_ledgestone_open",
+      "title": "DGPT+ Discraft Ledgestone Open presented by Züca",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 24,
+      "pdga_points": 156.0,
+      "rating": 928,
+      "prize": "$688",
+      "score": "266",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_pdga_pro_worlds",
+      "title": "2024 PDGA Professional Disc Golf World Championships Presented by Zuca",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 76,
+      "pdga_points": 126.0,
+      "rating": 904,
+      "prize": "",
+      "score": "329",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 50.0,
+  "form_events": 2
+}

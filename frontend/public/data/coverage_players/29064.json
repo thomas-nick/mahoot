@@ -1,0 +1,91 @@
+{
+  "pdga": 29064,
+  "name": "Will Schusterick",
+  "name_tag": "will_schusterick",
+  "division": "MPO",
+  "rating": 1004,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1595.0,
+  "last_event_year": "2025",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2025_usdgc",
+      "title": "2025 United States Disc Golf Championship",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 104,
+      "pdga_points": 60.0,
+      "rating": 974,
+      "prize": "",
+      "score": "229",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_usdgc",
+      "title": "United States Disc Golf Championship",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 79,
+      "pdga_points": 465.0,
+      "rating": 964,
+      "prize": "",
+      "score": "263",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_music_city_open",
+      "title": "2021 Music City Open Presented by Dynamic Discs - NT Finale",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 75,
+      "pdga_points": 560.0,
+      "rating": 997,
+      "prize": "",
+      "score": "180",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_jonesboro_open",
+      "title": "DGPT - Play It Again Sports Jonesboro Open",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 44,
+      "pdga_points": 510.0,
+      "rating": 1004,
+      "prize": "",
+      "score": "189",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 4,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 75.5,
+  "form_events": 4,
+  "media": {
+    "rounds": 2,
+    "lead_cards": 0,
+    "chase_cards": 0,
+    "feature_cards": 2,
+    "tournaments": 1,
+    "multi_source_events": 1,
+    "by_source": {
+      "gatekeeper": 2
+    }
+  }
+}

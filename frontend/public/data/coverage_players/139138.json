@@ -1,0 +1,38 @@
+{
+  "pdga": 139138,
+  "name": "T Sherman",
+  "name_tag": "t_sherman",
+  "division": "FPO",
+  "rating": 904,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 42.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_otb_open",
+      "title": "DGPT - OTB Open presented by MVP Disc Sports + WGE",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 40,
+      "pdga_points": 42.0,
+      "rating": 904,
+      "prize": "",
+      "score": "221",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 40.0,
+  "form_events": 1
+}

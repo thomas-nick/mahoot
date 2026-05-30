@@ -1,0 +1,52 @@
+{
+  "pdga": 147951,
+  "name": "Guthrie Collins",
+  "name_tag": "guthrie_collins",
+  "division": "MPO",
+  "rating": 997,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 655.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_music_city_open",
+      "title": "DGPT - Music City Open presented by Lone Star Disc",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 102,
+      "pdga_points": 130.0,
+      "rating": 997,
+      "prize": "",
+      "score": "211",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_pdga_pro_worlds",
+      "title": "2024 PDGA Professional Disc Golf World Championships Presented by Zuca",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 174,
+      "pdga_points": 525.0,
+      "rating": 995,
+      "prize": "",
+      "score": "298",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 138.0,
+  "form_events": 2
+}

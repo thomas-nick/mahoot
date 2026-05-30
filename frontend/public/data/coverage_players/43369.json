@@ -1,0 +1,52 @@
+{
+  "pdga": 43369,
+  "name": "Colton Bates",
+  "name_tag": "colton_bates",
+  "division": "MPO",
+  "rating": 988,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1280.0,
+  "last_event_year": "2021",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2021_las_vegas_challenge",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 88,
+      "pdga_points": 490.0,
+      "rating": 988,
+      "prize": "",
+      "score": "179",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 72,
+      "pdga_points": 790.0,
+      "rating": 983,
+      "prize": "",
+      "score": "175",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 80.0,
+  "form_events": 2
+}

@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import type { CoverageEvent } from "../_lib/coverageTypes";
+import { CoverageTourTagBadge } from "./CoverageTourTagBadge";
 
 const SOURCE_ICONS: Record<string, string> = {
   jomezpro: "JP",
@@ -47,7 +48,14 @@ export function CoverageEventList({ events, selectedId, onSelect }: Props) {
                 {event.year?.slice(2) ?? "—"}
               </span>
               <div className="clean-meta">
-                <p className="clean-name">{event.title ?? event.id.replace(/_/g, " ")}</p>
+                <p className="clean-name">
+                  {event.title ?? event.id.replace(/_/g, " ")}
+                  {event.tour_tag && (
+                    <span className="coverage-event-list-tag">
+                      <CoverageTourTagBadge tag={event.tour_tag} />
+                    </span>
+                  )}
+                </p>
                 <p className="clean-sub">
                   {event.source_labels.join(" · ")}
                   {event.upload_window.earliest ? ` · ${event.upload_window.earliest}` : ""}

@@ -1,0 +1,38 @@
+{
+  "pdga": 66977,
+  "name": "Ryan Robinson",
+  "name_tag": "ryan_robinson",
+  "division": "MPO",
+  "rating": 998,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 750.0,
+  "last_event_year": "2020",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2020_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 76,
+      "pdga_points": 750.0,
+      "rating": 998,
+      "prize": "",
+      "score": "176",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 76.0,
+  "form_events": 1
+}

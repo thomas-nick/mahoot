@@ -1,0 +1,52 @@
+{
+  "pdga": 28903,
+  "name": "Karl Johan Nybo",
+  "name_tag": "karl_johan_nybo",
+  "division": "MPO",
+  "rating": 1006,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 2580.0,
+  "last_event_year": "2025",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 91,
+      "pdga_points": 1650.0,
+      "rating": 1006,
+      "prize": "",
+      "score": "319",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_european_open",
+      "title": "European Open 2023 presented by Discmania",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 47,
+      "pdga_points": 930.0,
+      "rating": 1006,
+      "prize": "",
+      "score": "240",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 69.0,
+  "form_events": 2
+}

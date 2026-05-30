@@ -1,0 +1,38 @@
+{
+  "pdga": 170001,
+  "name": "Ross Bosch",
+  "name_tag": "ross_bosch",
+  "division": "MPO",
+  "rating": 963,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 130.0,
+  "last_event_year": "2025",
+  "first_event_year": "2025",
+  "results": [
+    {
+      "coverage_event_id": "2025_great_lakes_open",
+      "title": "DGPT+ Discraft Great Lakes Open presented by Gerrit J. Verburg Co.",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 90,
+      "pdga_points": 130.0,
+      "rating": 963,
+      "prize": "",
+      "score": "217",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 90.0,
+  "form_events": 1
+}

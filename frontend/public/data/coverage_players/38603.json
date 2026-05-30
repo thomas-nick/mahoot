@@ -1,0 +1,52 @@
+{
+  "pdga": 38603,
+  "name": "Scott Conway",
+  "name_tag": "scott_conway",
+  "division": "MPO",
+  "rating": 1012,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 435.0,
+  "last_event_year": "2024",
+  "first_event_year": "2022",
+  "results": [
+    {
+      "coverage_event_id": "2024_usdgc",
+      "title": "2024 United States Disc Golf Championship",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 116,
+      "pdga_points": 105.0,
+      "rating": 1012,
+      "prize": "",
+      "score": "238",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2022_pdga_champions_cup",
+      "title": "PDGA Champions Cup Presented by Bushnell",
+      "year": "2022",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 79,
+      "pdga_points": 330.0,
+      "rating": 996,
+      "prize": "",
+      "score": "266",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 97.5,
+  "form_events": 2
+}

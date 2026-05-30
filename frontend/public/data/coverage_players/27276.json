@@ -1,0 +1,52 @@
+{
+  "pdga": 27276,
+  "name": "Daniel Polk",
+  "name_tag": "daniel_polk",
+  "division": "MPO",
+  "rating": 1008,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 340.0,
+  "last_event_year": "2025",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2025_preserve_championship",
+      "title": "DGPT - Preserve Championship",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 104,
+      "pdga_points": 80.0,
+      "rating": 1008,
+      "prize": "",
+      "score": "227",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_the_preserve_championship",
+      "title": "DGPT - The Preserve Championship powered by Prodigy",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 94,
+      "pdga_points": 260.0,
+      "rating": 999,
+      "prize": "",
+      "score": "193",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 99.0,
+  "form_events": 2
+}

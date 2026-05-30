@@ -1,0 +1,52 @@
+{
+  "pdga": 197577,
+  "name": "Owen Hamilton",
+  "name_tag": "owen_hamilton",
+  "division": "MPO",
+  "rating": 993,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 650.0,
+  "last_event_year": "2024",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2024_otb_open",
+      "title": "DGPT - OTB Open presented by MVP Disc Sports + WGE",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 88,
+      "pdga_points": 330.0,
+      "rating": 993,
+      "prize": "",
+      "score": "207",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_otb_open",
+      "title": "DGPT - OTB Open presented by MVP Disc Sports",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 81,
+      "pdga_points": 320.0,
+      "rating": 984,
+      "prize": "",
+      "score": "201",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 84.5,
+  "form_events": 2
+}

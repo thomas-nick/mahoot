@@ -1,0 +1,38 @@
+{
+  "pdga": 3090,
+  "name": "Elaine King",
+  "name_tag": "elaine_king",
+  "division": "FPO",
+  "rating": 938,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 66.0,
+  "last_event_year": "2020",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2020_idlewild_open",
+      "title": "DGPT - Idlewild Open presented by Dynamic Discs & The Nati",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 22,
+      "pdga_points": 66.0,
+      "rating": 938,
+      "prize": "",
+      "score": "241",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 22.0,
+  "form_events": 1
+}

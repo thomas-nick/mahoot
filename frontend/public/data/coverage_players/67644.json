@@ -1,0 +1,38 @@
+{
+  "pdga": 67644,
+  "name": "Craig Tofanelli",
+  "name_tag": "craig_tofanelli",
+  "division": "MPO",
+  "rating": 964,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 60.0,
+  "last_event_year": "2023",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2023_otb_open",
+      "title": "DGPT - OTB Open presented by MVP Disc Sports",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 107,
+      "pdga_points": 60.0,
+      "rating": 964,
+      "prize": "",
+      "score": "239",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 107.0,
+  "form_events": 1
+}

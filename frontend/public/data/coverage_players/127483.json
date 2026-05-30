@@ -1,0 +1,52 @@
+{
+  "pdga": 127483,
+  "name": "Andrew LaVoie",
+  "name_tag": "andrew_lavoie",
+  "division": "MPO",
+  "rating": 985,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 530.0,
+  "last_event_year": "2023",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2023_music_city_open",
+      "title": "DGPT Elite - Music City Open presented by Lone Star Disc",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 104,
+      "pdga_points": 130.0,
+      "rating": 985,
+      "prize": "",
+      "score": "207",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_music_city_open",
+      "title": "2021 Music City Open Presented by Dynamic Discs - NT Finale",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 91,
+      "pdga_points": 400.0,
+      "rating": 978,
+      "prize": "",
+      "score": "184",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 97.5,
+  "form_events": 2
+}

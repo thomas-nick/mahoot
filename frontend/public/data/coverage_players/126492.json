@@ -1,0 +1,38 @@
+{
+  "pdga": 126492,
+  "name": "Peyton Haft",
+  "name_tag": "peyton_haft",
+  "division": "FPO",
+  "rating": 878,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 60.0,
+  "last_event_year": "2023",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2023_ledgestone_open",
+      "title": "DGPT - Discraft Ledgestone Open",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 39,
+      "pdga_points": 60.0,
+      "rating": 878,
+      "prize": "",
+      "score": "210",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 39.0,
+  "form_events": 1
+}

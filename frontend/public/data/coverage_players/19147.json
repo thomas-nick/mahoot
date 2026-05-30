@@ -1,0 +1,52 @@
+{
+  "pdga": 19147,
+  "name": "Cary Trotter",
+  "name_tag": "cary_trotter",
+  "division": "MPO",
+  "rating": 995,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 980.0,
+  "last_event_year": "2022",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2022_las_vegas_challenge",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 94,
+      "pdga_points": 250.0,
+      "rating": 985,
+      "prize": "",
+      "score": "181",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_las_vegas_challenge",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 64,
+      "pdga_points": 730.0,
+      "rating": 995,
+      "prize": "",
+      "score": "172",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 79.0,
+  "form_events": 2
+}

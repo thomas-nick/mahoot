@@ -1,0 +1,52 @@
+{
+  "pdga": 37832,
+  "name": "CJ King",
+  "name_tag": "cj_king",
+  "division": "MPO",
+  "rating": 993,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 390.0,
+  "last_event_year": "2021",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2021_idlewild_open",
+      "title": "DGPT - Idlewild Open presented by Dynamic Discs & The Nati",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 108,
+      "pdga_points": 130.0,
+      "rating": 993,
+      "prize": "",
+      "score": "212",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_idlewild_open",
+      "title": "DGPT - Idlewild Open presented by Dynamic Discs & The Nati",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 107,
+      "pdga_points": 260.0,
+      "rating": 991,
+      "prize": "",
+      "score": "221",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 107.5,
+  "form_events": 2
+}

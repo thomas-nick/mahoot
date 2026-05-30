@@ -25,6 +25,14 @@ const boards = [
     accent: "#2563eb",
   },
   {
+    href: "/leaderboards/coverage/players",
+    eyebrow: "Elite & Majors · PDGA",
+    title: "Players",
+    blurb:
+      "Tour pros with Elite & Major finishes — event history, wins and podiums linked to multi-producer round coverage.",
+    accent: "#7c3aed",
+  },
+  {
     href: "/leaderboards/asia",
     eyebrow: "PDGA · Asia & SE Asia",
     title: "Asia Leaderboard",

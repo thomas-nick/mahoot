@@ -1,0 +1,52 @@
+{
+  "pdga": 35321,
+  "name": "Sofie Björlycke",
+  "name_tag": "sofie_bj_rlycke",
+  "division": "FPO",
+  "rating": 934,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 576.0,
+  "last_event_year": "2025",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 32,
+      "pdga_points": 504.0,
+      "rating": 933,
+      "prize": "$480",
+      "score": "360",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_european_open",
+      "title": "European Open 2023 presented by Discmania",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 19,
+      "pdga_points": 72.0,
+      "rating": 934,
+      "prize": "",
+      "score": "217",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 25.5,
+  "form_events": 2
+}

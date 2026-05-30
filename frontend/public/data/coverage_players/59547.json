@@ -1,0 +1,52 @@
+{
+  "pdga": 59547,
+  "name": "Amanda Zaccone",
+  "name_tag": "amanda_zaccone",
+  "division": "FPO",
+  "rating": 897,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 72.0,
+  "last_event_year": "2023",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2023_otb_open",
+      "title": "DGPT - OTB Open presented by MVP Disc Sports",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 42,
+      "pdga_points": 42.0,
+      "rating": 897,
+      "prize": "",
+      "score": "223",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_otb_open",
+      "title": "DGPT - OTB Open presented by Innova",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 29,
+      "pdga_points": 30.0,
+      "rating": 883,
+      "prize": "",
+      "score": "246",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 35.5,
+  "form_events": 2
+}

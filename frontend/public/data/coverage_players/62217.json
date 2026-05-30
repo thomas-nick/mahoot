@@ -1,0 +1,38 @@
+{
+  "pdga": 62217,
+  "name": "Kasper Skovly",
+  "name_tag": "kasper_skovly",
+  "division": "MPO",
+  "rating": 963,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 790.0,
+  "last_event_year": "2020",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2020_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 72,
+      "pdga_points": 790.0,
+      "rating": 963,
+      "prize": "",
+      "score": "175",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 72.0,
+  "form_events": 1
+}

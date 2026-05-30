@@ -1,0 +1,92 @@
+{
+  "pdga": 31536,
+  "name": "Logan Bowers",
+  "name_tag": "logan_bowers",
+  "division": "MPO",
+  "rating": 1014,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 2460.0,
+  "last_event_year": "2024",
+  "first_event_year": "2019",
+  "results": [
+    {
+      "coverage_event_id": "2024_music_city_open",
+      "title": "DGPT - Music City Open presented by Lone Star Disc",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 87,
+      "pdga_points": 280.0,
+      "rating": 1014,
+      "prize": "",
+      "score": "204",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_music_city_open",
+      "title": "DGPT Elite - Music City Open presented by Lone Star Disc",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 81,
+      "pdga_points": 360.0,
+      "rating": 1004,
+      "prize": "",
+      "score": "197",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2022_jonesboro_open",
+      "title": "DGPT - Play It Again Sports Jonesboro Open powered by Prodigy",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 63,
+      "pdga_points": 570.0,
+      "rating": 1007,
+      "prize": "",
+      "score": "188",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2019_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs - National Tour",
+      "year": "2019",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 32,
+      "pdga_points": 1250.0,
+      "rating": 999,
+      "prize": "$398",
+      "score": "217",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 4,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 65.8,
+  "form_events": 4,
+  "media": {
+    "rounds": 4,
+    "lead_cards": 0,
+    "chase_cards": 0,
+    "feature_cards": 0,
+    "tournaments": 2,
+    "multi_source_events": 0,
+    "by_source": {
+      "gatekeeper": 2,
+      "gkpro": 2
+    }
+  }
+}

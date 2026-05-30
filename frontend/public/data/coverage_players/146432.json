@@ -1,0 +1,49 @@
+{
+  "pdga": 146432,
+  "name": "Francis Orange",
+  "name_tag": "francis_orange",
+  "division": "MPO",
+  "rating": 982,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 720.0,
+  "last_event_year": "2025",
+  "first_event_year": "2025",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 153,
+      "pdga_points": 720.0,
+      "rating": 982,
+      "prize": "",
+      "score": "272",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 153.0,
+  "form_events": 1,
+  "media": {
+    "rounds": 10,
+    "lead_cards": 0,
+    "chase_cards": 0,
+    "feature_cards": 0,
+    "tournaments": 4,
+    "multi_source_events": 0,
+    "by_source": {
+      "gkpro": 10
+    }
+  }
+}

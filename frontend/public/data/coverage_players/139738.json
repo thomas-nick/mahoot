@@ -1,0 +1,52 @@
+{
+  "pdga": 139738,
+  "name": "Megan Dophal",
+  "name_tag": "megan_dophal",
+  "division": "FPO",
+  "rating": 874,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 24.0,
+  "last_event_year": "2024",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2024_ledgestone_open",
+      "title": "DGPT+ Discraft's Ledgestone Open presented by GRIPeq",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 45,
+      "pdga_points": 12.0,
+      "rating": 874,
+      "prize": "",
+      "score": "204",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_idlewild_open",
+      "title": "DGPT - LWS Open at Idlewild presented by Dynamic Discs & The Nati",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 42,
+      "pdga_points": 12.0,
+      "rating": 873,
+      "prize": "",
+      "score": "262",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 43.5,
+  "form_events": 2
+}

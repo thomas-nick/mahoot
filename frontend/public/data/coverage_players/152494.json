@@ -1,0 +1,38 @@
+{
+  "pdga": 152494,
+  "name": "Jason Kozlik",
+  "name_tag": "jason_kozlik",
+  "division": "MPO",
+  "rating": 979,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 80.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_ledgestone_open",
+      "title": "DGPT+ Discraft's Ledgestone Open presented by GRIPeq",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 146,
+      "pdga_points": 80.0,
+      "rating": 979,
+      "prize": "",
+      "score": "229",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 146.0,
+  "form_events": 1
+}

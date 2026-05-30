@@ -1,0 +1,52 @@
+{
+  "pdga": 89539,
+  "name": "Eli Grijalva",
+  "name_tag": "eli_grijalva",
+  "division": "MPO",
+  "rating": 996,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1040.0,
+  "last_event_year": "2020",
+  "first_event_year": "2019",
+  "results": [
+    {
+      "coverage_event_id": "2020_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 111,
+      "pdga_points": 400.0,
+      "rating": 988,
+      "prize": "",
+      "score": "184",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2019_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs - National Tour",
+      "year": "2019",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 93,
+      "pdga_points": 640.0,
+      "rating": 996,
+      "prize": "",
+      "score": "177",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 102.0,
+  "form_events": 2
+}

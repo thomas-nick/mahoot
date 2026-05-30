@@ -1,0 +1,38 @@
+{
+  "pdga": 99027,
+  "name": "Alex Evers",
+  "name_tag": "alex_evers",
+  "division": "MPO",
+  "rating": 949,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 300.0,
+  "last_event_year": "2020",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2020_idlewild_open",
+      "title": "DGPT - Idlewild Open presented by Dynamic Discs & The Nati",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 103,
+      "pdga_points": 300.0,
+      "rating": 949,
+      "prize": "",
+      "score": "218",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 103.0,
+  "form_events": 1
+}

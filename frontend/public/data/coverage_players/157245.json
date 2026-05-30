@@ -1,0 +1,38 @@
+{
+  "pdga": 157245,
+  "name": "Emilia Kallio",
+  "name_tag": "emilia_kallio",
+  "division": "FPO",
+  "rating": 914,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 459.0,
+  "last_event_year": "2025",
+  "first_event_year": "2025",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 37,
+      "pdga_points": 459.0,
+      "rating": 914,
+      "prize": "",
+      "score": "366",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 37.0,
+  "form_events": 1
+}

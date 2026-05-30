@@ -1,0 +1,38 @@
+{
+  "pdga": 94773,
+  "name": "Kody Larson",
+  "name_tag": "kody_larson",
+  "division": "MPO",
+  "rating": 985,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 330.0,
+  "last_event_year": "2023",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2023_pdga_pro_worlds",
+      "title": "2023 PDGA Professional Disc Golf World Championships Presented by L.L.Bean",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 195,
+      "pdga_points": 330.0,
+      "rating": 985,
+      "prize": "",
+      "score": "263",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 195.0,
+  "form_events": 1
+}

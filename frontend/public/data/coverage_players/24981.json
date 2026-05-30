@@ -1,0 +1,49 @@
+{
+  "pdga": 24981,
+  "name": "Tyler Liebman",
+  "name_tag": "tyler_liebman",
+  "division": "MPO",
+  "rating": 1008,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1770.0,
+  "last_event_year": "2023",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2023_pdga_pro_worlds",
+      "title": "2023 PDGA Professional Disc Golf World Championships Presented by L.L.Bean",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 99,
+      "pdga_points": 1770.0,
+      "rating": 1008,
+      "prize": "",
+      "score": "242",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 99.0,
+  "form_events": 1,
+  "media": {
+    "rounds": 2,
+    "lead_cards": 0,
+    "chase_cards": 0,
+    "feature_cards": 0,
+    "tournaments": 1,
+    "multi_source_events": 0,
+    "by_source": {
+      "gatekeeper": 2
+    }
+  }
+}

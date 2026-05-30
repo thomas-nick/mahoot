@@ -3,11 +3,46 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
-const links = [
-  { href: "/leaderboards/manucup", label: "Manufacturers Cup" },
-  { href: "/leaderboards/players", label: "Player Tour Stats" },
-  { href: "/leaderboards/asia", label: "Asia Leaderboard" },
-  { href: "/leaderboards/coverage", label: "Tournament Coverage" },
+type NavLink = {
+  href: string;
+  label: string;
+  isActive: (pathname: string) => boolean;
+};
+
+const links: NavLink[] = [
+  {
+    href: "/leaderboards/manucup",
+    label: "Manufacturers Cup",
+    isActive: (p) => p.startsWith("/leaderboards/manucup"),
+  },
+  {
+    href: "/leaderboards/players",
+    label: "Player Tour Stats",
+    isActive: (p) => p === "/leaderboards/players",
+  },
+  {
+    href: "/leaderboards/coverage/players",
+    label: "Players",
+    isActive: (p) =>
+      p.startsWith("/leaderboards/coverage/players") ||
+      p.startsWith("/leaderboards/coverage/player/") ||
+      p.startsWith("/leaderboards/coverage/matchup"),
+  },
+  {
+    href: "/leaderboards/asia",
+    label: "Asia Leaderboard",
+    isActive: (p) => p.startsWith("/leaderboards/asia"),
+  },
+  {
+    href: "/leaderboards/coverage",
+    label: "Tournament Coverage",
+    isActive: (p) => {
+      if (p === "/leaderboards/coverage") return true;
+      const rest = p.replace("/leaderboards/coverage/", "");
+      if (!rest || rest.includes("/")) return false;
+      return rest !== "players" && !rest.startsWith("player/");
+    },
+  },
 ];
 
 export function SiteNav() {
@@ -22,7 +57,7 @@ export function SiteNav() {
         ← All leaderboards
       </Link>
       {links.map((link) => {
-        const active = pathname === link.href || pathname.startsWith(`${link.href}/`);
+        const active = link.isActive(pathname);
         return (
           <Link
             key={link.href}

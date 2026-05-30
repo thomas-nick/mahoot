@@ -1,0 +1,77 @@
+{
+  "pdga": 95050,
+  "name": "Josef Berg",
+  "name_tag": "josef_berg",
+  "division": "MPO",
+  "rating": 1001,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1800.0,
+  "last_event_year": "2024",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2024_european_open",
+      "title": "DGPT - European Disc Golf Festival",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 25,
+      "pdga_points": 840.0,
+      "rating": 993,
+      "prize": "$482",
+      "score": "163",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_pdga_champions_cup",
+      "title": "PDGA Champions Cup Presented by Bushnell",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 92,
+      "pdga_points": 255.0,
+      "rating": 1001,
+      "prize": "",
+      "score": "268",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_pdga_pro_worlds",
+      "title": "2023 PDGA Professional Disc Golf World Championships Presented by L.L.Bean",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 170,
+      "pdga_points": 705.0,
+      "rating": 998,
+      "prize": "",
+      "score": "255",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 3,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 95.7,
+  "form_events": 3,
+  "media": {
+    "rounds": 10,
+    "lead_cards": 6,
+    "chase_cards": 0,
+    "feature_cards": 4,
+    "tournaments": 3,
+    "multi_source_events": 0,
+    "by_source": {
+      "gatekeeper": 10
+    }
+  }
+}

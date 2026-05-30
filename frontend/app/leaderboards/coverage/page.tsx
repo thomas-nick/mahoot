@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { CoverageDashboard } from "../_components/CoverageDashboard";
-import { loadCoverageCatalog } from "../_lib/coverageData";
+import { loadCoverageCatalog } from "../_lib/coverageServerData";
 
 export const metadata: Metadata = {
   title: "Tournament Coverage · Multi-Producer",

@@ -1,0 +1,52 @@
+{
+  "pdga": 118782,
+  "name": "Ingvild Lønvik",
+  "name_tag": "ingvild_l_nvik",
+  "division": "FPO",
+  "rating": 902,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 396.0,
+  "last_event_year": "2025",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 56,
+      "pdga_points": 288.0,
+      "rating": 902,
+      "prize": "",
+      "score": "307",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_european_open",
+      "title": "DGPT - European Disc Golf Festival",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 22,
+      "pdga_points": 108.0,
+      "rating": 893,
+      "prize": "",
+      "score": "203",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 39.0,
+  "form_events": 2
+}

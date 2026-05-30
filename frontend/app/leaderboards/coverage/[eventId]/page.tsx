@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { CoverageEventDashboard } from "../../_components/CoverageEventDashboard";
-import { getCoverageEvent, loadCoverageCatalog } from "../../_lib/coverageData";
+import { getCoverageEvent } from "../../_lib/coverageData";
+import { loadCoverageCatalog } from "../../_lib/coverageServerData";
+import { loadCoverageEventResults } from "../../_lib/coverageResultsData";
 
 type PageProps = {
   params: Promise<{ eventId: string }>;
@@ -31,5 +33,7 @@ export default async function CoverageEventPage({ params }: PageProps) {
     notFound();
   }
 
-  return <CoverageEventDashboard catalog={catalog} event={event} />;
+  const results = await loadCoverageEventResults(eventId);
+
+  return <CoverageEventDashboard catalog={catalog} event={event} results={results} />;
 }

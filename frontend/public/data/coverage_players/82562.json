@@ -1,0 +1,52 @@
+{
+  "pdga": 82562,
+  "name": "Aapo Karhi",
+  "name_tag": "aapo_karhi",
+  "division": "MPO",
+  "rating": 1011,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1750.0,
+  "last_event_year": "2025",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 113,
+      "pdga_points": 1320.0,
+      "rating": 1008,
+      "prize": "",
+      "score": "261",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_european_open",
+      "title": "DGPT - European Disc Golf Festival",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 66,
+      "pdga_points": 430.0,
+      "rating": 1011,
+      "prize": "",
+      "score": "174",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 89.5,
+  "form_events": 2
+}

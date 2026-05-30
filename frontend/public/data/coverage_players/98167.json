@@ -1,0 +1,38 @@
+{
+  "pdga": 98167,
+  "name": "Cole Neal",
+  "name_tag": "cole_neal",
+  "division": "MPO",
+  "rating": 996,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 0,
+  "last_event_year": "2022",
+  "first_event_year": "2022",
+  "results": [
+    {
+      "coverage_event_id": "2022_jonesboro_open",
+      "title": "DGPT - Play It Again Sports Jonesboro Open powered by Prodigy",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 115,
+      "pdga_points": 0,
+      "rating": 996,
+      "prize": "",
+      "score": "DNF",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 115.0,
+  "form_events": 1
+}

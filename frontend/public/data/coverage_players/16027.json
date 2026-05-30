@@ -1,0 +1,52 @@
+{
+  "pdga": 16027,
+  "name": "Steve Braud",
+  "name_tag": "steve_braud",
+  "division": "MPO",
+  "rating": 981,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 370.0,
+  "last_event_year": "2024",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2024_otb_open",
+      "title": "DGPT - OTB Open presented by MVP Disc Sports + WGE",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 111,
+      "pdga_points": 100.0,
+      "rating": 951,
+      "prize": "",
+      "score": "228",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_mvp_open_at_maple_hill",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 84,
+      "pdga_points": 270.0,
+      "rating": 981,
+      "prize": "",
+      "score": "201",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 97.5,
+  "form_events": 2
+}

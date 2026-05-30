@@ -1,0 +1,52 @@
+{
+  "pdga": 49688,
+  "name": "Matt Rosier",
+  "name_tag": "matt_rosier",
+  "division": "MPO",
+  "rating": 968,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 880.0,
+  "last_event_year": "2020",
+  "first_event_year": "2019",
+  "results": [
+    {
+      "coverage_event_id": "2020_mvp_open_at_maple_hill",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 74,
+      "pdga_points": 370.0,
+      "rating": 967,
+      "prize": "",
+      "score": "198",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2019_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs - National Tour",
+      "year": "2019",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 106,
+      "pdga_points": 510.0,
+      "rating": 968,
+      "prize": "",
+      "score": "181",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 90.0,
+  "form_events": 2
+}

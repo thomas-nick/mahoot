@@ -1,0 +1,77 @@
+{
+  "pdga": 118179,
+  "name": "Levi Stout",
+  "name_tag": "levi_stout",
+  "division": "MPO",
+  "rating": 1025,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 770.0,
+  "last_event_year": "2026",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2026_open_at_austin",
+      "title": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suites Austin East",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 64,
+      "pdga_points": 0,
+      "rating": 1025,
+      "prize": "",
+      "score": "186",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2026_jonesboro_open",
+      "title": "DGPT - Play it Again Sports Jonesboro Open presented by Westside Discs",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 62,
+      "pdga_points": 480.0,
+      "rating": 1025,
+      "prize": "",
+      "score": "183",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 91,
+      "pdga_points": 290.0,
+      "rating": 997,
+      "prize": "",
+      "score": "200",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 3,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 72.3,
+  "form_events": 3,
+  "media": {
+    "rounds": 36,
+    "lead_cards": 0,
+    "chase_cards": 0,
+    "feature_cards": 0,
+    "tournaments": 8,
+    "multi_source_events": 0,
+    "by_source": {
+      "gkpro": 36
+    }
+  }
+}

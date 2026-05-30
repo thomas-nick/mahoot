@@ -1,0 +1,38 @@
+{
+  "pdga": 94840,
+  "name": "Josh Ocoin",
+  "name_tag": "josh_ocoin",
+  "division": "MPO",
+  "rating": 968,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 500.0,
+  "last_event_year": "2021",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2021_green_mountain_championship",
+      "title": "DGPT - Discraft's Green Mountain Championship presented by Upper Park Disc Golf",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 85,
+      "pdga_points": 500.0,
+      "rating": 968,
+      "prize": "",
+      "score": "187",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 85.0,
+  "form_events": 1
+}

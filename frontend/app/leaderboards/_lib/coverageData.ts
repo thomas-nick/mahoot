@@ -1,14 +1,5 @@
 import type { CoverageCatalog, CoverageEvent } from "./coverageTypes";
 
-export async function loadCoverageCatalog(): Promise<CoverageCatalog | null> {
-  try {
-    const data = (await import("../../../public/data/coverage_catalog.json")).default;
-    return data as unknown as CoverageCatalog;
-  } catch {
-    return null;
-  }
-}
-
 export function getCoverageEvent(catalog: CoverageCatalog, eventId: string): CoverageEvent | null {
   return catalog.events.find((e) => e.id === eventId) ?? null;
 }

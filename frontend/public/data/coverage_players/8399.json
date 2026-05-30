@@ -1,0 +1,38 @@
+{
+  "pdga": 8399,
+  "name": "Maxime Tanghe",
+  "name_tag": "maxime_tanghe",
+  "division": "MPO",
+  "rating": 1012,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 0,
+  "last_event_year": "2026",
+  "first_event_year": "2026",
+  "results": [
+    {
+      "coverage_event_id": "2026_open_at_austin",
+      "title": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suites Austin East",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 67,
+      "pdga_points": 0,
+      "rating": 1012,
+      "prize": "",
+      "score": "187",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 67.0,
+  "form_events": 1
+}

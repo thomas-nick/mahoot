@@ -1,0 +1,38 @@
+{
+  "pdga": 95299,
+  "name": "Mitchell Kloc",
+  "name_tag": "mitchell_kloc",
+  "division": "MPO",
+  "rating": 1005,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 150.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_great_lakes_open",
+      "title": "DGPT+ Discraft Great Lakes Open presented by Gerrit J Verburg",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 92,
+      "pdga_points": 150.0,
+      "rating": 1005,
+      "prize": "",
+      "score": "212",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 92.0,
+  "form_events": 1
+}

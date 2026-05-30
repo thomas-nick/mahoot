@@ -1,0 +1,91 @@
+{
+  "pdga": 149546,
+  "name": "Jesse Longenecker",
+  "name_tag": "jesse_longenecker",
+  "division": "MPO",
+  "rating": 1028,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 5570.0,
+  "last_event_year": "2025",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2025_idlewild_open",
+      "title": "DGPT - LWS Open at Idlewild",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 41,
+      "pdga_points": 600.0,
+      "rating": 1028,
+      "prize": "",
+      "score": "189",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2025_usdgc",
+      "title": "2025 United States Disc Golf Championship",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 30,
+      "pdga_points": 1170.0,
+      "rating": 1027,
+      "prize": "$970",
+      "score": "251",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2025_ledgestone_open",
+      "title": "DGPT+ Discraft Ledgestone Open presented by Züca",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 16,
+      "pdga_points": 1400.0,
+      "rating": 1028,
+      "prize": "$1,630",
+      "score": "244",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_pdga_pro_worlds",
+      "title": "2024 PDGA Professional Disc Golf World Championships Presented by Zuca",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 49,
+      "pdga_points": 2400.0,
+      "rating": 1014,
+      "prize": "$870",
+      "score": "328",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 4,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 34.0,
+  "form_events": 4,
+  "media": {
+    "rounds": 4,
+    "lead_cards": 2,
+    "chase_cards": 0,
+    "feature_cards": 2,
+    "tournaments": 2,
+    "multi_source_events": 0,
+    "by_source": {
+      "jomezpro": 4
+    }
+  }
+}

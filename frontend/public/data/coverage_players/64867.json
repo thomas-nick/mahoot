@@ -1,0 +1,38 @@
+{
+  "pdga": 64867,
+  "name": "Matěj Vojtík",
+  "name_tag": "mat_j_vojt_k",
+  "division": "MPO",
+  "rating": 994,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 30.0,
+  "last_event_year": "2023",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2023_european_open",
+      "title": "European Open 2023 presented by Discmania",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 107,
+      "pdga_points": 30.0,
+      "rating": 994,
+      "prize": "",
+      "score": "203",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 107.0,
+  "form_events": 1
+}

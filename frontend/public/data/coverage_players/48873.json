@@ -1,0 +1,52 @@
+{
+  "pdga": 48873,
+  "name": "Garrett Tapken",
+  "name_tag": "garrett_tapken",
+  "division": "MPO",
+  "rating": 991,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 570.0,
+  "last_event_year": "2021",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2021_portland_open",
+      "title": "DGPT - Portland Open presented by Dynamic Discs",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 112,
+      "pdga_points": 0,
+      "rating": 991,
+      "prize": "",
+      "score": "DNF",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_otb_open",
+      "title": "DGPT - OTB Open presented by Innova",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 68,
+      "pdga_points": 570.0,
+      "rating": 991,
+      "prize": "",
+      "score": "202",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 90.0,
+  "form_events": 2
+}

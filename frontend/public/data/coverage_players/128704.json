@@ -1,0 +1,52 @@
+{
+  "pdga": 128704,
+  "name": "Samuel Snider",
+  "name_tag": "samuel_snider",
+  "division": "MPO",
+  "rating": 980,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 170.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_portland_open",
+      "title": "DGPT+ 2024 Portland Open presented by Latitude64",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 105,
+      "pdga_points": 80.0,
+      "rating": 980,
+      "prize": "",
+      "score": "205",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_beaver_state_fling",
+      "title": "DGPT - 2024 Beaver State Fling Presented by Innova",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 104,
+      "pdga_points": 90.0,
+      "rating": 980,
+      "prize": "",
+      "score": "207",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 104.5,
+  "form_events": 2
+}

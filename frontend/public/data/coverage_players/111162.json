@@ -1,0 +1,38 @@
+{
+  "pdga": 111162,
+  "name": "Darton Potts",
+  "name_tag": "darton_potts",
+  "division": "MPO",
+  "rating": 967,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 370.0,
+  "last_event_year": "2021",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2021_des_moines_challenge",
+      "title": "DGPT - Des Moines Challenge presented by Discraft",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 102,
+      "pdga_points": 370.0,
+      "rating": 967,
+      "prize": "",
+      "score": "140",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 102.0,
+  "form_events": 1
+}

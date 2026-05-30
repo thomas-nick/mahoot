@@ -1,0 +1,38 @@
+{
+  "pdga": 141181,
+  "name": "Calvin Roorda",
+  "name_tag": "calvin_roorda",
+  "division": "MPO",
+  "rating": 976,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 270.0,
+  "last_event_year": "2023",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2023_usdgc",
+      "title": "United States Disc Golf Championship",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 92,
+      "pdga_points": 270.0,
+      "rating": 976,
+      "prize": "",
+      "score": "270",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 92.0,
+  "form_events": 1
+}

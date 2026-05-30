@@ -1,0 +1,52 @@
+{
+  "pdga": 3351,
+  "name": "Jim Oates",
+  "name_tag": "jim_oates",
+  "division": "MPO",
+  "rating": 988,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 360.0,
+  "last_event_year": "2023",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2023_open_at_austin",
+      "title": "DGPT - The Open at Austin presented by Lone Star Disc",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 101,
+      "pdga_points": 160.0,
+      "rating": 973,
+      "prize": "",
+      "score": "192",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_otb_open",
+      "title": "DGPT - OTB Open presented by Innova",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 105,
+      "pdga_points": 200.0,
+      "rating": 988,
+      "prize": "",
+      "score": "215",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 103.0,
+  "form_events": 2
+}

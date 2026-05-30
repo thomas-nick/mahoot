@@ -1,0 +1,52 @@
+{
+  "pdga": 61104,
+  "name": "Bonner Butler",
+  "name_tag": "bonner_butler",
+  "division": "MPO",
+  "rating": 997,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 580.0,
+  "last_event_year": "2025",
+  "first_event_year": "2025",
+  "results": [
+    {
+      "coverage_event_id": "2025_preserve_championship",
+      "title": "DGPT - Preserve Championship",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 83,
+      "pdga_points": 290.0,
+      "rating": 996,
+      "prize": "",
+      "score": "203",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2025_open_at_austin",
+      "title": "DGPT+ MVP's Open at Austin presented by Flight Factory Discs",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 79,
+      "pdga_points": 290.0,
+      "rating": 997,
+      "prize": "",
+      "score": "199",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 81.0,
+  "form_events": 2
+}

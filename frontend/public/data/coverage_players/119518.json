@@ -1,0 +1,38 @@
+{
+  "pdga": 119518,
+  "name": "Evan Muzilla",
+  "name_tag": "evan_muzilla",
+  "division": "MPO",
+  "rating": 965,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 230.0,
+  "last_event_year": "2021",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2021_mvp_open_at_maple_hill",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 122,
+      "pdga_points": 230.0,
+      "rating": 965,
+      "prize": "",
+      "score": "203",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 122.0,
+  "form_events": 1
+}

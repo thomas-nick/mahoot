@@ -1,0 +1,38 @@
+{
+  "pdga": 77462,
+  "name": "Otto Lehtonen",
+  "name_tag": "otto_lehtonen",
+  "division": "MPO",
+  "rating": 1008,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 375.0,
+  "last_event_year": "2023",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2023_european_open",
+      "title": "European Open 2023 presented by Discmania",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 84,
+      "pdga_points": 375.0,
+      "rating": 1008,
+      "prize": "",
+      "score": "190",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 84.0,
+  "form_events": 1
+}

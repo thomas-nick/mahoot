@@ -1,0 +1,52 @@
+{
+  "pdga": 26326,
+  "name": "Jeff Vandemark",
+  "name_tag": "jeff_vandemark",
+  "division": "MPO",
+  "rating": 996,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1530.0,
+  "last_event_year": "2021",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2021_idlewild_open",
+      "title": "DGPT - Idlewild Open presented by Dynamic Discs & The Nati",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 48,
+      "pdga_points": 730.0,
+      "rating": 995,
+      "prize": "$60",
+      "score": "192",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_idlewild_open",
+      "title": "DGPT - Idlewild Open presented by Dynamic Discs & The Nati",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 53,
+      "pdga_points": 800.0,
+      "rating": 996,
+      "prize": "$50",
+      "score": "199",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 50.5,
+  "form_events": 2
+}

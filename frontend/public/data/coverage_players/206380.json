@@ -1,0 +1,38 @@
+{
+  "pdga": 206380,
+  "name": "Chris Kelley",
+  "name_tag": "chris_kelley",
+  "division": "MPO",
+  "rating": 987,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 400.0,
+  "last_event_year": "2025",
+  "first_event_year": "2025",
+  "results": [
+    {
+      "coverage_event_id": "2025_preserve_championship",
+      "title": "DGPT - Preserve Championship",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 72,
+      "pdga_points": 400.0,
+      "rating": 987,
+      "prize": "",
+      "score": "198",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 72.0,
+  "form_events": 1
+}

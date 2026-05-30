@@ -1,0 +1,77 @@
+{
+  "pdga": 57544,
+  "name": "Zane Letts",
+  "name_tag": "zane_letts",
+  "division": "MPO",
+  "rating": 1016,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1050.0,
+  "last_event_year": "2026",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2026_open_at_austin",
+      "title": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suites Austin East",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 30,
+      "pdga_points": 0,
+      "rating": 1016,
+      "prize": "$604",
+      "score": "238",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_ledgestone_open",
+      "title": "DGPT+ Discraft's Ledgestone Open presented by GRIPeq",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 100,
+      "pdga_points": 540.0,
+      "rating": 1016,
+      "prize": "",
+      "score": "195",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_jonesboro_open",
+      "title": "DGPT - Play It Again Sports Jonesboro Open powered by Prodigy",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 74,
+      "pdga_points": 510.0,
+      "rating": 995,
+      "prize": "",
+      "score": "186",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 3,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 68.0,
+  "form_events": 3,
+  "media": {
+    "rounds": 2,
+    "lead_cards": 0,
+    "chase_cards": 0,
+    "feature_cards": 0,
+    "tournaments": 1,
+    "multi_source_events": 0,
+    "by_source": {
+      "gkpro": 2
+    }
+  }
+}

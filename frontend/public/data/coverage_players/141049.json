@@ -1,0 +1,52 @@
+{
+  "pdga": 141049,
+  "name": "Josh Menne",
+  "name_tag": "josh_menne",
+  "division": "MPO",
+  "rating": 988,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 600.0,
+  "last_event_year": "2025",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2025_ledgestone_open",
+      "title": "DGPT+ Discraft Ledgestone Open presented by Züca",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 116,
+      "pdga_points": 400.0,
+      "rating": 985,
+      "prize": "",
+      "score": "212",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_ledgestone_open",
+      "title": "DGPT+ Discraft's Ledgestone Open presented by GRIPeq",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 134,
+      "pdga_points": 200.0,
+      "rating": 988,
+      "prize": "",
+      "score": "209",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 125.0,
+  "form_events": 2
+}

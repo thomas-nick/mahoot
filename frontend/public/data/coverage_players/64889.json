@@ -1,0 +1,52 @@
+{
+  "pdga": 64889,
+  "name": "Mikael Häme",
+  "name_tag": "mikael_h_me",
+  "division": "MPO",
+  "rating": 1024,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 940.0,
+  "last_event_year": "2024",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2024_european_open",
+      "title": "DGPT - European Disc Golf Festival",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 60,
+      "pdga_points": 490.0,
+      "rating": 1021,
+      "prize": "",
+      "score": "173",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_european_open",
+      "title": "European Open 2023 presented by Discmania",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 79,
+      "pdga_points": 450.0,
+      "rating": 1024,
+      "prize": "",
+      "score": "187",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 69.5,
+  "form_events": 2
+}

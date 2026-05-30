@@ -1,0 +1,52 @@
+{
+  "pdga": 71186,
+  "name": "Drew Sodergren",
+  "name_tag": "drew_sodergren",
+  "division": "MPO",
+  "rating": 978,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 775.0,
+  "last_event_year": "2024",
+  "first_event_year": "2019",
+  "results": [
+    {
+      "coverage_event_id": "2024_pdga_pro_worlds",
+      "title": "2024 PDGA Professional Disc Golf World Championships Presented by Zuca",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 178,
+      "pdga_points": 465.0,
+      "rating": 978,
+      "prize": "",
+      "score": "299",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2019_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs - National Tour",
+      "year": "2019",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 126,
+      "pdga_points": 310.0,
+      "rating": 969,
+      "prize": "",
+      "score": "188",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 152.0,
+  "form_events": 2
+}

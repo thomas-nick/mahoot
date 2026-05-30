@@ -1,0 +1,52 @@
+{
+  "pdga": 69968,
+  "name": "Samuel Streeter",
+  "name_tag": "samuel_streeter",
+  "division": "MPO",
+  "rating": 971,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 800.0,
+  "last_event_year": "2021",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2021_mvp_open_at_maple_hill",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 110,
+      "pdga_points": 350.0,
+      "rating": 959,
+      "prize": "",
+      "score": "196",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_mvp_open_at_maple_hill",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 66,
+      "pdga_points": 450.0,
+      "rating": 971,
+      "prize": "",
+      "score": "194",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 88.0,
+  "form_events": 2
+}

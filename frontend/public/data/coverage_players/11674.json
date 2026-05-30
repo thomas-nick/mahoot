@@ -1,0 +1,38 @@
+{
+  "pdga": 11674,
+  "name": "Eric McCabe",
+  "name_tag": "eric_mccabe",
+  "division": "MPO",
+  "rating": 1009,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 550.0,
+  "last_event_year": "2023",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2023_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 65,
+      "pdga_points": 550.0,
+      "rating": 1009,
+      "prize": "",
+      "score": "193",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 65.0,
+  "form_events": 1
+}

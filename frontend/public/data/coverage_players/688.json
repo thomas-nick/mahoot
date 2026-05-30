@@ -1,0 +1,52 @@
+{
+  "pdga": 688,
+  "name": "Geoff Hungerford",
+  "name_tag": "geoff_hungerford",
+  "division": "MPO",
+  "rating": 957,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 230.0,
+  "last_event_year": "2020",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2020_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 95,
+      "pdga_points": 40.0,
+      "rating": 957,
+      "prize": "",
+      "score": "242",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_idlewild_open",
+      "title": "DGPT - Idlewild Open presented by Dynamic Discs & The Nati",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 114,
+      "pdga_points": 190.0,
+      "rating": 955,
+      "prize": "",
+      "score": "225",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 104.5,
+  "form_events": 2
+}

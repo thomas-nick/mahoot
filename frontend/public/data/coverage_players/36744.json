@@ -1,0 +1,77 @@
+{
+  "pdga": 36744,
+  "name": "Seppo Paju",
+  "name_tag": "seppo_paju",
+  "division": "MPO",
+  "rating": 1036,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 3290.0,
+  "last_event_year": "2022",
+  "first_event_year": "2019",
+  "results": [
+    {
+      "coverage_event_id": "2022_las_vegas_challenge",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 26,
+      "pdga_points": 930.0,
+      "rating": 1016,
+      "prize": "$516",
+      "score": "216",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 36,
+      "pdga_points": 1150.0,
+      "rating": 1025,
+      "prize": "$452",
+      "score": "221",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2019_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs - National Tour",
+      "year": "2019",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 36,
+      "pdga_points": 1210.0,
+      "rating": 1036,
+      "prize": "$380",
+      "score": "218",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 3,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 32.7,
+  "form_events": 3,
+  "media": {
+    "rounds": 8,
+    "lead_cards": 6,
+    "chase_cards": 0,
+    "feature_cards": 2,
+    "tournaments": 3,
+    "multi_source_events": 1,
+    "by_source": {
+      "gatekeeper": 8
+    }
+  }
+}

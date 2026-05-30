@@ -1,0 +1,52 @@
+{
+  "pdga": 35075,
+  "name": "Jerome Braun",
+  "name_tag": "jerome_braun",
+  "division": "MPO",
+  "rating": 998,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 100.0,
+  "last_event_year": "2022",
+  "first_event_year": "2022",
+  "results": [
+    {
+      "coverage_event_id": "2022_green_mountain_championship",
+      "title": "DGPT Playoffs - Discraft's Green Mountain Championship",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 92,
+      "pdga_points": 50.0,
+      "rating": 998,
+      "prize": "",
+      "score": "197",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2022_mvp_open_at_maple_hill",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 78,
+      "pdga_points": 50.0,
+      "rating": 998,
+      "prize": "",
+      "score": "200",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 85.0,
+  "form_events": 2
+}

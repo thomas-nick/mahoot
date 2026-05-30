@@ -1,0 +1,52 @@
+{
+  "pdga": 31364,
+  "name": "Ryan Orton",
+  "name_tag": "ryan_orton",
+  "division": "MPO",
+  "rating": 993,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 780.0,
+  "last_event_year": "2024",
+  "first_event_year": "2022",
+  "results": [
+    {
+      "coverage_event_id": "2024_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 90,
+      "pdga_points": 180.0,
+      "rating": 993,
+      "prize": "",
+      "score": "217",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2022_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 58,
+      "pdga_points": 600.0,
+      "rating": 982,
+      "prize": "",
+      "score": "215",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 74.0,
+  "form_events": 2
+}

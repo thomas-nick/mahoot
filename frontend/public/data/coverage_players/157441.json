@@ -1,0 +1,52 @@
+{
+  "pdga": 157441,
+  "name": "Oiva Päivänsalo",
+  "name_tag": "oiva_p_iv_nsalo",
+  "division": "MPO",
+  "rating": 1012,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 270.0,
+  "last_event_year": "2026",
+  "first_event_year": "2026",
+  "results": [
+    {
+      "coverage_event_id": "2026_open_at_austin",
+      "title": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suites Austin East",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 48,
+      "pdga_points": 0,
+      "rating": 1012,
+      "prize": "$110",
+      "score": "244",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2026_jonesboro_open",
+      "title": "DGPT - Play it Again Sports Jonesboro Open presented by Westside Discs",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 83,
+      "pdga_points": 270.0,
+      "rating": 1012,
+      "prize": "",
+      "score": "191",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 65.5,
+  "form_events": 2
+}

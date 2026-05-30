@@ -1,0 +1,38 @@
+{
+  "pdga": 185627,
+  "name": "Athena Cuevas",
+  "name_tag": "athena_cuevas",
+  "division": "FPO",
+  "rating": 829,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 63.0,
+  "last_event_year": "2025",
+  "first_event_year": "2025",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_champions_cup",
+      "title": "2025 PDGA Champions Cup by OTB & MVP Disc Sports",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 54,
+      "pdga_points": 63.0,
+      "rating": 829,
+      "prize": "",
+      "score": "232",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 54.0,
+  "form_events": 1
+}

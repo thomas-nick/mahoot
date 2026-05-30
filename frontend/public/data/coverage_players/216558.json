@@ -1,0 +1,91 @@
+{
+  "pdga": 216558,
+  "name": "Iida Lehtomäki",
+  "name_tag": "iida_lehtom_ki",
+  "division": "FPO",
+  "rating": 969,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 1,
+  "top10": 2,
+  "pdga_points": 1308.0,
+  "last_event_year": "2026",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2026_jonesboro_open",
+      "title": "DGPT - Play it Again Sports Jonesboro Open presented by Westside Discs",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 22,
+      "pdga_points": 102.0,
+      "rating": 969,
+      "prize": "",
+      "score": "205",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2026_pdga_champions_cup",
+      "title": "2026 PDGA Champions Cup Presented by Vessi",
+      "year": "2026",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 5,
+      "pdga_points": 396.0,
+      "rating": 958,
+      "prize": "$2,000",
+      "score": "272",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 2,
+      "pdga_points": 774.0,
+      "rating": 943,
+      "prize": "$9,000",
+      "score": "324",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_european_open",
+      "title": "European Open 2023 presented by Discmania",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 23,
+      "pdga_points": 36.0,
+      "rating": 893,
+      "prize": "",
+      "score": "225",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 4,
+  "best_win_streak": 0,
+  "best_podium_streak": 1,
+  "form_avg_finish": 13.0,
+  "form_events": 4,
+  "media": {
+    "rounds": 10,
+    "lead_cards": 8,
+    "chase_cards": 0,
+    "feature_cards": 2,
+    "tournaments": 3,
+    "multi_source_events": 0,
+    "by_source": {
+      "jomezpro": 10
+    }
+  }
+}

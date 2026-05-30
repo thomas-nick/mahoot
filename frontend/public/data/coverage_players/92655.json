@@ -1,0 +1,52 @@
+{
+  "pdga": 92655,
+  "name": "Shade Harrison",
+  "name_tag": "shade_harrison",
+  "division": "MPO",
+  "rating": 978,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 140.0,
+  "last_event_year": "2025",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2025_supreme_flight_open",
+      "title": "DGPT - Discraft Supreme Flight Open presented by Florida's Adventure Coast",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 100,
+      "pdga_points": 90.0,
+      "rating": 978,
+      "prize": "",
+      "score": "214",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 94,
+      "pdga_points": 50.0,
+      "rating": 951,
+      "prize": "",
+      "score": "241",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 97.0,
+  "form_events": 2
+}

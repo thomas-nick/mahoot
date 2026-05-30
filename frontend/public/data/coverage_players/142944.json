@@ -1,0 +1,52 @@
+{
+  "pdga": 142944,
+  "name": "Jill Norwick",
+  "name_tag": "jill_norwick",
+  "division": "FPO",
+  "rating": 918,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 198.0,
+  "last_event_year": "2023",
+  "first_event_year": "2022",
+  "results": [
+    {
+      "coverage_event_id": "2023_open_at_austin",
+      "title": "DGPT - The Open at Austin presented by Lone Star Disc",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 29,
+      "pdga_points": 150.0,
+      "rating": 918,
+      "prize": "",
+      "score": "205",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2022_las_vegas_challenge",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 53,
+      "pdga_points": 48.0,
+      "rating": 905,
+      "prize": "",
+      "score": "223",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 41.0,
+  "form_events": 2
+}

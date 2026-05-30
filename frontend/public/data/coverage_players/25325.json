@@ -1,0 +1,52 @@
+{
+  "pdga": 25325,
+  "name": "Patrick Blazek",
+  "name_tag": "patrick_blazek",
+  "division": "MPO",
+  "rating": 993,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 860.0,
+  "last_event_year": "2023",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2023_open_at_austin",
+      "title": "DGPT - The Open at Austin presented by Lone Star Disc",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 80,
+      "pdga_points": 370.0,
+      "rating": 982,
+      "prize": "",
+      "score": "186",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 50,
+      "pdga_points": 490.0,
+      "rating": 993,
+      "prize": "",
+      "score": "207",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 65.0,
+  "form_events": 2
+}

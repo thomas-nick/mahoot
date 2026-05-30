@@ -1,0 +1,52 @@
+{
+  "pdga": 92973,
+  "name": "Hayden Kujala",
+  "name_tag": "hayden_kujala",
+  "division": "MPO",
+  "rating": 983,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 820.0,
+  "last_event_year": "2022",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2022_las_vegas_challenge",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 99,
+      "pdga_points": 200.0,
+      "rating": 982,
+      "prize": "",
+      "score": "183",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_des_moines_challenge",
+      "title": "DGPT - Des Moines Challenge presented by Discraft",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 77,
+      "pdga_points": 620.0,
+      "rating": 983,
+      "prize": "",
+      "score": "202",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 88.0,
+  "form_events": 2
+}

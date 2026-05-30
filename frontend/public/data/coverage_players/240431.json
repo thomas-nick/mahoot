@@ -1,0 +1,38 @@
+{
+  "pdga": 240431,
+  "name": "Brandon Green",
+  "name_tag": "brandon_green",
+  "division": "MPO",
+  "rating": 1002,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 380.0,
+  "last_event_year": "2026",
+  "first_event_year": "2026",
+  "results": [
+    {
+      "coverage_event_id": "2026_big_easy_open",
+      "title": "DGPT - MVP Big Easy Open presented by Flight Factory",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 62,
+      "pdga_points": 380.0,
+      "rating": 1002,
+      "prize": "",
+      "score": "224",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 62.0,
+  "form_events": 1
+}

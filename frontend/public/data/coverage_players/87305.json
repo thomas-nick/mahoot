@@ -1,0 +1,52 @@
+{
+  "pdga": 87305,
+  "name": "Nathaniel DeLisle",
+  "name_tag": "nathaniel_delisle",
+  "division": "MPO",
+  "rating": 990,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 770.0,
+  "last_event_year": "2023",
+  "first_event_year": "2022",
+  "results": [
+    {
+      "coverage_event_id": "2023_pdga_pro_worlds",
+      "title": "2023 PDGA Professional Disc Golf World Championships Presented by L.L.Bean",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 189,
+      "pdga_points": 420.0,
+      "rating": 990,
+      "prize": "",
+      "score": "261",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2022_mvp_open_at_maple_hill",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 48,
+      "pdga_points": 350.0,
+      "rating": 989,
+      "prize": "",
+      "score": "184",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 118.5,
+  "form_events": 2
+}

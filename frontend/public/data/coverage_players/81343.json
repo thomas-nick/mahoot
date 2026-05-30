@@ -1,0 +1,50 @@
+{
+  "pdga": 81343,
+  "name": "Bradley Brown",
+  "name_tag": "bradley_brown",
+  "division": "MPO",
+  "rating": 986,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 400.0,
+  "last_event_year": "2023",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2023_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 80,
+      "pdga_points": 400.0,
+      "rating": 986,
+      "prize": "",
+      "score": "196",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 80.0,
+  "form_events": 1,
+  "media": {
+    "rounds": 10,
+    "lead_cards": 0,
+    "chase_cards": 4,
+    "feature_cards": 2,
+    "tournaments": 5,
+    "multi_source_events": 2,
+    "by_source": {
+      "gatekeeper": 8,
+      "gkpro": 2
+    }
+  }
+}

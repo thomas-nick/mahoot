@@ -1,0 +1,38 @@
+{
+  "pdga": 241722,
+  "name": "Jason Ward",
+  "name_tag": "jason_ward",
+  "division": "MPO",
+  "rating": 939,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 80.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_otb_open",
+      "title": "DGPT - OTB Open presented by MVP Disc Sports + WGE",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 113,
+      "pdga_points": 80.0,
+      "rating": 939,
+      "prize": "",
+      "score": "229",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 113.0,
+  "form_events": 1
+}

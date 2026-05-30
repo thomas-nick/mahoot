@@ -1,0 +1,52 @@
+{
+  "pdga": 8139,
+  "name": "Manabu Kajiyama",
+  "name_tag": "manabu_kajiyama",
+  "division": "MPO",
+  "rating": 1056,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 455.0,
+  "last_event_year": "2023",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2023_great_lakes_open",
+      "title": "DGPT - Discraft Great Lakes Open",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 66,
+      "pdga_points": 80.0,
+      "rating": 1056,
+      "prize": "",
+      "score": "271",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_pdga_pro_worlds",
+      "title": "2023 PDGA Professional Disc Golf World Championships Presented by L.L.Bean",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 192,
+      "pdga_points": 375.0,
+      "rating": 1056,
+      "prize": "",
+      "score": "262",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 129.0,
+  "form_events": 2
+}

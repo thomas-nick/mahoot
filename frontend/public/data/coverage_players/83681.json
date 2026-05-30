@@ -1,0 +1,52 @@
+{
+  "pdga": 83681,
+  "name": "Anthony Angel",
+  "name_tag": "anthony_angel",
+  "division": "MPO",
+  "rating": 930,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 150.0,
+  "last_event_year": "2021",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2021_des_moines_challenge",
+      "title": "DGPT - Des Moines Challenge presented by Discraft",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 130,
+      "pdga_points": 0,
+      "rating": 930,
+      "prize": "",
+      "score": "DNF",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_jonesboro_open",
+      "title": "DGPT - Play It Again Sports Jonesboro Open",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 80,
+      "pdga_points": 150.0,
+      "rating": 913,
+      "prize": "",
+      "score": "213",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 105.0,
+  "form_events": 2
+}

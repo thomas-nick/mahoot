@@ -1,0 +1,52 @@
+{
+  "pdga": 111999,
+  "name": "Judd Baer",
+  "name_tag": "judd_baer",
+  "division": "MPO",
+  "rating": 953,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 820.0,
+  "last_event_year": "2025",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2025_discmania_challenge",
+      "title": "DGPT - Discmania Challenge presented by TruBank",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 109,
+      "pdga_points": 70.0,
+      "rating": 953,
+      "prize": "",
+      "score": "220",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_des_moines_challenge",
+      "title": "DGPT - Des Moines Challenge presented by Discraft",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 64,
+      "pdga_points": 750.0,
+      "rating": 938,
+      "prize": "",
+      "score": "195",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 86.5,
+  "form_events": 2
+}

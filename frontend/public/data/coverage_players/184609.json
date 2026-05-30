@@ -1,0 +1,52 @@
+{
+  "pdga": 184609,
+  "name": "Elva-Kate Preston",
+  "name_tag": "elva_kate_preston",
+  "division": "FPO",
+  "rating": 899,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 291.0,
+  "last_event_year": "2025",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 59,
+      "pdga_points": 261.0,
+      "rating": 899,
+      "prize": "",
+      "score": "309",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_european_open",
+      "title": "DGPT - European Disc Golf Festival",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 35,
+      "pdga_points": 30.0,
+      "rating": 888,
+      "prize": "",
+      "score": "226",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 47.0,
+  "form_events": 2
+}

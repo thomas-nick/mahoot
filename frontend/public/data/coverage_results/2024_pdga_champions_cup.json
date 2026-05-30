@@ -1,0 +1,1479 @@
+{
+  "coverage_event_id": "2024_pdga_champions_cup",
+  "pdga_event_id": "77099",
+  "title": "2024 PDGA Champions Cup",
+  "year": "2024",
+  "location": "Morton, Illinois, United States",
+  "dates": "25-Apr to 28-Apr-2024",
+  "tier": "",
+  "tour_tag": "major",
+  "field_size": 144,
+  "mpo_count": 96,
+  "fpo_count": 48,
+  "avg_mpo_rating": 1021.4,
+  "winner_mpo": {
+    "pdga": 63765,
+    "name": "Andrew Presnell",
+    "division": "MPO",
+    "place": 1,
+    "pdga_points": 1440.0,
+    "rating": 1029,
+    "prize": "$15,000",
+    "score": "261"
+  },
+  "winner_fpo": {
+    "pdga": 64927,
+    "name": "Eveliina Salonen",
+    "division": "FPO",
+    "place": 1,
+    "pdga_points": 432.0,
+    "rating": 977,
+    "prize": "$9,500",
+    "score": "268"
+  },
+  "mpo": [
+    {
+      "pdga": 63765,
+      "name": "Andrew Presnell",
+      "division": "MPO",
+      "place": 1,
+      "pdga_points": 1440.0,
+      "rating": 1029,
+      "prize": "$15,000",
+      "score": "261"
+    },
+    {
+      "pdga": 91249,
+      "name": "Niklas Anttila",
+      "division": "MPO",
+      "place": 2,
+      "pdga_points": 1425.0,
+      "rating": 1042,
+      "prize": "$9,500",
+      "score": "265"
+    },
+    {
+      "pdga": 38008,
+      "name": "Richard Wysocki",
+      "division": "MPO",
+      "place": 3,
+      "pdga_points": 1410.0,
+      "rating": 1046,
+      "prize": "$6,000",
+      "score": "266"
+    },
+    {
+      "pdga": 50671,
+      "name": "Ezra Robinson",
+      "division": "MPO",
+      "place": 3,
+      "pdga_points": 1410.0,
+      "rating": 1040,
+      "prize": "$6,000",
+      "score": "266"
+    },
+    {
+      "pdga": 45971,
+      "name": "Calvin Heimburg",
+      "division": "MPO",
+      "place": 5,
+      "pdga_points": 1380.0,
+      "rating": 1050,
+      "prize": "$4,500",
+      "score": "269"
+    },
+    {
+      "pdga": 18330,
+      "name": "Matthew Orum",
+      "division": "MPO",
+      "place": 6,
+      "pdga_points": 1365.0,
+      "rating": 1045,
+      "prize": "$3,275",
+      "score": "270"
+    },
+    {
+      "pdga": 69509,
+      "name": "Joel Freeman",
+      "division": "MPO",
+      "place": 6,
+      "pdga_points": 1365.0,
+      "rating": 1034,
+      "prize": "$3,275",
+      "score": "270"
+    },
+    {
+      "pdga": 62467,
+      "name": "Chris Dickerson",
+      "division": "MPO",
+      "place": 6,
+      "pdga_points": 1365.0,
+      "rating": 1041,
+      "prize": "$3,275",
+      "score": "270"
+    },
+    {
+      "pdga": 122356,
+      "name": "Joseph Anderson",
+      "division": "MPO",
+      "place": 6,
+      "pdga_points": 1365.0,
+      "rating": 1032,
+      "prize": "$3,275",
+      "score": "270"
+    },
+    {
+      "pdga": 75412,
+      "name": "Gannon Buhr",
+      "division": "MPO",
+      "place": 10,
+      "pdga_points": 1305.0,
+      "rating": 1049,
+      "prize": "$2,314",
+      "score": "271"
+    },
+    {
+      "pdga": 27523,
+      "name": "Paul McBeth",
+      "division": "MPO",
+      "place": 10,
+      "pdga_points": 1305.0,
+      "rating": 1037,
+      "prize": "$2,314",
+      "score": "271"
+    },
+    {
+      "pdga": 96512,
+      "name": "Robert Burridge",
+      "division": "MPO",
+      "place": 10,
+      "pdga_points": 1305.0,
+      "rating": 1021,
+      "prize": "$2,314",
+      "score": "271"
+    },
+    {
+      "pdga": 44382,
+      "name": "Anthony Barela",
+      "division": "MPO",
+      "place": 10,
+      "pdga_points": 1305.0,
+      "rating": 1039,
+      "prize": "$2,314",
+      "score": "271"
+    },
+    {
+      "pdga": 81739,
+      "name": "Casey White",
+      "division": "MPO",
+      "place": 14,
+      "pdga_points": 1245.0,
+      "rating": 1020,
+      "prize": "$1,950",
+      "score": "272"
+    },
+    {
+      "pdga": 15857,
+      "name": "Gregg Barsby",
+      "division": "MPO",
+      "place": 15,
+      "pdga_points": 1230.0,
+      "rating": 1024,
+      "prize": "$1,800",
+      "score": "273"
+    },
+    {
+      "pdga": 100497,
+      "name": "Fredy Meza",
+      "division": "MPO",
+      "place": 15,
+      "pdga_points": 1230.0,
+      "rating": 1016,
+      "prize": "$1,800",
+      "score": "273"
+    },
+    {
+      "pdga": 47472,
+      "name": "Emerson Keith",
+      "division": "MPO",
+      "place": 17,
+      "pdga_points": 1200.0,
+      "rating": 1022,
+      "prize": "$1,600",
+      "score": "274"
+    },
+    {
+      "pdga": 91925,
+      "name": "Jakub Semerád",
+      "division": "MPO",
+      "place": 17,
+      "pdga_points": 1200.0,
+      "rating": 1029,
+      "prize": "$1,600",
+      "score": "274"
+    },
+    {
+      "pdga": 85132,
+      "name": "Kyle Klein",
+      "division": "MPO",
+      "place": 17,
+      "pdga_points": 1200.0,
+      "rating": 1039,
+      "prize": "$1,600",
+      "score": "274"
+    },
+    {
+      "pdga": 35449,
+      "name": "Aaron Gossage",
+      "division": "MPO",
+      "place": 20,
+      "pdga_points": 1155.0,
+      "rating": 1030,
+      "prize": "$1,475",
+      "score": "275"
+    },
+    {
+      "pdga": 27171,
+      "name": "Paul Ulibarri",
+      "division": "MPO",
+      "place": 20,
+      "pdga_points": 1155.0,
+      "rating": 1024,
+      "prize": "$1,475",
+      "score": "275"
+    },
+    {
+      "pdga": 50670,
+      "name": "Isaac Robinson",
+      "division": "MPO",
+      "place": 22,
+      "pdga_points": 1125.0,
+      "rating": 1040,
+      "prize": "$1,350",
+      "score": "276"
+    },
+    {
+      "pdga": 17295,
+      "name": "James Conrad",
+      "division": "MPO",
+      "place": 22,
+      "pdga_points": 1125.0,
+      "rating": 1025,
+      "prize": "$1,350",
+      "score": "276"
+    },
+    {
+      "pdga": 48950,
+      "name": "Matt Bell",
+      "division": "MPO",
+      "place": 22,
+      "pdga_points": 1125.0,
+      "rating": 1026,
+      "prize": "$1,350",
+      "score": "276"
+    },
+    {
+      "pdga": 121715,
+      "name": "Ezra Aderhold",
+      "division": "MPO",
+      "place": 25,
+      "pdga_points": 1080.0,
+      "rating": 1029,
+      "prize": "$1,250",
+      "score": "278"
+    },
+    {
+      "pdga": 75590,
+      "name": "Andrew Marwede",
+      "division": "MPO",
+      "place": 26,
+      "pdga_points": 1065.0,
+      "rating": 1028,
+      "prize": "$1,159",
+      "score": "279"
+    },
+    {
+      "pdga": 79748,
+      "name": "Cole Redalen",
+      "division": "MPO",
+      "place": 26,
+      "pdga_points": 1065.0,
+      "rating": 1039,
+      "prize": "$1,159",
+      "score": "279"
+    },
+    {
+      "pdga": 106915,
+      "name": "Joe Notch",
+      "division": "MPO",
+      "place": 26,
+      "pdga_points": 1065.0,
+      "rating": 1009,
+      "prize": "$1,159",
+      "score": "279"
+    },
+    {
+      "pdga": 58926,
+      "name": "Joona Heinänen",
+      "division": "MPO",
+      "place": 29,
+      "pdga_points": 1020.0,
+      "rating": 1028,
+      "prize": "$1,063",
+      "score": "280"
+    },
+    {
+      "pdga": 129963,
+      "name": "Braeden Sides",
+      "division": "MPO",
+      "place": 29,
+      "pdga_points": 1020.0,
+      "rating": 1020,
+      "prize": "$1,063",
+      "score": "280"
+    },
+    {
+      "pdga": 13864,
+      "name": "Garrett Gurthie",
+      "division": "MPO",
+      "place": 29,
+      "pdga_points": 1020.0,
+      "rating": 1025,
+      "prize": "$1,063",
+      "score": "280"
+    },
+    {
+      "pdga": 72844,
+      "name": "Mason Ford",
+      "division": "MPO",
+      "place": 29,
+      "pdga_points": 1020.0,
+      "rating": 1032,
+      "prize": "$1,063",
+      "score": "280"
+    },
+    {
+      "pdga": 60436,
+      "name": "Gavin Rathbun",
+      "division": "MPO",
+      "place": 33,
+      "pdga_points": 960.0,
+      "rating": 1022,
+      "prize": "$975",
+      "score": "282"
+    },
+    {
+      "pdga": 57365,
+      "name": "Adam Hammes",
+      "division": "MPO",
+      "place": 33,
+      "pdga_points": 960.0,
+      "rating": 1029,
+      "prize": "$975",
+      "score": "282"
+    },
+    {
+      "pdga": 33705,
+      "name": "Jeremy Koling",
+      "division": "MPO",
+      "place": 33,
+      "pdga_points": 960.0,
+      "rating": 1025,
+      "prize": "$975",
+      "score": "282"
+    },
+    {
+      "pdga": 88212,
+      "name": "Raven Newsom",
+      "division": "MPO",
+      "place": 36,
+      "pdga_points": 915.0,
+      "rating": 1015,
+      "prize": "$885",
+      "score": "284"
+    },
+    {
+      "pdga": 69424,
+      "name": "Luke Humphries",
+      "division": "MPO",
+      "place": 36,
+      "pdga_points": 915.0,
+      "rating": 1024,
+      "prize": "$885",
+      "score": "284"
+    },
+    {
+      "pdga": 39491,
+      "name": "Parker Welck",
+      "division": "MPO",
+      "place": 36,
+      "pdga_points": 915.0,
+      "rating": 1015,
+      "prize": "$885",
+      "score": "284"
+    },
+    {
+      "pdga": 101574,
+      "name": "Evan Smith",
+      "division": "MPO",
+      "place": 36,
+      "pdga_points": 915.0,
+      "rating": 1026,
+      "prize": "$885",
+      "score": "284"
+    },
+    {
+      "pdga": 61186,
+      "name": "Silver Lätt",
+      "division": "MPO",
+      "place": 40,
+      "pdga_points": 855.0,
+      "rating": 1015,
+      "prize": "",
+      "score": "285"
+    },
+    {
+      "pdga": 79047,
+      "name": "Silas Schultz",
+      "division": "MPO",
+      "place": 41,
+      "pdga_points": 840.0,
+      "rating": 1018,
+      "prize": "",
+      "score": "286"
+    },
+    {
+      "pdga": 128378,
+      "name": "Brodie Smith",
+      "division": "MPO",
+      "place": 42,
+      "pdga_points": 825.0,
+      "rating": 1011,
+      "prize": "",
+      "score": "291"
+    },
+    {
+      "pdga": 98091,
+      "name": "Alden Harris",
+      "division": "MPO",
+      "place": 42,
+      "pdga_points": 825.0,
+      "rating": 1029,
+      "prize": "",
+      "score": "291"
+    },
+    {
+      "pdga": 153445,
+      "name": "Corbin Milchesky",
+      "division": "MPO",
+      "place": 44,
+      "pdga_points": 795.0,
+      "rating": 999,
+      "prize": "",
+      "score": "215"
+    },
+    {
+      "pdga": 89959,
+      "name": "Ty Love",
+      "division": "MPO",
+      "place": 44,
+      "pdga_points": 795.0,
+      "rating": 1013,
+      "prize": "",
+      "score": "215"
+    },
+    {
+      "pdga": 102119,
+      "name": "Luke Taylor",
+      "division": "MPO",
+      "place": 44,
+      "pdga_points": 795.0,
+      "rating": 1028,
+      "prize": "",
+      "score": "215"
+    },
+    {
+      "pdga": 145206,
+      "name": "Calvin Lonnquist",
+      "division": "MPO",
+      "place": 47,
+      "pdga_points": 750.0,
+      "rating": 1015,
+      "prize": "",
+      "score": "216"
+    },
+    {
+      "pdga": 68286,
+      "name": "Nathan Queen",
+      "division": "MPO",
+      "place": 48,
+      "pdga_points": 735.0,
+      "rating": 1020,
+      "prize": "",
+      "score": "217"
+    },
+    {
+      "pdga": 61770,
+      "name": "AJ Carey",
+      "division": "MPO",
+      "place": 48,
+      "pdga_points": 735.0,
+      "rating": 1010,
+      "prize": "",
+      "score": "217"
+    },
+    {
+      "pdga": 56511,
+      "name": "Jacob Courtis",
+      "division": "MPO",
+      "place": 48,
+      "pdga_points": 735.0,
+      "rating": 1002,
+      "prize": "",
+      "score": "217"
+    },
+    {
+      "pdga": 79753,
+      "name": "Mason Marchbanks",
+      "division": "MPO",
+      "place": 48,
+      "pdga_points": 735.0,
+      "rating": 1014,
+      "prize": "",
+      "score": "217"
+    },
+    {
+      "pdga": 59419,
+      "name": "Luke Samson",
+      "division": "MPO",
+      "place": 48,
+      "pdga_points": 735.0,
+      "rating": 1014,
+      "prize": "",
+      "score": "217"
+    },
+    {
+      "pdga": 68285,
+      "name": "Grady Shue",
+      "division": "MPO",
+      "place": 48,
+      "pdga_points": 735.0,
+      "rating": 1023,
+      "prize": "",
+      "score": "217"
+    },
+    {
+      "pdga": 80331,
+      "name": "Gavin Babcock",
+      "division": "MPO",
+      "place": 54,
+      "pdga_points": 645.0,
+      "rating": 1022,
+      "prize": "",
+      "score": "218"
+    },
+    {
+      "pdga": 34344,
+      "name": "Paul Oman",
+      "division": "MPO",
+      "place": 54,
+      "pdga_points": 645.0,
+      "rating": 1016,
+      "prize": "",
+      "score": "218"
+    },
+    {
+      "pdga": 111887,
+      "name": "Ryan Mulder",
+      "division": "MPO",
+      "place": 54,
+      "pdga_points": 645.0,
+      "rating": 989,
+      "prize": "",
+      "score": "218"
+    },
+    {
+      "pdga": 48346,
+      "name": "Drew Gibson",
+      "division": "MPO",
+      "place": 54,
+      "pdga_points": 645.0,
+      "rating": 1024,
+      "prize": "",
+      "score": "218"
+    },
+    {
+      "pdga": 58320,
+      "name": "Andrew Fish",
+      "division": "MPO",
+      "place": 58,
+      "pdga_points": 585.0,
+      "rating": 1013,
+      "prize": "",
+      "score": "219"
+    },
+    {
+      "pdga": 50401,
+      "name": "Chris Clemons",
+      "division": "MPO",
+      "place": 58,
+      "pdga_points": 585.0,
+      "rating": 1026,
+      "prize": "",
+      "score": "219"
+    },
+    {
+      "pdga": 119504,
+      "name": "Gavin Phillips",
+      "division": "MPO",
+      "place": 60,
+      "pdga_points": 555.0,
+      "rating": 1001,
+      "prize": "",
+      "score": "220"
+    },
+    {
+      "pdga": 41760,
+      "name": "Kevin Jones",
+      "division": "MPO",
+      "place": 60,
+      "pdga_points": 555.0,
+      "rating": 1022,
+      "prize": "",
+      "score": "220"
+    },
+    {
+      "pdga": 43762,
+      "name": "Jake Hebenheimer",
+      "division": "MPO",
+      "place": 62,
+      "pdga_points": 525.0,
+      "rating": 1018,
+      "prize": "",
+      "score": "221"
+    },
+    {
+      "pdga": 53332,
+      "name": "Tim Barham",
+      "division": "MPO",
+      "place": 62,
+      "pdga_points": 525.0,
+      "rating": 1009,
+      "prize": "",
+      "score": "221"
+    },
+    {
+      "pdga": 132521,
+      "name": "Paul Krans",
+      "division": "MPO",
+      "place": 62,
+      "pdga_points": 525.0,
+      "rating": 1021,
+      "prize": "",
+      "score": "221"
+    },
+    {
+      "pdga": 99246,
+      "name": "Aidan Scott",
+      "division": "MPO",
+      "place": 62,
+      "pdga_points": 525.0,
+      "rating": 1015,
+      "prize": "",
+      "score": "221"
+    },
+    {
+      "pdga": 59635,
+      "name": "Väinö Mäkelä",
+      "division": "MPO",
+      "place": 62,
+      "pdga_points": 525.0,
+      "rating": 1032,
+      "prize": "",
+      "score": "221"
+    },
+    {
+      "pdga": 139619,
+      "name": "Randy Dueck",
+      "division": "MPO",
+      "place": 62,
+      "pdga_points": 525.0,
+      "rating": 1008,
+      "prize": "",
+      "score": "221"
+    },
+    {
+      "pdga": 11534,
+      "name": "Nikko Locastro",
+      "division": "MPO",
+      "place": 62,
+      "pdga_points": 525.0,
+      "rating": 1025,
+      "prize": "",
+      "score": "221"
+    },
+    {
+      "pdga": 39015,
+      "name": "Benjamin Callaway",
+      "division": "MPO",
+      "place": 62,
+      "pdga_points": 525.0,
+      "rating": 1026,
+      "prize": "",
+      "score": "221"
+    },
+    {
+      "pdga": 98722,
+      "name": "Jake Monn",
+      "division": "MPO",
+      "place": 70,
+      "pdga_points": 405.0,
+      "rating": 1013,
+      "prize": "",
+      "score": "222"
+    },
+    {
+      "pdga": 65266,
+      "name": "Zach Arlinghaus",
+      "division": "MPO",
+      "place": 70,
+      "pdga_points": 405.0,
+      "rating": 1018,
+      "prize": "",
+      "score": "222"
+    },
+    {
+      "pdga": 49643,
+      "name": "Garry Patton",
+      "division": "MPO",
+      "place": 70,
+      "pdga_points": 405.0,
+      "rating": 997,
+      "prize": "",
+      "score": "222"
+    },
+    {
+      "pdga": 99648,
+      "name": "Connor O'Reilly",
+      "division": "MPO",
+      "place": 73,
+      "pdga_points": 360.0,
+      "rating": 1008,
+      "prize": "",
+      "score": "223"
+    },
+    {
+      "pdga": 73695,
+      "name": "Connor Rock",
+      "division": "MPO",
+      "place": 73,
+      "pdga_points": 360.0,
+      "rating": 1012,
+      "prize": "",
+      "score": "223"
+    },
+    {
+      "pdga": 49885,
+      "name": "G.T. Hancock",
+      "division": "MPO",
+      "place": 73,
+      "pdga_points": 360.0,
+      "rating": 1011,
+      "prize": "",
+      "score": "223"
+    },
+    {
+      "pdga": 138355,
+      "name": "Nathaniel Johnson",
+      "division": "MPO",
+      "place": 73,
+      "pdga_points": 360.0,
+      "rating": 998,
+      "prize": "",
+      "score": "223"
+    },
+    {
+      "pdga": 76669,
+      "name": "Albert Tamm",
+      "division": "MPO",
+      "place": 77,
+      "pdga_points": 300.0,
+      "rating": 1022,
+      "prize": "",
+      "score": "224"
+    },
+    {
+      "pdga": 139228,
+      "name": "Chandler Kramer",
+      "division": "MPO",
+      "place": 77,
+      "pdga_points": 300.0,
+      "rating": 1018,
+      "prize": "",
+      "score": "224"
+    },
+    {
+      "pdga": 82098,
+      "name": "Linus Carlsson",
+      "division": "MPO",
+      "place": 79,
+      "pdga_points": 270.0,
+      "rating": 1008,
+      "prize": "",
+      "score": "225"
+    },
+    {
+      "pdga": 89394,
+      "name": "Evan Scott",
+      "division": "MPO",
+      "place": 80,
+      "pdga_points": 255.0,
+      "rating": 1020,
+      "prize": "",
+      "score": "226"
+    },
+    {
+      "pdga": 101197,
+      "name": "Zachary Nash",
+      "division": "MPO",
+      "place": 81,
+      "pdga_points": 240.0,
+      "rating": 1015,
+      "prize": "",
+      "score": "227"
+    },
+    {
+      "pdga": 97115,
+      "name": "Kevin Kiefer III",
+      "division": "MPO",
+      "place": 81,
+      "pdga_points": 240.0,
+      "rating": 1019,
+      "prize": "",
+      "score": "227"
+    },
+    {
+      "pdga": 88279,
+      "name": "Carter Ahrens",
+      "division": "MPO",
+      "place": 81,
+      "pdga_points": 240.0,
+      "rating": 1007,
+      "prize": "",
+      "score": "227"
+    },
+    {
+      "pdga": 120743,
+      "name": "Axel Olson",
+      "division": "MPO",
+      "place": 81,
+      "pdga_points": 240.0,
+      "rating": 1007,
+      "prize": "",
+      "score": "227"
+    },
+    {
+      "pdga": 58923,
+      "name": "Jesse Nieminen",
+      "division": "MPO",
+      "place": 85,
+      "pdga_points": 180.0,
+      "rating": 1026,
+      "prize": "",
+      "score": "228"
+    },
+    {
+      "pdga": 78817,
+      "name": "Sullivan Tipton",
+      "division": "MPO",
+      "place": 85,
+      "pdga_points": 180.0,
+      "rating": 1024,
+      "prize": "",
+      "score": "228"
+    },
+    {
+      "pdga": 93475,
+      "name": "Nate Hecker",
+      "division": "MPO",
+      "place": 87,
+      "pdga_points": 150.0,
+      "rating": 1019,
+      "prize": "",
+      "score": "229"
+    },
+    {
+      "pdga": 130724,
+      "name": "Austen Bates",
+      "division": "MPO",
+      "place": 87,
+      "pdga_points": 150.0,
+      "rating": 1010,
+      "prize": "",
+      "score": "229"
+    },
+    {
+      "pdga": 85850,
+      "name": "Thomas Gilbert",
+      "division": "MPO",
+      "place": 89,
+      "pdga_points": 120.0,
+      "rating": 1015,
+      "prize": "",
+      "score": "230"
+    },
+    {
+      "pdga": 27812,
+      "name": "Max Regitnig",
+      "division": "MPO",
+      "place": 90,
+      "pdga_points": 105.0,
+      "rating": 1012,
+      "prize": "",
+      "score": "233"
+    },
+    {
+      "pdga": 37817,
+      "name": "Eagle McMahon",
+      "division": "MPO",
+      "place": 90,
+      "pdga_points": 105.0,
+      "rating": 1049,
+      "prize": "",
+      "score": "233"
+    },
+    {
+      "pdga": 100818,
+      "name": "Joey Temali",
+      "division": "MPO",
+      "place": 92,
+      "pdga_points": 75.0,
+      "rating": 1009,
+      "prize": "",
+      "score": "234"
+    },
+    {
+      "pdga": 68835,
+      "name": "Austin Hannum",
+      "division": "MPO",
+      "place": 93,
+      "pdga_points": 60.0,
+      "rating": 1012,
+      "prize": "",
+      "score": "236"
+    },
+    {
+      "pdga": 65715,
+      "name": "Tuomas Hyytiäinen",
+      "division": "MPO",
+      "place": 94,
+      "pdga_points": 45.0,
+      "rating": 1014,
+      "prize": "",
+      "score": "242"
+    },
+    {
+      "pdga": 99053,
+      "name": "Tristan Tanner",
+      "division": "MPO",
+      "place": 95,
+      "pdga_points": 30.0,
+      "rating": 1009,
+      "prize": "",
+      "score": "245"
+    },
+    {
+      "pdga": 44512,
+      "name": "Corey Ellis",
+      "division": "MPO",
+      "place": 96,
+      "pdga_points": 0.0,
+      "rating": 1034,
+      "prize": "",
+      "score": "DNF"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 64927,
+      "name": "Eveliina Salonen",
+      "division": "FPO",
+      "place": 1,
+      "pdga_points": 432.0,
+      "rating": 977,
+      "prize": "$9,500",
+      "score": "268"
+    },
+    {
+      "pdga": 59227,
+      "name": "Henna Blomroos",
+      "division": "FPO",
+      "place": 2,
+      "pdga_points": 423.0,
+      "rating": 971,
+      "prize": "$5,050",
+      "score": "269"
+    },
+    {
+      "pdga": 48976,
+      "name": "Ohn Scoggins",
+      "division": "FPO",
+      "place": 2,
+      "pdga_points": 423.0,
+      "rating": 989,
+      "prize": "$5,050",
+      "score": "269"
+    },
+    {
+      "pdga": 107335,
+      "name": "Silva Saarinen",
+      "division": "FPO",
+      "place": 4,
+      "pdga_points": 405.0,
+      "rating": 953,
+      "prize": "$3,300",
+      "score": "270"
+    },
+    {
+      "pdga": 73986,
+      "name": "Kristin Lätt",
+      "division": "FPO",
+      "place": 5,
+      "pdga_points": 396.0,
+      "rating": 999,
+      "prize": "$2,700",
+      "score": "271"
+    },
+    {
+      "pdga": 144658,
+      "name": "Rachel Turton",
+      "division": "FPO",
+      "place": 6,
+      "pdga_points": 387.0,
+      "rating": 940,
+      "prize": "$2,300",
+      "score": "273"
+    },
+    {
+      "pdga": 85942,
+      "name": "Missy Gannon",
+      "division": "FPO",
+      "place": 7,
+      "pdga_points": 378.0,
+      "rating": 983,
+      "prize": "$2,000",
+      "score": "275"
+    },
+    {
+      "pdga": 144112,
+      "name": "Ella Hansen",
+      "division": "FPO",
+      "place": 7,
+      "pdga_points": 378.0,
+      "rating": 968,
+      "prize": "$2,000",
+      "score": "275"
+    },
+    {
+      "pdga": 66599,
+      "name": "Heidi Laine",
+      "division": "FPO",
+      "place": 9,
+      "pdga_points": 360.0,
+      "rating": 963,
+      "prize": "$1,700",
+      "score": "280"
+    },
+    {
+      "pdga": 133547,
+      "name": "Holyn Handley",
+      "division": "FPO",
+      "place": 10,
+      "pdga_points": 351.0,
+      "rating": 975,
+      "prize": "$1,550",
+      "score": "281"
+    },
+    {
+      "pdga": 62879,
+      "name": "Valerie Mandujano",
+      "division": "FPO",
+      "place": 10,
+      "pdga_points": 351.0,
+      "rating": 967,
+      "prize": "$1,550",
+      "score": "281"
+    },
+    {
+      "pdga": 32917,
+      "name": "Rebecca Cox",
+      "division": "FPO",
+      "place": 12,
+      "pdga_points": 333.0,
+      "rating": 948,
+      "prize": "$1,400",
+      "score": "284"
+    },
+    {
+      "pdga": 114560,
+      "name": "Natalie Ryan",
+      "division": "FPO",
+      "place": 13,
+      "pdga_points": 324.0,
+      "rating": 962,
+      "prize": "$1,275",
+      "score": "288"
+    },
+    {
+      "pdga": 112647,
+      "name": "Hanna Huynh",
+      "division": "FPO",
+      "place": 13,
+      "pdga_points": 324.0,
+      "rating": 943,
+      "prize": "$1,275",
+      "score": "288"
+    },
+    {
+      "pdga": 124963,
+      "name": "Stacie Kiefer",
+      "division": "FPO",
+      "place": 15,
+      "pdga_points": 306.0,
+      "rating": 946,
+      "prize": "$1,150",
+      "score": "290"
+    },
+    {
+      "pdga": 198446,
+      "name": "Eliezra Midtlyng",
+      "division": "FPO",
+      "place": 15,
+      "pdga_points": 306.0,
+      "rating": 937,
+      "prize": "$1,150",
+      "score": "290"
+    },
+    {
+      "pdga": 32654,
+      "name": "Lisa Fajkus",
+      "division": "FPO",
+      "place": 15,
+      "pdga_points": 306.0,
+      "rating": 953,
+      "prize": "$1,150",
+      "score": "290"
+    },
+    {
+      "pdga": 51277,
+      "name": "Holly Finley",
+      "division": "FPO",
+      "place": 18,
+      "pdga_points": 279.0,
+      "rating": 947,
+      "prize": "$1,025",
+      "score": "291"
+    },
+    {
+      "pdga": 79233,
+      "name": "Cadence Burge",
+      "division": "FPO",
+      "place": 18,
+      "pdga_points": 279.0,
+      "rating": 941,
+      "prize": "$1,025",
+      "score": "291"
+    },
+    {
+      "pdga": 110168,
+      "name": "Jenni Karppinen",
+      "division": "FPO",
+      "place": 20,
+      "pdga_points": 261.0,
+      "rating": 931,
+      "prize": "$925",
+      "score": "292"
+    },
+    {
+      "pdga": 44184,
+      "name": "Catrina Allen",
+      "division": "FPO",
+      "place": 20,
+      "pdga_points": 261.0,
+      "rating": 956,
+      "prize": "$925",
+      "score": "292"
+    },
+    {
+      "pdga": 71262,
+      "name": "Erika Stinchcomb",
+      "division": "FPO",
+      "place": 22,
+      "pdga_points": 243.0,
+      "rating": 937,
+      "prize": "$850",
+      "score": "293"
+    },
+    {
+      "pdga": 122208,
+      "name": "Stacie Rawnsley",
+      "division": "FPO",
+      "place": 23,
+      "pdga_points": 234.0,
+      "rating": 954,
+      "prize": "",
+      "score": "295"
+    },
+    {
+      "pdga": 87338,
+      "name": "Sarah Gilpin",
+      "division": "FPO",
+      "place": 24,
+      "pdga_points": 225.0,
+      "rating": 933,
+      "prize": "",
+      "score": "298"
+    },
+    {
+      "pdga": 15354,
+      "name": "Jennifer Allen",
+      "division": "FPO",
+      "place": 25,
+      "pdga_points": 216.0,
+      "rating": 957,
+      "prize": "",
+      "score": "222"
+    },
+    {
+      "pdga": 147050,
+      "name": "Ali Smith",
+      "division": "FPO",
+      "place": 25,
+      "pdga_points": 216.0,
+      "rating": 952,
+      "prize": "",
+      "score": "222"
+    },
+    {
+      "pdga": 7438,
+      "name": "Juliana Korver",
+      "division": "FPO",
+      "place": 27,
+      "pdga_points": 198.0,
+      "rating": 949,
+      "prize": "",
+      "score": "223"
+    },
+    {
+      "pdga": 59431,
+      "name": "Madison Walker",
+      "division": "FPO",
+      "place": 28,
+      "pdga_points": 189.0,
+      "rating": 935,
+      "prize": "",
+      "score": "224"
+    },
+    {
+      "pdga": 157471,
+      "name": "Nid Ovathanasin",
+      "division": "FPO",
+      "place": 29,
+      "pdga_points": 180.0,
+      "rating": 927,
+      "prize": "",
+      "score": "226"
+    },
+    {
+      "pdga": 33833,
+      "name": "Paige Shue",
+      "division": "FPO",
+      "place": 30,
+      "pdga_points": 171.0,
+      "rating": 945,
+      "prize": "",
+      "score": "229"
+    },
+    {
+      "pdga": 29190,
+      "name": "Paige Pierce",
+      "division": "FPO",
+      "place": 30,
+      "pdga_points": 171.0,
+      "rating": 955,
+      "prize": "",
+      "score": "229"
+    },
+    {
+      "pdga": 130342,
+      "name": "Chantel Budinsky",
+      "division": "FPO",
+      "place": 32,
+      "pdga_points": 153.0,
+      "rating": 939,
+      "prize": "",
+      "score": "230"
+    },
+    {
+      "pdga": 81351,
+      "name": "Hailey King",
+      "division": "FPO",
+      "place": 32,
+      "pdga_points": 153.0,
+      "rating": 976,
+      "prize": "",
+      "score": "230"
+    },
+    {
+      "pdga": 50656,
+      "name": "Jessica Gurthie",
+      "division": "FPO",
+      "place": 32,
+      "pdga_points": 153.0,
+      "rating": 952,
+      "prize": "",
+      "score": "230"
+    },
+    {
+      "pdga": 146137,
+      "name": "Dani K. Hart",
+      "division": "FPO",
+      "place": 35,
+      "pdga_points": 126.0,
+      "rating": 925,
+      "prize": "",
+      "score": "231"
+    },
+    {
+      "pdga": 138272,
+      "name": "Raven Klein",
+      "division": "FPO",
+      "place": 35,
+      "pdga_points": 126.0,
+      "rating": 937,
+      "prize": "",
+      "score": "231"
+    },
+    {
+      "pdga": 62325,
+      "name": "Vanessa Van Dyken",
+      "division": "FPO",
+      "place": 37,
+      "pdga_points": 108.0,
+      "rating": 942,
+      "prize": "",
+      "score": "232"
+    },
+    {
+      "pdga": 101949,
+      "name": "Ratana McMahon",
+      "division": "FPO",
+      "place": 38,
+      "pdga_points": 99.0,
+      "rating": 906,
+      "prize": "",
+      "score": "235"
+    },
+    {
+      "pdga": 75029,
+      "name": "Cynthia Ricciotti",
+      "division": "FPO",
+      "place": 38,
+      "pdga_points": 99.0,
+      "rating": 934,
+      "prize": "",
+      "score": "235"
+    },
+    {
+      "pdga": 66842,
+      "name": "Deann Carey",
+      "division": "FPO",
+      "place": 40,
+      "pdga_points": 81.0,
+      "rating": 939,
+      "prize": "",
+      "score": "236"
+    },
+    {
+      "pdga": 139109,
+      "name": "Leah Tsinajinnie",
+      "division": "FPO",
+      "place": 41,
+      "pdga_points": 72.0,
+      "rating": 919,
+      "prize": "",
+      "score": "239"
+    },
+    {
+      "pdga": 76009,
+      "name": "Virginia Polkinghorne",
+      "division": "FPO",
+      "place": 41,
+      "pdga_points": 72.0,
+      "rating": 893,
+      "prize": "",
+      "score": "239"
+    },
+    {
+      "pdga": 27832,
+      "name": "Kona Star Montgomery",
+      "division": "FPO",
+      "place": 41,
+      "pdga_points": 72.0,
+      "rating": 924,
+      "prize": "",
+      "score": "239"
+    },
+    {
+      "pdga": 193215,
+      "name": "Lexi Marx",
+      "division": "FPO",
+      "place": 44,
+      "pdga_points": 45.0,
+      "rating": 891,
+      "prize": "",
+      "score": "248"
+    },
+    {
+      "pdga": 170182,
+      "name": "Rebecca Minnick",
+      "division": "FPO",
+      "place": 45,
+      "pdga_points": 36.0,
+      "rating": 876,
+      "prize": "",
+      "score": "251"
+    },
+    {
+      "pdga": 184736,
+      "name": "Jennifer Smiley",
+      "division": "FPO",
+      "place": 45,
+      "pdga_points": 36.0,
+      "rating": 897,
+      "prize": "",
+      "score": "251"
+    },
+    {
+      "pdga": 63257,
+      "name": "Maria Oliva",
+      "division": "FPO",
+      "place": 47,
+      "pdga_points": 0.0,
+      "rating": 946,
+      "prize": "",
+      "score": "DNF"
+    },
+    {
+      "pdga": 99455,
+      "name": "Kat Mertsch",
+      "division": "FPO",
+      "place": 47,
+      "pdga_points": 0.0,
+      "rating": 962,
+      "prize": "",
+      "score": "DNF"
+    }
+  ],
+  "updated_at": "2026-05-30T10:58:59.577924+00:00"
+}

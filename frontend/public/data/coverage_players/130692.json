@@ -1,0 +1,91 @@
+{
+  "pdga": 130692,
+  "name": "Onni Arminen",
+  "name_tag": "onni_arminen",
+  "division": "MPO",
+  "rating": 1028,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 1,
+  "pdga_points": 3570.0,
+  "last_event_year": "2025",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 119,
+      "pdga_points": 1230.0,
+      "rating": 1022,
+      "prize": "",
+      "score": "262",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_usdgc",
+      "title": "2024 United States Disc Golf Championship",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 98,
+      "pdga_points": 375.0,
+      "rating": 1028,
+      "prize": "",
+      "score": "200",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_european_open",
+      "title": "DGPT - European Disc Golf Festival",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 10,
+      "pdga_points": 990.0,
+      "rating": 1027,
+      "prize": "$931",
+      "score": "158",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_european_open",
+      "title": "European Open 2023 presented by Discmania",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 44,
+      "pdga_points": 975.0,
+      "rating": 1008,
+      "prize": "$146",
+      "score": "239",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 4,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 67.8,
+  "form_events": 4,
+  "media": {
+    "rounds": 2,
+    "lead_cards": 2,
+    "chase_cards": 0,
+    "feature_cards": 0,
+    "tournaments": 1,
+    "multi_source_events": 0,
+    "by_source": {
+      "jomezpro": 2
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "pdga": 76145,
+  "name": "Joshua Seeley",
+  "name_tag": "joshua_seeley",
+  "division": "MPO",
+  "rating": 988,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 925.0,
+  "last_event_year": "2023",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2023_pdga_pro_worlds",
+      "title": "2023 PDGA Professional Disc Golf World Championships Presented by L.L.Bean",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 166,
+      "pdga_points": 765.0,
+      "rating": 988,
+      "prize": "",
+      "score": "254",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_mvp_open_at_maple_hill",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 95,
+      "pdga_points": 160.0,
+      "rating": 980,
+      "prize": "",
+      "score": "209",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 130.5,
+  "form_events": 2
+}

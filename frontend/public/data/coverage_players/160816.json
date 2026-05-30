@@ -1,0 +1,38 @@
+{
+  "pdga": 160816,
+  "name": "Jamie Hoover Peterson",
+  "name_tag": "jamie_hoover_peterson",
+  "division": "FPO",
+  "rating": 878,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 102.0,
+  "last_event_year": "2022",
+  "first_event_year": "2022",
+  "results": [
+    {
+      "coverage_event_id": "2022_portland_open",
+      "title": "DGPT - Portland Open presented by Dynamic Discs",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 28,
+      "pdga_points": 102.0,
+      "rating": 878,
+      "prize": "",
+      "score": "222",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 28.0,
+  "form_events": 1
+}

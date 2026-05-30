@@ -1,0 +1,52 @@
+{
+  "pdga": 159545,
+  "name": "Riley Murray",
+  "name_tag": "riley_murray",
+  "division": "FPO",
+  "rating": 874,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 18.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_beaver_state_fling",
+      "title": "DGPT - 2024 Beaver State Fling Presented by Innova",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 48,
+      "pdga_points": 6.0,
+      "rating": 874,
+      "prize": "",
+      "score": "243",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_portland_open",
+      "title": "DGPT+ 2024 Portland Open presented by Latitude64",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 47,
+      "pdga_points": 12.0,
+      "rating": 874,
+      "prize": "",
+      "score": "234",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 47.5,
+  "form_events": 2
+}

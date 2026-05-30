@@ -1,0 +1,52 @@
+{
+  "pdga": 56345,
+  "name": "Bryson James",
+  "name_tag": "bryson_james",
+  "division": "MPO",
+  "rating": 1002,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1090.0,
+  "last_event_year": "2022",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2022_pdga_champions_cup",
+      "title": "PDGA Champions Cup Presented by Bushnell",
+      "year": "2022",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 100,
+      "pdga_points": 0,
+      "rating": 1002,
+      "prize": "",
+      "score": "DNF",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_mvp_open_at_maple_hill",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 36,
+      "pdga_points": 1090.0,
+      "rating": 1002,
+      "prize": "$455",
+      "score": "176",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 68.0,
+  "form_events": 2
+}

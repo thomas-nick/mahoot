@@ -1,0 +1,52 @@
+{
+  "pdga": 34360,
+  "name": "Jason Johnson",
+  "name_tag": "jason_johnson",
+  "division": "MPO",
+  "rating": 987,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 510.0,
+  "last_event_year": "2022",
+  "first_event_year": "2019",
+  "results": [
+    {
+      "coverage_event_id": "2022_otb_open",
+      "title": "DGPT - OTB Open presented by MVP Disc Sports",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 105,
+      "pdga_points": 90.0,
+      "rating": 987,
+      "prize": "",
+      "score": "241",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2019_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs - National Tour",
+      "year": "2019",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 115,
+      "pdga_points": 420.0,
+      "rating": 980,
+      "prize": "",
+      "score": "184",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 110.0,
+  "form_events": 2
+}

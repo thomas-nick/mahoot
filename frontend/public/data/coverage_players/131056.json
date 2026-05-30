@@ -1,0 +1,91 @@
+{
+  "pdga": 131056,
+  "name": "Eetu Tuominen",
+  "name_tag": "eetu_tuominen",
+  "division": "MPO",
+  "rating": 1026,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 1,
+  "pdga_points": 5955.0,
+  "last_event_year": "2025",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 35,
+      "pdga_points": 2490.0,
+      "rating": 1026,
+      "prize": "$820",
+      "score": "305",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_european_open",
+      "title": "DGPT - European Disc Golf Festival",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 10,
+      "pdga_points": 990.0,
+      "rating": 1015,
+      "prize": "$931",
+      "score": "158",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_usdgc",
+      "title": "2024 United States Disc Golf Championship",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 17,
+      "pdga_points": 1590.0,
+      "rating": 1022,
+      "prize": "$1,248",
+      "score": "241",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_european_open",
+      "title": "European Open 2023 presented by Discmania",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 50,
+      "pdga_points": 885.0,
+      "rating": 1000,
+      "prize": "",
+      "score": "241",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 4,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 28.0,
+  "form_events": 4,
+  "media": {
+    "rounds": 2,
+    "lead_cards": 2,
+    "chase_cards": 0,
+    "feature_cards": 0,
+    "tournaments": 1,
+    "multi_source_events": 0,
+    "by_source": {
+      "jomezpro": 2
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "pdga": 181772,
+  "name": "Ida Emilie Nesse",
+  "name_tag": "ida_emilie_nesse",
+  "division": "FPO",
+  "rating": 951,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 2,
+  "pdga_points": 1161.0,
+  "last_event_year": "2026",
+  "first_event_year": "2025",
+  "results": [
+    {
+      "coverage_event_id": "2026_big_easy_open",
+      "title": "DGPT - MVP Big Easy Open presented by Flight Factory",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 8,
+      "pdga_points": 180.0,
+      "rating": 951,
+      "prize": "$1,080",
+      "score": "207",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2026_supreme_flight_open",
+      "title": "DGPT - Discraft’s Supreme Flight Open Presented by Florida’s Adventure Coast",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 10,
+      "pdga_points": 210.0,
+      "rating": 948,
+      "prize": "$770",
+      "score": "195",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2025_mvp_open",
+      "title": "DGPT Playoffs - MVP Open x OTB",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 30,
+      "pdga_points": 78.0,
+      "rating": 951,
+      "prize": "",
+      "score": "255",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 11,
+      "pdga_points": 693.0,
+      "rating": 943,
+      "prize": "$1,700",
+      "score": "342",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 2,
+  "winless_streak": 4,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 14.8,
+  "form_events": 4,
+  "media": {
+    "rounds": 2,
+    "lead_cards": 2,
+    "chase_cards": 0,
+    "feature_cards": 0,
+    "tournaments": 1,
+    "multi_source_events": 0,
+    "by_source": {
+      "jomezpro": 2
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "pdga": 126470,
+  "name": "Jenna Weiner",
+  "name_tag": "jenna_weiner",
+  "division": "FPO",
+  "rating": 866,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 66.0,
+  "last_event_year": "2022",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2022_otb_open",
+      "title": "DGPT - OTB Open presented by MVP Disc Sports",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 39,
+      "pdga_points": 54.0,
+      "rating": 866,
+      "prize": "",
+      "score": "242",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_otb_open",
+      "title": "DGPT - OTB Open presented by Innova",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 32,
+      "pdga_points": 12.0,
+      "rating": 847,
+      "prize": "",
+      "score": "252",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 35.5,
+  "form_events": 2
+}

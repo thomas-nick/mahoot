@@ -1,0 +1,64 @@
+{
+  "pdga": 80219,
+  "name": "Dan Schlitter",
+  "name_tag": "dan_schlitter",
+  "division": "MPO",
+  "rating": 1008,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 900.0,
+  "last_event_year": "2023",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2023_ledgestone_open",
+      "title": "DGPT - Discraft Ledgestone Open",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 116,
+      "pdga_points": 300.0,
+      "rating": 1008,
+      "prize": "",
+      "score": "220",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_las_vegas_challenge",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 77,
+      "pdga_points": 600.0,
+      "rating": 1003,
+      "prize": "",
+      "score": "175",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 96.5,
+  "form_events": 2,
+  "media": {
+    "rounds": 6,
+    "lead_cards": 0,
+    "chase_cards": 0,
+    "feature_cards": 2,
+    "tournaments": 2,
+    "multi_source_events": 0,
+    "by_source": {
+      "gatekeeper": 2,
+      "gkpro": 4
+    }
+  }
+}

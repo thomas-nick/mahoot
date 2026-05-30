@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useRef, useState } from "react";
-import type { CoverageCatalog } from "../_lib/coverageTypes";
+import type { CoverageCatalog, CoverageTourTagId } from "../_lib/coverageTypes";
 import {
   buildPlayerTags,
   buildSourceTags,
@@ -13,6 +13,7 @@ import { CoverageEventList } from "./CoverageEventList";
 import { CoverageHighlights } from "./CoverageHighlights";
 import { CoveragePlayerTags } from "./CoveragePlayerTags";
 import { CoveragePodium } from "./CoveragePodium";
+import { CoverageTourTags } from "./CoverageTourTags";
 import { SiteNav } from "./SiteNav";
 import { UpdateFooter } from "./UpdateFooter";
 
@@ -26,6 +27,7 @@ export function CoverageDashboard({ data }: Props) {
   const [year, setYear] = useState<string>("all");
   const [source, setSource] = useState<string>("all");
   const [playerTag, setPlayerTag] = useState<string | null>(null);
+  const [tourTag, setTourTag] = useState<CoverageTourTagId | null>(null);
   const [multiOnly, setMultiOnly] = useState(true);
   const [sort, setSort] = useState<SortMode>("recent");
   const [query, setQuery] = useState("");
@@ -61,6 +63,9 @@ export function CoverageDashboard({ data }: Props) {
     if (playerTag) {
       events = events.filter((e) => eventMatchesPlayer(e, playerTag));
     }
+    if (tourTag) {
+      events = events.filter((e) => e.tour_tag === tourTag);
+    }
     if (q) {
       events = events.filter((e) => {
         const hay = [e.id, e.title, e.year, ...e.source_labels].filter(Boolean).join(" ").toLowerCase();
@@ -80,7 +85,7 @@ export function CoverageDashboard({ data }: Props) {
     });
 
     return events;
-  }, [data.events, multiOnly, year, source, playerTag, query, sort]);
+  }, [data.events, multiOnly, year, source, playerTag, tourTag, query, sort]);
 
   const scrollToLeaderboard = () => {
     leaderboardRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -100,6 +105,12 @@ export function CoverageDashboard({ data }: Props) {
 
   const selectPlayer = (tag: string | null) => {
     setPlayerTag(tag);
+    setSelected(null);
+    scrollToLeaderboard();
+  };
+
+  const selectTourTag = (tag: CoverageTourTagId | null) => {
+    setTourTag(tag);
     setSelected(null);
     scrollToLeaderboard();
   };
@@ -196,6 +207,15 @@ export function CoverageDashboard({ data }: Props) {
             </button>
           ))}
         </div>
+
+        {(data.tour_tags?.length ?? 0) > 0 && (
+          <CoverageTourTags
+            tags={data.tour_tags ?? []}
+            activeTag={tourTag}
+            onSelectTag={selectTourTag}
+            totalEvents={data.event_count}
+          />
+        )}
 
         <CoveragePlayerTags tags={playerTags} activeTag={playerTag} onSelectTag={selectPlayer} />
 

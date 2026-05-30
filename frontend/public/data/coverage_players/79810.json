@@ -1,0 +1,38 @@
+{
+  "pdga": 79810,
+  "name": "Joseph Godlewsky",
+  "name_tag": "joseph_godlewsky",
+  "division": "MPO",
+  "rating": 934,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 0,
+  "last_event_year": "2020",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2020_mvp_open_at_maple_hill",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 107,
+      "pdga_points": 0,
+      "rating": 934,
+      "prize": "",
+      "score": "DNF",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 107.0,
+  "form_events": 1
+}

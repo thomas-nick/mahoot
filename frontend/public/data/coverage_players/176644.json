@@ -1,0 +1,38 @@
+{
+  "pdga": 176644,
+  "name": "Benjamin Appel",
+  "name_tag": "benjamin_appel",
+  "division": "MPO",
+  "rating": 971,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 350.0,
+  "last_event_year": "2025",
+  "first_event_year": "2025",
+  "results": [
+    {
+      "coverage_event_id": "2025_ledgestone_open",
+      "title": "DGPT+ Discraft Ledgestone Open presented by Züca",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 121,
+      "pdga_points": 350.0,
+      "rating": 971,
+      "prize": "",
+      "score": "214",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 121.0,
+  "form_events": 1
+}

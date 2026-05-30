@@ -1,0 +1,52 @@
+{
+  "pdga": 56037,
+  "name": "Joshua Patin",
+  "name_tag": "joshua_patin",
+  "division": "MPO",
+  "rating": 1012,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 480.0,
+  "last_event_year": "2026",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2026_big_easy_open",
+      "title": "DGPT - MVP Big Easy Open presented by Flight Factory",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 76,
+      "pdga_points": 240.0,
+      "rating": 1007,
+      "prize": "",
+      "score": "232",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_jonesboro_open",
+      "title": "DGPT - Play It Again Sports Jonesboro Open presented by Prodigy",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 89,
+      "pdga_points": 240.0,
+      "rating": 1012,
+      "prize": "",
+      "score": "188",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 82.5,
+  "form_events": 2
+}

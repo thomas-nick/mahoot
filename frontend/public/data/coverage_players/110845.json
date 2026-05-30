@@ -1,0 +1,52 @@
+{
+  "pdga": 110845,
+  "name": "Marissa Smith",
+  "name_tag": "marissa_smith",
+  "division": "FPO",
+  "rating": 846,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 54.0,
+  "last_event_year": "2022",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2022_las_vegas_challenge",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 56,
+      "pdga_points": 30.0,
+      "rating": 846,
+      "prize": "",
+      "score": "234",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_music_city_open",
+      "title": "2021 Music City Open Presented by Dynamic Discs - NT Finale",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 34,
+      "pdga_points": 24.0,
+      "rating": 837,
+      "prize": "",
+      "score": "223",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 45.0,
+  "form_events": 2
+}

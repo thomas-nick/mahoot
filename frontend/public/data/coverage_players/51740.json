@@ -1,0 +1,52 @@
+{
+  "pdga": 51740,
+  "name": "Austin Spradlin",
+  "name_tag": "austin_spradlin",
+  "division": "MPO",
+  "rating": 979,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1360.0,
+  "last_event_year": "2021",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2021_las_vegas_challenge",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 129,
+      "pdga_points": 80.0,
+      "rating": 979,
+      "prize": "",
+      "score": "194",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 23,
+      "pdga_points": 1280.0,
+      "rating": 971,
+      "prize": "$571",
+      "score": "216",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 76.0,
+  "form_events": 2
+}

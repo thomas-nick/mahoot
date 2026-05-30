@@ -1,0 +1,38 @@
+{
+  "pdga": 197689,
+  "name": "Isabella Parker",
+  "name_tag": "isabella_parker",
+  "division": "FPO",
+  "rating": 851,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 18.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_ledgestone_open",
+      "title": "DGPT+ Discraft's Ledgestone Open presented by GRIPeq",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 44,
+      "pdga_points": 18.0,
+      "rating": 851,
+      "prize": "",
+      "score": "199",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 44.0,
+  "form_events": 1
+}

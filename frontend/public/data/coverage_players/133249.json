@@ -1,0 +1,52 @@
+{
+  "pdga": 133249,
+  "name": "Juho Pylkkänen",
+  "name_tag": "juho_pylkk_nen",
+  "division": "MPO",
+  "rating": 988,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1280.0,
+  "last_event_year": "2024",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2024_european_open",
+      "title": "DGPT - European Disc Golf Festival",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 23,
+      "pdga_points": 860.0,
+      "rating": 983,
+      "prize": "$534",
+      "score": "162",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_european_open",
+      "title": "European Open 2023 presented by Discmania",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 81,
+      "pdga_points": 420.0,
+      "rating": 988,
+      "prize": "",
+      "score": "188",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 52.0,
+  "form_events": 2
+}

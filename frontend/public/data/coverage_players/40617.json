@@ -1,0 +1,52 @@
+{
+  "pdga": 40617,
+  "name": "Michael Junod",
+  "name_tag": "michael_junod",
+  "division": "MPO",
+  "rating": 976,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 730.0,
+  "last_event_year": "2023",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2023_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 111,
+      "pdga_points": 90.0,
+      "rating": 961,
+      "prize": "",
+      "score": "215",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 35,
+      "pdga_points": 640.0,
+      "rating": 976,
+      "prize": "$385",
+      "score": "201",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 73.0,
+  "form_events": 2
+}

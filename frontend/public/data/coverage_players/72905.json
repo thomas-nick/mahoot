@@ -1,0 +1,63 @@
+{
+  "pdga": 72905,
+  "name": "Pyry Joutsen",
+  "name_tag": "pyry_joutsen",
+  "division": "MPO",
+  "rating": 1018,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 1,
+  "pdga_points": 3570.0,
+  "last_event_year": "2025",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 8,
+      "pdga_points": 2895.0,
+      "rating": 1018,
+      "prize": "$3,150",
+      "score": "293",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_european_open",
+      "title": "European Open 2023 presented by Discmania",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 64,
+      "pdga_points": 675.0,
+      "rating": 1013,
+      "prize": "",
+      "score": "247",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 1,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 36.0,
+  "form_events": 2,
+  "media": {
+    "rounds": 2,
+    "lead_cards": 2,
+    "chase_cards": 0,
+    "feature_cards": 0,
+    "tournaments": 1,
+    "multi_source_events": 0,
+    "by_source": {
+      "jomezpro": 2
+    }
+  }
+}

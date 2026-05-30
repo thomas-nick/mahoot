@@ -1,0 +1,38 @@
+{
+  "pdga": 116073,
+  "name": "Dustin Evanger",
+  "name_tag": "dustin_evanger",
+  "division": "MPO",
+  "rating": 967,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 360.0,
+  "last_event_year": "2021",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2021_otb_open",
+      "title": "DGPT - OTB Open presented by Innova",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 89,
+      "pdga_points": 360.0,
+      "rating": 967,
+      "prize": "",
+      "score": "210",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 89.0,
+  "form_events": 1
+}

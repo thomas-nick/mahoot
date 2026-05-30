@@ -1,0 +1,52 @@
+{
+  "pdga": 178365,
+  "name": "Riven Tanner",
+  "name_tag": "riven_tanner",
+  "division": "MPO",
+  "rating": 1003,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 580.0,
+  "last_event_year": "2025",
+  "first_event_year": "2025",
+  "results": [
+    {
+      "coverage_event_id": "2025_idlewild_open",
+      "title": "DGPT - LWS Open at Idlewild",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 99,
+      "pdga_points": 20.0,
+      "rating": 1003,
+      "prize": "",
+      "score": "218",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2025_ledgestone_open",
+      "title": "DGPT+ Discraft Ledgestone Open presented by Züca",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 100,
+      "pdga_points": 560.0,
+      "rating": 1003,
+      "prize": "",
+      "score": "207",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 99.5,
+  "form_events": 2
+}

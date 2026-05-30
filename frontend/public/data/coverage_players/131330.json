@@ -1,0 +1,52 @@
+{
+  "pdga": 131330,
+  "name": "Sylus Williams",
+  "name_tag": "sylus_williams",
+  "division": "MPO",
+  "rating": 1015,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 2115.0,
+  "last_event_year": "2026",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2026_big_easy_open",
+      "title": "DGPT - MVP Big Easy Open presented by Flight Factory",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 40,
+      "pdga_points": 600.0,
+      "rating": 1015,
+      "prize": "$400",
+      "score": "217",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_pdga_pro_worlds",
+      "title": "2024 PDGA Professional Disc Golf World Championships Presented by Zuca",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 108,
+      "pdga_points": 1515.0,
+      "rating": 997,
+      "prize": "",
+      "score": "276",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 74.0,
+  "form_events": 2
+}

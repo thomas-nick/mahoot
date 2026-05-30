@@ -1,0 +1,52 @@
+{
+  "pdga": 37724,
+  "name": "Brandon Parsons",
+  "name_tag": "brandon_parsons",
+  "division": "MPO",
+  "rating": 945,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 160.0,
+  "last_event_year": "2022",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2022_portland_open",
+      "title": "DGPT - Portland Open presented by Dynamic Discs",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 109,
+      "pdga_points": 60.0,
+      "rating": 944,
+      "prize": "",
+      "score": "242",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_portland_open",
+      "title": "DGPT - Portland Open presented by Dynamic Discs",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 103,
+      "pdga_points": 100.0,
+      "rating": 945,
+      "prize": "",
+      "score": "242",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 106.0,
+  "form_events": 2
+}

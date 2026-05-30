@@ -1,0 +1,52 @@
+{
+  "pdga": 73362,
+  "name": "Jordan Renzelman",
+  "name_tag": "jordan_renzelman",
+  "division": "MPO",
+  "rating": 982,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 510.0,
+  "last_event_year": "2024",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2024_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 85,
+      "pdga_points": 230.0,
+      "rating": 982,
+      "prize": "",
+      "score": "216",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_des_moines_challenge",
+      "title": "DGPT - Des Moines Challenge presented by Discraft",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 111,
+      "pdga_points": 280.0,
+      "rating": 953,
+      "prize": "",
+      "score": "144",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 98.0,
+  "form_events": 2
+}

@@ -1,0 +1,92 @@
+{
+  "pdga": 74130,
+  "name": "Oskari Vikström",
+  "name_tag": "oskari_vikstr_m",
+  "division": "MPO",
+  "rating": 1015,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 1,
+  "pdga_points": 4075.0,
+  "last_event_year": "2025",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 84,
+      "pdga_points": 1755.0,
+      "rating": 1008,
+      "prize": "",
+      "score": "317",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_european_open",
+      "title": "DGPT - European Disc Golf Festival",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 51,
+      "pdga_points": 580.0,
+      "rating": 1005,
+      "prize": "",
+      "score": "171",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_european_open",
+      "title": "European Open 2023 presented by Discmania",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 89,
+      "pdga_points": 300.0,
+      "rating": 992,
+      "prize": "",
+      "score": "191",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 7,
+      "pdga_points": 1440.0,
+      "rating": 1015,
+      "prize": "$1,250",
+      "score": "205",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 4,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 57.8,
+  "form_events": 4,
+  "media": {
+    "rounds": 8,
+    "lead_cards": 2,
+    "chase_cards": 0,
+    "feature_cards": 0,
+    "tournaments": 3,
+    "multi_source_events": 1,
+    "by_source": {
+      "gatekeeper": 6,
+      "gkpro": 2
+    }
+  }
+}

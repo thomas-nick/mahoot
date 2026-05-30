@@ -1,5 +1,18 @@
 export type CoverageSource = "jomezpro" | "gkpro" | "gatekeeper";
 
+export type CoverageTourTagId =
+  | "major"
+  | "dgpt_elite"
+  | "nt"
+  | "jomez_tour"
+  | "go_throw_tour";
+
+export interface CoverageTourTag {
+  id: CoverageTourTagId;
+  label: string;
+  count: number;
+}
+
 export interface CoverageVideoCell {
   id: string;
   source: CoverageSource;
@@ -35,6 +48,8 @@ export interface CoverageEvent {
   sources: CoverageSource[];
   source_labels: string[];
   multi_source: boolean;
+  tour_tag?: CoverageTourTagId | null;
+  tour_tag_label?: string | null;
   upload_window: {
     earliest: string | null;
     latest: string | null;
@@ -51,6 +66,8 @@ export interface CoverageCatalog {
   multi_source_event_count: number;
   sources: CoverageSource[];
   source_labels: Record<CoverageSource, string>;
+  tour_tags?: CoverageTourTag[];
+  tour_tag_labels?: Record<CoverageTourTagId, string>;
   events: CoverageEvent[];
   featured_events: string[];
 }

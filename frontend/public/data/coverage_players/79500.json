@@ -1,0 +1,52 @@
+{
+  "pdga": 79500,
+  "name": "Atlanta Krueger",
+  "name_tag": "atlanta_krueger",
+  "division": "FPO",
+  "rating": 864,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 120.0,
+  "last_event_year": "2024",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2024_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 29,
+      "pdga_points": 90.0,
+      "rating": 864,
+      "prize": "",
+      "score": "238",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 44,
+      "pdga_points": 30.0,
+      "rating": 858,
+      "prize": "",
+      "score": "244",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 36.5,
+  "form_events": 2
+}

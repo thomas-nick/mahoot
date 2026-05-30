@@ -1,0 +1,38 @@
+{
+  "pdga": 183794,
+  "name": "Parker Choate",
+  "name_tag": "parker_choate",
+  "division": "MPO",
+  "rating": 977,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 170.0,
+  "last_event_year": "2025",
+  "first_event_year": "2025",
+  "results": [
+    {
+      "coverage_event_id": "2025_discmania_challenge",
+      "title": "DGPT - Discmania Challenge presented by TruBank",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 99,
+      "pdga_points": 170.0,
+      "rating": 977,
+      "prize": "",
+      "score": "207",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 99.0,
+  "form_events": 1
+}

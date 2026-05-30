@@ -1,0 +1,52 @@
+{
+  "pdga": 141044,
+  "name": "Ashlyn Tahlier",
+  "name_tag": "ashlyn_tahlier",
+  "division": "FPO",
+  "rating": 895,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 114.0,
+  "last_event_year": "2022",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2022_portland_open",
+      "title": "DGPT - Portland Open presented by Dynamic Discs",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 33,
+      "pdga_points": 72.0,
+      "rating": 892,
+      "prize": "",
+      "score": "229",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_portland_open",
+      "title": "DGPT - Portland Open presented by Dynamic Discs",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 29,
+      "pdga_points": 42.0,
+      "rating": 895,
+      "prize": "",
+      "score": "240",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 31.0,
+  "form_events": 2
+}

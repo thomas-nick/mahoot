@@ -1,0 +1,38 @@
+{
+  "pdga": 168538,
+  "name": "Kade Capps",
+  "name_tag": "kade_capps",
+  "division": "MPO",
+  "rating": 992,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 90.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_open_at_austin",
+      "title": "DGPT - The Open at Austin presented by Flight Factory Discs",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 104,
+      "pdga_points": 90.0,
+      "rating": 992,
+      "prize": "",
+      "score": "199",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 104.0,
+  "form_events": 1
+}

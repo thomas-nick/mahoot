@@ -1,0 +1,38 @@
+{
+  "pdga": 52376,
+  "name": "Jeremiah Van Til",
+  "name_tag": "jeremiah_van_til",
+  "division": "MPO",
+  "rating": 960,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 270.0,
+  "last_event_year": "2021",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2021_jonesboro_open",
+      "title": "DGPT - Play It Again Sports Jonesboro Open powered by Prodigy",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 98,
+      "pdga_points": 270.0,
+      "rating": 960,
+      "prize": "",
+      "score": "195",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 98.0,
+  "form_events": 1
+}

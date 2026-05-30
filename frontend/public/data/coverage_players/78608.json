@@ -1,0 +1,38 @@
+{
+  "pdga": 78608,
+  "name": "Jessica Hurt",
+  "name_tag": "jessica_hurt",
+  "division": "FPO",
+  "rating": 819,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 24.0,
+  "last_event_year": "2020",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2020_jonesboro_open",
+      "title": "DGPT - Play It Again Sports Jonesboro Open",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 15,
+      "pdga_points": 24.0,
+      "rating": 819,
+      "prize": "",
+      "score": "233",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 15.0,
+  "form_events": 1
+}

@@ -1,0 +1,38 @@
+{
+  "pdga": 28804,
+  "name": "Ethan Wellin",
+  "name_tag": "ethan_wellin",
+  "division": "MPO",
+  "rating": 988,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 60.0,
+  "last_event_year": "2023",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2023_pdga_pro_worlds",
+      "title": "2023 PDGA Professional Disc Golf World Championships Presented by L.L.Bean",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 213,
+      "pdga_points": 60.0,
+      "rating": 988,
+      "prize": "",
+      "score": "276",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 213.0,
+  "form_events": 1
+}

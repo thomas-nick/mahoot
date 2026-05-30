@@ -1,0 +1,52 @@
+{
+  "pdga": 103148,
+  "name": "Thomas Canfield",
+  "name_tag": "thomas_canfield",
+  "division": "MPO",
+  "rating": 993,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1025.0,
+  "last_event_year": "2026",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2026_queen_city_classic",
+      "title": "DGPT - Queen City Classic presented by Another Round",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 57,
+      "pdga_points": 560.0,
+      "rating": 993,
+      "prize": "",
+      "score": "189",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_pdga_pro_worlds",
+      "title": "2024 PDGA Professional Disc Golf World Championships Presented by Zuca",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 178,
+      "pdga_points": 465.0,
+      "rating": 981,
+      "prize": "",
+      "score": "299",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 117.5,
+  "form_events": 2
+}

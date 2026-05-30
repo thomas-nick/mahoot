@@ -1,0 +1,38 @@
+{
+  "pdga": 279744,
+  "name": "Amanda Tucksen",
+  "name_tag": "amanda_tucksen",
+  "division": "FPO",
+  "rating": 881,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 24.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_beaver_state_fling",
+      "title": "DGPT - 2024 Beaver State Fling Presented by Innova",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 45,
+      "pdga_points": 24.0,
+      "rating": 881,
+      "prize": "",
+      "score": "234",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 45.0,
+  "form_events": 1
+}

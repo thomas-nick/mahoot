@@ -1,0 +1,38 @@
+{
+  "pdga": 166725,
+  "name": "Chris Fischer",
+  "name_tag": "chris_fischer",
+  "division": "MPO",
+  "rating": 991,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 260.0,
+  "last_event_year": "2025",
+  "first_event_year": "2025",
+  "results": [
+    {
+      "coverage_event_id": "2025_ledgestone_open",
+      "title": "DGPT+ Discraft Ledgestone Open presented by Züca",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 130,
+      "pdga_points": 260.0,
+      "rating": 991,
+      "prize": "",
+      "score": "217",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 130.0,
+  "form_events": 1
+}

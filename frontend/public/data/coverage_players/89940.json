@@ -1,0 +1,52 @@
+{
+  "pdga": 89940,
+  "name": "Patrick Humphreys",
+  "name_tag": "patrick_humphreys",
+  "division": "MPO",
+  "rating": 955,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 140.0,
+  "last_event_year": "2022",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2022_otb_open",
+      "title": "DGPT - OTB Open presented by MVP Disc Sports",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 106,
+      "pdga_points": 80.0,
+      "rating": 955,
+      "prize": "",
+      "score": "244",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_otb_open",
+      "title": "DGPT - OTB Open presented by Innova",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 119,
+      "pdga_points": 60.0,
+      "rating": 948,
+      "prize": "",
+      "score": "229",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 112.5,
+  "form_events": 2
+}

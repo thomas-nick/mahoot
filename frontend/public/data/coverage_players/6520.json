@@ -1,0 +1,38 @@
+{
+  "pdga": 6520,
+  "name": "John Fowler",
+  "name_tag": "john_fowler",
+  "division": "MPO",
+  "rating": 971,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 20.0,
+  "last_event_year": "2026",
+  "first_event_year": "2026",
+  "results": [
+    {
+      "coverage_event_id": "2026_big_easy_open",
+      "title": "DGPT - MVP Big Easy Open presented by Flight Factory",
+      "year": "2026",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 98,
+      "pdga_points": 20.0,
+      "rating": 971,
+      "prize": "",
+      "score": "255",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 98.0,
+  "form_events": 1
+}

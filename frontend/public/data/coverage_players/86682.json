@@ -1,0 +1,52 @@
+{
+  "pdga": 86682,
+  "name": "Max Anderson",
+  "name_tag": "max_anderson",
+  "division": "MPO",
+  "rating": 1003,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 400.0,
+  "last_event_year": "2025",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2025_discmania_challenge",
+      "title": "DGPT - Discmania Challenge presented by TruBank",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 76,
+      "pdga_points": 400.0,
+      "rating": 997,
+      "prize": "",
+      "score": "196",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_des_moines_challenge",
+      "title": "DGPT - Trubank Des Moines Challenge Presented by DGA",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 119,
+      "pdga_points": 0,
+      "rating": 1003,
+      "prize": "",
+      "score": "DNF",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 97.5,
+  "form_events": 2
+}

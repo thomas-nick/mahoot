@@ -1,0 +1,38 @@
+{
+  "pdga": 129933,
+  "name": "Markus Saarepuu",
+  "name_tag": "markus_saarepuu",
+  "division": "MPO",
+  "rating": 989,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 430.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_european_open",
+      "title": "DGPT - European Disc Golf Festival",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 66,
+      "pdga_points": 430.0,
+      "rating": 989,
+      "prize": "",
+      "score": "174",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 66.0,
+  "form_events": 1
+}

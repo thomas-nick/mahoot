@@ -1,0 +1,52 @@
+{
+  "pdga": 42915,
+  "name": "Corbin Higdon",
+  "name_tag": "corbin_higdon",
+  "division": "MPO",
+  "rating": 993,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 280.0,
+  "last_event_year": "2022",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2022_portland_open",
+      "title": "DGPT - Portland Open presented by Dynamic Discs",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 110,
+      "pdga_points": 0,
+      "rating": 977,
+      "prize": "",
+      "score": "DNF",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_portland_open",
+      "title": "DGPT - Portland Open presented by Dynamic Discs",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 85,
+      "pdga_points": 280.0,
+      "rating": 993,
+      "prize": "",
+      "score": "214",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 97.5,
+  "form_events": 2
+}

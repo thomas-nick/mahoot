@@ -1,0 +1,52 @@
+{
+  "pdga": 115615,
+  "name": "Jeremiah Collier",
+  "name_tag": "jeremiah_collier",
+  "division": "MPO",
+  "rating": 971,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 370.0,
+  "last_event_year": "2022",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2022_jonesboro_open",
+      "title": "DGPT - Play It Again Sports Jonesboro Open powered by Prodigy",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 107,
+      "pdga_points": 130.0,
+      "rating": 971,
+      "prize": "",
+      "score": "203",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2020_jonesboro_open",
+      "title": "DGPT - Play It Again Sports Jonesboro Open",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 71,
+      "pdga_points": 240.0,
+      "rating": 954,
+      "prize": "",
+      "score": "202",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 89.0,
+  "form_events": 2
+}

@@ -1,0 +1,38 @@
+{
+  "pdga": 71562,
+  "name": "Nicole Dionisio",
+  "name_tag": "nicole_dionisio",
+  "division": "FPO",
+  "rating": 848,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 36.0,
+  "last_event_year": "2022",
+  "first_event_year": "2022",
+  "results": [
+    {
+      "coverage_event_id": "2022_mvp_open_at_maple_hill",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 39,
+      "pdga_points": 36.0,
+      "rating": 848,
+      "prize": "",
+      "score": "312",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 39.0,
+  "form_events": 1
+}

@@ -1,0 +1,52 @@
+{
+  "pdga": 89148,
+  "name": "Andrew Brown",
+  "name_tag": "andrew_brown",
+  "division": "MPO",
+  "rating": 1002,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1315.0,
+  "last_event_year": "2023",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2023_the_preserve_championship",
+      "title": "DGPT - The Preserve Championship powered by Prodigy",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 113,
+      "pdga_points": 70.0,
+      "rating": 1002,
+      "prize": "",
+      "score": "206",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_pdga_pro_worlds",
+      "title": "2023 PDGA Professional Disc Golf World Championships Presented by L.L.Bean",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 134,
+      "pdga_points": 1245.0,
+      "rating": 1000,
+      "prize": "",
+      "score": "249",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 123.5,
+  "form_events": 2
+}

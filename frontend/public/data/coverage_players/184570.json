@@ -1,0 +1,38 @@
+{
+  "pdga": 184570,
+  "name": "Birgit Jõgisalu",
+  "name_tag": "birgit_j_gisalu",
+  "division": "FPO",
+  "rating": 880,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 138.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_european_open",
+      "title": "DGPT - European Disc Golf Festival",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 17,
+      "pdga_points": 138.0,
+      "rating": 880,
+      "prize": "$370",
+      "score": "200",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 17.0,
+  "form_events": 1
+}

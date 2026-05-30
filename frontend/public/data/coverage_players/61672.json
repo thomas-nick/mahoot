@@ -1,0 +1,38 @@
+{
+  "pdga": 61672,
+  "name": "Robert Hall",
+  "name_tag": "robert_hall",
+  "division": "MPO",
+  "rating": 947,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 90.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_usdgc",
+      "title": "2024 United States Disc Golf Championship",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 117,
+      "pdga_points": 90.0,
+      "rating": 947,
+      "prize": "",
+      "score": "246",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 117.0,
+  "form_events": 1
+}

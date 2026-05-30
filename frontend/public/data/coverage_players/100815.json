@@ -1,0 +1,52 @@
+{
+  "pdga": 100815,
+  "name": "Benjamin Stemen",
+  "name_tag": "benjamin_stemen",
+  "division": "MPO",
+  "rating": 1021,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1410.0,
+  "last_event_year": "2024",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2024_chess_com_invitational",
+      "title": "DGPT - Chess.com Invitational presented by Discraft",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 63,
+      "pdga_points": 500.0,
+      "rating": 1014,
+      "prize": "",
+      "score": "202",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_music_city_open",
+      "title": "2021 Music City Open Presented by Dynamic Discs - NT Finale",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 40,
+      "pdga_points": 910.0,
+      "rating": 1021,
+      "prize": "$498",
+      "score": "232",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 51.5,
+  "form_events": 2
+}

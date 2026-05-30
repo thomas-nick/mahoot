@@ -1,0 +1,63 @@
+{
+  "pdga": 46480,
+  "name": "Bo Tillman",
+  "name_tag": "bo_tillman",
+  "division": "MPO",
+  "rating": 1009,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1460.0,
+  "last_event_year": "2023",
+  "first_event_year": "2022",
+  "results": [
+    {
+      "coverage_event_id": "2023_las_vegas_challenge",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 69,
+      "pdga_points": 510.0,
+      "rating": 1009,
+      "prize": "",
+      "score": "175",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2022_las_vegas_challenge",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 24,
+      "pdga_points": 950.0,
+      "rating": 1004,
+      "prize": "$605",
+      "score": "215",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 46.5,
+  "form_events": 2,
+  "media": {
+    "rounds": 34,
+    "lead_cards": 0,
+    "chase_cards": 0,
+    "feature_cards": 0,
+    "tournaments": 9,
+    "multi_source_events": 0,
+    "by_source": {
+      "gkpro": 34
+    }
+  }
+}

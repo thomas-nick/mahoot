@@ -1,0 +1,1418 @@
+{
+  "updated_at": "2026-05-30T10:58:59.618740+00:00",
+  "matched_count": 77,
+  "target_count": 218,
+  "events": {
+    "2019_dgpt": {
+      "matched": false,
+      "title": "DGPT"
+    },
+    "2023_dgpt_championship": {
+      "matched": true,
+      "pdga_event_id": "74356",
+      "title": "Disc Golf Pro Tour Championship presented by Barbasol",
+      "year": "2023",
+      "field_size": 52,
+      "mpo_count": 32,
+      "fpo_count": 20,
+      "winner_mpo": "Richard Wysocki",
+      "winner_fpo": "Missy Gannon"
+    },
+    "2023_great_lakes_open": {
+      "matched": true,
+      "pdga_event_id": "65116",
+      "title": "DGPT - Discraft Great Lakes Open",
+      "year": "2023",
+      "field_size": 107,
+      "mpo_count": 73,
+      "fpo_count": 34,
+      "winner_mpo": "Simon Lizotte",
+      "winner_fpo": "Ohn Scoggins"
+    },
+    "2023_ledgestone_open": {
+      "matched": true,
+      "pdga_event_id": "65115",
+      "title": "DGPT - Discraft Ledgestone Open",
+      "year": "2023",
+      "field_size": 193,
+      "mpo_count": 145,
+      "fpo_count": 48,
+      "winner_mpo": "Cole Redalen",
+      "winner_fpo": "Missy Gannon"
+    },
+    "2023_las_vegas_challenge": {
+      "matched": true,
+      "pdga_event_id": "65206",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2023",
+      "field_size": 176,
+      "mpo_count": 119,
+      "fpo_count": 57,
+      "winner_mpo": "Calvin Heimburg",
+      "winner_fpo": "Catrina Allen"
+    },
+    "2023_pdga_champions_cup": {
+      "matched": true,
+      "pdga_event_id": "64955",
+      "title": "PDGA Champions Cup Presented by Bushnell",
+      "year": "2023",
+      "field_size": 155,
+      "mpo_count": 108,
+      "fpo_count": 47,
+      "winner_mpo": "Isaac Robinson",
+      "winner_fpo": "Kristin Lätt"
+    },
+    "2023_portland_open": {
+      "matched": false,
+      "title": "2023 Portland Open"
+    },
+    "2022_dynamic_discs_open": {
+      "matched": true,
+      "pdga_event_id": "55585",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2022",
+      "field_size": 166,
+      "mpo_count": 117,
+      "fpo_count": 49,
+      "winner_mpo": "Richard Wysocki",
+      "winner_fpo": "Kristin Lätt"
+    },
+    "2023_dynamic_discs_open": {
+      "matched": true,
+      "pdga_event_id": "65289",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2023",
+      "field_size": 167,
+      "mpo_count": 119,
+      "fpo_count": 48,
+      "winner_mpo": "Parker Welck",
+      "winner_fpo": "Hailey King"
+    },
+    "2023_jonesboro_open": {
+      "matched": true,
+      "pdga_event_id": "66458",
+      "title": "DGPT - Play It Again Sports Jonesboro Open presented by Prodigy",
+      "year": "2023",
+      "field_size": 158,
+      "mpo_count": 112,
+      "fpo_count": 46,
+      "winner_mpo": "Calvin Heimburg",
+      "winner_fpo": "Kat Mertsch"
+    },
+    "2023_idlewild_open": {
+      "matched": true,
+      "pdga_event_id": "66174",
+      "title": "DGPT - LWS Open at Idlewild presented by Dynamic Discs & The Nati",
+      "year": "2023",
+      "field_size": 143,
+      "mpo_count": 100,
+      "fpo_count": 43,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": "Valerie Mandujano"
+    },
+    "2023_music_city_open": {
+      "matched": true,
+      "pdga_event_id": "65208",
+      "title": "DGPT Elite - Music City Open presented by Lone Star Disc",
+      "year": "2023",
+      "field_size": 166,
+      "mpo_count": 116,
+      "fpo_count": 50,
+      "winner_mpo": "Simon Lizotte",
+      "winner_fpo": "Kristin Lätt"
+    },
+    "2023_otb_open": {
+      "matched": true,
+      "pdga_event_id": "65207",
+      "title": "DGPT - OTB Open presented by MVP Disc Sports",
+      "year": "2023",
+      "field_size": 160,
+      "mpo_count": 112,
+      "fpo_count": 48,
+      "winner_mpo": "Emerson Keith",
+      "winner_fpo": "Paige Pierce"
+    },
+    "2023_open_at_austin": {
+      "matched": true,
+      "pdga_event_id": "65288",
+      "title": "DGPT - The Open at Austin presented by Lone Star Disc",
+      "year": "2023",
+      "field_size": 169,
+      "mpo_count": 116,
+      "fpo_count": 53,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": "Paige Pierce"
+    },
+    "2024_chess_com_invitational": {
+      "matched": true,
+      "pdga_event_id": "77775",
+      "title": "DGPT - Chess.com Invitational presented by Discraft",
+      "year": "2024",
+      "field_size": 155,
+      "mpo_count": 112,
+      "fpo_count": 43,
+      "winner_mpo": "Anthony Barela",
+      "winner_fpo": "Eveliina Salonen"
+    },
+    "2020_las_vegas_challenge": {
+      "matched": true,
+      "pdga_event_id": "43105",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs",
+      "year": "2020",
+      "field_size": 169,
+      "mpo_count": 150,
+      "fpo_count": 19,
+      "winner_mpo": "Nathan Sexton",
+      "winner_fpo": "Catrina Allen"
+    },
+    "2021_dynamic_discs_open": {
+      "matched": false,
+      "title": "2021 Dynamic Disc Open"
+    },
+    "2021_green_mountain_championship": {
+      "matched": true,
+      "pdga_event_id": "48690",
+      "title": "DGPT - Discraft's Green Mountain Championship presented by Upper Park Disc Golf",
+      "year": "2021",
+      "field_size": 175,
+      "mpo_count": 134,
+      "fpo_count": 41,
+      "winner_mpo": "Chris Dickerson",
+      "winner_fpo": "Hailey King"
+    },
+    "2021_music_city_open": {
+      "matched": true,
+      "pdga_event_id": "47541",
+      "title": "2021 Music City Open Presented by Dynamic Discs - NT Finale",
+      "year": "2021",
+      "field_size": 167,
+      "mpo_count": 130,
+      "fpo_count": 37,
+      "winner_mpo": "Mason Ford",
+      "winner_fpo": "Hailey King"
+    },
+    "2022_pdga_champions_cup": {
+      "matched": true,
+      "pdga_event_id": "55451",
+      "title": "PDGA Champions Cup Presented by Bushnell",
+      "year": "2022",
+      "field_size": 140,
+      "mpo_count": 100,
+      "fpo_count": 40,
+      "winner_mpo": "Chris Dickerson",
+      "winner_fpo": "Paige Pierce"
+    },
+    "2022_green_mountain_championship": {
+      "matched": true,
+      "pdga_event_id": "55593",
+      "title": "DGPT Playoffs - Discraft's Green Mountain Championship",
+      "year": "2022",
+      "field_size": 136,
+      "mpo_count": 96,
+      "fpo_count": 40,
+      "winner_mpo": "Richard Wysocki",
+      "winner_fpo": "Kristin Lätt"
+    },
+    "2022_las_vegas_challenge": {
+      "matched": true,
+      "pdga_event_id": "55580",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2022",
+      "field_size": 178,
+      "mpo_count": 118,
+      "fpo_count": 60,
+      "winner_mpo": "Drew Gibson",
+      "winner_fpo": "Catrina Allen"
+    },
+    "2022_portland_open": {
+      "matched": true,
+      "pdga_event_id": "55587",
+      "title": "DGPT - Portland Open presented by Dynamic Discs",
+      "year": "2022",
+      "field_size": 158,
+      "mpo_count": 114,
+      "fpo_count": 44,
+      "winner_mpo": "Simon Lizotte",
+      "winner_fpo": "Valerie Mandujano"
+    },
+    "2021_ledgestone_insurance_open": {
+      "matched": false,
+      "title": "2021 Ledgestone Insurance Open"
+    },
+    "2022_mvp_open_at_maple_hill": {
+      "matched": true,
+      "pdga_event_id": "55594",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2022",
+      "field_size": 126,
+      "mpo_count": 82,
+      "fpo_count": 44,
+      "winner_mpo": "Simon Lizotte",
+      "winner_fpo": "Natalie Ryan"
+    },
+    "2023_des_moines_challenge": {
+      "matched": false,
+      "title": "2023 TruBank Des Moines Challenge"
+    },
+    "2020_dgpt_championship": {
+      "matched": false,
+      "title": "2020 DISC GOLF PRO TOUR CHAMPIONSHIP"
+    },
+    "2020_ledgestone_insurance_open": {
+      "matched": false,
+      "title": "2020 DISCRAFT Ledgestone Insurance Open"
+    },
+    "2021_dgpt_championship": {
+      "matched": false,
+      "title": "2021 Disc Golf Pro Tour Championship"
+    },
+    "2021_idlewild_open": {
+      "matched": true,
+      "pdga_event_id": "48688",
+      "title": "DGPT - Idlewild Open presented by Dynamic Discs & The Nati",
+      "year": "2021",
+      "field_size": 156,
+      "mpo_count": 120,
+      "fpo_count": 36,
+      "winner_mpo": "Kyle Klein",
+      "winner_fpo": "Paige Pierce"
+    },
+    "2021_jonesboro_open": {
+      "matched": true,
+      "pdga_event_id": "48567",
+      "title": "DGPT - Play It Again Sports Jonesboro Open powered by Prodigy",
+      "year": "2021",
+      "field_size": 154,
+      "mpo_count": 124,
+      "fpo_count": 30,
+      "winner_mpo": "Richard Wysocki",
+      "winner_fpo": "Catrina Allen"
+    },
+    "2021_otb_open": {
+      "matched": true,
+      "pdga_event_id": "48172",
+      "title": "DGPT - OTB Open presented by Innova",
+      "year": "2021",
+      "field_size": 157,
+      "mpo_count": 124,
+      "fpo_count": 33,
+      "winner_mpo": "Eagle McMahon",
+      "winner_fpo": "Paige Pierce"
+    },
+    "2021_stafford_open": {
+      "matched": false,
+      "title": "2021 Stafford Open"
+    },
+    "2021_texas_state_disc_golf_championship": {
+      "matched": false,
+      "title": "2021 Texas State Disc Golf Championship"
+    },
+    "2021_the_preserve_championship": {
+      "matched": false,
+      "title": "2021 The Preserve Championship"
+    },
+    "2022_dgpt_championship": {
+      "matched": true,
+      "pdga_event_id": "55595",
+      "title": "Disc Golf Pro Tour Championship presented by Barbasol",
+      "year": "2022",
+      "field_size": 48,
+      "mpo_count": 32,
+      "fpo_count": 16,
+      "winner_mpo": "Richard Wysocki",
+      "winner_fpo": "Kristin Lätt"
+    },
+    "2022_jonesboro_open": {
+      "matched": true,
+      "pdga_event_id": "55584",
+      "title": "DGPT - Play It Again Sports Jonesboro Open powered by Prodigy",
+      "year": "2022",
+      "field_size": 163,
+      "mpo_count": 119,
+      "fpo_count": 44,
+      "winner_mpo": "Calvin Heimburg",
+      "winner_fpo": "Kristin Lätt"
+    },
+    "2022_idlewild_open": {
+      "matched": true,
+      "pdga_event_id": "55589",
+      "title": "DGPT - LWS Open at Idlewild presented by Dynamic Discs & The Nati",
+      "year": "2022",
+      "field_size": 152,
+      "mpo_count": 100,
+      "fpo_count": 52,
+      "winner_mpo": "Isaac Robinson",
+      "winner_fpo": "Catrina Allen"
+    },
+    "2022_otb_open": {
+      "matched": true,
+      "pdga_event_id": "55586",
+      "title": "DGPT - OTB Open presented by MVP Disc Sports",
+      "year": "2022",
+      "field_size": 160,
+      "mpo_count": 113,
+      "fpo_count": 47,
+      "winner_mpo": "Simon Lizotte",
+      "winner_fpo": "Paige Pierce"
+    },
+    "2022_des_moines_challenge": {
+      "matched": false,
+      "title": "2022 TruBank Des Moines Challenge"
+    },
+    "2021_portland_open": {
+      "matched": true,
+      "pdga_event_id": "48686",
+      "title": "DGPT - Portland Open presented by Dynamic Discs",
+      "year": "2021",
+      "field_size": 147,
+      "mpo_count": 112,
+      "fpo_count": 35,
+      "winner_mpo": "Eagle McMahon",
+      "winner_fpo": "Paige Pierce"
+    },
+    "2021_great_lakes_open": {
+      "matched": false,
+      "title": "2021 Discraft's Great Lakes Open"
+    },
+    "2023_pdga_pro_worlds": {
+      "matched": true,
+      "pdga_event_id": "68748",
+      "title": "2023 PDGA Professional Disc Golf World Championships Presented by L.L.Bean",
+      "year": "2023",
+      "field_size": 294,
+      "mpo_count": 216,
+      "fpo_count": 78,
+      "winner_mpo": "Isaac Robinson",
+      "winner_fpo": "Kristin Lätt"
+    },
+    "2024_pdga_pro_worlds": {
+      "matched": true,
+      "pdga_event_id": "71315",
+      "title": "2024 PDGA Professional Disc Golf World Championships Presented by Zuca",
+      "year": "2024",
+      "field_size": 297,
+      "mpo_count": 208,
+      "fpo_count": 89,
+      "winner_mpo": "Isaac Robinson",
+      "winner_fpo": "Eveliina Salonen"
+    },
+    "2025_pdga_pro_worlds": {
+      "matched": true,
+      "pdga_event_id": "90947",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "field_size": 287,
+      "mpo_count": 200,
+      "fpo_count": 87,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": "Ohn Scoggins"
+    },
+    "2023_european_open": {
+      "matched": true,
+      "pdga_event_id": "67202",
+      "title": "European Open 2023 presented by Discmania",
+      "year": "2023",
+      "field_size": 134,
+      "mpo_count": 108,
+      "fpo_count": 26,
+      "winner_mpo": "Corey Ellis",
+      "winner_fpo": "Kristin Lätt"
+    },
+    "2023_mvp_open": {
+      "matched": true,
+      "pdga_event_id": "65291",
+      "title": "DGPT Playoffs - MVP Open presented by OTB",
+      "year": "2023",
+      "field_size": 108,
+      "mpo_count": 72,
+      "fpo_count": 36,
+      "winner_mpo": "Matthew Orum",
+      "winner_fpo": "Hailey King"
+    },
+    "2024_dgpt_championship": {
+      "matched": false,
+      "title": "2024 Disc Golf Pro Tour Championship"
+    },
+    "2024_great_lakes_open": {
+      "matched": true,
+      "pdga_event_id": "77772",
+      "title": "DGPT+ Discraft Great Lakes Open presented by Gerrit J Verburg",
+      "year": "2024",
+      "field_size": 154,
+      "mpo_count": 106,
+      "fpo_count": 48,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": "Holyn Handley"
+    },
+    "2024_european_open": {
+      "matched": true,
+      "pdga_event_id": "78197",
+      "title": "DGPT - European Disc Golf Festival",
+      "year": "2024",
+      "field_size": 147,
+      "mpo_count": 108,
+      "fpo_count": 39,
+      "winner_mpo": "Richard Wysocki",
+      "winner_fpo": "Missy Gannon"
+    },
+    "2024_green_mountain_championship": {
+      "matched": false,
+      "title": "2024 Green Mountain Championship"
+    },
+    "2024_ledgestone_open": {
+      "matched": true,
+      "pdga_event_id": "77769",
+      "title": "DGPT+ Discraft's Ledgestone Open presented by GRIPeq",
+      "year": "2024",
+      "field_size": 199,
+      "mpo_count": 153,
+      "fpo_count": 46,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": "Holyn Handley"
+    },
+    "2024_mvp_open": {
+      "matched": true,
+      "pdga_event_id": "77773",
+      "title": "DGPT Playoffs- MVP Open x OTB",
+      "year": "2024",
+      "field_size": 119,
+      "mpo_count": 81,
+      "fpo_count": 38,
+      "winner_mpo": "James Proctor",
+      "winner_fpo": "Missy Gannon"
+    },
+    "2024_pdga_champions_cup": {
+      "matched": true,
+      "pdga_event_id": "77099",
+      "title": "2024 PDGA Champions Cup",
+      "year": "2024",
+      "field_size": 144,
+      "mpo_count": 96,
+      "fpo_count": 48,
+      "winner_mpo": "Andrew Presnell",
+      "winner_fpo": "Eveliina Salonen"
+    },
+    "2024_portland_open": {
+      "matched": true,
+      "pdga_event_id": "77765",
+      "title": "DGPT+ 2024 Portland Open presented by Latitude64",
+      "year": "2024",
+      "field_size": 160,
+      "mpo_count": 112,
+      "fpo_count": 48,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": "Paige Pierce"
+    },
+    "2025_dgpt_championship": {
+      "matched": false,
+      "title": "2025 DGPT Championship"
+    },
+    "2025_great_lakes_open": {
+      "matched": true,
+      "pdga_event_id": "88296",
+      "title": "DGPT+ Discraft Great Lakes Open presented by Gerrit J. Verburg Co.",
+      "year": "2025",
+      "field_size": 148,
+      "mpo_count": 102,
+      "fpo_count": 46,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": "Missy Gannon"
+    },
+    "2025_ledgestone_open": {
+      "matched": true,
+      "pdga_event_id": "88293",
+      "title": "DGPT+ Discraft Ledgestone Open presented by Züca",
+      "year": "2025",
+      "field_size": 204,
+      "mpo_count": 155,
+      "fpo_count": 49,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": "Valerie Mandujano"
+    },
+    "2025_green_mountain_championship": {
+      "matched": true,
+      "pdga_event_id": "88299",
+      "title": "DGPT Playoffs - Green Mountain Championship",
+      "year": "2025",
+      "field_size": 136,
+      "mpo_count": 89,
+      "fpo_count": 47,
+      "winner_mpo": "Paul McBeth",
+      "winner_fpo": "Paige Pierce"
+    },
+    "2025_mvp_open": {
+      "matched": true,
+      "pdga_event_id": "88301",
+      "title": "DGPT Playoffs - MVP Open x OTB",
+      "year": "2025",
+      "field_size": 121,
+      "mpo_count": 79,
+      "fpo_count": 42,
+      "winner_mpo": "Cole Redalen",
+      "winner_fpo": "Missy Gannon"
+    },
+    "2025_open_at_austin": {
+      "matched": true,
+      "pdga_event_id": "88279",
+      "title": "DGPT+ MVP's Open at Austin presented by Flight Factory Discs",
+      "year": "2025",
+      "field_size": 160,
+      "mpo_count": 107,
+      "fpo_count": 53,
+      "winner_mpo": "Niklas Anttila",
+      "winner_fpo": "Holyn Handley"
+    },
+    "2025_nwdgc": {
+      "matched": false,
+      "title": "2025 NWDGC"
+    },
+    "2025_pdga_champions_cup": {
+      "matched": true,
+      "pdga_event_id": "88638",
+      "title": "2025 PDGA Champions Cup by OTB & MVP Disc Sports",
+      "year": "2025",
+      "field_size": 160,
+      "mpo_count": 100,
+      "fpo_count": 60,
+      "winner_mpo": "Isaac Robinson",
+      "winner_fpo": "Missy Gannon"
+    },
+    "2026_open_at_austin": {
+      "matched": true,
+      "pdga_event_id": "96408",
+      "title": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suites Austin East",
+      "year": "2026",
+      "field_size": 158,
+      "mpo_count": 108,
+      "fpo_count": 50,
+      "winner_mpo": "Paul Ulibarri",
+      "winner_fpo": "Ohn Scoggins"
+    },
+    "2026_otb_open": {
+      "matched": false,
+      "title": "2026 OTB Open"
+    },
+    "2026_pdga_champions_cup": {
+      "matched": true,
+      "pdga_event_id": "97336",
+      "title": "2026 PDGA Champions Cup Presented by Vessi",
+      "year": "2026",
+      "field_size": 148,
+      "mpo_count": 100,
+      "fpo_count": 48,
+      "winner_mpo": "Niklas Anttila",
+      "winner_fpo": "Silva Saarinen"
+    },
+    "2023_pcs_open": {
+      "matched": false,
+      "title": "2023 PCS Open"
+    },
+    "2019_303_open": {
+      "matched": false,
+      "title": "2019 303 Open"
+    },
+    "2019_stafford_open": {
+      "matched": false,
+      "title": "2019 Stafford Open"
+    },
+    "2021_ccr_open": {
+      "matched": false,
+      "title": "2021 CCR Open"
+    },
+    "2021_helsinki_open": {
+      "matched": false,
+      "title": "2021 Helsinki Open"
+    },
+    "2021_lone_star_classic": {
+      "matched": false,
+      "title": "2021 Lone Star Classic"
+    },
+    "2021_utah_open": {
+      "matched": false,
+      "title": "2021 Utah Open"
+    },
+    "2022_ccr_open": {
+      "matched": false,
+      "title": "2022 CCR Open"
+    },
+    "2022_south_florida_open": {
+      "matched": false,
+      "title": "2022 South Florida Open"
+    },
+    "2023_preserve_championship": {
+      "matched": false,
+      "title": "2023 Preserve Championship"
+    },
+    "2024_beaver_state_fling": {
+      "matched": true,
+      "pdga_event_id": "77766",
+      "title": "DGPT - 2024 Beaver State Fling Presented by Innova",
+      "year": "2024",
+      "field_size": 160,
+      "mpo_count": 112,
+      "fpo_count": 48,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": "Holyn Handley"
+    },
+    "2024_des_moines_challenge": {
+      "matched": true,
+      "pdga_event_id": "77768",
+      "title": "DGPT - Trubank Des Moines Challenge Presented by DGA",
+      "year": "2024",
+      "field_size": 166,
+      "mpo_count": 120,
+      "fpo_count": 46,
+      "winner_mpo": "Anthony Barela",
+      "winner_fpo": "Emily Weatherman"
+    },
+    "2024_dynamic_discs_open": {
+      "matched": true,
+      "pdga_event_id": "77763",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2024",
+      "field_size": 150,
+      "mpo_count": 107,
+      "fpo_count": 43,
+      "winner_mpo": "Calvin Heimburg",
+      "winner_fpo": "Missy Gannon"
+    },
+    "2024_jonesboro_open": {
+      "matched": true,
+      "pdga_event_id": "77761",
+      "title": "DGPT - Play It Again Sports Jonesboro Open - presented by Westside Discs",
+      "year": "2024",
+      "field_size": 160,
+      "mpo_count": 112,
+      "fpo_count": 48,
+      "winner_mpo": "Anthony Barela",
+      "winner_fpo": "Kristin Lätt"
+    },
+    "2024_idlewild_open": {
+      "matched": true,
+      "pdga_event_id": "77771",
+      "title": "DGPT - LWS Open at Idlewild presented by Dynamic Discs & The Nati",
+      "year": "2024",
+      "field_size": 151,
+      "mpo_count": 107,
+      "fpo_count": 44,
+      "winner_mpo": "Joseph Anderson",
+      "winner_fpo": "Ohn Scoggins"
+    },
+    "2024_music_city_open": {
+      "matched": true,
+      "pdga_event_id": "77762",
+      "title": "DGPT - Music City Open presented by Lone Star Disc",
+      "year": "2024",
+      "field_size": 155,
+      "mpo_count": 114,
+      "fpo_count": 41,
+      "winner_mpo": "Simon Lizotte",
+      "winner_fpo": "Kristin Lätt"
+    },
+    "2024_otb_open": {
+      "matched": true,
+      "pdga_event_id": "77764",
+      "title": "DGPT - OTB Open presented by MVP Disc Sports + WGE",
+      "year": "2024",
+      "field_size": 166,
+      "mpo_count": 120,
+      "fpo_count": 46,
+      "winner_mpo": "Calvin Heimburg",
+      "winner_fpo": "Ella Hansen"
+    },
+    "2024_preserve_championship": {
+      "matched": false,
+      "title": "2024 Preserve Championship"
+    },
+    "2024_texas_state_championship": {
+      "matched": false,
+      "title": "2024 Texas State Championship"
+    },
+    "2024_open_at_austin": {
+      "matched": true,
+      "pdga_event_id": "77759",
+      "title": "DGPT - The Open at Austin presented by Flight Factory Discs",
+      "year": "2024",
+      "field_size": 165,
+      "mpo_count": 112,
+      "fpo_count": 53,
+      "winner_mpo": "Niklas Anttila",
+      "winner_fpo": "Ohn Scoggins"
+    },
+    "2025_discmania_challenge": {
+      "matched": true,
+      "pdga_event_id": "88288",
+      "title": "DGPT - Discmania Challenge presented by TruBank",
+      "year": "2025",
+      "field_size": 156,
+      "mpo_count": 115,
+      "fpo_count": 41,
+      "winner_mpo": "Ezra Aderhold",
+      "winner_fpo": "Cadence Burge"
+    },
+    "2025_idlewild_open": {
+      "matched": true,
+      "pdga_event_id": "88294",
+      "title": "DGPT - LWS Open at Idlewild",
+      "year": "2025",
+      "field_size": 142,
+      "mpo_count": 100,
+      "fpo_count": 42,
+      "winner_mpo": "Paul McBeth",
+      "winner_fpo": "Ohn Scoggins"
+    },
+    "2025_music_city_open": {
+      "matched": true,
+      "pdga_event_id": "88282",
+      "title": "DGPT -  MVP Music City Open Presented by Another Round",
+      "year": "2025",
+      "field_size": 157,
+      "mpo_count": 108,
+      "fpo_count": 49,
+      "winner_mpo": "Niklas Anttila",
+      "winner_fpo": "Kristin Lätt"
+    },
+    "2025_new_zealand_open": {
+      "matched": false,
+      "title": "2025 New Zealand Open"
+    },
+    "2025_preserve_championship": {
+      "matched": true,
+      "pdga_event_id": "88357",
+      "title": "DGPT - Preserve Championship",
+      "year": "2025",
+      "field_size": 156,
+      "mpo_count": 111,
+      "fpo_count": 45,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": "Silva Saarinen"
+    },
+    "2025_supreme_flight_open": {
+      "matched": true,
+      "pdga_event_id": "88276",
+      "title": "DGPT - Discraft Supreme Flight Open presented by Florida's Adventure Coast",
+      "year": "2025",
+      "field_size": 152,
+      "mpo_count": 108,
+      "fpo_count": 44,
+      "winner_mpo": "Ezra Robinson",
+      "winner_fpo": "Ella Hansen"
+    },
+    "2025_taup_classic": {
+      "matched": false,
+      "title": "2025 Taupō Classic"
+    },
+    "2026_australasian_open": {
+      "matched": false,
+      "title": "2026 Australasian Open"
+    },
+    "2026_supreme_flight_open": {
+      "matched": true,
+      "pdga_event_id": "96401",
+      "title": "DGPT - Discraft’s Supreme Flight Open Presented by Florida’s Adventure Coast",
+      "year": "2026",
+      "field_size": 140,
+      "mpo_count": 96,
+      "fpo_count": 44,
+      "winner_mpo": "Richard Wysocki",
+      "winner_fpo": "Ohn Scoggins"
+    },
+    "2026_jonesboro_open": {
+      "matched": true,
+      "pdga_event_id": "96404",
+      "title": "DGPT - Play it Again Sports Jonesboro Open presented by Westside Discs",
+      "year": "2026",
+      "field_size": 147,
+      "mpo_count": 109,
+      "fpo_count": 38,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": "Henna Blomroos"
+    },
+    "2026_big_easy_open": {
+      "matched": true,
+      "pdga_event_id": "96402",
+      "title": "DGPT - MVP Big Easy Open presented by Flight Factory",
+      "year": "2026",
+      "field_size": 136,
+      "mpo_count": 99,
+      "fpo_count": 37,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": "Holyn Handley"
+    },
+    "2026_mvp_bottle_lake_open": {
+      "matched": false,
+      "title": "2026 MVP Bottle Lake Open"
+    },
+    "2026_nz_open": {
+      "matched": false,
+      "title": "2026 NZ Open"
+    },
+    "2026_queen_city_classic": {
+      "matched": true,
+      "pdga_event_id": "96403",
+      "title": "DGPT - Queen City Classic presented by Another Round",
+      "year": "2026",
+      "field_size": 164,
+      "mpo_count": 112,
+      "fpo_count": 52,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": "Jessica Gurthie"
+    },
+    "2026_taranaki_open": {
+      "matched": false,
+      "title": "2026 Taranaki Open"
+    },
+    "2025_kansas_city_wide_open": {
+      "matched": false,
+      "title": "2025 Kansas City Wide Open"
+    },
+    "2026_kansas_city_wide_open": {
+      "matched": false,
+      "title": "2026 Kansas City Wide Open"
+    },
+    "2021_disc_golf_world_championships": {
+      "matched": false,
+      "title": "2021 Disc Golf World Championships"
+    },
+    "2022_disc_golf_world_championships": {
+      "matched": false,
+      "title": "2022 Disc Golf World Championships"
+    },
+    "2023_vic_open": {
+      "matched": false,
+      "title": "2023 Vic Open Practice Round"
+    },
+    "2019_glass_blown_open": {
+      "matched": false,
+      "title": "2019 Glass Blown Open"
+    },
+    "2019_las_vegas_challenge": {
+      "matched": true,
+      "pdga_event_id": "38343",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs - National Tour",
+      "year": "2019",
+      "field_size": 187,
+      "mpo_count": 156,
+      "fpo_count": 31,
+      "winner_mpo": "Calvin Heimburg",
+      "winner_fpo": "Paige Shue"
+    },
+    "2020_green_mountain_championship": {
+      "matched": false,
+      "title": "2020 GREEN MOUNTAIN CHAMPIONSHIP"
+    },
+    "2020_memorial_championship": {
+      "matched": false,
+      "title": "2020 MEMORIAL CHAMPIONSHIP"
+    },
+    "2020_memorial_championship_presented_by_discraft": {
+      "matched": false,
+      "title": "2020 Memorial Championship presented by Discraft"
+    },
+    "2021_las_vegas_challenge": {
+      "matched": true,
+      "pdga_event_id": "47877",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2021",
+      "field_size": 182,
+      "mpo_count": 136,
+      "fpo_count": 46,
+      "winner_mpo": "Eagle McMahon",
+      "winner_fpo": "Paige Pierce"
+    },
+    "2022_uswdgc": {
+      "matched": false,
+      "title": "2022 USWDGC"
+    },
+    "2023_mvp_open_presented_by_otb": {
+      "matched": false,
+      "title": "2023 MVP Open Presented By OTB"
+    },
+    "2023_tpwdgc": {
+      "matched": false,
+      "title": "2023 TPWDGC"
+    },
+    "2023_usdgc": {
+      "matched": true,
+      "pdga_event_id": "64957",
+      "title": "United States Disc Golf Championship",
+      "year": "2023",
+      "field_size": 109,
+      "mpo_count": 109,
+      "fpo_count": 0,
+      "winner_mpo": "Kyle Klein",
+      "winner_fpo": null
+    },
+    "2023_uswdgc": {
+      "matched": false,
+      "title": "2023 USWDGC"
+    },
+    "2024_usdgc": {
+      "matched": true,
+      "pdga_event_id": "77098",
+      "title": "2024 United States Disc Golf Championship",
+      "year": "2024",
+      "field_size": 122,
+      "mpo_count": 122,
+      "fpo_count": 0,
+      "winner_mpo": "Gannon Buhr",
+      "winner_fpo": null
+    },
+    "2025_syracuse_open": {
+      "matched": false,
+      "title": "2025 Syracuse Open"
+    },
+    "2025_throw_pink": {
+      "matched": false,
+      "title": "2025 Throw Pink"
+    },
+    "2025_usdgc": {
+      "matched": true,
+      "pdga_event_id": "88656",
+      "title": "2025 United States Disc Golf Championship",
+      "year": "2025",
+      "field_size": 107,
+      "mpo_count": 107,
+      "fpo_count": 0,
+      "winner_mpo": "Anthony Barela",
+      "winner_fpo": null
+    },
+    "2025_uswdgc": {
+      "matched": false,
+      "title": "2025 USWDGC"
+    },
+    "2021_myrtle_beach_open": {
+      "matched": false,
+      "title": "2021 Myrtle Beach Open"
+    },
+    "2018_oklahoma_open": {
+      "matched": false,
+      "title": "2018 Oklahoma Open"
+    },
+    "2018_stafford_open": {
+      "matched": false,
+      "title": "2018 Stafford Open"
+    },
+    "2019_mvp_open": {
+      "matched": false,
+      "title": "2019 MVP Open"
+    },
+    "2019_mid_america_open": {
+      "matched": false,
+      "title": "2019 Mid America Open"
+    },
+    "2019_oklahoma_open": {
+      "matched": false,
+      "title": "2019 Oklahoma Open"
+    },
+    "2019_ponca_city_open": {
+      "matched": false,
+      "title": "2019 Ponca City Open"
+    },
+    "2019_prairie_dog_open": {
+      "matched": false,
+      "title": "2019 Prairie Dog Open"
+    },
+    "2020_great_lakes_open": {
+      "matched": false,
+      "title": "2020 DISCRAFT'S GREAT LAKES OPEN"
+    },
+    "2020_dynamic_discs_open": {
+      "matched": true,
+      "pdga_event_id": "45796",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2020",
+      "field_size": 113,
+      "mpo_count": 98,
+      "fpo_count": 15,
+      "winner_mpo": "Paul McBeth",
+      "winner_fpo": "Paige Pierce"
+    },
+    "2020_idlewild_open": {
+      "matched": true,
+      "pdga_event_id": "43983",
+      "title": "DGPT - Idlewild Open presented by Dynamic Discs & The Nati",
+      "year": "2020",
+      "field_size": 164,
+      "mpo_count": 132,
+      "fpo_count": 32,
+      "winner_mpo": "Eagle McMahon",
+      "winner_fpo": "Ellen Widboom"
+    },
+    "2020_jonesboro_open": {
+      "matched": true,
+      "pdga_event_id": "43778",
+      "title": "DGPT - Play It Again Sports Jonesboro Open",
+      "year": "2020",
+      "field_size": 112,
+      "mpo_count": 94,
+      "fpo_count": 18,
+      "winner_mpo": "Calvin Heimburg",
+      "winner_fpo": "Paige Pierce"
+    },
+    "2020_lost_valley_open": {
+      "matched": false,
+      "title": "2020 LOST VALLEY OPEN"
+    },
+    "2020_music_city_open": {
+      "matched": false,
+      "title": "2020 MUSIC CITY OPEN"
+    },
+    "2020_mvp_open": {
+      "matched": false,
+      "title": "2020 MVP OPEN"
+    },
+    "2020_mvp_open_at_maple_hill": {
+      "matched": true,
+      "pdga_event_id": "44653",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2020",
+      "field_size": 125,
+      "mpo_count": 107,
+      "fpo_count": 18,
+      "winner_mpo": "Paul McBeth",
+      "winner_fpo": "Paige Pierce"
+    },
+    "2020_myrtle_beach_open": {
+      "matched": false,
+      "title": "2020 Myrtle Beach Open"
+    },
+    "2020_nwa_open": {
+      "matched": false,
+      "title": "2020 NWA Open"
+    },
+    "2020_oklahoma_open": {
+      "matched": false,
+      "title": "2020 Oklahoma Open"
+    },
+    "2021_mvp_open": {
+      "matched": false,
+      "title": "2021 MVP Open"
+    },
+    "2021_mvp_open_at_maple_hill": {
+      "matched": true,
+      "pdga_event_id": "49214",
+      "title": "DGPT - MVP Open at Maple Hill",
+      "year": "2021",
+      "field_size": 192,
+      "mpo_count": 144,
+      "fpo_count": 48,
+      "winner_mpo": "Adam Hammes",
+      "winner_fpo": "Catrina Allen"
+    },
+    "2021_mid_america_open": {
+      "matched": false,
+      "title": "2021 Mid-America Open"
+    },
+    "2021_northwest_arkansas_open": {
+      "matched": false,
+      "title": "2021 Northwest Arkansas Open"
+    },
+    "2021_oklahoma_open": {
+      "matched": false,
+      "title": "2021 Oklahoma Open"
+    },
+    "2021_south_florida_open": {
+      "matched": false,
+      "title": "2021 South Florida Open"
+    },
+    "2021_the_open_at_belton": {
+      "matched": false,
+      "title": "2021 The Open at Belton"
+    },
+    "2021_vintage_open": {
+      "matched": false,
+      "title": "2021 Vintage Open"
+    },
+    "2022_303_open": {
+      "matched": false,
+      "title": "2022 303 OPEN"
+    },
+    "2022_birdie_open": {
+      "matched": false,
+      "title": "2022 Birdie Open"
+    },
+    "2022_charlie_vettiner_open": {
+      "matched": false,
+      "title": "2022 Charlie Vettiner Open"
+    },
+    "2022_great_lakes_open": {
+      "matched": false,
+      "title": "2022 Discraft Great Lakes Open"
+    },
+    "2022_myrtle_beach_open": {
+      "matched": false,
+      "title": "2022 Myrtle Beach Open"
+    },
+    "2022_open_at_belton": {
+      "matched": false,
+      "title": "2022 Open at Belton"
+    },
+    "2022_preserve_championship": {
+      "matched": false,
+      "title": "2022 Preserve Championship"
+    },
+    "2022_texas_state_disc_golf_championship": {
+      "matched": false,
+      "title": "2022 Texas State Disc Golf Championship"
+    },
+    "2022_texas_states_disc_golf_championship": {
+      "matched": false,
+      "title": "2022 Texas States Disc Golf Championship"
+    },
+    "2022_the_preserve_championship": {
+      "matched": false,
+      "title": "2022 The Preserve Championship"
+    },
+    "2023_birdie_open": {
+      "matched": false,
+      "title": "2023 Birdie Open"
+    },
+    "2023_discmania_303_open": {
+      "matched": false,
+      "title": "2023 Discmania 303 Open"
+    },
+    "2023_lundbyparken_open_presented_by_clash_discs": {
+      "matched": false,
+      "title": "2023 Lundbyparken Open presented by Clash Discs"
+    },
+    "2023_mx_disc_golf_championship": {
+      "matched": false,
+      "title": "2023 MX Disc Golf Championship"
+    },
+    "2023_nsw_open": {
+      "matched": false,
+      "title": "2023 NSW Open"
+    },
+    "2023_rpm_discs_wa_open": {
+      "matched": false,
+      "title": "2023 RPM Discs WA Open"
+    },
+    "2023_sk_ne_open_presented_by_lone_star_discs": {
+      "matched": false,
+      "title": "2023 Skåne Open Presented By Lone Star Discs"
+    },
+    "2023_south_florida_open": {
+      "matched": false,
+      "title": "2023 South Florida Open"
+    },
+    "2023_the_preserve_championship": {
+      "matched": true,
+      "pdga_event_id": "68353",
+      "title": "DGPT - The Preserve Championship powered by Prodigy",
+      "year": "2023",
+      "field_size": 169,
+      "mpo_count": 119,
+      "fpo_count": 50,
+      "winner_mpo": "Richard Wysocki",
+      "winner_fpo": "Catrina Allen"
+    },
+    "2023_land_open": {
+      "matched": false,
+      "title": "2023 Åland Open"
+    },
+    "2023_disc_connection_queensland_open": {
+      "matched": false,
+      "title": "Disc Connection Queensland Open 2023"
+    },
+    "2023_rpm_open": {
+      "matched": false,
+      "title": "RPM Open 2023"
+    },
+    "2023_sdgpt_7_heatland_open": {
+      "matched": false,
+      "title": "SDGPT #7 - Heatland Open 2023"
+    },
+    "2024_bottle_lake_open": {
+      "matched": false,
+      "title": "2024 Bottle Lake Open"
+    },
+    "2024_playa_lucia_open": {
+      "matched": false,
+      "title": "2024 Playa Lucia Open"
+    },
+    "2024_tpwdgc": {
+      "matched": false,
+      "title": "2024 TPWDGC"
+    },
+    "2019_mohawk_open": {
+      "matched": false,
+      "title": "2019 Mohawk Open"
+    },
+    "2018_feyodi_park_open": {
+      "matched": false,
+      "title": "2018 Feyodi Park Open"
+    },
+    "2018_first_capital_classic": {
+      "matched": false,
+      "title": "2018 First Capital Classic"
+    },
+    "2018_king_of_mcclure_open": {
+      "matched": false,
+      "title": "2018 King of McClure Open"
+    },
+    "2019_dgpt_championship": {
+      "matched": false,
+      "title": "2019 DGPT Championship"
+    },
+    "2020_wanderlust_open": {
+      "matched": false,
+      "title": "2020 Wanderlust Open"
+    },
+    "2021_des_moines_challenge": {
+      "matched": true,
+      "pdga_event_id": "52009",
+      "title": "DGPT - Des Moines Challenge presented by Discraft",
+      "year": "2021",
+      "field_size": 162,
+      "mpo_count": 138,
+      "fpo_count": 24,
+      "winner_mpo": "Paul McBeth",
+      "winner_fpo": "Missy Gannon"
+    },
+    "2021_31st_veterans_park_open": {
+      "matched": false,
+      "title": "31st Veterans Park Open"
+    },
+    "2022_australian_doubles_championship": {
+      "matched": false,
+      "title": "2022 Australian Doubles Championship"
+    },
+    "2022_ob_open": {
+      "matched": false,
+      "title": "2022 OB Open"
+    },
+    "2024_cancer_playbook_open": {
+      "matched": false,
+      "title": "2024 Cancer Playbook Open"
+    },
+    "2024_faylor_lake_classic": {
+      "matched": false,
+      "title": "2024 Faylor Lake Classic"
+    },
+    "2024_valhall_open": {
+      "matched": false,
+      "title": "2024 Valhall Open"
+    },
+    "2025_faylor_lake_classic": {
+      "matched": false,
+      "title": "2025 Faylor Lake Classic"
+    },
+    "2026_cherry_blossom_open": {
+      "matched": false,
+      "title": "2026 Cherry Blossom Open"
+    },
+    "2022_pro_mixed_doubles_at_pdga_pro_worlds": {
+      "matched": false,
+      "title": "Pro Mixed Doubles at 2022 PDGA Pro Worlds"
+    },
+    "2023_myrtle_beach_open": {
+      "matched": false,
+      "title": "2023 Myrtle Beach Open"
+    },
+    "2024_syracuse_open": {
+      "matched": false,
+      "title": "2024 Syracuse Open"
+    },
+    "2025_eagles_crossing_masters_invitational": {
+      "matched": false,
+      "title": "2025 Eagles Crossing Masters Invitational"
+    },
+    "2017_holtwood_open": {
+      "matched": false,
+      "title": "2017 Holtwood Open"
+    },
+    "2017_hyzerflipadelphia_open": {
+      "matched": false,
+      "title": "2017 Hyzerflipadelphia Open"
+    },
+    "2019_mvp_open_champion_doubles_skins_match": {
+      "matched": false,
+      "title": "2019 MVP Open Champion Doubles SKINS Match"
+    },
+    "2020_belton_open_showcase": {
+      "matched": false,
+      "title": "2020 Belton Open Showcase"
+    },
+    "2020_mid_america_open_discraft": {
+      "matched": false,
+      "title": "2020 Mid-America Open DISCRAFT"
+    },
+    "2020_stafford_open": {
+      "matched": false,
+      "title": "2020 STAFFORD OPEN"
+    },
+    "2021_bria_disc_golf_open": {
+      "matched": false,
+      "title": "2021 BRIA Disc Golf Open"
+    },
+    "2021_dgpt_celebrity_pro_am": {
+      "matched": false,
+      "title": "2021 DGPT Celebrity Pro-Am"
+    },
+    "2021_doc_cramer_classic": {
+      "matched": false,
+      "title": "2021 Doc Cramer Classic"
+    },
+    "2022_loco_open_xi": {
+      "matched": false,
+      "title": "2022 LoCo Open XI"
+    },
+    "2022_lost_valley_open": {
+      "matched": false,
+      "title": "2022 Lost Valley Open"
+    },
+    "2022_new_jersey_state_championship": {
+      "matched": false,
+      "title": "2022 New Jersey State Championship"
+    },
+    "2022_philadelphia_disc_golf_open": {
+      "matched": false,
+      "title": "2022 Philadelphia Disc Golf Open"
+    },
+    "2023_hideaway_open": {
+      "matched": false,
+      "title": "2023 Hideaway Open"
+    },
+    "2023_mvp_glitch_world_championships": {
+      "matched": false,
+      "title": "2023 MVP Glitch World Championships"
+    },
+    "2023_polecat_world_championship": {
+      "matched": false,
+      "title": "2023 POLECAT WORLD CHAMPIONSHIP"
+    },
+    "2023_et_4_swedish_open": {
+      "matched": false,
+      "title": "ET #4 - Swedish Open 2023"
+    },
+    "2024_throw_pink_women_s_disc_golf_championship": {
+      "matched": false,
+      "title": "2024 Throw Pink Women's Disc Golf Championship"
+    },
+    "2018_philly_open": {
+      "matched": false,
+      "title": "2018 Philly Open"
+    },
+    "2021_mvp_open_mic_d_up_practice_round_with_team_mvp": {
+      "matched": false,
+      "title": "2021 MVP Open Mic'd Up Practice Round with TEAM MVP"
+    },
+    "2021_mixed_doubles_at_pro_worlds": {
+      "matched": false,
+      "title": "Mixed Doubles at 2021 Pro Worlds"
+    },
+    "2023_queensland_open": {
+      "matched": false,
+      "title": "2023 Queensland Open Practice Round"
+    },
+    "2024_mine_kili_disc_golf_championship": {
+      "matched": false,
+      "title": "2024 Mine KilI Disc Golf Championship"
+    },
+    "2025_masters_invitational": {
+      "matched": false,
+      "title": "2025 Masters Invitational"
+    }
+  }
+}

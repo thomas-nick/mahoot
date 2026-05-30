@@ -1,0 +1,38 @@
+{
+  "pdga": 57806,
+  "name": "Adam Vosburgh",
+  "name_tag": "adam_vosburgh",
+  "division": "MPO",
+  "rating": 976,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 230.0,
+  "last_event_year": "2019",
+  "first_event_year": "2019",
+  "results": [
+    {
+      "coverage_event_id": "2019_las_vegas_challenge",
+      "title": "Las Vegas Challenge presented by Innova Champion Discs - National Tour",
+      "year": "2019",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 134,
+      "pdga_points": 230.0,
+      "rating": 976,
+      "prize": "",
+      "score": "192",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 134.0,
+  "form_events": 1
+}

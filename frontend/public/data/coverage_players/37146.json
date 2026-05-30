@@ -1,0 +1,52 @@
+{
+  "pdga": 37146,
+  "name": "Chris Harris",
+  "name_tag": "chris_harris",
+  "division": "MPO",
+  "rating": 1009,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 240.0,
+  "last_event_year": "2023",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2023_music_city_open",
+      "title": "DGPT Elite - Music City Open presented by Lone Star Disc",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 113,
+      "pdga_points": 0,
+      "rating": 1007,
+      "prize": "",
+      "score": "DNF",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_pdga_pro_worlds",
+      "title": "2023 PDGA Professional Disc Golf World Championships Presented by L.L.Bean",
+      "year": "2023",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 201,
+      "pdga_points": 240.0,
+      "rating": 1009,
+      "prize": "",
+      "score": "267",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 157.0,
+  "form_events": 2
+}

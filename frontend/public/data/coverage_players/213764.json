@@ -1,0 +1,52 @@
+{
+  "pdga": 213764,
+  "name": "Ashley Moua",
+  "name_tag": "ashley_moua",
+  "division": "FPO",
+  "rating": 899,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 114.0,
+  "last_event_year": "2025",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2025_preserve_championship",
+      "title": "DGPT - Preserve Championship",
+      "year": "2025",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 34,
+      "pdga_points": 72.0,
+      "rating": 899,
+      "prize": "",
+      "score": "230",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_ledgestone_open",
+      "title": "DGPT+ Discraft's Ledgestone Open presented by GRIPeq",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 40,
+      "pdga_points": 42.0,
+      "rating": 892,
+      "prize": "",
+      "score": "196",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 37.0,
+  "form_events": 2
+}

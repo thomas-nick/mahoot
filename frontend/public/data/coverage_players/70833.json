@@ -1,0 +1,38 @@
+{
+  "pdga": 70833,
+  "name": "Triinu Orgla",
+  "name_tag": "triinu_orgla",
+  "division": "FPO",
+  "rating": 882,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 99.0,
+  "last_event_year": "2025",
+  "first_event_year": "2025",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "FPO",
+      "place": 77,
+      "pdga_points": 99.0,
+      "rating": 882,
+      "prize": "",
+      "score": "327",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 77.0,
+  "form_events": 1
+}

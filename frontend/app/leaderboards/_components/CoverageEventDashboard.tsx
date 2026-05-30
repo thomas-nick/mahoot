@@ -1,11 +1,14 @@
 "use client";
 
 import Link from "next/link";
-import { useMemo, useState } from "react";
+import { useCallback, useMemo, useRef, useState } from "react";
 import type { CoverageCatalog, CoverageEvent } from "../_lib/coverageTypes";
+import type { CoverageEventResults } from "../_lib/coverageResultsTypes";
+import { CoverageEventResultsPanel } from "./CoverageEventResults";
 import { sortRoundRowsNewestFirst } from "../_lib/coverageData";
 import { buildPlayerTags, displayPlayerName, playerTagFromName } from "../_lib/coverageStats";
 import { CoveragePlayerTags } from "./CoveragePlayerTags";
+import { CoverageTourTagBadge } from "./CoverageTourTagBadge";
 import { CoverageWatchGrid } from "./CoverageWatchGrid";
 import { SiteNav } from "./SiteNav";
 import { UpdateFooter } from "./UpdateFooter";
@@ -15,14 +18,24 @@ type DivisionFilter = "all" | "MPO" | "FPO";
 type Props = {
   catalog: CoverageCatalog;
   event: CoverageEvent;
+  results?: CoverageEventResults | null;
 };
 
-export function CoverageEventDashboard({ catalog, event }: Props) {
+export function CoverageEventDashboard({ catalog, event, results }: Props) {
   const [division, setDivision] = useState<DivisionFilter>("all");
   const [source, setSource] = useState<string>("all");
   const [playerTag, setPlayerTag] = useState<string | null>(null);
+  const watchGridRef = useRef<HTMLElement>(null);
 
   const playerTags = useMemo(() => buildPlayerTags([event], 32), [event]);
+  const coveredPlayerTags = useMemo(() => new Set(playerTags.map((t) => t.tag)), [playerTags]);
+
+  const handleWatchPlayer = useCallback((tag: string) => {
+    setPlayerTag(tag);
+    requestAnimationFrame(() => {
+      watchGridRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  }, []);
 
   const filteredEvent = useMemo((): CoverageEvent => {
     let rows = [...event.round_rows];
@@ -80,7 +93,14 @@ export function CoverageEventDashboard({ catalog, event }: Props) {
 
       <header className="page-hero mt-4">
         <p className="page-hero-eyebrow">{event.year ?? "Event"}</p>
-        <h1 className="page-hero-title">{event.title ?? event.id.replace(/_/g, " ")}</h1>
+        <h1 className="page-hero-title">
+          {event.title ?? event.id.replace(/_/g, " ")}
+          {event.tour_tag && (
+            <span className="coverage-hero-tag">
+              <CoverageTourTagBadge tag={event.tour_tag} />
+            </span>
+          )}
+        </h1>
         <p className="page-hero-tag">
           {event.source_labels.join(" · ")} · {event.video_count} round videos
           {activePlayerName ? ` · ${displayPlayerName(activePlayerName)}` : ""}
@@ -120,7 +140,15 @@ export function CoverageEventDashboard({ catalog, event }: Props) {
 
       <CoveragePlayerTags tags={playerTags} activeTag={playerTag} onSelectTag={setPlayerTag} />
 
-      <section className="asia-section">
+      {results && (
+        <CoverageEventResultsPanel
+          results={results}
+          coveredPlayerTags={coveredPlayerTags}
+          onWatchPlayer={handleWatchPlayer}
+        />
+      )}
+
+      <section className="asia-section" ref={watchGridRef} id="watch-grid">
         <header className="asia-section-header">
           <div>
             <h2 className="asia-section-title">Watch grid</h2>

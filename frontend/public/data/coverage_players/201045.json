@@ -1,0 +1,38 @@
+{
+  "pdga": 201045,
+  "name": "Jason Newman",
+  "name_tag": "jason_newman",
+  "division": "MPO",
+  "rating": 963,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 40.0,
+  "last_event_year": "2024",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2024_jonesboro_open",
+      "title": "DGPT - Play It Again Sports Jonesboro Open - presented by Westside Discs",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 109,
+      "pdga_points": 40.0,
+      "rating": 963,
+      "prize": "",
+      "score": "204",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 109.0,
+  "form_events": 1
+}

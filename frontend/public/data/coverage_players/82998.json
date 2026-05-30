@@ -1,0 +1,52 @@
+{
+  "pdga": 82998,
+  "name": "Robert Veliky",
+  "name_tag": "robert_veliky",
+  "division": "MPO",
+  "rating": 979,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 1230.0,
+  "last_event_year": "2021",
+  "first_event_year": "2021",
+  "results": [
+    {
+      "coverage_event_id": "2021_green_mountain_championship",
+      "title": "DGPT - Discraft's Green Mountain Championship presented by Upper Park Disc Golf",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 83,
+      "pdga_points": 520.0,
+      "rating": 979,
+      "prize": "",
+      "score": "186",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2021_music_city_open",
+      "title": "2021 Music City Open Presented by Dynamic Discs - NT Finale",
+      "year": "2021",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 60,
+      "pdga_points": 710.0,
+      "rating": 970,
+      "prize": "",
+      "score": "177",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 71.5,
+  "form_events": 2
+}

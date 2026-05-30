@@ -1,0 +1,77 @@
+{
+  "pdga": 11794,
+  "name": "Nate Doss",
+  "name_tag": "nate_doss",
+  "division": "MPO",
+  "rating": 1038,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 2235.0,
+  "last_event_year": "2025",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2025_usdgc",
+      "title": "2025 United States Disc Golf Championship",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 73,
+      "pdga_points": 525.0,
+      "rating": 1007,
+      "prize": "",
+      "score": "200",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_beaver_state_fling",
+      "title": "DGPT - 2024 Beaver State Fling Presented by Innova",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 71,
+      "pdga_points": 420.0,
+      "rating": 1038,
+      "prize": "",
+      "score": "192",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_usdgc",
+      "title": "2024 United States Disc Golf Championship",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 37,
+      "pdga_points": 1290.0,
+      "rating": 1007,
+      "prize": "$860",
+      "score": "247",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 3,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 60.3,
+  "form_events": 3,
+  "media": {
+    "rounds": 2,
+    "lead_cards": 0,
+    "chase_cards": 1,
+    "feature_cards": 0,
+    "tournaments": 2,
+    "multi_source_events": 0,
+    "by_source": {
+      "jomezpro": 2
+    }
+  }
+}

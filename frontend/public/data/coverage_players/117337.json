@@ -1,0 +1,52 @@
+{
+  "pdga": 117337,
+  "name": "Kasperi Pakarinen",
+  "name_tag": "kasperi_pakarinen",
+  "division": "MPO",
+  "rating": 1017,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 2490.0,
+  "last_event_year": "2025",
+  "first_event_year": "2024",
+  "results": [
+    {
+      "coverage_event_id": "2025_pdga_pro_worlds",
+      "title": "2025 PDGA Professional World Championships Presented By Discmania",
+      "year": "2025",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 51,
+      "pdga_points": 2250.0,
+      "rating": 1017,
+      "prize": "$670",
+      "score": "309",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2024_european_open",
+      "title": "DGPT - European Disc Golf Festival",
+      "year": "2024",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 85,
+      "pdga_points": 240.0,
+      "rating": 1012,
+      "prize": "",
+      "score": "181",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 68.0,
+  "form_events": 2
+}

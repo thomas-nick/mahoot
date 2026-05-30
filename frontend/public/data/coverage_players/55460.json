@@ -1,0 +1,38 @@
+{
+  "pdga": 55460,
+  "name": "John Yates",
+  "name_tag": "john_yates",
+  "division": "MPO",
+  "rating": 961,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 70.0,
+  "last_event_year": "2020",
+  "first_event_year": "2020",
+  "results": [
+    {
+      "coverage_event_id": "2020_jonesboro_open",
+      "title": "DGPT - Play It Again Sports Jonesboro Open",
+      "year": "2020",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 88,
+      "pdga_points": 70.0,
+      "rating": 961,
+      "prize": "",
+      "score": "219",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 88.0,
+  "form_events": 1
+}

@@ -1,0 +1,38 @@
+{
+  "pdga": 168150,
+  "name": "Kathryn Tang",
+  "name_tag": "kathryn_tang",
+  "division": "FPO",
+  "rating": 899,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 36.0,
+  "last_event_year": "2022",
+  "first_event_year": "2022",
+  "results": [
+    {
+      "coverage_event_id": "2022_portland_open",
+      "title": "DGPT - Portland Open presented by Dynamic Discs",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 39,
+      "pdga_points": 36.0,
+      "rating": 899,
+      "prize": "",
+      "score": "237",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 39.0,
+  "form_events": 1
+}

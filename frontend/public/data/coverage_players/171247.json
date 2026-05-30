@@ -1,0 +1,52 @@
+{
+  "pdga": 171247,
+  "name": "Taegen Wells",
+  "name_tag": "taegen_wells",
+  "division": "MPO",
+  "rating": 982,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 220.0,
+  "last_event_year": "2024",
+  "first_event_year": "2023",
+  "results": [
+    {
+      "coverage_event_id": "2024_dynamic_discs_open",
+      "title": "DGPT - Dynamic Discs Open",
+      "year": "2024",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 99,
+      "pdga_points": 90.0,
+      "rating": 982,
+      "prize": "",
+      "score": "226",
+      "has_coverage": true
+    },
+    {
+      "coverage_event_id": "2023_the_preserve_championship",
+      "title": "DGPT - The Preserve Championship powered by Prodigy",
+      "year": "2023",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "MPO",
+      "place": 107,
+      "pdga_points": 130.0,
+      "rating": 974,
+      "prize": "",
+      "score": "201",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 2,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 103.0,
+  "form_events": 2
+}

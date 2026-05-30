@@ -1,0 +1,38 @@
+{
+  "pdga": 62397,
+  "name": "Hope C. Brown",
+  "name_tag": "hope_c_brown",
+  "division": "FPO",
+  "rating": 862,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 162.0,
+  "last_event_year": "2022",
+  "first_event_year": "2022",
+  "results": [
+    {
+      "coverage_event_id": "2022_las_vegas_challenge",
+      "title": "DGPT - Las Vegas Challenge presented by Innova",
+      "year": "2022",
+      "tour_tag": "dgpt_elite",
+      "tour_tag_label": "DGPT Elite",
+      "division": "FPO",
+      "place": 34,
+      "pdga_points": 162.0,
+      "rating": 862,
+      "prize": "",
+      "score": "206",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 34.0,
+  "form_events": 1
+}

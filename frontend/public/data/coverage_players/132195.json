@@ -1,0 +1,38 @@
+{
+  "pdga": 132195,
+  "name": "Daniel Perry",
+  "name_tag": "daniel_perry",
+  "division": "MPO",
+  "rating": 1015,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top10": 0,
+  "pdga_points": 900.0,
+  "last_event_year": "2026",
+  "first_event_year": "2026",
+  "results": [
+    {
+      "coverage_event_id": "2026_pdga_champions_cup",
+      "title": "2026 PDGA Champions Cup Presented by Vessi",
+      "year": "2026",
+      "tour_tag": "major",
+      "tour_tag_label": "Major",
+      "division": "MPO",
+      "place": 41,
+      "pdga_points": 900.0,
+      "rating": 1015,
+      "prize": "",
+      "score": "210",
+      "has_coverage": true
+    }
+  ],
+  "current_win_streak": 0,
+  "current_podium_streak": 0,
+  "current_top10_streak": 0,
+  "winless_streak": 1,
+  "best_win_streak": 0,
+  "best_podium_streak": 0,
+  "form_avg_finish": 41.0,
+  "form_events": 1
+}
