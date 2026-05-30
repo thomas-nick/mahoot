@@ -32,6 +32,14 @@ const boards = [
       "Live PDGA standings for MPO + FPO pros across Japan, Thailand, Korea, Taiwan, the Philippines and beyond. Official 2026 Asia Tour rankings.",
     accent: "#db2777",
   },
+  {
+    href: "/leaderboards/coverage",
+    eyebrow: "Jomez · GK Pro · Gatekeeper",
+    title: "Tournament Coverage",
+    blurb:
+      "Same event, different cards — watch JomezPro, GK Pro, and Gatekeeper round videos aligned by upload date and round.",
+    accent: "#c2410c",
+  },
 ];
 
 export default function LeaderboardsHubPage() {

@@ -7,6 +7,7 @@ const links = [
   { href: "/leaderboards/manucup", label: "Manufacturers Cup" },
   { href: "/leaderboards/players", label: "Player Tour Stats" },
   { href: "/leaderboards/asia", label: "Asia Leaderboard" },
+  { href: "/leaderboards/coverage", label: "Tournament Coverage" },
 ];
 
 export function SiteNav() {

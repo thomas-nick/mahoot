@@ -3539,3 +3539,158 @@ body:has(.theme-clean) .page-shell {
   font-weight: 600;
   color: #2563eb;
 }
+
+/* Multi-producer tournament coverage */
+.coverage-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  margin: 1.5rem 0;
+}
+.coverage-search {
+  flex: 1 1 16rem;
+  min-width: 12rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.75rem;
+  padding: 0.65rem 0.9rem;
+  font-size: 0.95rem;
+  background: #fff;
+}
+.coverage-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.9rem;
+  color: #4b5563;
+}
+.coverage-event-list {
+  display: grid;
+  gap: 0.75rem;
+}
+.coverage-event-card {
+  display: block;
+  border: 1px solid #e5e7eb;
+  border-radius: 1rem;
+  padding: 1rem 1.1rem;
+  background: #fff;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+.coverage-event-card:hover {
+  border-color: #c2410c;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+}
+.coverage-event-card-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+.coverage-event-card-head h2 {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #111827;
+}
+.coverage-badge {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #c2410c;
+  border: 1px solid rgba(194, 65, 12, 0.35);
+  border-radius: 999px;
+  padding: 0.15rem 0.5rem;
+}
+.coverage-event-meta {
+  margin: 0.35rem 0 0;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+.coverage-back {
+  display: inline-block;
+  font-size: 0.9rem;
+  color: #4b5563;
+}
+.coverage-back:hover {
+  color: #111827;
+}
+.coverage-empty {
+  color: #6b7280;
+  font-size: 0.95rem;
+}
+.coverage-grid-wrap {
+  overflow-x: auto;
+  margin-top: 1rem;
+}
+.coverage-grid {
+  width: 100%;
+  min-width: 42rem;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+}
+.coverage-grid th,
+.coverage-grid td {
+  border: 1px solid #e5e7eb;
+  padding: 0.65rem 0.75rem;
+  vertical-align: top;
+  text-align: left;
+}
+.coverage-grid thead th {
+  background: #f9fafb;
+  font-weight: 600;
+  color: #374151;
+}
+.coverage-round-label {
+  font-weight: 600;
+  white-space: nowrap;
+  color: #111827;
+}
+.coverage-upload {
+  white-space: nowrap;
+  color: #6b7280;
+  font-size: 0.82rem;
+}
+.coverage-source-pill {
+  display: inline-block;
+  border: 1px solid;
+  border-radius: 999px;
+  padding: 0.1rem 0.55rem;
+  font-size: 0.78rem;
+}
+.coverage-cell {
+  min-width: 10rem;
+}
+.coverage-missing {
+  color: #9ca3af;
+}
+.coverage-video-card {
+  display: block;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.65rem;
+  padding: 0.55rem 0.65rem;
+  margin-bottom: 0.45rem;
+  background: #fff;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+.coverage-video-card:last-child {
+  margin-bottom: 0;
+}
+.coverage-video-card:hover {
+  border-color: #2563eb;
+  background: #f8fafc;
+}
+.coverage-card-type {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #6b7280;
+}
+.coverage-players {
+  display: block;
+  margin-top: 0.25rem;
+  color: #111827;
+  line-height: 1.35;
+}
