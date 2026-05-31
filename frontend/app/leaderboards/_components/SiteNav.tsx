@@ -34,6 +34,11 @@ const links: NavLink[] = [
     isActive: (p) => p.startsWith("/leaderboards/asia"),
   },
   {
+    href: "/leaderboards/skins",
+    label: "Tour Skins",
+    isActive: (p) => p.startsWith("/leaderboards/skins"),
+  },
+  {
     href: "/leaderboards/coverage/worlds",
     label: "Worlds",
     isActive: (p) => p.startsWith("/leaderboards/coverage/worlds"),

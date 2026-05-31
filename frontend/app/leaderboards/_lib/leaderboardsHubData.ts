@@ -15,6 +15,7 @@ import type { CoverageCatalog } from "./coverageTypes";
 import type { CoverageEventResults, CoverageResultsIndex } from "./coverageResultsTypes";
 import type { CoverageMediaStatsIndex, CoveragePlayersIndex } from "./coveragePlayerTypes";
 import type { WorldsCoverageCatalog } from "./worldsCoverageTypes";
+import type { SkinsData } from "./skinsTypes";
 
 const DATA = path.join(process.cwd(), "public", "data");
 
@@ -100,7 +101,7 @@ async function load2026Events(resultsIndex: CoverageResultsIndex | null): Promis
 }
 
 export async function loadLeaderboardsHubSnapshot(): Promise<LeaderboardsHubSnapshot> {
-  const [manuCup, playerTour, asia, catalog, resultsIndex, playersIndex, mediaIndex, worldsCatalog] = await Promise.all([
+  const [manuCup, playerTour, asia, catalog, resultsIndex, playersIndex, mediaIndex, worldsCatalog, skinsData] = await Promise.all([
     readJson<ManufacturersCupData>(path.join(DATA, "leaderboards", "manufacturers_cup.json")),
     readJson<PlayerTourData>(path.join(DATA, "leaderboards", "player_tour_stats.json")),
     readJson<AsiaData>(path.join(DATA, "leaderboards", "asia_players.json")),
@@ -109,6 +110,7 @@ export async function loadLeaderboardsHubSnapshot(): Promise<LeaderboardsHubSnap
     readJson<CoveragePlayersIndex>(path.join(DATA, "coverage_players", "index.json")),
     readJson<CoverageMediaStatsIndex>(path.join(DATA, "coverage_media_stats", "index.json")),
     readJson<WorldsCoverageCatalog>(path.join(DATA, "worlds_coverage.json")),
+    readJson<SkinsData>(path.join(DATA, "gothrow_skins.json")),
   ]);
 
   const events2026 = await load2026Events(resultsIndex);
@@ -323,6 +325,18 @@ export async function loadLeaderboardsHubSnapshot(): Promise<LeaderboardsHubSnap
       stat: `${worldsCatalog.video_count} videos · ${worldsCatalog.year_range.earliest ?? "—"}–${worldsCatalog.year_range.latest ?? "—"}`,
       cta: "Browse Worlds →",
       accent: "#b45309",
+      group: "watch",
+    });
+  }
+  if (skinsData) {
+    updatedTimes.push(skinsData.updated_at);
+    boards.push({
+      href: "/leaderboards/skins",
+      eyebrow: "GK Pro · Go Throw · OTB Tour",
+      title: "Tour Skins",
+      stat: `${skinsData.episodes_scored}/${skinsData.episodes_total} scored · ${skinsData.total_players} players`,
+      cta: "Skins leaderboard →",
+      accent: "#059669",
       group: "watch",
     });
   }

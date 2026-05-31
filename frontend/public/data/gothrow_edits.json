@@ -1,0 +1,16 @@
+{
+  "updated_at": null,
+  "notes": "Manual score overrides. Keys: \"Series Name|episode_number\". Rebuild with merge_gothrow_edits.py then build_gothrow_dashboard.py --mahoot.",
+  "episodes": {
+    "OTB Tour Skins|164": {
+      "course": "Jaranator DGC",
+      "location": "Lancaster, Texas",
+      "per_hole_usd": 100,
+      "players": ["Anthony Barela", "Austin Turner", "Albert Tamm", "Corey Ellis"],
+      "holes": [
+        { "hole": 1, "half": "F9", "carry_usd": 100, "result": "push", "winner": null, "amount_usd": null },
+        { "hole": 2, "half": "F9", "result": "win", "winner": "Corey Ellis", "amount_usd": 1400 }
+      ]
+    }
+  }
+}
