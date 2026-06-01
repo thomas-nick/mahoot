@@ -96,6 +96,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 6,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "abraham-johnson": [
@@ -295,6 +304,15 @@
       "place": 3,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 16,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -1226,6 +1244,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 2,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "andrew-miranda": [
@@ -1789,6 +1816,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 17,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "anthony-bodanza": [
@@ -1883,6 +1919,15 @@
       "place": 43,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 28,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -2089,6 +2134,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 11,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "aviel-gomez": [
@@ -2214,6 +2268,15 @@
       "place": 80,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 61,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -2816,6 +2879,15 @@
       "place": 33,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 8,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -3840,6 +3912,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 24,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "chandler-reigh": [
@@ -3887,6 +3968,15 @@
       "place": 75,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 58,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -4639,6 +4729,15 @@
       "place": 59,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 14,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "corbin-milchesky": [
@@ -4852,6 +4951,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 17,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "cynthia-ricciotti": [
@@ -4904,6 +5012,15 @@
       "place": 23,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 29,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -4973,6 +5090,15 @@
       "place": 68,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 24,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -5048,6 +5174,15 @@
       "place": 28,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 9,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -5465,6 +5600,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 3,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "eden-fletcher": [
@@ -5748,6 +5892,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 14,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "elijah-bickel": [
@@ -5862,6 +6015,15 @@
       "place": 28,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 29,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -6153,6 +6315,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 18,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "emerson-keith": [
@@ -6390,6 +6561,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 5,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "emily-yale": [
@@ -6440,6 +6620,15 @@
       "place": 36,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 24,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -6642,6 +6831,15 @@
       "place": 32,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 11,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -6863,6 +7061,15 @@
       "place": 33,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 37,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -7563,6 +7770,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 1,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "garrett-dknox": [],
@@ -7647,6 +7863,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 12,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "gavin-babcock": [
@@ -7729,6 +7954,15 @@
       "place": 3,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 8,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -8122,6 +8356,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 73,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "hanna-huynh": [
@@ -8198,7 +8441,17 @@
       "tour": ""
     }
   ],
-  "hannah-kellar": [],
+  "hannah-kellar": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 22,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
+    }
+  ],
   "harper-thompson": [
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
@@ -8558,6 +8811,15 @@
       "place": 7,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 3,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -9616,6 +9878,14 @@
       "tour": "DGPT"
     },
     {
+      "event": "Discraft Presents The Rumble",
+      "event_key": "discraft-presents-the-rumble",
+      "month": "May",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -9802,6 +10072,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 6,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "jakub-semerd": [
@@ -9933,6 +10212,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 23,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "james-bennett": [],
@@ -10001,6 +10289,15 @@
       "place": 16,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 21,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -10587,6 +10884,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 20,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "jeremy-koling": [
@@ -10797,6 +11103,15 @@
       "place": 17,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 11,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -11063,6 +11378,15 @@
       "place": 61,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 21,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -11434,6 +11758,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 10,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "joshua-patin": [
@@ -11510,6 +11843,14 @@
       "place": 80,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT+ OTB Open presented by MVP Disc Sports - MONDAY QUALIFIER",
+      "event_key": "otb-open-presented-by-mvp-disc-sports-monday-qua",
+      "month": "May",
+      "place": 9,
+      "tier": "C",
+      "tour": ""
     },
     {
       "event": "The Bomber Blast B-Tier presented by 76 El Dorado Hills Auto Care",
@@ -11863,6 +12204,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 5,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "katherine-aydelott-284553": [],
@@ -11954,6 +12304,15 @@
       "place": 27,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 7,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -12104,6 +12463,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 40,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "konastar-montgomery": [
@@ -12202,6 +12570,15 @@
       "place": 18,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 4,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -12684,6 +13061,15 @@
       "place": 3,
       "tier": "A",
       "tour": ""
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 16,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "levi-stout": [
@@ -12988,6 +13374,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 8,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "logan-plake": [],
@@ -13253,6 +13648,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 37,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "luke-humphries": [
@@ -13483,6 +13887,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 35,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "luke-taylor": [
@@ -13573,6 +13986,15 @@
       "place": 23,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 3,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -13748,6 +14170,15 @@
       "place": 34,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 37,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -13983,6 +14414,14 @@
       "place": 90,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT+ OTB Open presented by MVP Disc Sports - MONDAY QUALIFIER",
+      "event_key": "otb-open-presented-by-mvp-disc-sports-monday-qua",
+      "month": "May",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
     },
     {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
@@ -14480,6 +14919,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 91,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "matthew-orum": [
@@ -14751,6 +15199,14 @@
       "place": 86,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT+ OTB Open presented by MVP Disc Sports - MONDAY QUALIFIER",
+      "event_key": "otb-open-presented-by-mvp-disc-sports-monday-qua",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
     },
     {
       "event": "Sierra Spring Cup",
@@ -15907,6 +16363,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 3,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "nolan-ramser": [
@@ -16112,6 +16577,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 2,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "oiva-pivnsalo": [
@@ -16156,6 +16630,14 @@
       "place": 70,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT+ OTB Open presented by MVP Disc Sports - MONDAY QUALIFIER",
+      "event_key": "otb-open-presented-by-mvp-disc-sports-monday-qua",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
     },
     {
       "event": "Lake Chabot New Years Classic 2026",
@@ -16538,6 +17020,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 17,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "paul-mcbeth": [
@@ -16894,6 +17385,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 21,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "raven-klein": [
@@ -16968,6 +17468,15 @@
       "place": 29,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 14,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -17166,6 +17675,15 @@
       "place": 2,
       "tier": "A",
       "tour": ""
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 17,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "rebecca-don": [
@@ -17403,6 +17921,15 @@
       "place": 1,
       "tier": "C",
       "tour": ""
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 30,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "reese-petersen": [],
@@ -17593,6 +18120,15 @@
       "place": 50,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 31,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -17845,6 +18381,15 @@
       "place": 98,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 33,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -18122,6 +18667,15 @@
       "place": 4,
       "tier": "A",
       "tour": ""
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 10,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "sawyer-barlow": [],
@@ -18643,6 +19197,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 1,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "simon-crosby": [
@@ -19001,6 +19564,15 @@
       "place": 5,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 14,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "sylus-williams": [],
@@ -19298,6 +19870,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 13,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "thomas-canfield": [
@@ -19576,7 +20157,17 @@
       "tour": "DGPT"
     }
   ],
-  "tj-reel": [],
+  "tj-reel": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 26,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
+    }
+  ],
   "tom-shanley": [
     {
       "event": "The 4th Annual Heaven and Hell Open",
@@ -19926,6 +20517,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 26,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "trevor-dominy": [
@@ -20201,6 +20801,15 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 20,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "valerie-mandujano": [
@@ -20317,6 +20926,15 @@
       "place": 22,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 12,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],

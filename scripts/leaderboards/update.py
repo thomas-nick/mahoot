@@ -53,6 +53,13 @@ SEED_PDGA_EVENTS = [
         "tour": "DGPT",
         "month": "May",
     },
+    {
+        "event_id": "98193",
+        "event": "DGPT JomezPro - Discraft Cascade Challenge",
+        "tier": "A",
+        "tour": "DGPT",
+        "month": "May",
+    },
 ]
 
 MANUFACTURER_NAMES = {

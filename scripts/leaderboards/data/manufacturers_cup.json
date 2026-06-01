@@ -1,81 +1,81 @@
 {
   "title": "DGPT Manufacturers Cup",
   "description": "F1-style constructors championship for disc golf brands",
-  "updated_at": "2026-05-26T16:37:30.448300+00:00",
+  "updated_at": "2026-06-01T04:03:08.133317+00:00",
   "divisions": {
     "MPO": {
       "division": "MPO",
-      "week": "2026-22",
-      "updated_at": "2026-05-26T16:38:20.110499+00:00",
+      "week": "2026-23",
+      "updated_at": "2026-06-01T04:03:55.890145+00:00",
       "source": "https://statmando.com/rankings/dgpt/mpo",
       "player_count": 260,
       "mapped_players": 85,
       "unmapped_players": 175,
       "meta": {
-        "affiliated_points_pool": 22057.7,
-        "unmapped_points": 6841.3,
+        "affiliated_points_pool": 22122.7,
+        "unmapped_points": 6861.3,
         "coverage_pct": 0.327,
         "brand_count": 15,
         "avg_roster_size": 5.7,
-        "total_wins": 8,
-        "total_starts": 505
+        "total_wins": 9,
+        "total_starts": 528
       },
       "manufacturers": [
         {
           "manufacturer": "Unknown",
           "short": "???",
           "color": "#6b7280",
-          "points": 6841.28,
-          "points_gain": 1194.31,
+          "points": 6861.28,
+          "points_gain": 20.0,
           "player_count": 175,
           "wins": 1,
-          "top10s": 14,
-          "starts": 400,
+          "top10s": 17,
+          "starts": 416,
           "best_player": "Zachary Nash",
           "best_player_points": 542.42,
           "players": [
             {
               "rank": 10,
-              "rank_gain": 7,
+              "rank_gain": 0,
               "slug": "zachary-nash",
               "name": "Zachary Nash",
               "points": 542.42,
-              "points_gain": 125.33,
+              "points_gain": 0.0,
               "starts": 9,
               "wins": 0,
               "top10s": 3,
-              "cashed": 7,
+              "cashed": 8,
               "manufacturer": "Unknown"
             },
             {
               "rank": 17,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "joseph-anderson",
               "name": "Joseph Anderson",
-              "points": 469.0,
-              "points_gain": 45.33,
-              "starts": 8,
+              "points": 474.0,
+              "points_gain": 5.0,
+              "starts": 9,
               "wins": 0,
-              "top10s": 3,
-              "cashed": 6,
+              "top10s": 4,
+              "cashed": 7,
               "manufacturer": "Unknown"
             },
             {
               "rank": 20,
-              "rank_gain": 2,
+              "rank_gain": 0,
               "slug": "jaden-rye",
               "name": "Jaden Rye",
               "points": 446.5,
-              "points_gain": 93.33,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 0,
               "top10s": 1,
-              "cashed": 6,
+              "cashed": 7,
               "manufacturer": "Unknown"
             },
             {
               "rank": 24,
-              "rank_gain": -5,
+              "rank_gain": 0,
               "slug": "evan-smith",
               "name": "Evan Smith",
               "points": 405.67,
@@ -88,37 +88,37 @@
             },
             {
               "rank": 30,
-              "rank_gain": 10,
+              "rank_gain": 0,
               "slug": "corey-ellis",
               "name": "Corey Ellis",
               "points": 340.5,
-              "points_gain": 93.33,
-              "starts": 6,
+              "points_gain": 0.0,
+              "starts": 7,
               "wins": 0,
               "top10s": 0,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Unknown"
             },
             {
               "rank": 32,
-              "rank_gain": 4,
+              "rank_gain": 0,
               "slug": "chandler-kramer",
               "name": "Chandler Kramer",
               "points": 303.9,
-              "points_gain": 42.67,
-              "starts": 8,
+              "points_gain": 0.0,
+              "starts": 9,
               "wins": 0,
               "top10s": 2,
-              "cashed": 5,
+              "cashed": 6,
               "manufacturer": "Unknown"
             },
             {
               "rank": 37,
               "rank_gain": 1,
-              "slug": "ty-love",
-              "name": "Ty Love",
-              "points": 287.17,
-              "points_gain": 33.33,
+              "slug": "braeden-sides",
+              "name": "Braeden Sides",
+              "points": 290.67,
+              "points_gain": 5.0,
               "starts": 9,
               "wins": 0,
               "top10s": 1,
@@ -127,20 +127,20 @@
             },
             {
               "rank": 38,
-              "rank_gain": 3,
-              "slug": "braeden-sides",
-              "name": "Braeden Sides",
-              "points": 285.67,
-              "points_gain": 42.67,
-              "starts": 8,
+              "rank_gain": -1,
+              "slug": "ty-love",
+              "name": "Ty Love",
+              "points": 287.17,
+              "points_gain": 0.0,
+              "starts": 10,
               "wins": 0,
-              "top10s": 0,
-              "cashed": 4,
+              "top10s": 1,
+              "cashed": 6,
               "manufacturer": "Unknown"
             },
             {
               "rank": 42,
-              "rank_gain": -11,
+              "rank_gain": 0,
               "slug": "gavin-phillips",
               "name": "Gavin Phillips",
               "points": 274.79,
@@ -153,33 +153,33 @@
             },
             {
               "rank": 55,
-              "rank_gain": 8,
+              "rank_gain": 0,
               "slug": "dallas-garber",
               "name": "Dallas Garber",
               "points": 194.77,
-              "points_gain": 56.27,
-              "starts": 8,
+              "points_gain": 0.0,
+              "starts": 9,
               "wins": 0,
               "top10s": 0,
-              "cashed": 1,
+              "cashed": 2,
               "manufacturer": "Unknown"
             },
             {
-              "rank": 64,
-              "rank_gain": 8,
+              "rank": 61,
+              "rank_gain": 3,
               "slug": "noah-meintsma",
               "name": "Noah Meintsma",
-              "points": 144.27,
-              "points_gain": 56.27,
-              "starts": 2,
+              "points": 154.27,
+              "points_gain": 10.0,
+              "starts": 3,
               "wins": 0,
-              "top10s": 0,
-              "cashed": 1,
+              "top10s": 1,
+              "cashed": 2,
               "manufacturer": "Unknown"
             },
             {
               "rank": 66,
-              "rank_gain": -5,
+              "rank_gain": 0,
               "slug": "jonathan-borzick",
               "name": "Jonathan Borzick",
               "points": 141.22,
@@ -192,7 +192,7 @@
             },
             {
               "rank": 67,
-              "rank_gain": -5,
+              "rank_gain": 0,
               "slug": "bo-mclaughlin",
               "name": "Bo McLaughlin",
               "points": 141.12,
@@ -205,7 +205,7 @@
             },
             {
               "rank": 68,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "austen-bates",
               "name": "Austen Bates",
               "points": 133.78,
@@ -222,8 +222,8 @@
               "slug": "luke-samson",
               "name": "Luke Samson",
               "points": 113.94,
-              "points_gain": 9.33,
-              "starts": 9,
+              "points_gain": 0.0,
+              "starts": 10,
               "wins": 0,
               "top10s": 0,
               "cashed": 1,
@@ -231,11 +231,11 @@
             },
             {
               "rank": 72,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "jacob-courtis",
               "name": "Jacob Courtis",
               "points": 103.0,
-              "points_gain": 9.33,
+              "points_gain": 0.0,
               "starts": 9,
               "wins": 0,
               "top10s": 0,
@@ -244,11 +244,11 @@
             },
             {
               "rank": 75,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "jacob-blair",
               "name": "Jacob Blair",
               "points": 82.27,
-              "points_gain": 6.0,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 0,
               "top10s": 0,
@@ -257,24 +257,24 @@
             },
             {
               "rank": 76,
-              "rank_gain": 11,
+              "rank_gain": 0,
               "slug": "matthew-alexander",
               "name": "Matthew Alexander",
               "points": 81.55,
-              "points_gain": 28.67,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 0,
               "top10s": 0,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "Unknown"
             },
             {
               "rank": 77,
-              "rank_gain": 3,
+              "rank_gain": 0,
               "slug": "colten-montgomery",
               "name": "Colten Montgomery",
               "points": 78.58,
-              "points_gain": 11.33,
+              "points_gain": 0.0,
               "starts": 7,
               "wins": 0,
               "top10s": 0,
@@ -283,7 +283,7 @@
             },
             {
               "rank": 79,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "fredy-meza",
               "name": "Fredy Meza",
               "points": 72.98,
@@ -296,20 +296,20 @@
             },
             {
               "rank": 82,
-              "rank_gain": 22,
+              "rank_gain": 0,
               "slug": "levi-stout",
               "name": "Levi Stout",
               "points": 67.61,
-              "points_gain": 35.33,
+              "points_gain": 0.0,
               "starts": 5,
               "wins": 0,
               "top10s": 0,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "Unknown"
             },
             {
               "rank": 83,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "miles-sayer",
               "name": "Miles Sayer",
               "points": 67.1,
@@ -322,7 +322,7 @@
             },
             {
               "rank": 84,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "wyatt-mahoney",
               "name": "Wyatt Mahoney",
               "points": 65.67,
@@ -335,12 +335,12 @@
             },
             {
               "rank": 86,
-              "rank_gain": 14,
+              "rank_gain": 0,
               "slug": "lucas-carmichael",
               "name": "Lucas Carmichael",
               "points": 58.17,
-              "points_gain": 22.67,
-              "starts": 7,
+              "points_gain": 0.0,
+              "starts": 8,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -348,7 +348,7 @@
             },
             {
               "rank": 88,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "jj-campbell",
               "name": "J.J. Campbell",
               "points": 53.6,
@@ -361,7 +361,7 @@
             },
             {
               "rank": 89,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "nick-robertson-1",
               "name": "Nick Robertson",
               "points": 53.0,
@@ -374,7 +374,7 @@
             },
             {
               "rank": 91,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "jamie-kiep",
               "name": "Jamie Kiep",
               "points": 49.21,
@@ -387,7 +387,7 @@
             },
             {
               "rank": 92,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "daniel-perry",
               "name": "Daniel Perry",
               "points": 49.0,
@@ -400,7 +400,7 @@
             },
             {
               "rank": 93,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "oiva-pivnsalo",
               "name": "Oiva P\u00e4iv\u00e4nsalo",
               "points": 48.17,
@@ -413,7 +413,7 @@
             },
             {
               "rank": 94,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "noah-feil",
               "name": "Noah Feil",
               "points": 47.67,
@@ -426,11 +426,11 @@
             },
             {
               "rank": 95,
-              "rank_gain": 24,
+              "rank_gain": 0,
               "slug": "eli-swansen",
               "name": "Eli Swansen",
               "points": 46.0,
-              "points_gain": 22.67,
+              "points_gain": 0.0,
               "starts": 6,
               "wins": 0,
               "top10s": 0,
@@ -439,7 +439,7 @@
             },
             {
               "rank": 97,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "zane-letts",
               "name": "Zane Letts",
               "points": 44.0,
@@ -452,7 +452,7 @@
             },
             {
               "rank": 100,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "kyle-krieckhaus",
               "name": "Kyle Krieckhaus",
               "points": 38.78,
@@ -465,7 +465,7 @@
             },
             {
               "rank": 101,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "ian-krajna",
               "name": "Ian Krajna",
               "points": 38.5,
@@ -478,7 +478,7 @@
             },
             {
               "rank": 103,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "logan-plake",
               "name": "Logan Plake",
               "points": 35.0,
@@ -491,7 +491,7 @@
             },
             {
               "rank": 105,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "elijah-riderbrandt",
               "name": "Elijah Rider Brandt",
               "points": 33.57,
@@ -504,7 +504,7 @@
             },
             {
               "rank": 106,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "matt-thompson",
               "name": "Matt Thompson",
               "points": 32.0,
@@ -517,7 +517,7 @@
             },
             {
               "rank": 108,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "emerson-keith",
               "name": "Emerson Keith",
               "points": 29.33,
@@ -534,11 +534,11 @@
               "slug": "logan-riding",
               "name": "Logan Riding",
               "points": 28.67,
-              "points_gain": 28.67,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "Unknown"
             },
             {
@@ -547,16 +547,16 @@
               "slug": "aviel-gomez",
               "name": "Aviel Gomez",
               "points": 28.67,
-              "points_gain": 28.67,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "Unknown"
             },
             {
               "rank": 112,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "anthony-anselmo",
               "name": "Anthony Anselmo",
               "points": 28.0,
@@ -569,7 +569,7 @@
             },
             {
               "rank": 114,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "colby-schefers",
               "name": "Colby Schefers",
               "points": 27.67,
@@ -582,7 +582,7 @@
             },
             {
               "rank": 116,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "dylan-capaccioli",
               "name": "Dylan Capaccioli",
               "points": 27.0,
@@ -595,7 +595,7 @@
             },
             {
               "rank": 117,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "sylus-williams",
               "name": "Sylus Williams",
               "points": 26.0,
@@ -608,7 +608,7 @@
             },
             {
               "rank": 118,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "nikko-locastro",
               "name": "Nikko Locastro",
               "points": 25.33,
@@ -621,7 +621,7 @@
             },
             {
               "rank": 119,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "parker-austin",
               "name": "Parker Austin",
               "points": 25.27,
@@ -634,7 +634,7 @@
             },
             {
               "rank": 120,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "blake-houston",
               "name": "Blake Houston",
               "points": 24.67,
@@ -651,7 +651,7 @@
               "slug": "jedd-berger",
               "name": "Jedd Berger",
               "points": 24.67,
-              "points_gain": 24.67,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -660,7 +660,7 @@
             },
             {
               "rank": 122,
-              "rank_gain": -5,
+              "rank_gain": 0,
               "slug": "blake-poland",
               "name": "Blake Poland",
               "points": 23.9,
@@ -673,7 +673,7 @@
             },
             {
               "rank": 123,
-              "rank_gain": -5,
+              "rank_gain": 0,
               "slug": "alan-vazquez",
               "name": "Alan Vazquez",
               "points": 23.5,
@@ -690,7 +690,7 @@
               "slug": "tim-denna",
               "name": "Tim Denna",
               "points": 22.67,
-              "points_gain": 22.67,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -699,7 +699,7 @@
             },
             {
               "rank": 127,
-              "rank_gain": -6,
+              "rank_gain": 0,
               "slug": "sam-dicarlo",
               "name": "Sam DiCarlo",
               "points": 22.0,
@@ -712,7 +712,7 @@
             },
             {
               "rank": 128,
-              "rank_gain": -6,
+              "rank_gain": 0,
               "slug": "tony-moereiss",
               "name": "Tony Moe Reiss",
               "points": 21.33,
@@ -729,7 +729,7 @@
               "slug": "jason-lawson",
               "name": "Jason Lawson",
               "points": 21.33,
-              "points_gain": 21.33,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -738,7 +738,7 @@
             },
             {
               "rank": 130,
-              "rank_gain": -7,
+              "rank_gain": 0,
               "slug": "maxime-tanghe",
               "name": "Maxime Tanghe",
               "points": 20.67,
@@ -751,7 +751,7 @@
             },
             {
               "rank": 131,
-              "rank_gain": -7,
+              "rank_gain": 0,
               "slug": "ryan-mulder",
               "name": "Ryan Mulder",
               "points": 20.5,
@@ -768,7 +768,7 @@
               "slug": "cam-rico",
               "name": "Cam Rico",
               "points": 19.33,
-              "points_gain": 19.33,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -781,7 +781,7 @@
               "slug": "maximus-meyer",
               "name": "Maximus Meyer",
               "points": 19.33,
-              "points_gain": 19.33,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -790,7 +790,7 @@
             },
             {
               "rank": 135,
-              "rank_gain": -9,
+              "rank_gain": 0,
               "slug": "hayden-carroll",
               "name": "Hayden Carroll",
               "points": 17.67,
@@ -803,12 +803,12 @@
             },
             {
               "rank": 136,
-              "rank_gain": 16,
+              "rank_gain": 0,
               "slug": "ben-holding",
               "name": "Ben Holding",
               "points": 17.44,
-              "points_gain": 8.44,
-              "starts": 5,
+              "points_gain": 0.0,
+              "starts": 6,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -816,7 +816,7 @@
             },
             {
               "rank": 137,
-              "rank_gain": -10,
+              "rank_gain": 0,
               "slug": "jayden-torres",
               "name": "Jayden Torres",
               "points": 16.93,
@@ -829,11 +829,11 @@
             },
             {
               "rank": 138,
-              "rank_gain": 64,
+              "rank_gain": 0,
               "slug": "zack-wysocki",
               "name": "Zack Wysocki",
               "points": 16.33,
-              "points_gain": 13.33,
+              "points_gain": 0.0,
               "starts": 2,
               "wins": 0,
               "top10s": 0,
@@ -842,7 +842,7 @@
             },
             {
               "rank": 139,
-              "rank_gain": -11,
+              "rank_gain": 0,
               "slug": "james-collier",
               "name": "James Collier",
               "points": 15.6,
@@ -859,7 +859,7 @@
               "slug": "emmanuel-torres",
               "name": "Emmanuel Torres",
               "points": 15.56,
-              "points_gain": 15.56,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -872,7 +872,7 @@
               "slug": "isaiah-oliver",
               "name": "Isaiah Oliver",
               "points": 15.56,
-              "points_gain": 15.56,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -881,7 +881,7 @@
             },
             {
               "rank": 142,
-              "rank_gain": -13,
+              "rank_gain": 0,
               "slug": "noah-fiveash",
               "name": "Noah Fiveash",
               "points": 15.0,
@@ -894,7 +894,7 @@
             },
             {
               "rank": 142,
-              "rank_gain": -13,
+              "rank_gain": 0,
               "slug": "hayden-frederiksen",
               "name": "Hayden Frederiksen",
               "points": 15.0,
@@ -907,7 +907,7 @@
             },
             {
               "rank": 145,
-              "rank_gain": -13,
+              "rank_gain": 0,
               "slug": "nate-corder",
               "name": "Nate Corder",
               "points": 14.33,
@@ -924,7 +924,7 @@
               "slug": "cola-ditullio",
               "name": "Cola Di Tullio",
               "points": 14.0,
-              "points_gain": 14.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -937,7 +937,7 @@
               "slug": "simon-crosby",
               "name": "Simon Crosby",
               "points": 13.33,
-              "points_gain": 13.33,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -946,7 +946,7 @@
             },
             {
               "rank": 151,
-              "rank_gain": -15,
+              "rank_gain": 0,
               "slug": "thomas-canfield",
               "name": "Thomas Canfield",
               "points": 13.2,
@@ -963,8 +963,8 @@
               "slug": "daniel-pfaff",
               "name": "Daniel Pfaff",
               "points": 12.67,
-              "points_gain": 12.67,
-              "starts": 1,
+              "points_gain": 0.0,
+              "starts": 2,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -976,7 +976,7 @@
               "slug": "gavin-bos",
               "name": "Gavin Bos",
               "points": 12.67,
-              "points_gain": 12.67,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -985,11 +985,11 @@
             },
             {
               "rank": 154,
-              "rank_gain": 8,
+              "rank_gain": 0,
               "slug": "joe-carey",
               "name": "Joe Carey",
               "points": 12.33,
-              "points_gain": 5.33,
+              "points_gain": 0.0,
               "starts": 3,
               "wins": 0,
               "top10s": 0,
@@ -1002,7 +1002,7 @@
               "slug": "xaelen-nash",
               "name": "Xaelen Nash",
               "points": 12.0,
-              "points_gain": 12.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1015,7 +1015,7 @@
               "slug": "owen-hamilton",
               "name": "Owen Hamilton",
               "points": 12.0,
-              "points_gain": 12.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1024,7 +1024,7 @@
             },
             {
               "rank": 157,
-              "rank_gain": -20,
+              "rank_gain": 0,
               "slug": "jared-stoll",
               "name": "Jared Stoll",
               "points": 11.6,
@@ -1037,7 +1037,7 @@
             },
             {
               "rank": 158,
-              "rank_gain": -20,
+              "rank_gain": 0,
               "slug": "abrahan-bahena",
               "name": "Abrahan Bahena",
               "points": 11.5,
@@ -1050,7 +1050,7 @@
             },
             {
               "rank": 158,
-              "rank_gain": -20,
+              "rank_gain": 0,
               "slug": "brandon-green",
               "name": "Brandon Green",
               "points": 11.5,
@@ -1063,7 +1063,7 @@
             },
             {
               "rank": 160,
-              "rank_gain": -20,
+              "rank_gain": 0,
               "slug": "alex-berg",
               "name": "Alex Berg",
               "points": 11.33,
@@ -1080,8 +1080,8 @@
               "slug": "kirby-snyder",
               "name": "Kirby Snyder",
               "points": 11.33,
-              "points_gain": 11.33,
-              "starts": 1,
+              "points_gain": 0.0,
+              "starts": 2,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -1089,7 +1089,7 @@
             },
             {
               "rank": 160,
-              "rank_gain": -20,
+              "rank_gain": 0,
               "slug": "colton-lawless",
               "name": "Colton Lawless",
               "points": 11.33,
@@ -1102,11 +1102,11 @@
             },
             {
               "rank": 160,
-              "rank_gain": 5,
+              "rank_gain": 0,
               "slug": "ryan-jewell",
               "name": "Ryan Jewell",
               "points": 11.33,
-              "points_gain": 4.67,
+              "points_gain": 0.0,
               "starts": 3,
               "wins": 0,
               "top10s": 0,
@@ -1115,7 +1115,7 @@
             },
             {
               "rank": 164,
-              "rank_gain": -22,
+              "rank_gain": 0,
               "slug": "dillon-spellman",
               "name": "Dillon Spellman",
               "points": 11.0,
@@ -1128,7 +1128,7 @@
             },
             {
               "rank": 164,
-              "rank_gain": -22,
+              "rank_gain": 0,
               "slug": "gillis-macdougall",
               "name": "Gillis MacDougall",
               "points": 11.0,
@@ -1141,7 +1141,7 @@
             },
             {
               "rank": 164,
-              "rank_gain": -22,
+              "rank_gain": 0,
               "slug": "ryan-hahn",
               "name": "Ryan Hahn",
               "points": 11.0,
@@ -1158,7 +1158,7 @@
               "slug": "nate-toutolmin",
               "name": "Nate Toutolmin",
               "points": 10.67,
-              "points_gain": 10.67,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1171,7 +1171,7 @@
               "slug": "justin-mateo",
               "name": "Justin Mateo",
               "points": 10.67,
-              "points_gain": 10.67,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1184,8 +1184,8 @@
               "slug": "charles-peake-267928",
               "name": "Charles Peake",
               "points": 10.67,
-              "points_gain": 10.67,
-              "starts": 1,
+              "points_gain": 0.0,
+              "starts": 2,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -1193,7 +1193,7 @@
             },
             {
               "rank": 170,
-              "rank_gain": -25,
+              "rank_gain": 0,
               "slug": "sawyer-barlow",
               "name": "Sawyer Barlow",
               "points": 10.5,
@@ -1206,7 +1206,7 @@
             },
             {
               "rank": 171,
-              "rank_gain": -25,
+              "rank_gain": 0,
               "slug": "thunder-schultz",
               "name": "Thunder Schultz",
               "points": 10.0,
@@ -1219,7 +1219,7 @@
             },
             {
               "rank": 171,
-              "rank_gain": -25,
+              "rank_gain": 0,
               "slug": "brenden-koontz",
               "name": "Brenden Koontz",
               "points": 10.0,
@@ -1232,12 +1232,12 @@
             },
             {
               "rank": 173,
-              "rank_gain": -25,
+              "rank_gain": 0,
               "slug": "tj-reel",
               "name": "TJ Reel",
               "points": 9.67,
               "points_gain": 0.0,
-              "starts": 1,
+              "starts": 2,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -1245,7 +1245,7 @@
             },
             {
               "rank": 173,
-              "rank_gain": -25,
+              "rank_gain": 0,
               "slug": "chris-reliford",
               "name": "Chris Reliford",
               "points": 9.67,
@@ -1258,7 +1258,7 @@
             },
             {
               "rank": 175,
-              "rank_gain": -25,
+              "rank_gain": 0,
               "slug": "bradley-baumgardner",
               "name": "Bradley Baumgardner",
               "points": 9.5,
@@ -1271,7 +1271,7 @@
             },
             {
               "rank": 176,
-              "rank_gain": -25,
+              "rank_gain": 0,
               "slug": "reese-petersen",
               "name": "Reese Petersen",
               "points": 9.33,
@@ -1284,7 +1284,7 @@
             },
             {
               "rank": 179,
-              "rank_gain": -25,
+              "rank_gain": 0,
               "slug": "jon-lynn",
               "name": "Jon Lynn",
               "points": 8.67,
@@ -1301,7 +1301,7 @@
               "slug": "justin-bougher",
               "name": "Justin Bougher",
               "points": 8.44,
-              "points_gain": 8.44,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1314,7 +1314,7 @@
               "slug": "sias-elmore",
               "name": "Sias Elmore",
               "points": 8.44,
-              "points_gain": 8.44,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1323,7 +1323,7 @@
             },
             {
               "rank": 182,
-              "rank_gain": -27,
+              "rank_gain": 0,
               "slug": "john-jones",
               "name": "John Jones",
               "points": 8.4,
@@ -1340,7 +1340,7 @@
               "slug": "samuel-aldrich",
               "name": "Samuel Aldrich",
               "points": 8.0,
-              "points_gain": 8.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1349,7 +1349,7 @@
             },
             {
               "rank": 184,
-              "rank_gain": -27,
+              "rank_gain": 0,
               "slug": "chad-sherbert",
               "name": "Chad Sherbert",
               "points": 8.0,
@@ -1362,7 +1362,7 @@
             },
             {
               "rank": 184,
-              "rank_gain": -27,
+              "rank_gain": 0,
               "slug": "ian-fredrickson",
               "name": "Ian Fredrickson",
               "points": 8.0,
@@ -1375,12 +1375,12 @@
             },
             {
               "rank": 184,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "guy-melms",
               "name": "Guy Melms",
               "points": 8.0,
-              "points_gain": 4.0,
-              "starts": 2,
+              "points_gain": 0.0,
+              "starts": 3,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -1388,7 +1388,7 @@
             },
             {
               "rank": 184,
-              "rank_gain": -27,
+              "rank_gain": 0,
               "slug": "nick-doan",
               "name": "Nick Doan",
               "points": 8.0,
@@ -1401,7 +1401,7 @@
             },
             {
               "rank": 189,
-              "rank_gain": -29,
+              "rank_gain": 0,
               "slug": "anthony-bodanza",
               "name": "Anthony Bodanza",
               "points": 7.67,
@@ -1414,7 +1414,7 @@
             },
             {
               "rank": 190,
-              "rank_gain": -29,
+              "rank_gain": 0,
               "slug": "joshua-patin",
               "name": "Joshua Patin",
               "points": 7.33,
@@ -1427,7 +1427,7 @@
             },
             {
               "rank": 191,
-              "rank_gain": -29,
+              "rank_gain": 0,
               "slug": "corbin-milchesky",
               "name": "Corbin Milchesky",
               "points": 7.0,
@@ -1444,7 +1444,7 @@
               "slug": "ezra-hapner",
               "name": "Ezra Hapner",
               "points": 6.67,
-              "points_gain": 6.67,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1453,7 +1453,7 @@
             },
             {
               "rank": 193,
-              "rank_gain": -28,
+              "rank_gain": 0,
               "slug": "jimmy-martinez",
               "name": "Jimmy Martinez",
               "points": 6.67,
@@ -1470,7 +1470,7 @@
               "slug": "michael-arauza",
               "name": "Michael Arauza",
               "points": 6.67,
-              "points_gain": 6.67,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1483,7 +1483,7 @@
               "slug": "david-hurley",
               "name": "David Hurley",
               "points": 6.67,
-              "points_gain": 6.67,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1492,7 +1492,7 @@
             },
             {
               "rank": 193,
-              "rank_gain": -28,
+              "rank_gain": 0,
               "slug": "whit-stephenson",
               "name": "Whit Stephenson",
               "points": 6.67,
@@ -1505,7 +1505,7 @@
             },
             {
               "rank": 198,
-              "rank_gain": -30,
+              "rank_gain": 0,
               "slug": "charles-peters",
               "name": "Charles Peters",
               "points": 6.33,
@@ -1518,7 +1518,7 @@
             },
             {
               "rank": 198,
-              "rank_gain": -30,
+              "rank_gain": 0,
               "slug": "landen-carver",
               "name": "Landen Carver",
               "points": 6.33,
@@ -1535,7 +1535,7 @@
               "slug": "abraham-johnson",
               "name": "Abraham Johnson",
               "points": 6.0,
-              "points_gain": 6.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1544,7 +1544,7 @@
             },
             {
               "rank": 200,
-              "rank_gain": -30,
+              "rank_gain": 0,
               "slug": "garrett-dknox",
               "name": "Garrett D. Knox",
               "points": 6.0,
@@ -1557,7 +1557,7 @@
             },
             {
               "rank": 202,
-              "rank_gain": -31,
+              "rank_gain": 0,
               "slug": "logan-weiss",
               "name": "Logan Weiss",
               "points": 5.5,
@@ -1570,7 +1570,7 @@
             },
             {
               "rank": 203,
-              "rank_gain": -31,
+              "rank_gain": 0,
               "slug": "isaac-heinen",
               "name": "Isaac Heinen",
               "points": 5.4,
@@ -1583,7 +1583,7 @@
             },
             {
               "rank": 203,
-              "rank_gain": -31,
+              "rank_gain": 0,
               "slug": "nathaniel-johnson",
               "name": "Nathaniel Johnson",
               "points": 5.4,
@@ -1600,7 +1600,7 @@
               "slug": "john-armmonsterryaniii",
               "name": "John (2armmonster) Ryan III",
               "points": 5.33,
-              "points_gain": 5.33,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1613,7 +1613,7 @@
               "slug": "martin-evans",
               "name": "Martin Evans",
               "points": 5.33,
-              "points_gain": 5.33,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1622,7 +1622,7 @@
             },
             {
               "rank": 205,
-              "rank_gain": -31,
+              "rank_gain": 0,
               "slug": "marshall-blanks",
               "name": "Marshall Blanks",
               "points": 5.33,
@@ -1639,7 +1639,7 @@
               "slug": "thomas-tomaselli",
               "name": "Thomas Tomaselli",
               "points": 5.33,
-              "points_gain": 5.33,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1648,7 +1648,7 @@
             },
             {
               "rank": 205,
-              "rank_gain": -31,
+              "rank_gain": 0,
               "slug": "noah-baker",
               "name": "Noah Baker",
               "points": 5.33,
@@ -1661,7 +1661,7 @@
             },
             {
               "rank": 205,
-              "rank_gain": -31,
+              "rank_gain": 0,
               "slug": "jarod-obrien",
               "name": "Jarod O'Brien",
               "points": 5.33,
@@ -1678,7 +1678,7 @@
               "slug": "andrew-bakken",
               "name": "Andrew Bakken",
               "points": 5.33,
-              "points_gain": 5.33,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1687,7 +1687,7 @@
             },
             {
               "rank": 212,
-              "rank_gain": -35,
+              "rank_gain": 0,
               "slug": "gideon-drake",
               "name": "Gideon Drake",
               "points": 5.0,
@@ -1700,7 +1700,7 @@
             },
             {
               "rank": 212,
-              "rank_gain": -35,
+              "rank_gain": 0,
               "slug": "connor-king",
               "name": "Connor King",
               "points": 5.0,
@@ -1717,7 +1717,7 @@
               "slug": "ryan-bain",
               "name": "Ryan Bain",
               "points": 4.67,
-              "points_gain": 4.67,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1726,7 +1726,7 @@
             },
             {
               "rank": 215,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "micah-rousse-178069",
               "name": "Micah Rousse",
               "points": 4.5,
@@ -1739,7 +1739,7 @@
             },
             {
               "rank": 216,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "caleb-bruce",
               "name": "Caleb Bruce",
               "points": 4.33,
@@ -1756,7 +1756,7 @@
               "slug": "cody-kirkland",
               "name": "Cody Kirkland",
               "points": 4.0,
-              "points_gain": 4.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1769,7 +1769,7 @@
               "slug": "justin-j-rocliddell",
               "name": "Justin J-Roc Liddell",
               "points": 4.0,
-              "points_gain": 4.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1778,7 +1778,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "landon-knight",
               "name": "Landon Knight",
               "points": 4.0,
@@ -1791,7 +1791,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "adrian-zapata",
               "name": "Adrian Zapata",
               "points": 4.0,
@@ -1804,7 +1804,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "michael-williamson",
               "name": "Michael Williamson",
               "points": 4.0,
@@ -1817,7 +1817,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "trevor-dominy",
               "name": "Trevor Dominy",
               "points": 4.0,
@@ -1830,7 +1830,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "eric-downing",
               "name": "Eric Downing",
               "points": 4.0,
@@ -1843,7 +1843,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "james-bennett",
               "name": "James Bennett",
               "points": 4.0,
@@ -1860,7 +1860,7 @@
               "slug": "aidan-guthrie",
               "name": "Aidan Guthrie",
               "points": 4.0,
-              "points_gain": 4.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1869,7 +1869,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "bill-kirk",
               "name": "Bill Kirk",
               "points": 4.0,
@@ -1886,7 +1886,7 @@
               "slug": "jeffrey-mccormick",
               "name": "Jeffrey McCormick",
               "points": 4.0,
-              "points_gain": 4.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -1895,7 +1895,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "peyton-mansell",
               "name": "Peyton Mansell",
               "points": 4.0,
@@ -1908,7 +1908,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "henry-bente",
               "name": "Henry Bente",
               "points": 4.0,
@@ -1921,7 +1921,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "mick-walter",
               "name": "Mick Walter",
               "points": 4.0,
@@ -1934,7 +1934,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "jay-minton",
               "name": "Jay Minton",
               "points": 4.0,
@@ -1947,7 +1947,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "wynn-coggin",
               "name": "Wynn Coggin",
               "points": 4.0,
@@ -1960,7 +1960,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "damien-biegert",
               "name": "Damien Biegert",
               "points": 4.0,
@@ -1973,7 +1973,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "dustin-klein",
               "name": "Dustin Klein",
               "points": 4.0,
@@ -1986,7 +1986,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "mickey-welsh",
               "name": "Mickey Welsh",
               "points": 4.0,
@@ -2003,7 +2003,7 @@
               "slug": "michael-bueno",
               "name": "Michael Bueno",
               "points": 4.0,
-              "points_gain": 4.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -2012,7 +2012,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "woods-mccue",
               "name": "Woods McCue",
               "points": 4.0,
@@ -2029,7 +2029,7 @@
               "slug": "perry-walker",
               "name": "Perry Walker",
               "points": 4.0,
-              "points_gain": 4.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -2038,7 +2038,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "evan-walker",
               "name": "Evan Walker",
               "points": 4.0,
@@ -2051,7 +2051,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "isaac-chance",
               "name": "Isaac Chance",
               "points": 4.0,
@@ -2068,8 +2068,8 @@
               "slug": "matthew-lopez",
               "name": "Matthew Lopez",
               "points": 4.0,
-              "points_gain": 4.0,
-              "starts": 1,
+              "points_gain": 0.0,
+              "starts": 2,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -2077,7 +2077,7 @@
             },
             {
               "rank": 217,
-              "rank_gain": -36,
+              "rank_gain": 0,
               "slug": "payton-mergen",
               "name": "Payton Mergen",
               "points": 4.0,
@@ -2094,7 +2094,7 @@
               "slug": "yashua-xiong",
               "name": "Yashua Xiong",
               "points": 4.0,
-              "points_gain": 4.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -2103,7 +2103,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "john-fowler",
               "name": "John Fowler",
               "points": 3.0,
@@ -2116,7 +2116,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "scott-adams",
               "name": "Scott Adams",
               "points": 3.0,
@@ -2129,7 +2129,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "brendan-orwig",
               "name": "Brendan Orwig",
               "points": 3.0,
@@ -2142,7 +2142,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "landon-brooks",
               "name": "Landon Brooks",
               "points": 3.0,
@@ -2155,7 +2155,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "jasper-tyll",
               "name": "Jasper Tyll",
               "points": 3.0,
@@ -2168,7 +2168,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "christian-byars",
               "name": "Christian Byars",
               "points": 3.0,
@@ -2181,7 +2181,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "owen-mccall",
               "name": "Owen McCall",
               "points": 3.0,
@@ -2194,7 +2194,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "ryan-clark-1",
               "name": "Ryan Clark",
               "points": 3.0,
@@ -2207,7 +2207,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "hunter-embler",
               "name": "Hunter Embler",
               "points": 3.0,
@@ -2220,7 +2220,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "stephen-mclaren",
               "name": "Stephen McLaren",
               "points": 3.0,
@@ -2233,7 +2233,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "paul-davidson",
               "name": "Paul Davidson",
               "points": 3.0,
@@ -2246,7 +2246,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "alex-banning",
               "name": "Alex Banning",
               "points": 3.0,
@@ -2259,7 +2259,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "matthew-brown-1",
               "name": "Matthew Brown",
               "points": 3.0,
@@ -2272,7 +2272,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "colby-jones",
               "name": "Colby Jones",
               "points": 3.0,
@@ -2285,7 +2285,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "landis-nelson",
               "name": "Landis Nelson",
               "points": 3.0,
@@ -2298,7 +2298,7 @@
             },
             {
               "rank": 260,
-              "rank_gain": -41,
+              "rank_gain": 0,
               "slug": "tom-shanley",
               "name": "Tom Shanley",
               "points": 2.0,
@@ -2314,14 +2314,14 @@
             "elite_count": 3,
             "top50_count": 9,
             "top100_count": 33,
-            "avg_points": 39.1,
-            "avg_points_gain": 6.8,
-            "avg_starts": 2.3,
-            "total_cashed": 79,
-            "cash_rate": 0.198,
-            "win_rate": 0.003,
-            "top10_rate": 0.035,
-            "momentum": 1194.3
+            "avg_points": 39.2,
+            "avg_points_gain": 0.1,
+            "avg_starts": 2.4,
+            "total_cashed": 92,
+            "cash_rate": 0.221,
+            "win_rate": 0.002,
+            "top10_rate": 0.041,
+            "momentum": 20.0
           },
           "rank": 1
         },
@@ -2329,83 +2329,83 @@
           "manufacturer": "Discraft",
           "short": "DSC",
           "color": "#2563eb",
-          "points": 5774.49,
-          "points_gain": 686.95,
+          "points": 5784.49,
+          "points_gain": 10.0,
           "player_count": 20,
           "wins": 2,
-          "top10s": 26,
-          "starts": 115,
+          "top10s": 27,
+          "starts": 120,
           "best_player": "Richard Wysocki",
           "best_player_points": 812.33,
           "players": [
             {
               "rank": 3,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "richard-wysocki",
               "name": "Richard Wysocki",
               "points": 812.33,
-              "points_gain": 73.33,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 1,
               "top10s": 4,
-              "cashed": 7,
-              "manufacturer": "Discraft"
-            },
-            {
-              "rank": 5,
-              "rank_gain": 2,
-              "slug": "adam-hammes",
-              "name": "Adam Hammes",
-              "points": 762.0,
-              "points_gain": 146.67,
-              "starts": 9,
-              "wins": 0,
-              "top10s": 7,
               "cashed": 8,
               "manufacturer": "Discraft"
             },
             {
+              "rank": 5,
+              "rank_gain": 0,
+              "slug": "adam-hammes",
+              "name": "Adam Hammes",
+              "points": 762.0,
+              "points_gain": 0.0,
+              "starts": 10,
+              "wins": 0,
+              "top10s": 7,
+              "cashed": 9,
+              "manufacturer": "Discraft"
+            },
+            {
               "rank": 6,
-              "rank_gain": 3,
+              "rank_gain": 0,
               "slug": "anthony-barela",
               "name": "Anthony Barela",
               "points": 683.86,
-              "points_gain": 125.33,
-              "starts": 8,
+              "points_gain": 0.0,
+              "starts": 9,
               "wins": 0,
               "top10s": 3,
-              "cashed": 6,
+              "cashed": 7,
               "manufacturer": "Discraft"
             },
             {
               "rank": 11,
-              "rank_gain": 4,
+              "rank_gain": 0,
               "slug": "ezra-robinson",
               "name": "Ezra Robinson",
               "points": 539.83,
-              "points_gain": 114.67,
+              "points_gain": 0.0,
               "starts": 9,
               "wins": 0,
               "top10s": 3,
-              "cashed": 7,
+              "cashed": 8,
               "manufacturer": "Discraft"
             },
             {
               "rank": 13,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "luke-taylor",
               "name": "Luke Taylor",
-              "points": 517.35,
-              "points_gain": 56.27,
-              "starts": 9,
+              "points": 527.35,
+              "points_gain": 10.0,
+              "starts": 10,
               "wins": 0,
-              "top10s": 2,
-              "cashed": 7,
+              "top10s": 3,
+              "cashed": 8,
               "manufacturer": "Discraft"
             },
             {
               "rank": 14,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "chris-dickerson",
               "name": "Chris Dickerson",
               "points": 502.5,
@@ -2418,72 +2418,72 @@
             },
             {
               "rank": 21,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "paul-ulibarri",
               "name": "Paul Ulibarri",
               "points": 440.06,
-              "points_gain": 28.67,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 1,
               "top10s": 1,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Discraft"
             },
             {
               "rank": 41,
-              "rank_gain": 3,
+              "rank_gain": 0,
               "slug": "evan-scott",
               "name": "Evan Scott",
               "points": 278.82,
-              "points_gain": 42.67,
-              "starts": 9,
+              "points_gain": 0.0,
+              "starts": 10,
               "wins": 0,
               "top10s": 2,
-              "cashed": 3,
+              "cashed": 4,
               "manufacturer": "Discraft"
             },
             {
               "rank": 44,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "zach-arlinghaus",
               "name": "Zach Arlinghaus",
               "points": 266.25,
-              "points_gain": 28.67,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 0,
               "top10s": 0,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Discraft"
             },
             {
               "rank": 45,
-              "rank_gain": 5,
+              "rank_gain": 0,
               "slug": "ezra-aderhold",
               "name": "Ezra Aderhold",
               "points": 263.56,
-              "points_gain": 66.67,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 0,
               "top10s": 0,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Discraft"
             },
             {
               "rank": 60,
-              "rank_gain": -5,
+              "rank_gain": 0,
               "slug": "ryan-monn",
               "name": "Ryan Monn",
               "points": 157.58,
-              "points_gain": 4.0,
-              "starts": 8,
+              "points_gain": 0.0,
+              "starts": 9,
               "wins": 0,
               "top10s": 0,
               "cashed": 3,
               "manufacturer": "Discraft"
             },
             {
-              "rank": 62,
-              "rank_gain": -4,
+              "rank": 63,
+              "rank_gain": -1,
               "slug": "andrew-presnell",
               "name": "Andrew Presnell",
               "points": 146.0,
@@ -2496,7 +2496,7 @@
             },
             {
               "rank": 69,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "paul-mcbeth",
               "name": "Paul McBeth",
               "points": 115.0,
@@ -2509,7 +2509,7 @@
             },
             {
               "rank": 71,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "chris-clemons",
               "name": "Chris Clemons",
               "points": 108.31,
@@ -2522,7 +2522,7 @@
             },
             {
               "rank": 87,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "cale-leiviska",
               "name": "Cale Leiviska",
               "points": 53.83,
@@ -2535,7 +2535,7 @@
             },
             {
               "rank": 98,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "micah-groth",
               "name": "Micah Groth",
               "points": 41.5,
@@ -2548,7 +2548,7 @@
             },
             {
               "rank": 104,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "elias-luukkonen",
               "name": "Elias Luukkonen",
               "points": 34.0,
@@ -2561,7 +2561,7 @@
             },
             {
               "rank": 112,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "nicholas-gill",
               "name": "Nicholas Gill",
               "points": 28.0,
@@ -2574,7 +2574,7 @@
             },
             {
               "rank": 144,
-              "rank_gain": -13,
+              "rank_gain": 0,
               "slug": "benjamin-callaway",
               "name": "Benjamin Callaway",
               "points": 14.71,
@@ -2587,7 +2587,7 @@
             },
             {
               "rank": 178,
-              "rank_gain": -26,
+              "rank_gain": 0,
               "slug": "nolan-ramser",
               "name": "Nolan Ramser",
               "points": 9.0,
@@ -2603,57 +2603,53 @@
             "elite_count": 6,
             "top50_count": 10,
             "top100_count": 16,
-            "avg_points": 288.7,
-            "avg_points_gain": 34.3,
-            "avg_starts": 5.8,
-            "total_cashed": 68,
-            "cash_rate": 0.591,
+            "avg_points": 289.2,
+            "avg_points_gain": 0.5,
+            "avg_starts": 6.0,
+            "total_cashed": 77,
+            "cash_rate": 0.642,
             "win_rate": 0.017,
-            "top10_rate": 0.226,
-            "momentum": 686.9
+            "top10_rate": 0.225,
+            "momentum": 10.0
           },
           "rank": 2,
           "roster_meta": {
-            "top4_share": 0.485,
+            "top4_share": 0.484,
             "star_gap": 272.5,
-            "best_mover": {
-              "name": "Ezra Aderhold",
-              "slug": "ezra-aderhold",
-              "rank_gain": 5
-            },
-            "market_share": 0.262,
-            "power_index": 714
+            "best_mover": null,
+            "market_share": 0.261,
+            "power_index": 700
           }
         },
         {
           "manufacturer": "Discmania",
           "short": "DMN",
           "color": "#f59e0b",
-          "points": 3823.08,
-          "points_gain": 352.01,
+          "points": 3848.08,
+          "points_gain": 25.0,
           "player_count": 7,
-          "wins": 4,
-          "top10s": 20,
-          "starts": 53,
+          "wins": 5,
+          "top10s": 22,
+          "starts": 55,
           "best_player": "Gannon Buhr",
-          "best_player_points": 1206.44,
+          "best_player_points": 1226.44,
           "players": [
             {
               "rank": 1,
               "rank_gain": 0,
               "slug": "gannon-buhr",
               "name": "Gannon Buhr",
-              "points": 1206.44,
-              "points_gain": 166.67,
-              "starts": 8,
-              "wins": 3,
-              "top10s": 8,
-              "cashed": 7,
+              "points": 1226.44,
+              "points_gain": 20.0,
+              "starts": 9,
+              "wins": 4,
+              "top10s": 9,
+              "cashed": 8,
               "manufacturer": "Discmania"
             },
             {
               "rank": 7,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "niklas-anttila",
               "name": "Niklas Anttila",
               "points": 652.08,
@@ -2666,20 +2662,20 @@
             },
             {
               "rank": 9,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "casey-white",
               "name": "Casey White",
               "points": 606.5,
-              "points_gain": 38.67,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 0,
               "top10s": 3,
-              "cashed": 7,
+              "cashed": 8,
               "manufacturer": "Discmania"
             },
             {
               "rank": 16,
-              "rank_gain": -5,
+              "rank_gain": 0,
               "slug": "kyle-klein",
               "name": "Kyle Klein",
               "points": 475.39,
@@ -2692,20 +2688,20 @@
             },
             {
               "rank": 18,
-              "rank_gain": 8,
+              "rank_gain": 0,
               "slug": "gavin-babcock",
               "name": "Gavin Babcock",
-              "points": 461.92,
-              "points_gain": 146.67,
-              "starts": 8,
+              "points": 466.92,
+              "points_gain": 5.0,
+              "starts": 9,
               "wins": 0,
-              "top10s": 2,
-              "cashed": 5,
+              "top10s": 3,
+              "cashed": 6,
               "manufacturer": "Discmania"
             },
             {
               "rank": 49,
-              "rank_gain": -7,
+              "rank_gain": 0,
               "slug": "harry-chace",
               "name": "Harry Chace",
               "points": 242.75,
@@ -2718,7 +2714,7 @@
             },
             {
               "rank": 57,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "alden-harris",
               "name": "Alden Harris",
               "points": 178.0,
@@ -2734,61 +2730,57 @@
             "elite_count": 5,
             "top50_count": 6,
             "top100_count": 7,
-            "avg_points": 546.2,
-            "avg_points_gain": 50.3,
-            "avg_starts": 7.6,
-            "total_cashed": 40,
-            "cash_rate": 0.755,
-            "win_rate": 0.075,
-            "top10_rate": 0.377,
-            "momentum": 352.0
+            "avg_points": 549.7,
+            "avg_points_gain": 3.6,
+            "avg_starts": 7.9,
+            "total_cashed": 43,
+            "cash_rate": 0.782,
+            "win_rate": 0.091,
+            "top10_rate": 0.4,
+            "momentum": 25.0
           },
           "rank": 3,
           "roster_meta": {
             "top4_share": 0.769,
-            "star_gap": 731.1,
-            "best_mover": {
-              "name": "Gavin Babcock",
-              "slug": "gavin-babcock",
-              "rank_gain": 8
-            },
-            "market_share": 0.173,
-            "power_index": 567
+            "star_gap": 751.1,
+            "best_mover": null,
+            "market_share": 0.174,
+            "power_index": 560
           }
         },
         {
           "manufacturer": "MVP",
           "short": "MVP",
           "color": "#7c3aed",
-          "points": 3382.42,
-          "points_gain": 563.16,
+          "points": 3397.42,
+          "points_gain": 15.0,
           "player_count": 12,
           "wins": 0,
-          "top10s": 7,
-          "starts": 89,
+          "top10s": 9,
+          "starts": 95,
           "best_player": "Aaron Gossage",
-          "best_player_points": 532.58,
+          "best_player_points": 537.58,
           "players": [
             {
               "rank": 12,
-              "rank_gain": 1,
+              "rank_gain": 0,
               "slug": "aaron-gossage",
               "name": "Aaron Gossage",
-              "points": 532.58,
-              "points_gain": 93.33,
-              "starts": 9,
+              "points": 537.58,
+              "points_gain": 5.0,
+              "starts": 10,
               "wins": 0,
-              "top10s": 2,
-              "cashed": 7,
+              "top10s": 3,
+              "cashed": 8,
               "manufacturer": "MVP"
             },
             {
               "rank": 19,
-              "rank_gain": -5,
+              "rank_gain": 0,
               "slug": "raven-newsom",
               "name": "Raven Newsom",
               "points": 451.85,
-              "points_gain": 17.33,
+              "points_gain": 0.0,
               "starts": 9,
               "wins": 0,
               "top10s": 2,
@@ -2797,59 +2789,59 @@
             },
             {
               "rank": 22,
-              "rank_gain": 3,
+              "rank_gain": 0,
               "slug": "silas-schultz",
               "name": "Silas Schultz",
               "points": 417.98,
-              "points_gain": 78.67,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 0,
               "top10s": 1,
-              "cashed": 4,
-              "manufacturer": "MVP"
-            },
-            {
-              "rank": 23,
-              "rank_gain": 1,
-              "slug": "paul-krans",
-              "name": "Paul Krans",
-              "points": 417.08,
-              "points_gain": 73.33,
-              "starts": 9,
-              "wins": 0,
-              "top10s": 1,
-              "cashed": 7,
-              "manufacturer": "MVP"
-            },
-            {
-              "rank": 29,
-              "rank_gain": 8,
-              "slug": "eagle-mcmahon",
-              "name": "Eagle McMahon",
-              "points": 340.75,
-              "points_gain": 84.0,
-              "starts": 6,
-              "wins": 0,
-              "top10s": 0,
-              "cashed": 4,
-              "manufacturer": "MVP"
-            },
-            {
-              "rank": 31,
-              "rank_gain": -2,
-              "slug": "simon-lizotte",
-              "name": "Simon Lizotte",
-              "points": 336.68,
-              "points_gain": 56.27,
-              "starts": 7,
-              "wins": 0,
-              "top10s": 0,
               "cashed": 5,
               "manufacturer": "MVP"
             },
             {
+              "rank": 23,
+              "rank_gain": 0,
+              "slug": "paul-krans",
+              "name": "Paul Krans",
+              "points": 417.08,
+              "points_gain": 0.0,
+              "starts": 10,
+              "wins": 0,
+              "top10s": 1,
+              "cashed": 8,
+              "manufacturer": "MVP"
+            },
+            {
+              "rank": 29,
+              "rank_gain": 0,
+              "slug": "eagle-mcmahon",
+              "name": "Eagle McMahon",
+              "points": 350.75,
+              "points_gain": 10.0,
+              "starts": 7,
+              "wins": 0,
+              "top10s": 1,
+              "cashed": 5,
+              "manufacturer": "MVP"
+            },
+            {
+              "rank": 31,
+              "rank_gain": 0,
+              "slug": "simon-lizotte",
+              "name": "Simon Lizotte",
+              "points": 336.68,
+              "points_gain": 0.0,
+              "starts": 7,
+              "wins": 0,
+              "top10s": 0,
+              "cashed": 6,
+              "manufacturer": "MVP"
+            },
+            {
               "rank": 46,
-              "rank_gain": -12,
+              "rank_gain": 0,
               "slug": "mauri-villmann",
               "name": "Mauri Villmann",
               "points": 262.67,
@@ -2862,28 +2854,28 @@
             },
             {
               "rank": 53,
-              "rank_gain": 12,
+              "rank_gain": 0,
               "slug": "james-conrad",
               "name": "James Conrad",
               "points": 202.33,
-              "points_gain": 78.67,
-              "starts": 7,
-              "wins": 0,
-              "top10s": 0,
-              "cashed": 2,
-              "manufacturer": "MVP"
-            },
-            {
-              "rank": 56,
-              "rank_gain": 1,
-              "slug": "calvin-lonnquist",
-              "name": "Calvin Lonnquist",
-              "points": 189.33,
-              "points_gain": 38.67,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 0,
               "top10s": 0,
               "cashed": 3,
+              "manufacturer": "MVP"
+            },
+            {
+              "rank": 56,
+              "rank_gain": 0,
+              "slug": "calvin-lonnquist",
+              "name": "Calvin Lonnquist",
+              "points": 189.33,
+              "points_gain": 0.0,
+              "starts": 8,
+              "wins": 0,
+              "top10s": 0,
+              "cashed": 4,
               "manufacturer": "MVP"
             },
             {
@@ -2892,8 +2884,8 @@
               "slug": "joey-temali",
               "name": "Joey Temali",
               "points": 98.79,
-              "points_gain": 15.56,
-              "starts": 8,
+              "points_gain": 0.0,
+              "starts": 9,
               "wins": 0,
               "top10s": 0,
               "cashed": 1,
@@ -2901,11 +2893,11 @@
             },
             {
               "rank": 74,
-              "rank_gain": 5,
+              "rank_gain": 0,
               "slug": "jeremy-koling",
               "name": "Jeremy Koling",
               "points": 88.05,
-              "points_gain": 19.33,
+              "points_gain": 0.0,
               "starts": 4,
               "wins": 0,
               "top10s": 0,
@@ -2914,12 +2906,12 @@
             },
             {
               "rank": 96,
-              "rank_gain": 3,
+              "rank_gain": 0,
               "slug": "trevon-crowe",
               "name": "Trevon Crowe",
               "points": 44.33,
-              "points_gain": 8.0,
-              "starts": 8,
+              "points_gain": 0.0,
+              "starts": 9,
               "wins": 0,
               "top10s": 0,
               "cashed": 1,
@@ -2930,49 +2922,45 @@
             "elite_count": 2,
             "top50_count": 7,
             "top100_count": 12,
-            "avg_points": 281.9,
-            "avg_points_gain": 46.9,
-            "avg_starts": 7.4,
-            "total_cashed": 46,
-            "cash_rate": 0.517,
+            "avg_points": 283.1,
+            "avg_points_gain": 1.2,
+            "avg_starts": 7.9,
+            "total_cashed": 53,
+            "cash_rate": 0.558,
             "win_rate": 0.0,
-            "top10_rate": 0.079,
-            "momentum": 563.2
+            "top10_rate": 0.095,
+            "momentum": 15.0
           },
           "rank": 4,
           "roster_meta": {
-            "top4_share": 0.538,
-            "star_gap": 115.5,
-            "best_mover": {
-              "name": "James Conrad",
-              "slug": "james-conrad",
-              "rank_gain": 12
-            },
-            "market_share": 0.153,
-            "power_index": 281
+            "top4_share": 0.537,
+            "star_gap": 120.5,
+            "best_mover": null,
+            "market_share": 0.154,
+            "power_index": 270
           }
         },
         {
           "manufacturer": "DGA",
           "short": "DGA",
           "color": "#0d9488",
-          "points": 2165.25,
-          "points_gain": 219.34,
+          "points": 2180.25,
+          "points_gain": 15.0,
           "player_count": 5,
           "wins": 1,
-          "top10s": 9,
-          "starts": 41,
+          "top10s": 11,
+          "starts": 45,
           "best_player": "Sullivan Tipton",
           "best_player_points": 633.96,
           "players": [
             {
               "rank": 8,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "sullivan-tipton",
               "name": "Sullivan Tipton",
               "points": 633.96,
               "points_gain": 0.0,
-              "starts": 7,
+              "starts": 8,
               "wins": 0,
               "top10s": 3,
               "cashed": 7,
@@ -2980,51 +2968,51 @@
             },
             {
               "rank": 15,
-              "rank_gain": 6,
+              "rank_gain": 0,
               "slug": "andrew-marwede",
               "name": "Andrew Marwede",
-              "points": 483.83,
-              "points_gain": 107.33,
-              "starts": 9,
+              "points": 493.83,
+              "points_gain": 10.0,
+              "starts": 10,
               "wins": 0,
-              "top10s": 2,
-              "cashed": 8,
+              "top10s": 3,
+              "cashed": 9,
               "manufacturer": "DGA"
             },
             {
               "rank": 25,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "jake-monn",
               "name": "Jake Monn",
-              "points": 390.79,
-              "points_gain": 38.67,
-              "starts": 9,
+              "points": 395.79,
+              "points_gain": 5.0,
+              "starts": 10,
               "wins": 0,
-              "top10s": 2,
-              "cashed": 5,
+              "top10s": 3,
+              "cashed": 6,
               "manufacturer": "DGA"
             },
             {
               "rank": 28,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "cole-redalen",
               "name": "Cole Redalen",
               "points": 357.94,
-              "points_gain": 48.67,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 1,
               "top10s": 1,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "DGA"
             },
             {
               "rank": 34,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "austin-turner",
               "name": "Austin Turner",
               "points": 298.73,
-              "points_gain": 24.67,
-              "starts": 8,
+              "points_gain": 0.0,
+              "starts": 9,
               "wins": 0,
               "top10s": 1,
               "cashed": 4,
@@ -3035,26 +3023,22 @@
             "elite_count": 2,
             "top50_count": 5,
             "top100_count": 5,
-            "avg_points": 433.1,
-            "avg_points_gain": 43.9,
-            "avg_starts": 8.2,
-            "total_cashed": 28,
-            "cash_rate": 0.683,
-            "win_rate": 0.024,
-            "top10_rate": 0.22,
-            "momentum": 219.3
+            "avg_points": 436.1,
+            "avg_points_gain": 3.0,
+            "avg_starts": 9.0,
+            "total_cashed": 31,
+            "cash_rate": 0.689,
+            "win_rate": 0.022,
+            "top10_rate": 0.244,
+            "momentum": 15.0
           },
           "rank": 5,
           "roster_meta": {
-            "top4_share": 0.862,
+            "top4_share": 0.863,
             "star_gap": 276.0,
-            "best_mover": {
-              "name": "Andrew Marwede",
-              "slug": "andrew-marwede",
-              "rank_gain": 6
-            },
-            "market_share": 0.098,
-            "power_index": 254
+            "best_mover": null,
+            "market_share": 0.099,
+            "power_index": 250
           }
         },
         {
@@ -3062,69 +3046,69 @@
           "short": "INV",
           "color": "#dc2626",
           "points": 1708.4,
-          "points_gain": 412.0,
+          "points_gain": 0.0,
           "player_count": 10,
           "wins": 1,
           "top10s": 5,
-          "starts": 41,
+          "starts": 43,
           "best_player": "Calvin Heimburg",
           "best_player_points": 875.07,
           "players": [
             {
               "rank": 2,
-              "rank_gain": 1,
+              "rank_gain": 0,
               "slug": "calvin-heimburg",
               "name": "Calvin Heimburg",
               "points": 875.07,
-              "points_gain": 200.0,
+              "points_gain": 0.0,
               "starts": 9,
               "wins": 1,
               "top10s": 5,
-              "cashed": 8,
+              "cashed": 9,
               "manufacturer": "Innova"
             },
             {
               "rank": 47,
-              "rank_gain": 5,
+              "rank_gain": 0,
               "slug": "bradley-williams",
               "name": "Bradley Williams",
               "points": 262.29,
-              "points_gain": 84.0,
+              "points_gain": 0.0,
               "starts": 9,
               "wins": 0,
               "top10s": 0,
-              "cashed": 5,
+              "cashed": 6,
               "manufacturer": "Innova"
             },
             {
               "rank": 50,
-              "rank_gain": 4,
+              "rank_gain": 0,
               "slug": "vin-mkel",
               "name": "V\u00e4in\u00f6 M\u00e4kel\u00e4",
               "points": 234.79,
-              "points_gain": 64.0,
-              "starts": 5,
+              "points_gain": 0.0,
+              "starts": 6,
               "wins": 0,
               "top10s": 0,
-              "cashed": 3,
+              "cashed": 4,
               "manufacturer": "Innova"
             },
             {
               "rank": 65,
-              "rank_gain": 4,
+              "rank_gain": 0,
               "slug": "garrett-gurthie",
               "name": "Garrett Gurthie",
               "points": 143.53,
-              "points_gain": 35.33,
-              "starts": 7,
+              "points_gain": 0.0,
+              "starts": 8,
               "wins": 0,
               "top10s": 0,
-              "cashed": 5,
+              "cashed": 6,
               "manufacturer": "Innova"
             },
             {
               "rank": 81,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "rasmus-saukkoriipi",
               "name": "Rasmus Saukkoriipi",
               "points": 71.05,
@@ -3137,7 +3121,7 @@
             },
             {
               "rank": 85,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "joona-heinnen",
               "name": "Joona Hein\u00e4nen",
               "points": 64.5,
@@ -3154,16 +3138,16 @@
               "slug": "nathan-sexton-1",
               "name": "Nathan Sexton",
               "points": 28.67,
-              "points_gain": 28.67,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "Innova"
             },
             {
               "rank": 134,
-              "rank_gain": -9,
+              "rank_gain": 0,
               "slug": "paul-oman",
               "name": "Paul Oman",
               "points": 18.5,
@@ -3176,7 +3160,7 @@
             },
             {
               "rank": 191,
-              "rank_gain": -29,
+              "rank_gain": 0,
               "slug": "randon-latta",
               "name": "Randon Latta",
               "points": 7.0,
@@ -3189,7 +3173,7 @@
             },
             {
               "rank": 244,
-              "rank_gain": -42,
+              "rank_gain": 0,
               "slug": "calvin-pettigrew",
               "name": "Calvin Pettigrew",
               "points": 3.0,
@@ -3206,25 +3190,21 @@
             "top50_count": 3,
             "top100_count": 6,
             "avg_points": 170.8,
-            "avg_points_gain": 41.2,
-            "avg_starts": 4.1,
-            "total_cashed": 22,
-            "cash_rate": 0.537,
-            "win_rate": 0.024,
-            "top10_rate": 0.122,
-            "momentum": 412.0
+            "avg_points_gain": 0.0,
+            "avg_starts": 4.3,
+            "total_cashed": 27,
+            "cash_rate": 0.628,
+            "win_rate": 0.023,
+            "top10_rate": 0.116,
+            "momentum": 0.0
           },
           "rank": 6,
           "roster_meta": {
             "top4_share": 0.887,
             "star_gap": 731.5,
-            "best_mover": {
-              "name": "Bradley Williams",
-              "slug": "bradley-williams",
-              "rank_gain": 5
-            },
+            "best_mover": null,
             "market_share": 0.077,
-            "power_index": 138
+            "power_index": 130
           }
         },
         {
@@ -3232,11 +3212,11 @@
           "short": "L64",
           "color": "#0891b2",
           "points": 1382.17,
-          "points_gain": 193.99,
+          "points_gain": 0.0,
           "player_count": 4,
           "wins": 0,
           "top10s": 7,
-          "starts": 27,
+          "starts": 28,
           "best_player": "Isaac Robinson",
           "best_player_points": 764.92,
           "players": [
@@ -3246,33 +3226,33 @@
               "slug": "isaac-robinson",
               "name": "Isaac Robinson",
               "points": 764.92,
-              "points_gain": 107.33,
+              "points_gain": 0.0,
               "starts": 9,
               "wins": 0,
               "top10s": 7,
-              "cashed": 8,
+              "cashed": 9,
               "manufacturer": "Latitude 64"
             },
             {
               "rank": 33,
-              "rank_gain": 13,
+              "rank_gain": 0,
               "slug": "jakub-semerd",
               "name": "Jakub Semer\u00e1d",
               "points": 303.33,
-              "points_gain": 69.33,
-              "starts": 7,
+              "points_gain": 0.0,
+              "starts": 8,
               "wins": 0,
               "top10s": 0,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Latitude 64"
             },
             {
               "rank": 59,
-              "rank_gain": 1,
+              "rank_gain": 0,
               "slug": "albert-tamm",
               "name": "Albert Tamm",
               "points": 162.67,
-              "points_gain": 17.33,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 0,
               "top10s": 0,
@@ -3280,8 +3260,8 @@
               "manufacturer": "Latitude 64"
             },
             {
-              "rank": 61,
-              "rank_gain": -5,
+              "rank": 62,
+              "rank_gain": -1,
               "slug": "lauri-lehtinen",
               "name": "Lauri Lehtinen",
               "points": 151.25,
@@ -3298,25 +3278,21 @@
             "top50_count": 2,
             "top100_count": 4,
             "avg_points": 345.5,
-            "avg_points_gain": 48.5,
-            "avg_starts": 6.8,
-            "total_cashed": 17,
-            "cash_rate": 0.63,
+            "avg_points_gain": 0.0,
+            "avg_starts": 7.0,
+            "total_cashed": 19,
+            "cash_rate": 0.679,
             "win_rate": 0.0,
-            "top10_rate": 0.259,
-            "momentum": 194.0
+            "top10_rate": 0.25,
+            "momentum": 0.0
           },
           "rank": 7,
           "roster_meta": {
             "top4_share": 1.0,
             "star_gap": 613.7,
-            "best_mover": {
-              "name": "Jakub Semer\u00e1d",
-              "slug": "jakub-semerd",
-              "rank_gain": 13
-            },
-            "market_share": 0.063,
-            "power_index": 124
+            "best_mover": null,
+            "market_share": 0.062,
+            "power_index": 120
           }
         },
         {
@@ -3324,21 +3300,21 @@
           "short": "PRD",
           "color": "#059669",
           "points": 1167.09,
-          "points_gain": 68.0,
+          "points_gain": 0.0,
           "player_count": 11,
           "wins": 0,
           "top10s": 3,
-          "starts": 51,
+          "starts": 52,
           "best_player": "Jake Hebenheimer",
           "best_player_points": 267.93,
           "players": [
             {
               "rank": 43,
-              "rank_gain": -8,
+              "rank_gain": 0,
               "slug": "jake-hebenheimer",
               "name": "Jake Hebenheimer",
               "points": 267.93,
-              "points_gain": 5.33,
+              "points_gain": 0.0,
               "starts": 9,
               "wins": 0,
               "top10s": 1,
@@ -3347,20 +3323,20 @@
             },
             {
               "rank": 48,
-              "rank_gain": 1,
+              "rank_gain": 0,
               "slug": "elijah-bickel",
               "name": "Elijah Bickel",
               "points": 250.83,
-              "points_gain": 48.67,
-              "starts": 9,
+              "points_gain": 0.0,
+              "starts": 10,
               "wins": 0,
               "top10s": 0,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Prodigy"
             },
             {
               "rank": 51,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "harper-thompson",
               "name": "Harper Thompson",
               "points": 233.52,
@@ -3373,11 +3349,11 @@
             },
             {
               "rank": 54,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "luke-humphries",
               "name": "Luke Humphries",
               "points": 194.88,
-              "points_gain": 14.0,
+              "points_gain": 0.0,
               "starts": 7,
               "wins": 0,
               "top10s": 1,
@@ -3386,7 +3362,7 @@
             },
             {
               "rank": 80,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "kevin-jones",
               "name": "Kevin Jones",
               "points": 71.17,
@@ -3399,7 +3375,7 @@
             },
             {
               "rank": 99,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "gt-hancock",
               "name": "G.T. Hancock",
               "points": 41.33,
@@ -3412,7 +3388,7 @@
             },
             {
               "rank": 102,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "brandon-brown",
               "name": "Brandon Brown",
               "points": 38.43,
@@ -3425,7 +3401,7 @@
             },
             {
               "rank": 115,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "aidan-scott",
               "name": "Aidan Scott",
               "points": 27.5,
@@ -3438,7 +3414,7 @@
             },
             {
               "rank": 146,
-              "rank_gain": -13,
+              "rank_gain": 0,
               "slug": "gavin-rathbun",
               "name": "Gavin Rathbun",
               "points": 14.0,
@@ -3451,7 +3427,7 @@
             },
             {
               "rank": 146,
-              "rank_gain": -13,
+              "rank_gain": 0,
               "slug": "justin-rosak",
               "name": "Justin Rosak",
               "points": 14.0,
@@ -3464,7 +3440,7 @@
             },
             {
               "rank": 149,
-              "rank_gain": -14,
+              "rank_gain": 0,
               "slug": "matt-hammersten",
               "name": "Matt Hammersten",
               "points": 13.5,
@@ -3481,25 +3457,21 @@
             "top50_count": 2,
             "top100_count": 6,
             "avg_points": 106.1,
-            "avg_points_gain": 6.2,
-            "avg_starts": 4.6,
-            "total_cashed": 15,
-            "cash_rate": 0.294,
+            "avg_points_gain": 0.0,
+            "avg_starts": 4.7,
+            "total_cashed": 16,
+            "cash_rate": 0.308,
             "win_rate": 0.0,
-            "top10_rate": 0.059,
-            "momentum": 68.0
+            "top10_rate": 0.058,
+            "momentum": 0.0
           },
           "rank": 8,
           "roster_meta": {
             "top4_share": 0.812,
             "star_gap": 73.1,
-            "best_mover": {
-              "name": "Elijah Bickel",
-              "slug": "elijah-bickel",
-              "rank_gain": 1
-            },
+            "best_mover": null,
             "market_share": 0.053,
-            "power_index": 21
+            "power_index": 20
           }
         },
         {
@@ -3507,35 +3479,35 @@
           "short": "DD",
           "color": "#ca8a04",
           "points": 858.81,
-          "points_gain": 180.27,
+          "points_gain": 0.0,
           "player_count": 4,
           "wins": 0,
           "top10s": 2,
-          "starts": 29,
+          "starts": 30,
           "best_player": "Parker Welck",
           "best_player_points": 370.21,
           "players": [
             {
               "rank": 27,
-              "rank_gain": 6,
+              "rank_gain": 0,
               "slug": "parker-welck",
               "name": "Parker Welck",
               "points": 370.21,
-              "points_gain": 101.33,
+              "points_gain": 0.0,
               "starts": 9,
               "wins": 0,
               "top10s": 1,
-              "cashed": 6,
+              "cashed": 7,
               "manufacturer": "DD"
             },
             {
               "rank": 35,
-              "rank_gain": -5,
+              "rank_gain": 0,
               "slug": "robert-burridge",
               "name": "Robert Burridge",
               "points": 298.5,
-              "points_gain": 22.67,
-              "starts": 9,
+              "points_gain": 0.0,
+              "starts": 10,
               "wins": 0,
               "top10s": 1,
               "cashed": 6,
@@ -3543,20 +3515,20 @@
             },
             {
               "rank": 58,
-              "rank_gain": 9,
+              "rank_gain": 0,
               "slug": "andrew-miranda",
               "name": "Andrew Miranda",
               "points": 167.1,
-              "points_gain": 56.27,
+              "points_gain": 0.0,
               "starts": 7,
               "wins": 0,
               "top10s": 0,
-              "cashed": 3,
+              "cashed": 4,
               "manufacturer": "DD"
             },
             {
               "rank": 125,
-              "rank_gain": -5,
+              "rank_gain": 0,
               "slug": "zach-melton",
               "name": "Zach Melton",
               "points": 23.0,
@@ -3573,25 +3545,21 @@
             "top50_count": 2,
             "top100_count": 3,
             "avg_points": 214.7,
-            "avg_points_gain": 45.1,
-            "avg_starts": 7.2,
-            "total_cashed": 15,
-            "cash_rate": 0.517,
+            "avg_points_gain": 0.0,
+            "avg_starts": 7.5,
+            "total_cashed": 17,
+            "cash_rate": 0.567,
             "win_rate": 0.0,
-            "top10_rate": 0.069,
-            "momentum": 180.3
+            "top10_rate": 0.067,
+            "momentum": 0.0
           },
           "rank": 9,
           "roster_meta": {
             "top4_share": 1.0,
             "star_gap": 347.2,
-            "best_mover": {
-              "name": "Andrew Miranda",
-              "slug": "andrew-miranda",
-              "rank_gain": 9
-            },
+            "best_mover": null,
             "market_share": 0.039,
-            "power_index": 24
+            "power_index": 20
           }
         },
         {
@@ -3599,7 +3567,7 @@
           "short": "KPL",
           "color": "#475569",
           "points": 678.24,
-          "points_gain": 48.67,
+          "points_gain": 0.0,
           "player_count": 2,
           "wins": 0,
           "top10s": 2,
@@ -3609,7 +3577,7 @@
           "players": [
             {
               "rank": 26,
-              "rank_gain": -6,
+              "rank_gain": 0,
               "slug": "jesse-nieminen",
               "name": "Jesse Nieminen",
               "points": 382.17,
@@ -3622,15 +3590,15 @@
             },
             {
               "rank": 36,
-              "rank_gain": 3,
+              "rank_gain": 0,
               "slug": "clay-edwards",
               "name": "Clay Edwards",
               "points": 296.07,
-              "points_gain": 48.67,
+              "points_gain": 0.0,
               "starts": 9,
               "wins": 0,
               "top10s": 0,
-              "cashed": 5,
+              "cashed": 6,
               "manufacturer": "Kastaplast"
             }
           ],
@@ -3639,25 +3607,21 @@
             "top50_count": 2,
             "top100_count": 2,
             "avg_points": 339.1,
-            "avg_points_gain": 24.3,
+            "avg_points_gain": 0.0,
             "avg_starts": 7.5,
-            "total_cashed": 10,
-            "cash_rate": 0.667,
+            "total_cashed": 11,
+            "cash_rate": 0.733,
             "win_rate": 0.0,
             "top10_rate": 0.133,
-            "momentum": 48.7
+            "momentum": 0.0
           },
           "rank": 10,
           "roster_meta": {
             "top4_share": 1.0,
             "star_gap": 86.1,
-            "best_mover": {
-              "name": "Clay Edwards",
-              "slug": "clay-edwards",
-              "rank_gain": 3
-            },
+            "best_mover": null,
             "market_share": 0.031,
-            "power_index": 21
+            "power_index": 20
           }
         },
         {
@@ -3665,7 +3629,7 @@
           "short": "INF",
           "color": "#0284c7",
           "points": 478.86,
-          "points_gain": 19.33,
+          "points_gain": 0.0,
           "player_count": 4,
           "wins": 0,
           "top10s": 2,
@@ -3675,7 +3639,7 @@
           "players": [
             {
               "rank": 40,
-              "rank_gain": -12,
+              "rank_gain": 0,
               "slug": "joel-freeman",
               "name": "Joel Freeman",
               "points": 280.5,
@@ -3687,8 +3651,8 @@
               "manufacturer": "Infinite"
             },
             {
-              "rank": 63,
-              "rank_gain": -4,
+              "rank": 64,
+              "rank_gain": -1,
               "slug": "nathan-queen",
               "name": "Nathan Queen",
               "points": 145.5,
@@ -3701,7 +3665,7 @@
             },
             {
               "rank": 107,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "eric-oakley",
               "name": "Eric Oakley",
               "points": 29.53,
@@ -3714,11 +3678,11 @@
             },
             {
               "rank": 124,
-              "rank_gain": 57,
+              "rank_gain": 0,
               "slug": "drew-gibson",
               "name": "Drew Gibson",
               "points": 23.33,
-              "points_gain": 19.33,
+              "points_gain": 0.0,
               "starts": 2,
               "wins": 0,
               "top10s": 0,
@@ -3731,23 +3695,19 @@
             "top50_count": 1,
             "top100_count": 2,
             "avg_points": 119.7,
-            "avg_points_gain": 4.8,
+            "avg_points_gain": 0.0,
             "avg_starts": 4.0,
             "total_cashed": 6,
             "cash_rate": 0.375,
             "win_rate": 0.0,
             "top10_rate": 0.125,
-            "momentum": 19.3
+            "momentum": 0.0
           },
           "rank": 11,
           "roster_meta": {
             "top4_share": 1.0,
             "star_gap": 257.2,
-            "best_mover": {
-              "name": "Drew Gibson",
-              "slug": "drew-gibson",
-              "rank_gain": 57
-            },
+            "best_mover": null,
             "market_share": 0.022,
             "power_index": 10
           }
@@ -3757,7 +3717,7 @@
           "short": "WS",
           "color": "#64748b",
           "points": 283.77,
-          "points_gain": 48.67,
+          "points_gain": 0.0,
           "player_count": 1,
           "wins": 0,
           "top10s": 1,
@@ -3767,15 +3727,15 @@
           "players": [
             {
               "rank": 39,
-              "rank_gain": 6,
+              "rank_gain": 0,
               "slug": "matthew-orum",
               "name": "Matthew Orum",
               "points": 283.77,
-              "points_gain": 48.67,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 0,
               "top10s": 1,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Westside"
             }
           ],
@@ -3784,25 +3744,21 @@
             "top50_count": 1,
             "top100_count": 1,
             "avg_points": 283.8,
-            "avg_points_gain": 48.7,
+            "avg_points_gain": 0.0,
             "avg_starts": 8.0,
-            "total_cashed": 4,
-            "cash_rate": 0.5,
+            "total_cashed": 5,
+            "cash_rate": 0.625,
             "win_rate": 0.0,
             "top10_rate": 0.125,
-            "momentum": 48.7
+            "momentum": 0.0
           },
           "rank": 12,
           "roster_meta": {
             "top4_share": 1.0,
             "star_gap": 0.0,
-            "best_mover": {
-              "name": "Matthew Orum",
-              "slug": "matthew-orum",
-              "rank_gain": 6
-            },
+            "best_mover": null,
             "market_share": 0.013,
-            "power_index": 11
+            "power_index": 10
           }
         },
         {
@@ -3820,7 +3776,7 @@
           "players": [
             {
               "rank": 52,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "mason-ford",
               "name": "Mason Ford",
               "points": 211.5,
@@ -3849,11 +3805,7 @@
           "roster_meta": {
             "top4_share": 1.0,
             "star_gap": 0.0,
-            "best_mover": {
-              "name": "Mason Ford",
-              "slug": "mason-ford",
-              "rank_gain": -4
-            },
+            "best_mover": null,
             "market_share": 0.01,
             "power_index": 0
           }
@@ -3867,18 +3819,18 @@
           "player_count": 1,
           "wins": 0,
           "top10s": 0,
-          "starts": 8,
+          "starts": 9,
           "best_player": "Connor O'Reilly",
           "best_player_points": 73.67,
           "players": [
             {
               "rank": 78,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "connor-oreilly",
               "name": "Connor O'Reilly",
               "points": 73.67,
               "points_gain": 0.0,
-              "starts": 8,
+              "starts": 9,
               "wins": 0,
               "top10s": 0,
               "cashed": 1,
@@ -3891,9 +3843,9 @@
             "top100_count": 1,
             "avg_points": 73.7,
             "avg_points_gain": 0.0,
-            "avg_starts": 8.0,
+            "avg_starts": 9.0,
             "total_cashed": 1,
-            "cash_rate": 0.125,
+            "cash_rate": 0.111,
             "win_rate": 0.0,
             "top10_rate": 0.0,
             "momentum": 0.0
@@ -3902,11 +3854,7 @@
           "roster_meta": {
             "top4_share": 1.0,
             "star_gap": 0.0,
-            "best_mover": {
-              "name": "Connor O'Reilly",
-              "slug": "connor-oreilly",
-              "rank_gain": -3
-            },
+            "best_mover": null,
             "market_share": 0.003,
             "power_index": 0
           }
@@ -3926,7 +3874,7 @@
           "players": [
             {
               "rank": 90,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "matt-bell",
               "name": "Matt Bell",
               "points": 52.33,
@@ -3955,11 +3903,7 @@
           "roster_meta": {
             "top4_share": 1.0,
             "star_gap": 0.0,
-            "best_mover": {
-              "name": "Matt Bell",
-              "slug": "matt-bell",
-              "rank_gain": -2
-            },
+            "best_mover": null,
             "market_share": 0.002,
             "power_index": 0
           }
@@ -3969,7 +3913,7 @@
           "short": "CLH",
           "color": "#f97316",
           "points": 17.66,
-          "points_gain": 9.33,
+          "points_gain": 0.0,
           "player_count": 2,
           "wins": 0,
           "top10s": 0,
@@ -3983,7 +3927,7 @@
               "slug": "tristan-cook",
               "name": "Tristan Cook",
               "points": 9.33,
-              "points_gain": 9.33,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -3992,7 +3936,7 @@
             },
             {
               "rank": 183,
-              "rank_gain": -27,
+              "rank_gain": 0,
               "slug": "bennett-doemland",
               "name": "Bennett Doemland",
               "points": 8.33,
@@ -4009,13 +3953,13 @@
             "top50_count": 0,
             "top100_count": 0,
             "avg_points": 8.8,
-            "avg_points_gain": 4.7,
+            "avg_points_gain": 0.0,
             "avg_starts": 1.5,
             "total_cashed": 0,
             "cash_rate": 0.0,
             "win_rate": 0.0,
             "top10_rate": 0.0,
-            "momentum": 9.3
+            "momentum": 0.0
           },
           "rank": 16,
           "roster_meta": {
@@ -4030,11 +3974,11 @@
       "insights": {
         "top4_leader": {
           "manufacturer": "Discmania",
-          "points": 2940.41,
-          "points_gain": 205.34,
+          "points": 2960.41,
+          "points_gain": 20.0,
           "rank": 1
         },
-        "top4_gap": 142.4,
+        "top4_gap": 162.4,
         "deepest_roster": {
           "manufacturer": "Discraft",
           "value": 20
@@ -4044,51 +3988,38 @@
           "value": 6
         },
         "hottest_momentum": {
-          "manufacturer": "Discraft",
-          "value": 686.9
+          "manufacturer": "Discmania",
+          "value": 25.0
         },
         "best_efficiency": {
           "manufacturer": "Discmania",
-          "value": 0.075
+          "value": 0.091
         },
         "most_top50": {
           "manufacturer": "Discraft",
           "value": 10
         },
-        "biggest_movers": [
-          {
-            "manufacturer": "Innova",
-            "from": 6,
-            "to": 5,
-            "delta": 1
-          },
-          {
-            "manufacturer": "Latitude 64",
-            "from": 5,
-            "to": 6,
-            "delta": -1
-          }
-        ],
+        "biggest_movers": [],
         "points_movers": [
           {
-            "manufacturer": "Innova",
-            "points_delta": 383.3
-          },
-          {
-            "manufacturer": "Discraft",
-            "points_delta": 382.7
-          },
-          {
-            "manufacturer": "MVP",
-            "points_delta": 262.7
-          },
-          {
             "manufacturer": "Discmania",
-            "points_delta": 205.3
+            "points_delta": 20.0
           },
           {
             "manufacturer": "DGA",
-            "points_delta": 194.7
+            "points_delta": 15.0
+          },
+          {
+            "manufacturer": "MVP",
+            "points_delta": 5.0
+          },
+          {
+            "manufacturer": "Discraft",
+            "points_delta": 0.0
+          },
+          {
+            "manufacturer": "Innova",
+            "points_delta": 0.0
           }
         ]
       },
@@ -4096,68 +4027,68 @@
         "top4": [
           {
             "manufacturer": "Discmania",
-            "points": 2940.41,
-            "points_gain": 205.34,
+            "points": 2960.41,
+            "points_gain": 20.0,
             "rank": 1
           },
           {
             "manufacturer": "Discraft",
             "points": 2798.02,
-            "points_gain": 460.0,
+            "points_gain": 0.0,
             "rank": 2
           },
           {
             "manufacturer": "DGA",
-            "points": 1866.52,
-            "points_gain": 194.67,
+            "points": 1881.52,
+            "points_gain": 15.0,
             "rank": 3
           },
           {
             "manufacturer": "MVP",
-            "points": 1819.49,
-            "points_gain": 262.66,
+            "points": 1824.49,
+            "points_gain": 5.0,
             "rank": 4
           },
           {
             "manufacturer": "Innova",
             "points": 1515.68,
-            "points_gain": 383.33,
+            "points_gain": 0.0,
             "rank": 5
           },
           {
             "manufacturer": "Latitude 64",
             "points": 1382.17,
-            "points_gain": 193.99,
+            "points_gain": 0.0,
             "rank": 6
           },
           {
             "manufacturer": "Prodigy",
             "points": 947.16,
-            "points_gain": 68.0,
+            "points_gain": 0.0,
             "rank": 7
           },
           {
             "manufacturer": "DD",
             "points": 858.81,
-            "points_gain": 180.27,
+            "points_gain": 0.0,
             "rank": 8
           },
           {
             "manufacturer": "Kastaplast",
             "points": 678.24,
-            "points_gain": 48.67,
+            "points_gain": 0.0,
             "rank": 9
           },
           {
             "manufacturer": "Infinite",
             "points": 478.86,
-            "points_gain": 19.33,
+            "points_gain": 0.0,
             "rank": 10
           },
           {
             "manufacturer": "Westside",
             "points": 283.77,
-            "points_gain": 48.67,
+            "points_gain": 0.0,
             "rank": 11
           },
           {
@@ -4181,75 +4112,75 @@
           {
             "manufacturer": "Clash",
             "points": 17.66,
-            "points_gain": 9.33,
+            "points_gain": 0.0,
             "rank": 15
           }
         ],
         "full": [
           {
             "manufacturer": "Discraft",
-            "points": 5774.49,
-            "points_gain": 686.95,
+            "points": 5784.49,
+            "points_gain": 10.0,
             "rank": 1
           },
           {
             "manufacturer": "Discmania",
-            "points": 3823.08,
-            "points_gain": 352.01,
+            "points": 3848.08,
+            "points_gain": 25.0,
             "rank": 2
           },
           {
             "manufacturer": "MVP",
-            "points": 3382.42,
-            "points_gain": 563.16,
+            "points": 3397.42,
+            "points_gain": 15.0,
             "rank": 3
           },
           {
             "manufacturer": "DGA",
-            "points": 2165.25,
-            "points_gain": 219.34,
+            "points": 2180.25,
+            "points_gain": 15.0,
             "rank": 4
           },
           {
             "manufacturer": "Innova",
             "points": 1708.4,
-            "points_gain": 412.0,
+            "points_gain": 0.0,
             "rank": 5
           },
           {
             "manufacturer": "Latitude 64",
             "points": 1382.17,
-            "points_gain": 193.99,
+            "points_gain": 0.0,
             "rank": 6
           },
           {
             "manufacturer": "Prodigy",
             "points": 1167.09,
-            "points_gain": 68.0,
+            "points_gain": 0.0,
             "rank": 7
           },
           {
             "manufacturer": "DD",
             "points": 858.81,
-            "points_gain": 180.27,
+            "points_gain": 0.0,
             "rank": 8
           },
           {
             "manufacturer": "Kastaplast",
             "points": 678.24,
-            "points_gain": 48.67,
+            "points_gain": 0.0,
             "rank": 9
           },
           {
             "manufacturer": "Infinite",
             "points": 478.86,
-            "points_gain": 19.33,
+            "points_gain": 0.0,
             "rank": 10
           },
           {
             "manufacturer": "Westside",
             "points": 283.77,
-            "points_gain": 48.67,
+            "points_gain": 0.0,
             "rank": 11
           },
           {
@@ -4273,7 +4204,7 @@
           {
             "manufacturer": "Clash",
             "points": 17.66,
-            "points_gain": 9.33,
+            "points_gain": 0.0,
             "rank": 15
           }
         ]
@@ -4281,64 +4212,64 @@
     },
     "FPO": {
       "division": "FPO",
-      "week": "2026-22",
-      "updated_at": "2026-05-26T16:38:39.290462+00:00",
+      "week": "2026-23",
+      "updated_at": "2026-06-01T04:04:16.480025+00:00",
       "source": "https://statmando.com/rankings/dgpt/fpo",
       "player_count": 102,
       "mapped_players": 47,
       "unmapped_players": 55,
       "meta": {
-        "affiliated_points_pool": 16532.9,
-        "unmapped_points": 4900.4,
+        "affiliated_points_pool": 16612.9,
+        "unmapped_points": 4910.4,
         "coverage_pct": 0.461,
         "brand_count": 12,
         "avg_roster_size": 3.9,
-        "total_wins": 9,
-        "total_starts": 241
+        "total_wins": 10,
+        "total_starts": 257
       },
       "manufacturers": [
         {
           "manufacturer": "Innova",
           "short": "INV",
           "color": "#dc2626",
-          "points": 5883.33,
-          "points_gain": 752.66,
+          "points": 5923.33,
+          "points_gain": 40.0,
           "player_count": 13,
           "wins": 6,
-          "top10s": 31,
-          "starts": 73,
+          "top10s": 35,
+          "starts": 78,
           "best_player": "Ohn Scoggins",
-          "best_player_points": 1074.33,
+          "best_player_points": 1084.33,
           "players": [
             {
               "rank": 2,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "ohn-scoggins",
               "name": "Ohn Scoggins",
-              "points": 1074.33,
-              "points_gain": 153.33,
-              "starts": 8,
+              "points": 1084.33,
+              "points_gain": 10.0,
+              "starts": 9,
               "wins": 3,
-              "top10s": 8,
-              "cashed": 7,
+              "top10s": 9,
+              "cashed": 8,
               "manufacturer": "Innova"
             },
             {
               "rank": 7,
-              "rank_gain": 4,
+              "rank_gain": 0,
               "slug": "kat-mertsch",
               "name": "Kat Mertsch",
-              "points": 634.42,
-              "points_gain": 76.0,
-              "starts": 9,
+              "points": 644.42,
+              "points_gain": 10.0,
+              "starts": 10,
               "wins": 0,
-              "top10s": 3,
-              "cashed": 7,
+              "top10s": 4,
+              "cashed": 8,
               "manufacturer": "Innova"
             },
             {
               "rank": 8,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "henna-blomroos",
               "name": "Henna Blomroos",
               "points": 618.5,
@@ -4351,7 +4282,7 @@
             },
             {
               "rank": 9,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "eveliina-salonen",
               "name": "Eveliina Salonen",
               "points": 589.67,
@@ -4364,59 +4295,59 @@
             },
             {
               "rank": 14,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "jessica-gurthie",
               "name": "Jessica Gurthie",
               "points": 522.0,
-              "points_gain": 72.0,
-              "starts": 7,
+              "points_gain": 0.0,
+              "starts": 8,
               "wins": 1,
               "top10s": 3,
-              "cashed": 3,
+              "cashed": 4,
               "manufacturer": "Innova"
             },
             {
               "rank": 15,
-              "rank_gain": 2,
+              "rank_gain": 0,
               "slug": "emily-weatherman",
               "name": "Emily Weatherman",
-              "points": 506.33,
-              "points_gain": 104.0,
-              "starts": 9,
+              "points": 516.33,
+              "points_gain": 10.0,
+              "starts": 10,
               "wins": 0,
-              "top10s": 3,
-              "cashed": 4,
-              "manufacturer": "Innova"
-            },
-            {
-              "rank": 19,
-              "rank_gain": 6,
-              "slug": "rebecca-don",
-              "name": "Rebecca Don",
-              "points": 439.58,
-              "points_gain": 129.33,
-              "starts": 7,
-              "wins": 0,
-              "top10s": 1,
-              "cashed": 4,
-              "manufacturer": "Innova"
-            },
-            {
-              "rank": 23,
-              "rank_gain": 1,
-              "slug": "konastar-montgomery",
-              "name": "Kona Star Montgomery",
-              "points": 382.0,
-              "points_gain": 68.0,
-              "starts": 7,
-              "wins": 0,
-              "top10s": 3,
+              "top10s": 4,
               "cashed": 5,
               "manufacturer": "Innova"
             },
             {
+              "rank": 19,
+              "rank_gain": 0,
+              "slug": "rebecca-don",
+              "name": "Rebecca Don",
+              "points": 439.58,
+              "points_gain": 0.0,
+              "starts": 7,
+              "wins": 0,
+              "top10s": 1,
+              "cashed": 5,
+              "manufacturer": "Innova"
+            },
+            {
+              "rank": 23,
+              "rank_gain": 0,
+              "slug": "konastar-montgomery",
+              "name": "Kona Star Montgomery",
+              "points": 392.0,
+              "points_gain": 10.0,
+              "starts": 8,
+              "wins": 0,
+              "top10s": 4,
+              "cashed": 6,
+              "manufacturer": "Innova"
+            },
+            {
               "rank": 30,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "anneli-tugjas-mnniste",
               "name": "Anneli T\u00f5ugjas-M\u00e4nniste",
               "points": 282.0,
@@ -4429,20 +4360,20 @@
             },
             {
               "rank": 32,
-              "rank_gain": 3,
+              "rank_gain": 0,
               "slug": "jennifer-allen",
               "name": "Jennifer Allen",
               "points": 263.0,
-              "points_gain": 86.0,
+              "points_gain": 0.0,
               "starts": 3,
               "wins": 0,
               "top10s": 1,
-              "cashed": 2,
+              "cashed": 3,
               "manufacturer": "Innova"
             },
             {
-              "rank": 33,
-              "rank_gain": -2,
+              "rank": 34,
+              "rank_gain": -1,
               "slug": "iida-lehtomki",
               "name": "Iida Lehtom\u00e4ki",
               "points": 234.5,
@@ -4455,20 +4386,20 @@
             },
             {
               "rank": 39,
-              "rank_gain": 5,
+              "rank_gain": 0,
               "slug": "violet-main",
               "name": "Violet Main",
               "points": 178.0,
-              "points_gain": 64.0,
+              "points_gain": 0.0,
               "starts": 3,
               "wins": 0,
               "top10s": 0,
-              "cashed": 1,
+              "cashed": 2,
               "manufacturer": "Innova"
             },
             {
               "rank": 41,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "holly-finley",
               "name": "Holly Finley",
               "points": 159.0,
@@ -4484,38 +4415,34 @@
             "elite_count": 7,
             "top50_count": 13,
             "top100_count": 13,
-            "avg_points": 452.6,
-            "avg_points_gain": 57.9,
-            "avg_starts": 5.6,
-            "total_cashed": 48,
-            "cash_rate": 0.658,
-            "win_rate": 0.082,
-            "top10_rate": 0.425,
-            "momentum": 752.7
+            "avg_points": 455.6,
+            "avg_points_gain": 3.1,
+            "avg_starts": 6.0,
+            "total_cashed": 56,
+            "cash_rate": 0.718,
+            "win_rate": 0.077,
+            "top10_rate": 0.449,
+            "momentum": 40.0
           },
           "rank": 1,
           "roster_meta": {
             "top4_share": 0.496,
-            "star_gap": 484.7,
-            "best_mover": {
-              "name": "Rebecca Don",
-              "slug": "rebecca-don",
-              "rank_gain": 6
-            },
-            "market_share": 0.356,
-            "power_index": 845
+            "star_gap": 494.7,
+            "best_mover": null,
+            "market_share": 0.357,
+            "power_index": 831
           }
         },
         {
           "manufacturer": "Unknown",
           "short": "???",
           "color": "#6b7280",
-          "points": 4900.42,
-          "points_gain": 844.0,
+          "points": 4910.42,
+          "points_gain": 10.0,
           "player_count": 55,
           "wins": 0,
-          "top10s": 11,
-          "starts": 141,
+          "top10s": 13,
+          "starts": 150,
           "best_player": "Sofia Donnecke",
           "best_player_points": 500.5,
           "players": [
@@ -4525,16 +4452,16 @@
               "slug": "sofia-donnecke",
               "name": "Sofia Donnecke",
               "points": 500.5,
-              "points_gain": 86.0,
+              "points_gain": 0.0,
               "starts": 6,
               "wins": 0,
               "top10s": 2,
-              "cashed": 5,
+              "cashed": 6,
               "manufacturer": "Unknown"
             },
             {
               "rank": 20,
-              "rank_gain": -6,
+              "rank_gain": 0,
               "slug": "sintija-klezberga",
               "name": "Sintija Klezberga",
               "points": 439.0,
@@ -4547,12 +4474,12 @@
             },
             {
               "rank": 22,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "raven-klein",
               "name": "Raven Klein",
               "points": 398.5,
-              "points_gain": 41.0,
-              "starts": 8,
+              "points_gain": 0.0,
+              "starts": 9,
               "wins": 0,
               "top10s": 1,
               "cashed": 4,
@@ -4560,76 +4487,76 @@
             },
             {
               "rank": 27,
-              "rank_gain": 2,
+              "rank_gain": 0,
               "slug": "annikenkristiansen-steen",
               "name": "Anniken Kristiansen Steen",
               "points": 345.17,
-              "points_gain": 100.0,
+              "points_gain": 0.0,
               "starts": 4,
+              "wins": 0,
+              "top10s": 2,
+              "cashed": 4,
+              "manufacturer": "Unknown"
+            },
+            {
+              "rank": 29,
+              "rank_gain": 0,
+              "slug": "danik-hart",
+              "name": "Dani K. Hart",
+              "points": 291.5,
+              "points_gain": 5.0,
+              "starts": 8,
               "wins": 0,
               "top10s": 2,
               "cashed": 3,
               "manufacturer": "Unknown"
             },
             {
-              "rank": 29,
-              "rank_gain": 1,
-              "slug": "danik-hart",
-              "name": "Dani K. Hart",
-              "points": 286.5,
-              "points_gain": 44.0,
-              "starts": 7,
-              "wins": 0,
-              "top10s": 1,
-              "cashed": 3,
-              "manufacturer": "Unknown"
-            },
-            {
               "rank": 31,
-              "rank_gain": 1,
+              "rank_gain": 0,
               "slug": "jennifer-smiley",
               "name": "Jennifer Smiley",
               "points": 271.75,
-              "points_gain": 52.0,
-              "starts": 9,
+              "points_gain": 0.0,
+              "starts": 10,
               "wins": 0,
               "top10s": 0,
               "cashed": 2,
               "manufacturer": "Unknown"
             },
             {
-              "rank": 34,
-              "rank_gain": -1,
+              "rank": 33,
+              "rank_gain": 1,
               "slug": "kelley-foster",
               "name": "Kelley Foster",
-              "points": 232.5,
-              "points_gain": 46.0,
-              "starts": 7,
+              "points": 237.5,
+              "points_gain": 5.0,
+              "starts": 8,
               "wins": 0,
-              "top10s": 0,
+              "top10s": 1,
               "cashed": 0,
               "manufacturer": "Unknown"
             },
             {
               "rank": 36,
-              "rank_gain": 4,
+              "rank_gain": 0,
               "slug": "chandler-reigh",
               "name": "Chandler Reigh",
               "points": 204.5,
-              "points_gain": 58.0,
+              "points_gain": 0.0,
               "starts": 5,
               "wins": 0,
               "top10s": 0,
-              "cashed": 1,
+              "cashed": 2,
               "manufacturer": "Unknown"
             },
             {
               "rank": 38,
-              "rank_gain": 3,
+              "rank_gain": 0,
               "slug": "trinity-bryant",
               "name": "Trinity Bryant",
               "points": 190.0,
-              "points_gain": 48.0,
+              "points_gain": 0.0,
               "starts": 7,
               "wins": 0,
               "top10s": 0,
@@ -4638,7 +4565,7 @@
             },
             {
               "rank": 40,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "mj-gager",
               "name": "MJ Gager",
               "points": 160.5,
@@ -4651,7 +4578,7 @@
             },
             {
               "rank": 43,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "kylie-kohut",
               "name": "Kylie Kohut",
               "points": 135.0,
@@ -4664,7 +4591,7 @@
             },
             {
               "rank": 44,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "shelby-cowen",
               "name": "Shelby Cowen",
               "points": 127.0,
@@ -4715,21 +4642,21 @@
               "manufacturer": "Unknown"
             },
             {
-              "rank": 51,
-              "rank_gain": 0,
+              "rank": 52,
+              "rank_gain": -1,
               "slug": "therese-cuevas",
               "name": "Therese Cuevas",
               "points": 96.0,
-              "points_gain": 96.0,
-              "starts": 1,
+              "points_gain": 0.0,
+              "starts": 2,
               "wins": 0,
               "top10s": 0,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "Unknown"
             },
             {
               "rank": 54,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "tailey-rowley",
               "name": "Tailey Rowley",
               "points": 92.25,
@@ -4742,7 +4669,7 @@
             },
             {
               "rank": 55,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "addison-woodard",
               "name": "Addison Woodard",
               "points": 89.75,
@@ -4755,7 +4682,7 @@
             },
             {
               "rank": 57,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "ann-deputy",
               "name": "Ann Deputy",
               "points": 80.25,
@@ -4768,11 +4695,11 @@
             },
             {
               "rank": 59,
-              "rank_gain": 8,
+              "rank_gain": 0,
               "slug": "nathalie-ortiz",
               "name": "Nathalie Ortiz",
               "points": 64.25,
-              "points_gain": 27.0,
+              "points_gain": 0.0,
               "starts": 3,
               "wins": 0,
               "top10s": 0,
@@ -4781,7 +4708,7 @@
             },
             {
               "rank": 60,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "sheliemae-lai",
               "name": "Sheliemae Lai",
               "points": 62.0,
@@ -4794,7 +4721,7 @@
             },
             {
               "rank": 61,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "shiru-liu",
               "name": "Shiru Liu",
               "points": 61.5,
@@ -4811,16 +4738,16 @@
               "slug": "amanda-lennartsson",
               "name": "Amanda Lennartsson",
               "points": 60.0,
-              "points_gain": 60.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "Unknown"
             },
             {
               "rank": 63,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "chantel-budinsky",
               "name": "Chantel Budinsky",
               "points": 58.5,
@@ -4833,7 +4760,7 @@
             },
             {
               "rank": 66,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "peyton-kohut",
               "name": "Peyton Kohut",
               "points": 52.5,
@@ -4846,7 +4773,7 @@
             },
             {
               "rank": 69,
-              "rank_gain": -5,
+              "rank_gain": 0,
               "slug": "nina-bennett",
               "name": "Nina Bennett",
               "points": 40.5,
@@ -4859,7 +4786,7 @@
             },
             {
               "rank": 71,
-              "rank_gain": -6,
+              "rank_gain": 0,
               "slug": "ariel-walker",
               "name": "Ariel Walker",
               "points": 38.25,
@@ -4872,11 +4799,11 @@
             },
             {
               "rank": 72,
-              "rank_gain": 19,
+              "rank_gain": 0,
               "slug": "eden-fletcher",
               "name": "Eden Fletcher",
               "points": 38.0,
-              "points_gain": 38.0,
+              "points_gain": 0.0,
               "starts": 2,
               "wins": 0,
               "top10s": 0,
@@ -4885,7 +4812,7 @@
             },
             {
               "rank": 74,
-              "rank_gain": -6,
+              "rank_gain": 0,
               "slug": "lindsey-maas",
               "name": "Lindsey Maas",
               "points": 32.25,
@@ -4902,8 +4829,8 @@
               "slug": "elva-kate-preston",
               "name": "Elva-Kate Preston",
               "points": 30.0,
-              "points_gain": 30.0,
-              "starts": 1,
+              "points_gain": 0.0,
+              "starts": 2,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -4911,7 +4838,7 @@
             },
             {
               "rank": 77,
-              "rank_gain": -6,
+              "rank_gain": 0,
               "slug": "brook-johnson",
               "name": "Brook Johnson",
               "points": 24.0,
@@ -4928,7 +4855,7 @@
               "slug": "amelia-saechao",
               "name": "Amelia Saechao",
               "points": 24.0,
-              "points_gain": 24.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -4941,7 +4868,7 @@
               "slug": "alex-vonstade",
               "name": "Alex von Stade",
               "points": 22.0,
-              "points_gain": 22.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -4950,7 +4877,7 @@
             },
             {
               "rank": 80,
-              "rank_gain": -8,
+              "rank_gain": 0,
               "slug": "ellie-bryant",
               "name": "Ellie Bryant",
               "points": 21.75,
@@ -4963,7 +4890,7 @@
             },
             {
               "rank": 80,
-              "rank_gain": -8,
+              "rank_gain": 0,
               "slug": "anna-pinter",
               "name": "Anna Pinter",
               "points": 21.75,
@@ -4976,7 +4903,7 @@
             },
             {
               "rank": 80,
-              "rank_gain": -8,
+              "rank_gain": 0,
               "slug": "eva-lutsenko",
               "name": "Eva Lutsenko",
               "points": 21.75,
@@ -4989,7 +4916,7 @@
             },
             {
               "rank": 83,
-              "rank_gain": -8,
+              "rank_gain": 0,
               "slug": "tiger-borth",
               "name": "Tiger Borth",
               "points": 21.0,
@@ -5006,7 +4933,7 @@
               "slug": "karissa-dedmon",
               "name": "Karissa Dedmon",
               "points": 20.0,
-              "points_gain": 20.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -5015,7 +4942,7 @@
             },
             {
               "rank": 85,
-              "rank_gain": -9,
+              "rank_gain": 0,
               "slug": "jessica-zilch",
               "name": "Jessica Zilch",
               "points": 19.5,
@@ -5028,7 +4955,7 @@
             },
             {
               "rank": 85,
-              "rank_gain": -9,
+              "rank_gain": 0,
               "slug": "natalie-berg-268900",
               "name": "Natalie Berg",
               "points": 19.5,
@@ -5041,7 +4968,7 @@
             },
             {
               "rank": 87,
-              "rank_gain": -9,
+              "rank_gain": 0,
               "slug": "isabella-parker",
               "name": "Isabella Parker",
               "points": 18.0,
@@ -5054,7 +4981,7 @@
             },
             {
               "rank": 87,
-              "rank_gain": -9,
+              "rank_gain": 0,
               "slug": "jordan-coomes",
               "name": "Jordan Coomes",
               "points": 18.0,
@@ -5067,7 +4994,7 @@
             },
             {
               "rank": 89,
-              "rank_gain": -9,
+              "rank_gain": 0,
               "slug": "samantha-bonacci",
               "name": "Samantha Bonacci",
               "points": 16.5,
@@ -5084,7 +5011,7 @@
               "slug": "jessica-erickson",
               "name": "Jessica Erickson",
               "points": 16.0,
-              "points_gain": 16.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -5093,7 +5020,7 @@
             },
             {
               "rank": 91,
-              "rank_gain": -10,
+              "rank_gain": 0,
               "slug": "karen-martel",
               "name": "Karen Martel",
               "points": 15.0,
@@ -5106,12 +5033,12 @@
             },
             {
               "rank": 91,
-              "rank_gain": -10,
+              "rank_gain": 0,
               "slug": "rebecca-minnick",
               "name": "Rebecca Minnick",
               "points": 15.0,
               "points_gain": 0.0,
-              "starts": 1,
+              "starts": 2,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -5123,8 +5050,8 @@
               "slug": "athena-cuevas",
               "name": "Athena Cuevas",
               "points": 14.0,
-              "points_gain": 14.0,
-              "starts": 1,
+              "points_gain": 0.0,
+              "starts": 2,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -5136,7 +5063,7 @@
               "slug": "sophi-stephenson",
               "name": "Sophi Stephenson",
               "points": 12.0,
-              "points_gain": 12.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -5145,7 +5072,7 @@
             },
             {
               "rank": 96,
-              "rank_gain": -11,
+              "rank_gain": 0,
               "slug": "sarah-duran",
               "name": "Sarah Duran",
               "points": 11.0,
@@ -5162,7 +5089,7 @@
               "slug": "stefani-ewell",
               "name": "Stefani Ewell",
               "points": 10.0,
-              "points_gain": 10.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -5171,7 +5098,7 @@
             },
             {
               "rank": 98,
-              "rank_gain": -12,
+              "rank_gain": 0,
               "slug": "cassandra-lioi",
               "name": "Cassandra Lioi",
               "points": 8.0,
@@ -5184,12 +5111,12 @@
             },
             {
               "rank": 99,
-              "rank_gain": -12,
+              "rank_gain": 0,
               "slug": "hannah-kellar",
               "name": "Hannah Kellar",
               "points": 6.0,
               "points_gain": 0.0,
-              "starts": 2,
+              "starts": 3,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -5197,7 +5124,7 @@
             },
             {
               "rank": 100,
-              "rank_gain": -12,
+              "rank_gain": 0,
               "slug": "katherine-aydelott-284553",
               "name": "Katherine Aydelott",
               "points": 4.0,
@@ -5210,7 +5137,7 @@
             },
             {
               "rank": 101,
-              "rank_gain": -12,
+              "rank_gain": 0,
               "slug": "ashley-phelps",
               "name": "Ashley Phelps",
               "points": 2.0,
@@ -5223,7 +5150,7 @@
             },
             {
               "rank": 101,
-              "rank_gain": -12,
+              "rank_gain": 0,
               "slug": "destyne-martinez",
               "name": "Destyne Martinez",
               "points": 2.0,
@@ -5239,14 +5166,14 @@
             "elite_count": 2,
             "top50_count": 15,
             "top100_count": 53,
-            "avg_points": 89.1,
-            "avg_points_gain": 15.3,
-            "avg_starts": 2.6,
-            "total_cashed": 33,
-            "cash_rate": 0.234,
+            "avg_points": 89.3,
+            "avg_points_gain": 0.2,
+            "avg_starts": 2.7,
+            "total_cashed": 38,
+            "cash_rate": 0.253,
             "win_rate": 0.0,
-            "top10_rate": 0.078,
-            "momentum": 844.0
+            "top10_rate": 0.087,
+            "momentum": 10.0
           },
           "rank": 2
         },
@@ -5255,7 +5182,7 @@
           "short": "DSC",
           "color": "#2563eb",
           "points": 4597.58,
-          "points_gain": 519.33,
+          "points_gain": 0.0,
           "player_count": 10,
           "wins": 2,
           "top10s": 26,
@@ -5265,15 +5192,15 @@
           "players": [
             {
               "rank": 1,
-              "rank_gain": 1,
+              "rank_gain": 0,
               "slug": "holyn-handley",
               "name": "Holyn Handley",
               "points": 1108.67,
-              "points_gain": 200.0,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 2,
               "top10s": 7,
-              "cashed": 7,
+              "cashed": 8,
               "manufacturer": "Discraft"
             },
             {
@@ -5282,16 +5209,16 @@
               "slug": "missy-gannon",
               "name": "Missy Gannon",
               "points": 790.83,
-              "points_gain": 121.33,
+              "points_gain": 0.0,
               "starts": 7,
               "wins": 0,
               "top10s": 7,
-              "cashed": 6,
+              "cashed": 7,
               "manufacturer": "Discraft"
             },
             {
               "rank": 10,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "valerie-mandujano",
               "name": "Valerie Mandujano",
               "points": 563.83,
@@ -5304,7 +5231,7 @@
             },
             {
               "rank": 11,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "hanna-huynh",
               "name": "Hanna Huynh",
               "points": 561.0,
@@ -5317,33 +5244,33 @@
             },
             {
               "rank": 12,
-              "rank_gain": 3,
+              "rank_gain": 0,
               "slug": "taylor-chocek",
               "name": "Taylor Chocek",
               "points": 544.33,
-              "points_gain": 112.0,
+              "points_gain": 0.0,
               "starts": 7,
               "wins": 0,
               "top10s": 3,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Discraft"
             },
             {
               "rank": 17,
-              "rank_gain": 1,
+              "rank_gain": 0,
               "slug": "paige-pierce",
               "name": "Paige Pierce",
               "points": 460.42,
-              "points_gain": 86.0,
+              "points_gain": 0.0,
               "starts": 6,
               "wins": 0,
               "top10s": 2,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Discraft"
             },
             {
               "rank": 26,
-              "rank_gain": -5,
+              "rank_gain": 0,
               "slug": "alexis-mandujano",
               "name": "Alexis Mandujano",
               "points": 352.5,
@@ -5369,7 +5296,7 @@
             },
             {
               "rank": 56,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "morgan-lynds",
               "name": "Morgan Lynds",
               "points": 87.75,
@@ -5382,7 +5309,7 @@
             },
             {
               "rank": 91,
-              "rank_gain": -10,
+              "rank_gain": 0,
               "slug": "nid-ovathanasin",
               "name": "Nid Ovathanasin",
               "points": 15.0,
@@ -5399,69 +5326,65 @@
             "top50_count": 8,
             "top100_count": 10,
             "avg_points": 459.8,
-            "avg_points_gain": 51.9,
+            "avg_points_gain": 0.0,
             "avg_starts": 5.2,
-            "total_cashed": 39,
-            "cash_rate": 0.75,
+            "total_cashed": 43,
+            "cash_rate": 0.827,
             "win_rate": 0.038,
             "top10_rate": 0.5,
-            "momentum": 519.3
+            "momentum": 0.0
           },
           "rank": 3,
           "roster_meta": {
             "top4_share": 0.658,
             "star_gap": 547.7,
-            "best_mover": {
-              "name": "Taylor Chocek",
-              "slug": "taylor-chocek",
-              "rank_gain": 3
-            },
-            "market_share": 0.278,
-            "power_index": 690
+            "best_mover": null,
+            "market_share": 0.277,
+            "power_index": 680
           }
         },
         {
           "manufacturer": "MVP",
           "short": "MVP",
           "color": "#7c3aed",
-          "points": 1567.91,
-          "points_gain": 222.67,
+          "points": 1592.91,
+          "points_gain": 25.0,
           "player_count": 4,
-          "wins": 1,
-          "top10s": 9,
-          "starts": 19,
+          "wins": 2,
+          "top10s": 11,
+          "starts": 21,
           "best_player": "Silva Saarinen",
-          "best_player_points": 915.83,
+          "best_player_points": 935.83,
           "players": [
             {
               "rank": 3,
               "rank_gain": 0,
               "slug": "silva-saarinen",
               "name": "Silva Saarinen",
-              "points": 915.83,
-              "points_gain": 166.67,
-              "starts": 7,
-              "wins": 1,
-              "top10s": 6,
-              "cashed": 6,
+              "points": 935.83,
+              "points_gain": 20.0,
+              "starts": 8,
+              "wins": 2,
+              "top10s": 7,
+              "cashed": 7,
               "manufacturer": "MVP"
             },
             {
               "rank": 21,
-              "rank_gain": 1,
+              "rank_gain": 0,
               "slug": "madison-walker",
               "name": "Madison Walker",
               "points": 399.08,
-              "points_gain": 56.0,
+              "points_gain": 0.0,
               "starts": 7,
               "wins": 0,
               "top10s": 1,
-              "cashed": 3,
+              "cashed": 4,
               "manufacturer": "MVP"
             },
             {
               "rank": 42,
-              "rank_gain": -3,
+              "rank_gain": 0,
               "slug": "idaemilie-nesse",
               "name": "Ida Emilie Nesse",
               "points": 157.0,
@@ -5474,14 +5397,14 @@
             },
             {
               "rank": 51,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "sarah-hokom",
               "name": "Sarah Hokom",
-              "points": 96.0,
-              "points_gain": 0.0,
-              "starts": 3,
+              "points": 101.0,
+              "points_gain": 5.0,
+              "starts": 4,
               "wins": 0,
-              "top10s": 0,
+              "top10s": 1,
               "cashed": 2,
               "manufacturer": "MVP"
             }
@@ -5490,26 +5413,22 @@
             "elite_count": 1,
             "top50_count": 3,
             "top100_count": 4,
-            "avg_points": 392.0,
-            "avg_points_gain": 55.7,
-            "avg_starts": 4.8,
-            "total_cashed": 13,
-            "cash_rate": 0.684,
-            "win_rate": 0.053,
-            "top10_rate": 0.474,
-            "momentum": 222.7
+            "avg_points": 398.2,
+            "avg_points_gain": 6.2,
+            "avg_starts": 5.2,
+            "total_cashed": 15,
+            "cash_rate": 0.714,
+            "win_rate": 0.095,
+            "top10_rate": 0.524,
+            "momentum": 25.0
           },
           "rank": 4,
           "roster_meta": {
             "top4_share": 1.0,
-            "star_gap": 819.8,
-            "best_mover": {
-              "name": "Madison Walker",
-              "slug": "madison-walker",
-              "rank_gain": 1
-            },
-            "market_share": 0.095,
-            "power_index": 134
+            "star_gap": 834.8,
+            "best_mover": null,
+            "market_share": 0.096,
+            "power_index": 130
           }
         },
         {
@@ -5517,25 +5436,25 @@
           "short": "DMN",
           "color": "#f59e0b",
           "points": 1067.58,
-          "points_gain": 158.0,
+          "points_gain": 0.0,
           "player_count": 5,
           "wins": 0,
           "top10s": 5,
-          "starts": 21,
+          "starts": 22,
           "best_player": "Ella Hansen",
           "best_player_points": 726.33,
           "players": [
             {
               "rank": 5,
-              "rank_gain": 3,
+              "rank_gain": 0,
               "slug": "ella-hansen",
               "name": "Ella Hansen",
               "points": 726.33,
-              "points_gain": 140.0,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 0,
               "top10s": 5,
-              "cashed": 7,
+              "cashed": 8,
               "manufacturer": "Discmania"
             },
             {
@@ -5553,12 +5472,12 @@
             },
             {
               "rank": 50,
-              "rank_gain": 5,
+              "rank_gain": 0,
               "slug": "ratana-mcmahon",
               "name": "Ratana McMahon",
               "points": 101.25,
-              "points_gain": 18.0,
-              "starts": 5,
+              "points_gain": 0.0,
+              "starts": 6,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -5566,7 +5485,7 @@
             },
             {
               "rank": 53,
-              "rank_gain": -2,
+              "rank_gain": 0,
               "slug": "cadence-burge",
               "name": "Cadence Burge",
               "points": 95.25,
@@ -5579,7 +5498,7 @@
             },
             {
               "rank": 73,
-              "rank_gain": -7,
+              "rank_gain": 0,
               "slug": "casey-pennington",
               "name": "Casey Pennington",
               "points": 37.5,
@@ -5596,25 +5515,21 @@
             "top50_count": 3,
             "top100_count": 5,
             "avg_points": 213.5,
-            "avg_points_gain": 31.6,
-            "avg_starts": 4.2,
-            "total_cashed": 9,
-            "cash_rate": 0.429,
+            "avg_points_gain": 0.0,
+            "avg_starts": 4.4,
+            "total_cashed": 10,
+            "cash_rate": 0.455,
             "win_rate": 0.0,
-            "top10_rate": 0.238,
-            "momentum": 158.0
+            "top10_rate": 0.227,
+            "momentum": 0.0
           },
           "rank": 5,
           "roster_meta": {
             "top4_share": 0.965,
             "star_gap": 631.1,
-            "best_mover": {
-              "name": "Ratana McMahon",
-              "slug": "ratana-mcmahon",
-              "rank_gain": 5
-            },
-            "market_share": 0.065,
-            "power_index": 133
+            "best_mover": null,
+            "market_share": 0.064,
+            "power_index": 130
           }
         },
         {
@@ -5622,11 +5537,11 @@
           "short": "DGA",
           "color": "#0d9488",
           "points": 1046.75,
-          "points_gain": 136.0,
+          "points_gain": 0.0,
           "player_count": 2,
           "wins": 0,
           "top10s": 5,
-          "starts": 18,
+          "starts": 19,
           "best_player": "Catrina Allen",
           "best_player_points": 691.0,
           "players": [
@@ -5636,21 +5551,21 @@
               "slug": "catrina-allen",
               "name": "Catrina Allen",
               "points": 691.0,
-              "points_gain": 86.0,
+              "points_gain": 0.0,
               "starts": 9,
               "wins": 0,
               "top10s": 4,
-              "cashed": 7,
+              "cashed": 8,
               "manufacturer": "DGA"
             },
             {
               "rank": 25,
-              "rank_gain": 1,
+              "rank_gain": 0,
               "slug": "eliezra-midtlyng",
               "name": "Eliezra Midtlyng",
               "points": 355.75,
-              "points_gain": 50.0,
-              "starts": 9,
+              "points_gain": 0.0,
+              "starts": 10,
               "wins": 0,
               "top10s": 1,
               "cashed": 4,
@@ -5662,61 +5577,57 @@
             "top50_count": 2,
             "top100_count": 2,
             "avg_points": 523.4,
-            "avg_points_gain": 68.0,
-            "avg_starts": 9.0,
-            "total_cashed": 11,
-            "cash_rate": 0.611,
+            "avg_points_gain": 0.0,
+            "avg_starts": 9.5,
+            "total_cashed": 12,
+            "cash_rate": 0.632,
             "win_rate": 0.0,
-            "top10_rate": 0.278,
-            "momentum": 136.0
+            "top10_rate": 0.263,
+            "momentum": 0.0
           },
           "rank": 6,
           "roster_meta": {
             "top4_share": 1.0,
             "star_gap": 335.2,
-            "best_mover": {
-              "name": "Eliezra Midtlyng",
-              "slug": "eliezra-midtlyng",
-              "rank_gain": 1
-            },
+            "best_mover": null,
             "market_share": 0.063,
-            "power_index": 123
+            "power_index": 120
           }
         },
         {
           "manufacturer": "OTB",
           "short": "OTB",
           "color": "#334155",
-          "points": 589.83,
-          "points_gain": 54.0,
+          "points": 594.83,
+          "points_gain": 5.0,
           "player_count": 2,
           "wins": 0,
-          "top10s": 5,
-          "starts": 11,
+          "top10s": 6,
+          "starts": 13,
           "best_player": "Lisa Fajkus",
-          "best_player_points": 536.83,
+          "best_player_points": 541.83,
           "players": [
             {
               "rank": 13,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "lisa-fajkus",
               "name": "Lisa Fajkus",
-              "points": 536.83,
-              "points_gain": 54.0,
-              "starts": 8,
+              "points": 541.83,
+              "points_gain": 5.0,
+              "starts": 9,
               "wins": 0,
-              "top10s": 4,
-              "cashed": 5,
+              "top10s": 5,
+              "cashed": 6,
               "manufacturer": "OTB"
             },
             {
               "rank": 65,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "leah-tsinajinnie",
               "name": "Leah Tsinajinnie",
               "points": 53.0,
               "points_gain": 0.0,
-              "starts": 3,
+              "starts": 4,
               "wins": 0,
               "top10s": 1,
               "cashed": 1,
@@ -5727,26 +5638,22 @@
             "elite_count": 1,
             "top50_count": 1,
             "top100_count": 2,
-            "avg_points": 294.9,
-            "avg_points_gain": 27.0,
-            "avg_starts": 5.5,
-            "total_cashed": 6,
-            "cash_rate": 0.545,
+            "avg_points": 297.4,
+            "avg_points_gain": 2.5,
+            "avg_starts": 6.5,
+            "total_cashed": 7,
+            "cash_rate": 0.538,
             "win_rate": 0.0,
-            "top10_rate": 0.455,
-            "momentum": 54.0
+            "top10_rate": 0.462,
+            "momentum": 5.0
           },
           "rank": 7,
           "roster_meta": {
             "top4_share": 1.0,
-            "star_gap": 483.8,
-            "best_mover": {
-              "name": "Lisa Fajkus",
-              "slug": "lisa-fajkus",
-              "rank_gain": -1
-            },
+            "star_gap": 488.8,
+            "best_mover": null,
             "market_share": 0.036,
-            "power_index": 111
+            "power_index": 110
           }
         },
         {
@@ -5754,21 +5661,21 @@
           "short": "TSA",
           "color": "#8b5cf6",
           "points": 517.25,
-          "points_gain": 70.0,
+          "points_gain": 0.0,
           "player_count": 4,
           "wins": 0,
           "top10s": 0,
-          "starts": 20,
+          "starts": 21,
           "best_player": "Maria Oliva",
           "best_player_points": 214.0,
           "players": [
             {
               "rank": 35,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "maria-oliva",
               "name": "Maria Oliva",
               "points": 214.0,
-              "points_gain": 35.0,
+              "points_gain": 0.0,
               "starts": 8,
               "wins": 0,
               "top10s": 0,
@@ -5781,8 +5688,8 @@
               "slug": "erika-stinchcomb",
               "name": "Erika Stinchcomb",
               "points": 194.25,
-              "points_gain": 35.0,
-              "starts": 9,
+              "points_gain": 0.0,
+              "starts": 10,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -5790,7 +5697,7 @@
             },
             {
               "rank": 58,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "ali-smith",
               "name": "Ali Smith",
               "points": 66.0,
@@ -5803,7 +5710,7 @@
             },
             {
               "rank": 67,
-              "rank_gain": -4,
+              "rank_gain": 0,
               "slug": "lykke-lorentzen",
               "name": "Lykke Lorentzen",
               "points": 43.0,
@@ -5820,13 +5727,13 @@
             "top50_count": 2,
             "top100_count": 4,
             "avg_points": 129.3,
-            "avg_points_gain": 17.5,
-            "avg_starts": 5.0,
+            "avg_points_gain": 0.0,
+            "avg_starts": 5.2,
             "total_cashed": 1,
-            "cash_rate": 0.05,
+            "cash_rate": 0.048,
             "win_rate": 0.0,
             "top10_rate": 0.0,
-            "momentum": 70.0
+            "momentum": 0.0
           },
           "rank": 8,
           "roster_meta": {
@@ -5834,43 +5741,43 @@
             "star_gap": 171.0,
             "best_mover": null,
             "market_share": 0.031,
-            "power_index": 21
+            "power_index": 20
           }
         },
         {
           "manufacturer": "Westside",
           "short": "WS",
           "color": "#64748b",
-          "points": 502.0,
-          "points_gain": 144.0,
+          "points": 512.0,
+          "points_gain": 10.0,
           "player_count": 2,
           "wins": 0,
-          "top10s": 2,
-          "starts": 10,
+          "top10s": 3,
+          "starts": 12,
           "best_player": "Heidi Laine",
-          "best_player_points": 444.5,
+          "best_player_points": 454.5,
           "players": [
             {
               "rank": 18,
-              "rank_gain": 5,
+              "rank_gain": 0,
               "slug": "heidi-laine",
               "name": "Heidi Laine",
-              "points": 444.5,
-              "points_gain": 112.0,
-              "starts": 8,
+              "points": 454.5,
+              "points_gain": 10.0,
+              "starts": 9,
               "wins": 0,
-              "top10s": 2,
-              "cashed": 4,
+              "top10s": 3,
+              "cashed": 5,
               "manufacturer": "Westside"
             },
             {
               "rank": 64,
-              "rank_gain": 6,
+              "rank_gain": 0,
               "slug": "madison-tomaino",
               "name": "Madison Tomaino",
               "points": 57.5,
-              "points_gain": 32.0,
-              "starts": 2,
+              "points_gain": 0.0,
+              "starts": 3,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -5881,26 +5788,22 @@
             "elite_count": 1,
             "top50_count": 1,
             "top100_count": 2,
-            "avg_points": 251.0,
-            "avg_points_gain": 72.0,
-            "avg_starts": 5.0,
-            "total_cashed": 4,
-            "cash_rate": 0.4,
+            "avg_points": 256.0,
+            "avg_points_gain": 5.0,
+            "avg_starts": 6.0,
+            "total_cashed": 5,
+            "cash_rate": 0.417,
             "win_rate": 0.0,
-            "top10_rate": 0.2,
-            "momentum": 144.0
+            "top10_rate": 0.25,
+            "momentum": 10.0
           },
           "rank": 9,
           "roster_meta": {
             "top4_share": 1.0,
-            "star_gap": 387.0,
-            "best_mover": {
-              "name": "Madison Tomaino",
-              "slug": "madison-tomaino",
-              "rank_gain": 6
-            },
-            "market_share": 0.03,
-            "power_index": 113
+            "star_gap": 397.0,
+            "best_mover": null,
+            "market_share": 0.031,
+            "power_index": 110
           }
         },
         {
@@ -5912,18 +5815,18 @@
           "player_count": 1,
           "wins": 0,
           "top10s": 2,
-          "starts": 8,
+          "starts": 9,
           "best_player": "Rebecca Cox",
           "best_player_points": 358.0,
           "players": [
             {
               "rank": 24,
-              "rank_gain": -5,
+              "rank_gain": 0,
               "slug": "rebecca-cox",
               "name": "Rebecca Cox",
               "points": 358.0,
               "points_gain": 0.0,
-              "starts": 8,
+              "starts": 9,
               "wins": 0,
               "top10s": 2,
               "cashed": 4,
@@ -5936,22 +5839,18 @@
             "top100_count": 1,
             "avg_points": 358.0,
             "avg_points_gain": 0.0,
-            "avg_starts": 8.0,
+            "avg_starts": 9.0,
             "total_cashed": 4,
-            "cash_rate": 0.5,
+            "cash_rate": 0.444,
             "win_rate": 0.0,
-            "top10_rate": 0.25,
+            "top10_rate": 0.222,
             "momentum": 0.0
           },
           "rank": 10,
           "roster_meta": {
             "top4_share": 1.0,
             "star_gap": 0.0,
-            "best_mover": {
-              "name": "Rebecca Cox",
-              "slug": "rebecca-cox",
-              "rank_gain": -5
-            },
+            "best_mover": null,
             "market_share": 0.022,
             "power_index": 10
           }
@@ -5971,7 +5870,7 @@
           "players": [
             {
               "rank": 28,
-              "rank_gain": -1,
+              "rank_gain": 0,
               "slug": "macie-velediaz",
               "name": "Macie Velediaz",
               "points": 294.67,
@@ -6000,11 +5899,7 @@
           "roster_meta": {
             "top4_share": 1.0,
             "star_gap": 0.0,
-            "best_mover": {
-              "name": "Macie Velediaz",
-              "slug": "macie-velediaz",
-              "rank_gain": -1
-            },
+            "best_mover": null,
             "market_share": 0.018,
             "power_index": 10
           }
@@ -6014,11 +5909,11 @@
           "short": "INF",
           "color": "#0284c7",
           "points": 80.0,
-          "points_gain": 68.0,
+          "points_gain": 0.0,
           "player_count": 2,
           "wins": 0,
           "top10s": 0,
-          "starts": 4,
+          "starts": 5,
           "best_player": "Zoe AnDyke",
           "best_player_points": 41.0,
           "players": [
@@ -6028,7 +5923,7 @@
               "slug": "zoe-andyke",
               "name": "Zoe AnDyke",
               "points": 41.0,
-              "points_gain": 41.0,
+              "points_gain": 0.0,
               "starts": 1,
               "wins": 0,
               "top10s": 0,
@@ -6037,12 +5932,12 @@
             },
             {
               "rank": 70,
-              "rank_gain": 14,
+              "rank_gain": 0,
               "slug": "emily-yale",
               "name": "Emily Yale",
               "points": 39.0,
-              "points_gain": 27.0,
-              "starts": 3,
+              "points_gain": 0.0,
+              "starts": 4,
               "wins": 0,
               "top10s": 0,
               "cashed": 0,
@@ -6054,25 +5949,21 @@
             "top50_count": 0,
             "top100_count": 2,
             "avg_points": 40.0,
-            "avg_points_gain": 34.0,
-            "avg_starts": 2.0,
+            "avg_points_gain": 0.0,
+            "avg_starts": 2.5,
             "total_cashed": 0,
             "cash_rate": 0.0,
             "win_rate": 0.0,
             "top10_rate": 0.0,
-            "momentum": 68.0
+            "momentum": 0.0
           },
           "rank": 12,
           "roster_meta": {
             "top4_share": 1.0,
             "star_gap": 2.0,
-            "best_mover": {
-              "name": "Emily Yale",
-              "slug": "emily-yale",
-              "rank_gain": 14
-            },
+            "best_mover": null,
             "market_share": 0.005,
-            "power_index": 1
+            "power_index": 0
           }
         },
         {
@@ -6090,7 +5981,7 @@
           "players": [
             {
               "rank": 76,
-              "rank_gain": -7,
+              "rank_gain": 0,
               "slug": "stephanie-vincent",
               "name": "Stephanie Vincent",
               "points": 28.0,
@@ -6119,11 +6010,7 @@
           "roster_meta": {
             "top4_share": 1.0,
             "star_gap": 0.0,
-            "best_mover": {
-              "name": "Stephanie Vincent",
-              "slug": "stephanie-vincent",
-              "rank_gain": -7
-            },
+            "best_mover": null,
             "market_share": 0.002,
             "power_index": 0
           }
@@ -6133,10 +6020,10 @@
         "top4_leader": {
           "manufacturer": "Discraft",
           "points": 3024.33,
-          "points_gain": 321.33,
+          "points_gain": 0.0,
           "rank": 1
         },
-        "top4_gap": 107.4,
+        "top4_gap": 87.4,
         "deepest_roster": {
           "manufacturer": "Innova",
           "value": 13
@@ -6147,62 +6034,37 @@
         },
         "hottest_momentum": {
           "manufacturer": "Innova",
-          "value": 752.7
+          "value": 40.0
         },
         "best_efficiency": {
-          "manufacturer": "Innova",
-          "value": 0.082
+          "manufacturer": "MVP",
+          "value": 0.095
         },
         "most_top50": {
           "manufacturer": "Innova",
           "value": 13
         },
-        "biggest_movers": [
-          {
-            "manufacturer": "Westside",
-            "from": 9,
-            "to": 8,
-            "delta": 1
-          },
-          {
-            "manufacturer": "Latitude 64",
-            "from": 8,
-            "to": 9,
-            "delta": -1
-          },
-          {
-            "manufacturer": "Infinite",
-            "from": 12,
-            "to": 11,
-            "delta": 1
-          },
-          {
-            "manufacturer": "Mint",
-            "from": 11,
-            "to": 12,
-            "delta": -1
-          }
-        ],
+        "biggest_movers": [],
         "points_movers": [
           {
-            "manufacturer": "Discraft",
-            "points_delta": 321.3
+            "manufacturer": "MVP",
+            "points_delta": 25.0
           },
           {
             "manufacturer": "Innova",
-            "points_delta": 229.3
-          },
-          {
-            "manufacturer": "MVP",
-            "points_delta": 222.7
-          },
-          {
-            "manufacturer": "Discmania",
-            "points_delta": 158.0
+            "points_delta": 20.0
           },
           {
             "manufacturer": "Westside",
-            "points_delta": 144.0
+            "points_delta": 10.0
+          },
+          {
+            "manufacturer": "OTB",
+            "points_delta": 5.0
+          },
+          {
+            "manufacturer": "Discraft",
+            "points_delta": 0.0
           }
         ]
       },
@@ -6211,49 +6073,49 @@
           {
             "manufacturer": "Discraft",
             "points": 3024.33,
-            "points_gain": 321.33,
+            "points_gain": 0.0,
             "rank": 1
           },
           {
             "manufacturer": "Innova",
-            "points": 2916.92,
-            "points_gain": 229.33,
+            "points": 2936.92,
+            "points_gain": 20.0,
             "rank": 2
           },
           {
             "manufacturer": "MVP",
-            "points": 1567.91,
-            "points_gain": 222.67,
+            "points": 1592.91,
+            "points_gain": 25.0,
             "rank": 3
           },
           {
             "manufacturer": "DGA",
             "points": 1046.75,
-            "points_gain": 136.0,
+            "points_gain": 0.0,
             "rank": 4
           },
           {
             "manufacturer": "Discmania",
             "points": 1030.08,
-            "points_gain": 158.0,
+            "points_gain": 0.0,
             "rank": 5
           },
           {
             "manufacturer": "OTB",
-            "points": 589.83,
-            "points_gain": 54.0,
+            "points": 594.83,
+            "points_gain": 5.0,
             "rank": 6
           },
           {
             "manufacturer": "ThoughtSpace",
             "points": 517.25,
-            "points_gain": 70.0,
+            "points_gain": 0.0,
             "rank": 7
           },
           {
             "manufacturer": "Westside",
-            "points": 502.0,
-            "points_gain": 144.0,
+            "points": 512.0,
+            "points_gain": 10.0,
             "rank": 8
           },
           {
@@ -6271,7 +6133,7 @@
           {
             "manufacturer": "Infinite",
             "points": 80.0,
-            "points_gain": 68.0,
+            "points_gain": 0.0,
             "rank": 11
           },
           {
@@ -6284,50 +6146,50 @@
         "full": [
           {
             "manufacturer": "Innova",
-            "points": 5883.33,
-            "points_gain": 752.66,
+            "points": 5923.33,
+            "points_gain": 40.0,
             "rank": 1
           },
           {
             "manufacturer": "Discraft",
             "points": 4597.58,
-            "points_gain": 519.33,
+            "points_gain": 0.0,
             "rank": 2
           },
           {
             "manufacturer": "MVP",
-            "points": 1567.91,
-            "points_gain": 222.67,
+            "points": 1592.91,
+            "points_gain": 25.0,
             "rank": 3
           },
           {
             "manufacturer": "Discmania",
             "points": 1067.58,
-            "points_gain": 158.0,
+            "points_gain": 0.0,
             "rank": 4
           },
           {
             "manufacturer": "DGA",
             "points": 1046.75,
-            "points_gain": 136.0,
+            "points_gain": 0.0,
             "rank": 5
           },
           {
             "manufacturer": "OTB",
-            "points": 589.83,
-            "points_gain": 54.0,
+            "points": 594.83,
+            "points_gain": 5.0,
             "rank": 6
           },
           {
             "manufacturer": "ThoughtSpace",
             "points": 517.25,
-            "points_gain": 70.0,
+            "points_gain": 0.0,
             "rank": 7
           },
           {
             "manufacturer": "Westside",
-            "points": 502.0,
-            "points_gain": 144.0,
+            "points": 512.0,
+            "points_gain": 10.0,
             "rank": 8
           },
           {
@@ -6345,7 +6207,7 @@
           {
             "manufacturer": "Infinite",
             "points": 80.0,
-            "points_gain": 68.0,
+            "points_gain": 0.0,
             "rank": 11
           },
           {

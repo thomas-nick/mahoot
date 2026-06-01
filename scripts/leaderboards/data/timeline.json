@@ -1,10 +1,11 @@
 {
-  "updated_at": "2026-05-26T16:38:39.334813+00:00",
+  "updated_at": "2026-06-01T04:04:16.524274+00:00",
   "divisions": {
     "MPO": {
       "weeks": [
         "2026-20",
-        "2026-22"
+        "2026-22",
+        "2026-23"
       ],
       "manufacturers_cup": {
         "snapshots": [
@@ -101,6 +102,53 @@
                 "color": "#0891b2"
               }
             ]
+          },
+          {
+            "week": "2026-23",
+            "standings": [
+              {
+                "id": "Discmania",
+                "label": "Discmania",
+                "points": 2960.41,
+                "rank": 1,
+                "color": "#f59e0b"
+              },
+              {
+                "id": "Discraft",
+                "label": "Discraft",
+                "points": 2798.02,
+                "rank": 2,
+                "color": "#2563eb"
+              },
+              {
+                "id": "DGA",
+                "label": "DGA",
+                "points": 1881.52,
+                "rank": 3,
+                "color": "#0d9488"
+              },
+              {
+                "id": "MVP",
+                "label": "MVP",
+                "points": 1824.49,
+                "rank": 4,
+                "color": "#7c3aed"
+              },
+              {
+                "id": "Innova",
+                "label": "Innova",
+                "points": 1515.68,
+                "rank": 5,
+                "color": "#dc2626"
+              },
+              {
+                "id": "Latitude 64",
+                "label": "Latitude 64",
+                "points": 1382.17,
+                "rank": 6,
+                "color": "#0891b2"
+              }
+            ]
           }
         ],
         "series": [
@@ -118,6 +166,11 @@
                 "week": "2026-22",
                 "value": 2940.41,
                 "rank": 1
+              },
+              {
+                "week": "2026-23",
+                "value": 2960.41,
+                "rank": 1
               }
             ]
           },
@@ -133,6 +186,11 @@
               },
               {
                 "week": "2026-22",
+                "value": 2798.02,
+                "rank": 2
+              },
+              {
+                "week": "2026-23",
                 "value": 2798.02,
                 "rank": 2
               }
@@ -152,6 +210,11 @@
                 "week": "2026-22",
                 "value": 1866.52,
                 "rank": 3
+              },
+              {
+                "week": "2026-23",
+                "value": 1881.52,
+                "rank": 3
               }
             ]
           },
@@ -169,6 +232,11 @@
                 "week": "2026-22",
                 "value": 1819.49,
                 "rank": 4
+              },
+              {
+                "week": "2026-23",
+                "value": 1824.49,
+                "rank": 4
               }
             ]
           },
@@ -184,6 +252,11 @@
               },
               {
                 "week": "2026-22",
+                "value": 1515.68,
+                "rank": 5
+              },
+              {
+                "week": "2026-23",
                 "value": 1515.68,
                 "rank": 5
               }
@@ -298,6 +371,59 @@
                 "rank": 8
               }
             ]
+          },
+          {
+            "week": "2026-23",
+            "standings": [
+              {
+                "id": "gannon-buhr",
+                "label": "Gannon Buhr",
+                "points": 2105.0,
+                "rank": 1
+              },
+              {
+                "id": "calvin-heimburg",
+                "label": "Calvin Heimburg",
+                "points": 1027.8,
+                "rank": 2
+              },
+              {
+                "id": "richard-wysocki",
+                "label": "Richard Wysocki",
+                "points": 840.0,
+                "rank": 3
+              },
+              {
+                "id": "isaac-robinson",
+                "label": "Isaac Robinson",
+                "points": 706.2,
+                "rank": 4
+              },
+              {
+                "id": "adam-hammes",
+                "label": "Adam Hammes",
+                "points": 697.0,
+                "rank": 5
+              },
+              {
+                "id": "jaden-rye",
+                "label": "Jaden Rye",
+                "points": 675.5,
+                "rank": 6
+              },
+              {
+                "id": "niklas-anttila",
+                "label": "Niklas Anttila",
+                "points": 556.2,
+                "rank": 7
+              },
+              {
+                "id": "anthony-barela",
+                "label": "Anthony Barela",
+                "points": 527.5,
+                "rank": 8
+              }
+            ]
           }
         ],
         "series": [
@@ -315,6 +441,11 @@
                 "week": "2026-22",
                 "value": 1855.0,
                 "rank": 1
+              },
+              {
+                "week": "2026-23",
+                "value": 2105.0,
+                "rank": 1
               }
             ]
           },
@@ -330,6 +461,11 @@
               },
               {
                 "week": "2026-22",
+                "value": 1027.8,
+                "rank": 2
+              },
+              {
+                "week": "2026-23",
                 "value": 1027.8,
                 "rank": 2
               }
@@ -349,6 +485,11 @@
                 "week": "2026-22",
                 "value": 840.0,
                 "rank": 3
+              },
+              {
+                "week": "2026-23",
+                "value": 840.0,
+                "rank": 3
               }
             ]
           },
@@ -364,6 +505,11 @@
               },
               {
                 "week": "2026-22",
+                "value": 706.2,
+                "rank": 4
+              },
+              {
+                "week": "2026-23",
                 "value": 706.2,
                 "rank": 4
               }
@@ -383,6 +529,11 @@
                 "week": "2026-22",
                 "value": 677.0,
                 "rank": 5
+              },
+              {
+                "week": "2026-23",
+                "value": 697.0,
+                "rank": 5
               }
             ]
           }
@@ -392,7 +543,8 @@
     "FPO": {
       "weeks": [
         "2026-20",
-        "2026-22"
+        "2026-22",
+        "2026-23"
       ],
       "manufacturers_cup": {
         "snapshots": [
@@ -489,6 +641,53 @@
                 "color": "#334155"
               }
             ]
+          },
+          {
+            "week": "2026-23",
+            "standings": [
+              {
+                "id": "Discraft",
+                "label": "Discraft",
+                "points": 3024.33,
+                "rank": 1,
+                "color": "#2563eb"
+              },
+              {
+                "id": "Innova",
+                "label": "Innova",
+                "points": 2936.92,
+                "rank": 2,
+                "color": "#dc2626"
+              },
+              {
+                "id": "MVP",
+                "label": "MVP",
+                "points": 1592.91,
+                "rank": 3,
+                "color": "#7c3aed"
+              },
+              {
+                "id": "DGA",
+                "label": "DGA",
+                "points": 1046.75,
+                "rank": 4,
+                "color": "#0d9488"
+              },
+              {
+                "id": "Discmania",
+                "label": "Discmania",
+                "points": 1030.08,
+                "rank": 5,
+                "color": "#f59e0b"
+              },
+              {
+                "id": "OTB",
+                "label": "OTB",
+                "points": 594.83,
+                "rank": 6,
+                "color": "#334155"
+              }
+            ]
           }
         ],
         "series": [
@@ -504,6 +703,11 @@
               },
               {
                 "week": "2026-22",
+                "value": 3024.33,
+                "rank": 1
+              },
+              {
+                "week": "2026-23",
                 "value": 3024.33,
                 "rank": 1
               }
@@ -523,6 +727,11 @@
                 "week": "2026-22",
                 "value": 2916.92,
                 "rank": 2
+              },
+              {
+                "week": "2026-23",
+                "value": 2936.92,
+                "rank": 2
               }
             ]
           },
@@ -539,6 +748,11 @@
               {
                 "week": "2026-22",
                 "value": 1567.91,
+                "rank": 3
+              },
+              {
+                "week": "2026-23",
+                "value": 1592.91,
                 "rank": 3
               }
             ]
@@ -557,6 +771,11 @@
                 "week": "2026-22",
                 "value": 1046.75,
                 "rank": 4
+              },
+              {
+                "week": "2026-23",
+                "value": 1046.75,
+                "rank": 4
               }
             ]
           },
@@ -572,6 +791,11 @@
               },
               {
                 "week": "2026-22",
+                "value": 1030.08,
+                "rank": 5
+              },
+              {
+                "week": "2026-23",
                 "value": 1030.08,
                 "rank": 5
               }
@@ -686,13 +910,88 @@
                 "rank": 8
               }
             ]
+          },
+          {
+            "week": "2026-23",
+            "standings": [
+              {
+                "id": "ohn-scoggins",
+                "label": "Ohn Scoggins",
+                "points": 1760.0,
+                "rank": 1
+              },
+              {
+                "id": "holyn-handley",
+                "label": "Holyn Handley",
+                "points": 1590.0,
+                "rank": 2
+              },
+              {
+                "id": "silva-saarinen",
+                "label": "Silva Saarinen",
+                "points": 1432.2,
+                "rank": 3
+              },
+              {
+                "id": "henna-blomroos",
+                "label": "Henna Blomroos",
+                "points": 796.7,
+                "rank": 4
+              },
+              {
+                "id": "kat-mertsch",
+                "label": "Kat Mertsch",
+                "points": 619.4,
+                "rank": 5
+              },
+              {
+                "id": "lisa-fajkus",
+                "label": "Lisa Fajkus",
+                "points": 585.7,
+                "rank": 6
+              },
+              {
+                "id": "missy-gannon",
+                "label": "Missy Gannon",
+                "points": 542.5,
+                "rank": 7
+              },
+              {
+                "id": "valerie-mandujano",
+                "label": "Valerie Mandujano",
+                "points": 523.2,
+                "rank": 8
+              }
+            ]
           }
         ],
         "series": [
           {
+            "id": "ohn-scoggins",
+            "label": "Ohn Scoggins",
+            "color": "#2563eb",
+            "points": [
+              {
+                "week": "2026-20",
+                "value": 1297.5,
+                "rank": 1
+              },
+              {
+                "week": "2026-22",
+                "value": 1572.5,
+                "rank": 2
+              },
+              {
+                "week": "2026-23",
+                "value": 1760.0,
+                "rank": 1
+              }
+            ]
+          },
+          {
             "id": "holyn-handley",
             "label": "Holyn Handley",
-            "color": "#2563eb",
+            "color": "#dc2626",
             "points": [
               {
                 "week": "2026-20",
@@ -703,22 +1002,10 @@
                 "week": "2026-22",
                 "value": 1590.0,
                 "rank": 1
-              }
-            ]
-          },
-          {
-            "id": "ohn-scoggins",
-            "label": "Ohn Scoggins",
-            "color": "#dc2626",
-            "points": [
-              {
-                "week": "2026-20",
-                "value": 1297.5,
-                "rank": 1
               },
               {
-                "week": "2026-22",
-                "value": 1572.5,
+                "week": "2026-23",
+                "value": 1590.0,
                 "rank": 2
               }
             ]
@@ -737,6 +1024,11 @@
                 "week": "2026-22",
                 "value": 1182.2,
                 "rank": 3
+              },
+              {
+                "week": "2026-23",
+                "value": 1432.2,
+                "rank": 3
               }
             ]
           },
@@ -754,22 +1046,32 @@
                 "week": "2026-22",
                 "value": 796.7,
                 "rank": 4
+              },
+              {
+                "week": "2026-23",
+                "value": 796.7,
+                "rank": 4
               }
             ]
           },
           {
-            "id": "missy-gannon",
-            "label": "Missy Gannon",
+            "id": "kat-mertsch",
+            "label": "Kat Mertsch",
             "color": "#d97706",
             "points": [
               {
                 "week": "2026-20",
-                "value": null,
-                "rank": null
+                "value": 491.9,
+                "rank": 7
               },
               {
                 "week": "2026-22",
-                "value": 542.5,
+                "value": 531.9,
+                "rank": 7
+              },
+              {
+                "week": "2026-23",
+                "value": 619.4,
                 "rank": 5
               }
             ]
