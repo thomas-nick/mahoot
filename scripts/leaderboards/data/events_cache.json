@@ -1,6 +1,14 @@
 {
   "aaron-gossage": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -95,15 +103,6 @@
       "place": 11,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 6,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -226,6 +225,14 @@
   ],
   "adam-hammes": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -304,15 +311,6 @@
       "place": 3,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 16,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -1141,6 +1139,14 @@
   ],
   "andrew-marwede": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -1243,15 +1249,6 @@
       "place": 8,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 2,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -1745,6 +1742,14 @@
   ],
   "anthony-barela": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -1815,15 +1820,6 @@
       "place": 5,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 17,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -2055,6 +2051,14 @@
   ],
   "austin-turner": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -2134,15 +2138,6 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 11,
-      "source": "pdga:98193",
-      "tier": "A",
-      "tour": "DGPT"
     }
   ],
   "aviel-gomez": [
@@ -2157,6 +2152,14 @@
     }
   ],
   "ben-holding": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 61,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -2268,15 +2271,6 @@
       "place": 80,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 61,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -2745,6 +2739,14 @@
   ],
   "braeden-sides": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -2879,15 +2881,6 @@
       "place": 33,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 8,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -3221,70 +3214,6 @@
   ],
   "calvin-lonnquist": [
     {
-      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
-      "event_key": "wge-otb-open-by-mvp-disc-sports",
-      "month": "May",
-      "place": 36,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
-      "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
-      "month": "May",
-      "place": 50,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
-      "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
-      "month": "Apr",
-      "place": 36,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
-      "event_key": "play-it-again-sports-jonesboro-open-presented-by",
-      "month": "Apr",
-      "place": 79,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "2026 PDGA Champions Cup Presented by Vessi",
-      "event_key": "2026-pdga-champions-cup-presented-by-vessi",
-      "month": "Apr",
-      "place": 32,
-      "tier": "M",
-      "tour": "Major"
-    },
-    {
-      "event": "DGPT - Queen City Classic presented by Another Round",
-      "event_key": "queen-city-classic-presented-by-another-round",
-      "month": "Mar",
-      "place": 73,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - MVP Big Easy Open presented by Flight Factory",
-      "event_key": "mvp-big-easy-open-presented-by-flight-factory",
-      "month": "Mar",
-      "place": 70,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - Discraft\u2019s Supreme Flight Open Presented by Florida\u2019s",
-      "event_key": "discraft-s-supreme-flight-open-presented-by-flor",
-      "month": "Feb",
-      "place": 64,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
       "event_key": "otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -3369,86 +3298,6 @@
     }
   ],
   "cam-rico": [
-    {
-      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
-      "event_key": "wge-otb-open-by-mvp-disc-sports",
-      "month": "May",
-      "place": 55,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
-      "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
-      "month": "May",
-      "place": 63,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "Sapwi Spring Classic Presented By Legacy Discs and T Hill Brew Co",
-      "event_key": "sapwi-spring-classic-presented-by-legacy-discs-a",
-      "month": "May",
-      "place": 3,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "Daniel Boe Memorial - Weekend 2",
-      "event_key": "daniel-boe-memorial-weekend-2",
-      "month": "Apr",
-      "place": 4,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "Spring Fling at Sylmar",
-      "event_key": "spring-fling-at-sylmar",
-      "month": "Apr",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "8th Annual Cachuma Classic Sponsored by Innova",
-      "event_key": "8th-annual-cachuma-classic-sponsored-by-innova",
-      "month": "Mar",
-      "place": 5,
-      "tier": "B",
-      "tour": ""
-    },
-    {
-      "event": "Casitas Campout 2026",
-      "event_key": "casitas-campout-2026",
-      "month": "Mar",
-      "place": 2,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "48th Annual Wintertime Open (Pro Weekend)",
-      "event_key": "48th-annual-wintertime-open-pro-weekend",
-      "month": "Feb",
-      "place": 6,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "The Memorial Championship presented by Discraft",
-      "event_key": "the-memorial-championship-presented-by-discraft",
-      "month": "Feb",
-      "place": 9,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "La Mirada Open 2026 - PRO Weekend Sponsored by Innova (CDGS Event",
-      "event_key": "la-mirada-open-2026-pro-weekend-sponsored-by-inn",
-      "month": "Jan",
-      "place": 8,
-      "tier": "A",
-      "tour": ""
-    },
     {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
       "event_key": "otb-open-by-mvp-disc-sports",
@@ -3785,6 +3634,14 @@
   ],
   "chandler-kramer": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 24,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -3911,15 +3768,6 @@
       "place": 33,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 24,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -4667,6 +4515,14 @@
   "connor-king": [],
   "connor-oreilly": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -4728,15 +4584,6 @@
       "month": "Feb",
       "place": 59,
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 14,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -4831,6 +4678,14 @@
     }
   ],
   "corey-ellis": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -4951,15 +4806,6 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 17,
-      "source": "pdga:98193",
-      "tier": "A",
-      "tour": "DGPT"
     }
   ],
   "cynthia-ricciotti": [
@@ -5028,6 +4874,14 @@
   "daniel-perry": [],
   "daniel-pfaff": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 24,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -5091,18 +4945,17 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
+    }
+  ],
+  "danik-hart": [
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
-      "place": 24,
-      "source": "pdga:98193",
+      "place": 9,
       "tier": "A",
-      "tour": "DGPT"
-    }
-  ],
-  "danik-hart": [
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -5174,15 +5027,6 @@
       "place": 28,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 9,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -5505,6 +5349,14 @@
   ],
   "eagle-mcmahon": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -5599,15 +5451,6 @@
       "place": 14,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 3,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -5773,6 +5616,14 @@
   ],
   "eliezra-midtlyng": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -5892,18 +5743,17 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
+    }
+  ],
+  "elijah-bickel": [
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
-      "place": 14,
-      "source": "pdga:98193",
+      "place": 29,
       "tier": "A",
-      "tour": "DGPT"
-    }
-  ],
-  "elijah-bickel": [
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -6015,15 +5865,6 @@
       "place": 28,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 29,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -6268,6 +6109,14 @@
   ],
   "elva-kate-preston": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -6314,15 +6163,6 @@
       "place": 35,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 18,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -6466,6 +6306,14 @@
   ],
   "emily-weatherman": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -6561,18 +6409,17 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
+    }
+  ],
+  "emily-yale": [
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
-      "place": 5,
-      "source": "pdga:98193",
+      "place": 24,
       "tier": "A",
-      "tour": "DGPT"
-    }
-  ],
-  "emily-yale": [
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -6620,15 +6467,6 @@
       "place": 36,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 24,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -6753,6 +6591,14 @@
   ],
   "erika-stinchcomb": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -6831,15 +6677,6 @@
       "place": 32,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 11,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -6959,6 +6796,14 @@
   ],
   "evan-scott": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 37,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -7061,15 +6906,6 @@
       "place": 33,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 37,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -7439,241 +7275,16 @@
       "tour": "DGPT"
     }
   ],
-  "fredy-meza": [
-    {
-      "event": "Frederiksen Insurance Open",
-      "event_key": "frederiksen-insurance-open",
-      "month": "May",
-      "place": 1,
-      "tier": "B",
-      "tour": ""
-    },
-    {
-      "event": "Lone Star Disc Flex at Bear Branch",
-      "event_key": "lone-star-disc-flex-at-bear-branch",
-      "month": "May",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
-      "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
-      "month": "May",
-      "place": 51,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Innova presents WACO powered by Legit Disc Golf",
-      "event_key": "jomezpro-innova-presents-waco-powered-by-legit-d",
-      "month": "May",
-      "place": 28,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "23rd Annual Live Oak Summer Open",
-      "event_key": "23rd-annual-live-oak-summer-open",
-      "month": "Apr",
-      "place": 4,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "Lone Star Disc Flex at Gracepoint",
-      "event_key": "lone-star-disc-flex-at-gracepoint",
-      "month": "Apr",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
-      "event_key": "play-it-again-sports-jonesboro-open-presented-by",
-      "month": "Apr",
-      "place": 74,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "18th Annual Tye F. Cunningham Memorial Driven By Innova",
-      "event_key": "18th-annual-tye-f-cunningham-memorial-driven-by-",
-      "month": "Apr",
-      "place": 4,
-      "tier": "B",
-      "tour": ""
-    },
-    {
-      "event": "Lone Star Disc Presents EPM (Flex Start)",
-      "event_key": "lone-star-disc-presents-epm-flex-start",
-      "month": "Apr",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "Lone Star Disc Presents John Burge Park DGC (Lil E) (Flex Start)",
-      "event_key": "lone-star-disc-presents-john-burge-park-dgc-lil-",
-      "month": "Apr",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "31st Annual Texas State Disc Golf Championships powered by OneSta",
-      "event_key": "31st-annual-texas-state-disc-golf-championships-",
-      "month": "Mar",
-      "place": 5,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "Lone Star Disc Presents McDade (Flex Start)",
-      "event_key": "lone-star-disc-presents-mcdade-flex-start",
-      "month": "Mar",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "2026 Pot of Gold sponsored by MVP Disc Sports",
-      "event_key": "2026-pot-of-gold-sponsored-by-mvp-disc-sports",
-      "month": "Mar",
-      "place": 3,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "LONE STAR DISC Presents Bear Branch DGC (Flex Start)",
-      "event_key": "lone-star-disc-presents-bear-branch-dgc-flex-sta",
-      "month": "Mar",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "DGPT - MVP Big Easy Open presented by Flight Factory",
-      "event_key": "mvp-big-easy-open-presented-by-flight-factory",
-      "month": "Mar",
-      "place": 21,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "24th Annual Crush on the Concho Supported By Innova",
-      "event_key": "24th-annual-crush-on-the-concho-supported-by-inn",
-      "month": "Mar",
-      "place": 1,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "13th Annual Port City Open - Pro, MA2, FA2",
-      "event_key": "13th-annual-port-city-open-pro-ma2-fa2",
-      "month": "Mar",
-      "place": 2,
-      "tier": "B",
-      "tour": ""
-    },
-    {
-      "event": "Lone Star Disc Presents Gracepoint DGC (Flex Start)",
-      "event_key": "lone-star-disc-presents-gracepoint-dgc-flex-star",
-      "month": "Feb",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "Meridian Discs Challenge",
-      "event_key": "meridian-discs-challenge",
-      "month": "Feb",
-      "place": 9,
-      "tier": "B",
-      "tour": ""
-    },
-    {
-      "event": "Lone Star Disc Presents Northside Christian (Flex Start)",
-      "event_key": "lone-star-disc-presents-northside-christian-flex",
-      "month": "Feb",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "G.C.D.G.C Presents The 43rd Victoria Open - powered by Onestar, M",
-      "event_key": "g-c-d-g-c-presents-the-43rd-victoria-open-powere",
-      "month": "Feb",
-      "place": 1,
-      "tier": "B",
-      "tour": ""
-    },
-    {
-      "event": "Lone Star Disc Presents McDade (Flex Start)",
-      "event_key": "lone-star-disc-presents-mcdade-flex-start",
-      "month": "Feb",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "Lone Star Disc Presents Stonebridge (Flex Start)",
-      "event_key": "lone-star-disc-presents-stonebridge-flex-start",
-      "month": "Feb",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "LONE STAR DISC Presents Bear Branch DGC (Flex Start)",
-      "event_key": "lone-star-disc-presents-bear-branch-dgc-flex-sta",
-      "month": "Jan",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "Lone Star Disc Flex at HQ",
-      "event_key": "lone-star-disc-flex-at-hq",
-      "month": "Jan",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "Dynamic Discs Presents Straddle the Brazos",
-      "event_key": "dynamic-discs-presents-straddle-the-brazos",
-      "month": "Jan",
-      "place": 22,
-      "tier": "B",
-      "tour": ""
-    },
-    {
-      "event": "Lone Star Disc Presents McDade (Flex Start)",
-      "event_key": "lone-star-disc-presents-mcdade-flex-start",
-      "month": "Jan",
-      "place": 2,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "Lone Star Disc Presents Stonebridge (Flex Start)",
-      "event_key": "lone-star-disc-presents-stonebridge-flex-start",
-      "month": "Jan",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "3rd Annual New Year New Rating Flex",
-      "event_key": "3rd-annual-new-year-new-rating-flex",
-      "month": "Jan",
-      "place": 3,
-      "tier": "C",
-      "tour": ""
-    }
-  ],
+  "fredy-meza": [],
   "gannon-buhr": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -7770,19 +7381,18 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 1,
-      "source": "pdga:98193",
-      "tier": "A",
-      "tour": "DGPT"
     }
   ],
   "garrett-dknox": [],
   "garrett-gurthie": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -7863,18 +7473,17 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
+    }
+  ],
+  "gavin-babcock": [
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
-      "place": 12,
-      "source": "pdga:98193",
+      "place": 8,
       "tier": "A",
-      "tour": "DGPT"
-    }
-  ],
-  "gavin-babcock": [
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -7954,15 +7563,6 @@
       "place": 3,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 8,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -8741,6 +8341,14 @@
   ],
   "heidi-laine": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -8811,15 +8419,6 @@
       "place": 7,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 3,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -9969,6 +9568,14 @@
   ],
   "jake-monn": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -10072,18 +9679,17 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
+    }
+  ],
+  "jakub-semerd": [
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
-      "place": 6,
-      "source": "pdga:98193",
+      "place": 23,
       "tier": "A",
-      "tour": "DGPT"
-    }
-  ],
-  "jakub-semerd": [
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -10212,76 +9818,11 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 23,
-      "source": "pdga:98193",
-      "tier": "A",
-      "tour": "DGPT"
     }
   ],
   "james-bennett": [],
   "james-collier": [],
   "james-conrad": [
-    {
-      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
-      "event_key": "wge-otb-open-by-mvp-disc-sports",
-      "month": "May",
-      "place": 16,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
-      "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
-      "month": "May",
-      "place": 67,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
-      "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
-      "month": "Apr",
-      "place": 77,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
-      "event_key": "play-it-again-sports-jonesboro-open-presented-by",
-      "month": "Apr",
-      "place": 44,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "2026 PDGA Champions Cup Presented by Vessi",
-      "event_key": "2026-pdga-champions-cup-presented-by-vessi",
-      "month": "Apr",
-      "place": 44,
-      "tier": "M",
-      "tour": "Major"
-    },
-    {
-      "event": "DGPT - MVP Big Easy Open presented by Flight Factory",
-      "event_key": "mvp-big-easy-open-presented-by-flight-factory",
-      "month": "Mar",
-      "place": 30,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - Discraft\u2019s Supreme Flight Open Presented by Florida\u2019s",
-      "event_key": "discraft-s-supreme-flight-open-presented-by-flor",
-      "month": "Feb",
-      "place": 82,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
     {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
       "event_key": "otb-open-by-mvp-disc-sports",
@@ -10655,38 +10196,6 @@
   ],
   "jeffrey-mccormick": [
     {
-      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
-      "event_key": "wge-otb-open-by-mvp-disc-sports",
-      "month": "May",
-      "place": 107,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
-      "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
-      "month": "May",
-      "place": 64,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "The First Responders Open 6.0",
-      "event_key": "the-first-responders-open-6-0",
-      "month": "May",
-      "place": 9,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "Sunday PDGA Sanctioned Ace Discs League (Flex Start)",
-      "event_key": "sunday-pdga-sanctioned-ace-discs-league-flex-sta",
-      "month": "Mar",
-      "place": 4,
-      "tier": "L",
-      "tour": ""
-    },
-    {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
       "event_key": "otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -10764,6 +10273,14 @@
     }
   ],
   "jennifer-smiley": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -10883,15 +10400,6 @@
       "place": 24,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 20,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -11025,6 +10533,14 @@
   ],
   "jessica-gurthie": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -11103,15 +10619,6 @@
       "place": 17,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 11,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -11300,6 +10807,14 @@
   ],
   "joey-temali": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 21,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -11378,15 +10893,6 @@
       "place": 61,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 21,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -11517,80 +11023,7 @@
       "tour": ""
     }
   ],
-  "jonathan-borzick": [
-    {
-      "event": "IOS #137 Forest City Frenzy presented by Discraft",
-      "event_key": "ios-137-forest-city-frenzy-presented-by-discraft",
-      "month": "May",
-      "place": 1,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
-      "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
-      "month": "Apr",
-      "place": 36,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "2026 PDGA Champions Cup Presented by Vessi",
-      "event_key": "2026-pdga-champions-cup-presented-by-vessi",
-      "month": "Apr",
-      "place": 56,
-      "tier": "M",
-      "tour": "Major"
-    },
-    {
-      "event": "The Blue Ridge Championship Generated By Grit Discs",
-      "event_key": "the-blue-ridge-championship-generated-by-grit-di",
-      "month": "Apr",
-      "place": 14,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "DGPT - Queen City Classic presented by Another Round",
-      "event_key": "queen-city-classic-presented-by-another-round",
-      "month": "Mar",
-      "place": 37,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - MVP Big Easy Open presented by Flight Factory",
-      "event_key": "mvp-big-easy-open-presented-by-flight-factory",
-      "month": "Mar",
-      "place": 41,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "Discraft presents Throw Down the Mountain XIV - Weekend 1",
-      "event_key": "discraft-presents-throw-down-the-mountain-xiv-we",
-      "month": "Mar",
-      "place": 5,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "DGPT - Discraft\u2019s Supreme Flight Open Presented by Florida\u2019s",
-      "event_key": "discraft-s-supreme-flight-open-presented-by-flor",
-      "month": "Feb",
-      "place": 28,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "2026 Northwest Florida Disc Golf Championship, Presented by Krien",
-      "event_key": "2026-northwest-florida-disc-golf-championship-pr",
-      "month": "Feb",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    }
-  ],
+  "jonathan-borzick": [],
   "joona-heinnen": [
     {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
@@ -11678,78 +11111,6 @@
     }
   ],
   "joseph-anderson": [
-    {
-      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
-      "event_key": "wge-otb-open-by-mvp-disc-sports",
-      "month": "May",
-      "place": 32,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
-      "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
-      "month": "May",
-      "place": 26,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Innova presents WACO powered by Legit Disc Golf",
-      "event_key": "jomezpro-innova-presents-waco-powered-by-legit-d",
-      "month": "May",
-      "place": 7,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
-      "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
-      "month": "Apr",
-      "place": 61,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "2026 PDGA Champions Cup Presented by Vessi",
-      "event_key": "2026-pdga-champions-cup-presented-by-vessi",
-      "month": "Apr",
-      "place": 14,
-      "tier": "M",
-      "tour": "Major"
-    },
-    {
-      "event": "DGPT - Queen City Classic presented by Another Round",
-      "event_key": "queen-city-classic-presented-by-another-round",
-      "month": "Mar",
-      "place": 8,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - MVP Big Easy Open presented by Flight Factory",
-      "event_key": "mvp-big-easy-open-presented-by-flight-factory",
-      "month": "Mar",
-      "place": 5,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - Discraft\u2019s Supreme Flight Open Presented by Florida\u2019s",
-      "event_key": "discraft-s-supreme-flight-open-presented-by-flor",
-      "month": "Feb",
-      "place": 15,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "21st Open at Tallahassee Sponsored by Visit Tallahassee/Dynamic D",
-      "event_key": "21st-open-at-tallahassee-sponsored-by-visit-tall",
-      "month": "Feb",
-      "place": 1,
-      "tier": "A",
-      "tour": ""
-    },
     {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
       "event_key": "otb-open-by-mvp-disc-sports",
@@ -12085,6 +11446,14 @@
   ],
   "kat-mertsch": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -12204,19 +11573,18 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 5,
-      "source": "pdga:98193",
-      "tier": "A",
-      "tour": "DGPT"
     }
   ],
   "katherine-aydelott-284553": [],
   "kelley-foster": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -12305,15 +11673,6 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 7,
-      "source": "pdga:98193",
-      "tier": "A",
-      "tour": "DGPT"
     }
   ],
   "kevin-jones": [
@@ -12367,6 +11726,14 @@
     }
   ],
   "kirby-snyder": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 40,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -12463,18 +11830,17 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
+    }
+  ],
+  "konastar-montgomery": [
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
-      "place": 40,
-      "source": "pdga:98193",
+      "place": 4,
       "tier": "A",
-      "tour": "DGPT"
-    }
-  ],
-  "konastar-montgomery": [
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -12570,15 +11936,6 @@
       "place": 18,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 4,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -12967,6 +12324,22 @@
   ],
   "leah-tsinajinnie": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "WGE Atlanta 2026 Supported by Innova",
+      "event_key": "wge-atlanta-2026-supported-by-innova",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Prodigy presents the Lake Marshall Open- Pro",
       "event_key": "prodigy-presents-the-lake-marshall-open-pro",
       "month": "May",
@@ -13061,15 +12434,6 @@
       "place": 3,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 16,
-      "source": "pdga:98193",
-      "tier": "A",
-      "tour": "DGPT"
     }
   ],
   "levi-stout": [
@@ -13279,6 +12643,14 @@
   ],
   "lisa-fajkus": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -13373,15 +12745,6 @@
       "place": 23,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 8,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -13545,6 +12908,14 @@
   ],
   "lucas-carmichael": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 37,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -13648,106 +13019,9 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 37,
-      "source": "pdga:98193",
-      "tier": "A",
-      "tour": "DGPT"
     }
   ],
   "luke-humphries": [
-    {
-      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
-      "event_key": "wge-otb-open-by-mvp-disc-sports",
-      "month": "May",
-      "place": 64,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
-      "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
-      "month": "May",
-      "place": 10,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
-      "event_key": "play-it-again-sports-jonesboro-open-presented-by",
-      "month": "Apr",
-      "place": 85,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "2026 PDGA Champions Cup Presented by Vessi",
-      "event_key": "2026-pdga-champions-cup-presented-by-vessi",
-      "month": "Apr",
-      "place": 66,
-      "tier": "M",
-      "tour": "Major"
-    },
-    {
-      "event": "DGPT - Queen City Classic presented by Another Round",
-      "event_key": "queen-city-classic-presented-by-another-round",
-      "month": "Mar",
-      "place": 106,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - MVP Big Easy Open presented by Flight Factory",
-      "event_key": "mvp-big-easy-open-presented-by-flight-factory",
-      "month": "Mar",
-      "place": 21,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - Discraft\u2019s Supreme Flight Open Presented by Florida\u2019s",
-      "event_key": "discraft-s-supreme-flight-open-presented-by-flor",
-      "month": "Feb",
-      "place": 61,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "TDU - 2026 MVP Discs Bottle Lake Open",
-      "event_key": "tdu-2026-mvp-discs-bottle-lake-open",
-      "month": "Feb",
-      "place": 2,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "TDU - 2026 New Zealand Disc Golf Open, presented by RPM Discs",
-      "event_key": "tdu-2026-new-zealand-disc-golf-open-presented-by",
-      "month": "Jan",
-      "place": 5,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "TDU - 2026 Discraft Australasian Open presented by OTB",
-      "event_key": "tdu-2026-discraft-australasian-open-presented-by",
-      "month": "Jan",
-      "place": 8,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "TDU - 2026 Taranaki Disc Golf Open, presented by MVP Discs",
-      "event_key": "tdu-2026-taranaki-disc-golf-open-presented-by-mv",
-      "month": "Jan",
-      "place": 6,
-      "tier": "A",
-      "tour": ""
-    },
     {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
       "event_key": "otb-open-by-mvp-disc-sports",
@@ -13759,6 +13033,14 @@
     }
   ],
   "luke-samson": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 35,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -13887,18 +13169,17 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
+    }
+  ],
+  "luke-taylor": [
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
-      "place": 35,
-      "source": "pdga:98193",
+      "place": 3,
       "tier": "A",
-      "tour": "DGPT"
-    }
-  ],
-  "luke-taylor": [
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -13987,15 +13268,6 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 3,
-      "source": "pdga:98193",
-      "tier": "A",
-      "tour": "DGPT"
     }
   ],
   "lykke-lorentzen": [
@@ -14075,6 +13347,14 @@
     }
   ],
   "madison-tomaino": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 37,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -14170,15 +13450,6 @@
       "place": 34,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 37,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -15466,48 +14737,7 @@
     }
   ],
   "natalie-berg-268900": [],
-  "nate-corder": [
-    {
-      "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
-      "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
-      "month": "May",
-      "place": 89,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "The 6th Annual Mint Discs Open (A HOTT Points Event)",
-      "event_key": "the-6th-annual-mint-discs-open-a-hott-points-eve",
-      "month": "Apr",
-      "place": 13,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "DGPT - Queen City Classic presented by Another Round",
-      "event_key": "queen-city-classic-presented-by-another-round",
-      "month": "Mar",
-      "place": 99,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - MVP Big Easy Open presented by Flight Factory",
-      "event_key": "mvp-big-easy-open-presented-by-flight-factory",
-      "month": "Mar",
-      "place": 82,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "The Georgia State Championships Presented by Dirty South Discs Po",
-      "event_key": "the-georgia-state-championships-presented-by-dir",
-      "month": "Mar",
-      "place": 32,
-      "tier": "A",
-      "tour": ""
-    }
-  ],
+  "nate-corder": [],
   "nate-toutolmin": [
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
@@ -16130,64 +15360,7 @@
       "tour": "Major"
     }
   ],
-  "niklas-anttila": [
-    {
-      "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
-      "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
-      "month": "May",
-      "place": 12,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Innova presents WACO powered by Legit Disc Golf",
-      "event_key": "jomezpro-innova-presents-waco-powered-by-legit-d",
-      "month": "May",
-      "place": 2,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
-      "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
-      "month": "Apr",
-      "place": 25,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
-      "event_key": "play-it-again-sports-jonesboro-open-presented-by",
-      "month": "Apr",
-      "place": 6,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "2026 PDGA Champions Cup Presented by Vessi",
-      "event_key": "2026-pdga-champions-cup-presented-by-vessi",
-      "month": "Apr",
-      "place": 1,
-      "tier": "M",
-      "tour": "Major"
-    },
-    {
-      "event": "DGPT - Queen City Classic presented by Another Round",
-      "event_key": "queen-city-classic-presented-by-another-round",
-      "month": "Mar",
-      "place": 12,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - Discraft\u2019s Supreme Flight Open Presented by Florida\u2019s",
-      "event_key": "discraft-s-supreme-flight-open-presented-by-flor",
-      "month": "Feb",
-      "place": 15,
-      "tier": "NT",
-      "tour": "DGPT"
-    }
-  ],
+  "niklas-anttila": [],
   "nina-bennett": [
     {
       "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
@@ -16332,6 +15505,14 @@
   ],
   "noah-meintsma": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -16362,15 +15543,6 @@
       "place": 23,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 3,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -16457,6 +15629,14 @@
     }
   ],
   "ohn-scoggins": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -16576,15 +15756,6 @@
       "place": 3,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 2,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -16925,6 +16096,14 @@
   "paul-davidson": [],
   "paul-krans": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -17019,15 +16198,6 @@
       "place": 18,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 17,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -17290,6 +16460,14 @@
   ],
   "ratana-mcmahon": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 21,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -17385,18 +16563,17 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
+    }
+  ],
+  "raven-klein": [
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
-      "place": 21,
-      "source": "pdga:98193",
+      "place": 14,
       "tier": "A",
-      "tour": "DGPT"
-    }
-  ],
-  "raven-klein": [
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -17468,15 +16645,6 @@
       "place": 29,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 14,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -17597,6 +16765,14 @@
   ],
   "rebecca-cox": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -17675,15 +16851,6 @@
       "place": 2,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 17,
-      "source": "pdga:98193",
-      "tier": "A",
-      "tour": "DGPT"
     }
   ],
   "rebecca-don": [
@@ -17762,6 +16929,22 @@
     }
   ],
   "rebecca-minnick": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 30,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "New England Amateur Disc Golf Championship & WGE Sponsored by Lat",
+      "event_key": "new-england-amateur-disc-golf-championship-wge-s",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "WGE 2026 The Florida Hummingbird presented by Tri-Fly Disc Golf",
       "event_key": "wge-2026-the-florida-hummingbird-presented-by-tr",
@@ -17921,15 +17104,6 @@
       "place": 1,
       "tier": "C",
       "tour": ""
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 30,
-      "source": "pdga:98193",
-      "tier": "A",
-      "tour": "DGPT"
     }
   ],
   "reese-petersen": [],
@@ -18009,6 +17183,14 @@
     }
   ],
   "robert-burridge": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 31,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -18120,15 +17302,6 @@
       "place": 50,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 31,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -18295,6 +17468,14 @@
   ],
   "ryan-monn": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 33,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -18381,15 +17562,6 @@
       "place": 98,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 33,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -18605,6 +17777,14 @@
   ],
   "sarah-hokom": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 Tim Selinske United States Masters Disc Golf Championships",
       "event_key": "2026-tim-selinske-united-states-masters-disc-gol",
       "month": "May",
@@ -18667,15 +17847,6 @@
       "place": 4,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 10,
-      "source": "pdga:98193",
-      "tier": "A",
-      "tour": "DGPT"
     }
   ],
   "sawyer-barlow": [],
@@ -18944,102 +18115,6 @@
   ],
   "sias-elmore": [
     {
-      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
-      "event_key": "wge-otb-open-by-mvp-disc-sports",
-      "month": "May",
-      "place": 80,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
-      "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
-      "month": "May",
-      "place": 12,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "Daniel Boe Memorial - Weekend 2",
-      "event_key": "daniel-boe-memorial-weekend-2",
-      "month": "Apr",
-      "place": 6,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "2026 Battle at Brengle - Presented by Innova Disc Golf",
-      "event_key": "2026-battle-at-brengle-presented-by-innova-disc-",
-      "month": "Mar",
-      "place": 6,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "San Diego Aces $5 Flex Start - March 2026",
-      "event_key": "san-diego-aces-5-flex-start-march-2026",
-      "month": "Mar",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "The Aero Cup - Circle One Disc Golf",
-      "event_key": "the-aero-cup-circle-one-disc-golf",
-      "month": "Feb",
-      "place": 7,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "Dog days Flex 1.29",
-      "event_key": "dog-days-flex-1-29",
-      "month": "Jan",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "La Mirada Open 2026 - PRO Weekend Sponsored by Innova (CDGS Event",
-      "event_key": "la-mirada-open-2026-pro-weekend-sponsored-by-inn",
-      "month": "Jan",
-      "place": 25,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "2026 Dog Haus Open",
-      "event_key": "2026-dog-haus-open",
-      "month": "Jan",
-      "place": 5,
-      "tier": "B",
-      "tour": ""
-    },
-    {
-      "event": "San Diego Aces $5 Flex Start - January 2026",
-      "event_key": "san-diego-aces-5-flex-start-january-2026",
-      "month": "Jan",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "Dog Haus Open \u2018Warm-up Flex\u2019 2",
-      "event_key": "dog-haus-open-warm-up-flex-2",
-      "month": "Jan",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
-      "event": "Dog Haus Open \u2018Warm-up Flex\u2019 1",
-      "event_key": "dog-haus-open-warm-up-flex-1",
-      "month": "Jan",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
       "event_key": "otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -19134,6 +18209,14 @@
   ],
   "silva-saarinen": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -19196,15 +18279,6 @@
       "place": 2,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 1,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -19510,6 +18584,14 @@
   "stephen-mclaren": [],
   "sullivan-tipton": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -19563,15 +18645,6 @@
       "month": "Feb",
       "place": 5,
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 14,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -20382,6 +19455,14 @@
   ],
   "trevon-crowe": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 26,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -20516,15 +19597,6 @@
       "place": 83,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 26,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -20690,6 +19762,14 @@
   ],
   "ty-love": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -20801,15 +19881,6 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 20,
-      "source": "pdga:98193",
-      "tier": "A",
-      "tour": "DGPT"
     }
   ],
   "valerie-mandujano": [
@@ -20880,6 +19951,14 @@
   ],
   "vin-mkel": [
     {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -20926,15 +20005,6 @@
       "place": 22,
       "source": "pdga:96409",
       "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT JomezPro - Discraft Cascade Challenge",
-      "event_key": "jomezpro-discraft-cascade-challenge",
-      "month": "May",
-      "place": 12,
-      "source": "pdga:98193",
-      "tier": "A",
       "tour": "DGPT"
     }
   ],

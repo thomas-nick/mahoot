@@ -1,13 +1,13 @@
 {
   "division": "FPO",
   "week": "2026-23",
-  "saved_at": "2026-06-01T04:04:16.487647+00:00",
+  "saved_at": "2026-06-01T20:56:47.149934+00:00",
   "players": [
     {
       "slug": "ohn-scoggins",
       "name": "Ohn Scoggins",
       "tour_rank": 1,
-      "tour_weighted_points": 1760.0,
+      "tour_weighted_points": 1598.7,
       "dgpt_rank": 2,
       "wins": 9
     },
@@ -23,7 +23,7 @@
       "slug": "silva-saarinen",
       "name": "Silva Saarinen",
       "tour_rank": 3,
-      "tour_weighted_points": 1432.2,
+      "tour_weighted_points": 1217.2,
       "dgpt_rank": 3,
       "wins": 2
     },
@@ -39,7 +39,7 @@
       "slug": "kat-mertsch",
       "name": "Kat Mertsch",
       "tour_rank": 5,
-      "tour_weighted_points": 619.4,
+      "tour_weighted_points": 544.1,
       "dgpt_rank": 7,
       "wins": 2
     },
@@ -47,7 +47,7 @@
       "slug": "lisa-fajkus",
       "name": "Lisa Fajkus",
       "tour_rank": 6,
-      "tour_weighted_points": 585.7,
+      "tour_weighted_points": 542.7,
       "dgpt_rank": 13,
       "wins": 3
     },
@@ -76,17 +76,9 @@
       "wins": 0
     },
     {
-      "slug": "jessica-gurthie",
-      "name": "Jessica Gurthie",
-      "tour_rank": 10,
-      "tour_weighted_points": 487.9,
-      "dgpt_rank": 14,
-      "wins": 1
-    },
-    {
       "slug": "eveliina-salonen",
       "name": "Eveliina Salonen",
-      "tour_rank": 11,
+      "tour_rank": 10,
       "tour_weighted_points": 487.5,
       "dgpt_rank": 9,
       "wins": 1
@@ -94,10 +86,18 @@
     {
       "slug": "ella-hansen",
       "name": "Ella Hansen",
-      "tour_rank": 12,
+      "tour_rank": 11,
       "tour_weighted_points": 484.5,
       "dgpt_rank": 5,
       "wins": 0
+    },
+    {
+      "slug": "jessica-gurthie",
+      "name": "Jessica Gurthie",
+      "tour_rank": 12,
+      "tour_weighted_points": 470.7,
+      "dgpt_rank": 14,
+      "wins": 1
     }
   ]
 }

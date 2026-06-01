@@ -1,12 +1,12 @@
 {
   "title": "DGPT Manufacturers Cup",
   "description": "F1-style constructors championship for disc golf brands",
-  "updated_at": "2026-06-01T04:03:08.133317+00:00",
+  "updated_at": "2026-06-01T20:53:41.571556+00:00",
   "divisions": {
     "MPO": {
       "division": "MPO",
       "week": "2026-23",
-      "updated_at": "2026-06-01T04:03:55.890145+00:00",
+      "updated_at": "2026-06-01T20:56:27.222265+00:00",
       "source": "https://statmando.com/rankings/dgpt/mpo",
       "player_count": 260,
       "mapped_players": 85,
@@ -57,7 +57,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 4,
-              "cashed": 7,
+              "cashed": 8,
               "manufacturer": "Unknown"
             },
             {
@@ -96,7 +96,7 @@
               "starts": 7,
               "wins": 0,
               "top10s": 0,
-              "cashed": 5,
+              "cashed": 6,
               "manufacturer": "Unknown"
             },
             {
@@ -109,7 +109,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 2,
-              "cashed": 6,
+              "cashed": 7,
               "manufacturer": "Unknown"
             },
             {
@@ -122,7 +122,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 1,
-              "cashed": 5,
+              "cashed": 6,
               "manufacturer": "Unknown"
             },
             {
@@ -135,7 +135,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 1,
-              "cashed": 6,
+              "cashed": 7,
               "manufacturer": "Unknown"
             },
             {
@@ -161,7 +161,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 0,
-              "cashed": 2,
+              "cashed": 3,
               "manufacturer": "Unknown"
             },
             {
@@ -174,7 +174,7 @@
               "starts": 3,
               "wins": 0,
               "top10s": 1,
-              "cashed": 2,
+              "cashed": 3,
               "manufacturer": "Unknown"
             },
             {
@@ -226,7 +226,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 0,
-              "cashed": 1,
+              "cashed": 2,
               "manufacturer": "Unknown"
             },
             {
@@ -343,7 +343,7 @@
               "starts": 8,
               "wins": 0,
               "top10s": 0,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "Unknown"
             },
             {
@@ -967,7 +967,7 @@
               "starts": 2,
               "wins": 0,
               "top10s": 0,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "Unknown"
             },
             {
@@ -1084,7 +1084,7 @@
               "starts": 2,
               "wins": 0,
               "top10s": 0,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "Unknown"
             },
             {
@@ -1240,7 +1240,7 @@
               "starts": 2,
               "wins": 0,
               "top10s": 0,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "Unknown"
             },
             {
@@ -2317,8 +2317,8 @@
             "avg_points": 39.2,
             "avg_points_gain": 0.1,
             "avg_starts": 2.4,
-            "total_cashed": 92,
-            "cash_rate": 0.221,
+            "total_cashed": 104,
+            "cash_rate": 0.25,
             "win_rate": 0.002,
             "top10_rate": 0.041,
             "momentum": 20.0
@@ -2361,7 +2361,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 7,
-              "cashed": 9,
+              "cashed": 10,
               "manufacturer": "Discraft"
             },
             {
@@ -2374,7 +2374,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 3,
-              "cashed": 7,
+              "cashed": 8,
               "manufacturer": "Discraft"
             },
             {
@@ -2400,7 +2400,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 3,
-              "cashed": 8,
+              "cashed": 9,
               "manufacturer": "Discraft"
             },
             {
@@ -2439,7 +2439,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 2,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Discraft"
             },
             {
@@ -2478,7 +2478,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 0,
-              "cashed": 3,
+              "cashed": 4,
               "manufacturer": "Discraft"
             },
             {
@@ -2606,8 +2606,8 @@
             "avg_points": 289.2,
             "avg_points_gain": 0.5,
             "avg_starts": 6.0,
-            "total_cashed": 77,
-            "cash_rate": 0.642,
+            "total_cashed": 82,
+            "cash_rate": 0.683,
             "win_rate": 0.017,
             "top10_rate": 0.225,
             "momentum": 10.0
@@ -2644,7 +2644,7 @@
               "starts": 9,
               "wins": 4,
               "top10s": 9,
-              "cashed": 8,
+              "cashed": 9,
               "manufacturer": "Discmania"
             },
             {
@@ -2696,7 +2696,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 3,
-              "cashed": 6,
+              "cashed": 7,
               "manufacturer": "Discmania"
             },
             {
@@ -2733,8 +2733,8 @@
             "avg_points": 549.7,
             "avg_points_gain": 3.6,
             "avg_starts": 7.9,
-            "total_cashed": 43,
-            "cash_rate": 0.782,
+            "total_cashed": 45,
+            "cash_rate": 0.818,
             "win_rate": 0.091,
             "top10_rate": 0.4,
             "momentum": 25.0
@@ -2771,7 +2771,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 3,
-              "cashed": 8,
+              "cashed": 9,
               "manufacturer": "MVP"
             },
             {
@@ -2810,7 +2810,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 1,
-              "cashed": 8,
+              "cashed": 9,
               "manufacturer": "MVP"
             },
             {
@@ -2823,7 +2823,7 @@
               "starts": 7,
               "wins": 0,
               "top10s": 1,
-              "cashed": 5,
+              "cashed": 6,
               "manufacturer": "MVP"
             },
             {
@@ -2862,7 +2862,7 @@
               "starts": 8,
               "wins": 0,
               "top10s": 0,
-              "cashed": 3,
+              "cashed": 4,
               "manufacturer": "MVP"
             },
             {
@@ -2888,7 +2888,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 0,
-              "cashed": 1,
+              "cashed": 2,
               "manufacturer": "MVP"
             },
             {
@@ -2914,7 +2914,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 0,
-              "cashed": 1,
+              "cashed": 2,
               "manufacturer": "MVP"
             }
           ],
@@ -2925,8 +2925,8 @@
             "avg_points": 283.1,
             "avg_points_gain": 1.2,
             "avg_starts": 7.9,
-            "total_cashed": 53,
-            "cash_rate": 0.558,
+            "total_cashed": 59,
+            "cash_rate": 0.621,
             "win_rate": 0.0,
             "top10_rate": 0.095,
             "momentum": 15.0
@@ -2963,7 +2963,7 @@
               "starts": 8,
               "wins": 0,
               "top10s": 3,
-              "cashed": 7,
+              "cashed": 8,
               "manufacturer": "DGA"
             },
             {
@@ -2976,7 +2976,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 3,
-              "cashed": 9,
+              "cashed": 10,
               "manufacturer": "DGA"
             },
             {
@@ -2989,7 +2989,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 3,
-              "cashed": 6,
+              "cashed": 7,
               "manufacturer": "DGA"
             },
             {
@@ -3015,7 +3015,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 1,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "DGA"
             }
           ],
@@ -3026,8 +3026,8 @@
             "avg_points": 436.1,
             "avg_points_gain": 3.0,
             "avg_starts": 9.0,
-            "total_cashed": 31,
-            "cash_rate": 0.689,
+            "total_cashed": 35,
+            "cash_rate": 0.778,
             "win_rate": 0.022,
             "top10_rate": 0.244,
             "momentum": 15.0
@@ -3090,7 +3090,7 @@
               "starts": 6,
               "wins": 0,
               "top10s": 0,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Innova"
             },
             {
@@ -3103,7 +3103,7 @@
               "starts": 8,
               "wins": 0,
               "top10s": 0,
-              "cashed": 6,
+              "cashed": 7,
               "manufacturer": "Innova"
             },
             {
@@ -3192,8 +3192,8 @@
             "avg_points": 170.8,
             "avg_points_gain": 0.0,
             "avg_starts": 4.3,
-            "total_cashed": 27,
-            "cash_rate": 0.628,
+            "total_cashed": 29,
+            "cash_rate": 0.674,
             "win_rate": 0.023,
             "top10_rate": 0.116,
             "momentum": 0.0
@@ -3243,7 +3243,7 @@
               "starts": 8,
               "wins": 0,
               "top10s": 0,
-              "cashed": 5,
+              "cashed": 6,
               "manufacturer": "Latitude 64"
             },
             {
@@ -3280,8 +3280,8 @@
             "avg_points": 345.5,
             "avg_points_gain": 0.0,
             "avg_starts": 7.0,
-            "total_cashed": 19,
-            "cash_rate": 0.679,
+            "total_cashed": 20,
+            "cash_rate": 0.714,
             "win_rate": 0.0,
             "top10_rate": 0.25,
             "momentum": 0.0
@@ -3331,7 +3331,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 0,
-              "cashed": 5,
+              "cashed": 6,
               "manufacturer": "Prodigy"
             },
             {
@@ -3459,8 +3459,8 @@
             "avg_points": 106.1,
             "avg_points_gain": 0.0,
             "avg_starts": 4.7,
-            "total_cashed": 16,
-            "cash_rate": 0.308,
+            "total_cashed": 17,
+            "cash_rate": 0.327,
             "win_rate": 0.0,
             "top10_rate": 0.058,
             "momentum": 0.0
@@ -3510,7 +3510,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 1,
-              "cashed": 6,
+              "cashed": 7,
               "manufacturer": "DD"
             },
             {
@@ -3547,8 +3547,8 @@
             "avg_points": 214.7,
             "avg_points_gain": 0.0,
             "avg_starts": 7.5,
-            "total_cashed": 17,
-            "cash_rate": 0.567,
+            "total_cashed": 18,
+            "cash_rate": 0.6,
             "win_rate": 0.0,
             "top10_rate": 0.067,
             "momentum": 0.0
@@ -3833,7 +3833,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 0,
-              "cashed": 1,
+              "cashed": 2,
               "manufacturer": "OTB"
             }
           ],
@@ -3844,8 +3844,8 @@
             "avg_points": 73.7,
             "avg_points_gain": 0.0,
             "avg_starts": 9.0,
-            "total_cashed": 1,
-            "cash_rate": 0.111,
+            "total_cashed": 2,
+            "cash_rate": 0.222,
             "win_rate": 0.0,
             "top10_rate": 0.0,
             "momentum": 0.0
@@ -4213,7 +4213,7 @@
     "FPO": {
       "division": "FPO",
       "week": "2026-23",
-      "updated_at": "2026-06-01T04:04:16.480025+00:00",
+      "updated_at": "2026-06-01T20:56:47.143773+00:00",
       "source": "https://statmando.com/rankings/dgpt/fpo",
       "player_count": 102,
       "mapped_players": 47,
@@ -4251,7 +4251,7 @@
               "starts": 9,
               "wins": 3,
               "top10s": 9,
-              "cashed": 8,
+              "cashed": 9,
               "manufacturer": "Innova"
             },
             {
@@ -4264,7 +4264,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 4,
-              "cashed": 8,
+              "cashed": 9,
               "manufacturer": "Innova"
             },
             {
@@ -4303,7 +4303,7 @@
               "starts": 8,
               "wins": 1,
               "top10s": 3,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Innova"
             },
             {
@@ -4316,7 +4316,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 4,
-              "cashed": 5,
+              "cashed": 6,
               "manufacturer": "Innova"
             },
             {
@@ -4342,7 +4342,7 @@
               "starts": 8,
               "wins": 0,
               "top10s": 4,
-              "cashed": 6,
+              "cashed": 7,
               "manufacturer": "Innova"
             },
             {
@@ -4418,8 +4418,8 @@
             "avg_points": 455.6,
             "avg_points_gain": 3.1,
             "avg_starts": 6.0,
-            "total_cashed": 56,
-            "cash_rate": 0.718,
+            "total_cashed": 61,
+            "cash_rate": 0.782,
             "win_rate": 0.077,
             "top10_rate": 0.449,
             "momentum": 40.0
@@ -4482,7 +4482,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 1,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Unknown"
             },
             {
@@ -4508,7 +4508,7 @@
               "starts": 8,
               "wins": 0,
               "top10s": 2,
-              "cashed": 3,
+              "cashed": 4,
               "manufacturer": "Unknown"
             },
             {
@@ -4534,7 +4534,7 @@
               "starts": 8,
               "wins": 0,
               "top10s": 1,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "Unknown"
             },
             {
@@ -4651,7 +4651,7 @@
               "starts": 2,
               "wins": 0,
               "top10s": 0,
-              "cashed": 1,
+              "cashed": 2,
               "manufacturer": "Unknown"
             },
             {
@@ -4833,7 +4833,7 @@
               "starts": 2,
               "wins": 0,
               "top10s": 0,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "Unknown"
             },
             {
@@ -5169,8 +5169,8 @@
             "avg_points": 89.3,
             "avg_points_gain": 0.2,
             "avg_starts": 2.7,
-            "total_cashed": 38,
-            "cash_rate": 0.253,
+            "total_cashed": 43,
+            "cash_rate": 0.287,
             "win_rate": 0.0,
             "top10_rate": 0.087,
             "momentum": 10.0
@@ -5366,7 +5366,7 @@
               "starts": 8,
               "wins": 2,
               "top10s": 7,
-              "cashed": 7,
+              "cashed": 8,
               "manufacturer": "MVP"
             },
             {
@@ -5405,7 +5405,7 @@
               "starts": 4,
               "wins": 0,
               "top10s": 1,
-              "cashed": 2,
+              "cashed": 3,
               "manufacturer": "MVP"
             }
           ],
@@ -5416,8 +5416,8 @@
             "avg_points": 398.2,
             "avg_points_gain": 6.2,
             "avg_starts": 5.2,
-            "total_cashed": 15,
-            "cash_rate": 0.714,
+            "total_cashed": 17,
+            "cash_rate": 0.81,
             "win_rate": 0.095,
             "top10_rate": 0.524,
             "momentum": 25.0
@@ -5568,7 +5568,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 1,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "DGA"
             }
           ],
@@ -5579,8 +5579,8 @@
             "avg_points": 523.4,
             "avg_points_gain": 0.0,
             "avg_starts": 9.5,
-            "total_cashed": 12,
-            "cash_rate": 0.632,
+            "total_cashed": 13,
+            "cash_rate": 0.684,
             "win_rate": 0.0,
             "top10_rate": 0.263,
             "momentum": 0.0
@@ -5617,7 +5617,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 5,
-              "cashed": 6,
+              "cashed": 7,
               "manufacturer": "OTB"
             },
             {
@@ -5630,7 +5630,7 @@
               "starts": 4,
               "wins": 0,
               "top10s": 1,
-              "cashed": 1,
+              "cashed": 2,
               "manufacturer": "OTB"
             }
           ],
@@ -5641,8 +5641,8 @@
             "avg_points": 297.4,
             "avg_points_gain": 2.5,
             "avg_starts": 6.5,
-            "total_cashed": 7,
-            "cash_rate": 0.538,
+            "total_cashed": 9,
+            "cash_rate": 0.692,
             "win_rate": 0.0,
             "top10_rate": 0.462,
             "momentum": 5.0
@@ -5692,7 +5692,7 @@
               "starts": 10,
               "wins": 0,
               "top10s": 0,
-              "cashed": 0,
+              "cashed": 1,
               "manufacturer": "ThoughtSpace"
             },
             {
@@ -5729,8 +5729,8 @@
             "avg_points": 129.3,
             "avg_points_gain": 0.0,
             "avg_starts": 5.2,
-            "total_cashed": 1,
-            "cash_rate": 0.048,
+            "total_cashed": 2,
+            "cash_rate": 0.095,
             "win_rate": 0.0,
             "top10_rate": 0.0,
             "momentum": 0.0
@@ -5767,7 +5767,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 3,
-              "cashed": 5,
+              "cashed": 6,
               "manufacturer": "Westside"
             },
             {
@@ -5791,8 +5791,8 @@
             "avg_points": 256.0,
             "avg_points_gain": 5.0,
             "avg_starts": 6.0,
-            "total_cashed": 5,
-            "cash_rate": 0.417,
+            "total_cashed": 6,
+            "cash_rate": 0.5,
             "win_rate": 0.0,
             "top10_rate": 0.25,
             "momentum": 10.0
@@ -5829,7 +5829,7 @@
               "starts": 9,
               "wins": 0,
               "top10s": 2,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Latitude 64"
             }
           ],
@@ -5840,8 +5840,8 @@
             "avg_points": 358.0,
             "avg_points_gain": 0.0,
             "avg_starts": 9.0,
-            "total_cashed": 4,
-            "cash_rate": 0.444,
+            "total_cashed": 5,
+            "cash_rate": 0.556,
             "win_rate": 0.0,
             "top10_rate": 0.222,
             "momentum": 0.0

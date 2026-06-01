@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T04:04:16.524274+00:00",
+  "updated_at": "2026-06-01T20:56:47.188372+00:00",
   "divisions": {
     "MPO": {
       "weeks": [
@@ -378,7 +378,7 @@
               {
                 "id": "gannon-buhr",
                 "label": "Gannon Buhr",
-                "points": 2105.0,
+                "points": 1890.0,
                 "rank": 1
               },
               {
@@ -402,7 +402,7 @@
               {
                 "id": "adam-hammes",
                 "label": "Adam Hammes",
-                "points": 697.0,
+                "points": 679.8,
                 "rank": 5
               },
               {
@@ -412,15 +412,15 @@
                 "rank": 6
               },
               {
-                "id": "niklas-anttila",
-                "label": "Niklas Anttila",
-                "points": 556.2,
+                "id": "anthony-barela",
+                "label": "Anthony Barela",
+                "points": 510.3,
                 "rank": 7
               },
               {
-                "id": "anthony-barela",
-                "label": "Anthony Barela",
-                "points": 527.5,
+                "id": "gavin-babcock",
+                "label": "Gavin Babcock",
+                "points": 426.0,
                 "rank": 8
               }
             ]
@@ -444,7 +444,7 @@
               },
               {
                 "week": "2026-23",
-                "value": 2105.0,
+                "value": 1890.0,
                 "rank": 1
               }
             ]
@@ -532,7 +532,7 @@
               },
               {
                 "week": "2026-23",
-                "value": 697.0,
+                "value": 679.8,
                 "rank": 5
               }
             ]
@@ -917,7 +917,7 @@
               {
                 "id": "ohn-scoggins",
                 "label": "Ohn Scoggins",
-                "points": 1760.0,
+                "points": 1598.7,
                 "rank": 1
               },
               {
@@ -929,7 +929,7 @@
               {
                 "id": "silva-saarinen",
                 "label": "Silva Saarinen",
-                "points": 1432.2,
+                "points": 1217.2,
                 "rank": 3
               },
               {
@@ -941,13 +941,13 @@
               {
                 "id": "kat-mertsch",
                 "label": "Kat Mertsch",
-                "points": 619.4,
+                "points": 544.1,
                 "rank": 5
               },
               {
                 "id": "lisa-fajkus",
                 "label": "Lisa Fajkus",
-                "points": 585.7,
+                "points": 542.7,
                 "rank": 6
               },
               {
@@ -983,7 +983,7 @@
               },
               {
                 "week": "2026-23",
-                "value": 1760.0,
+                "value": 1598.7,
                 "rank": 1
               }
             ]
@@ -1027,7 +1027,7 @@
               },
               {
                 "week": "2026-23",
-                "value": 1432.2,
+                "value": 1217.2,
                 "rank": 3
               }
             ]
@@ -1071,7 +1071,7 @@
               },
               {
                 "week": "2026-23",
-                "value": 619.4,
+                "value": 544.1,
                 "rank": 5
               }
             ]

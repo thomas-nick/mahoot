@@ -1,13 +1,13 @@
 {
   "division": "MPO",
   "week": "2026-23",
-  "saved_at": "2026-06-01T04:03:55.907171+00:00",
+  "saved_at": "2026-06-01T20:56:27.237100+00:00",
   "players": [
     {
       "slug": "gannon-buhr",
       "name": "Gannon Buhr",
       "tour_rank": 1,
-      "tour_weighted_points": 2105.0,
+      "tour_weighted_points": 1890.0,
       "dgpt_rank": 1,
       "wins": 7
     },
@@ -39,7 +39,7 @@
       "slug": "adam-hammes",
       "name": "Adam Hammes",
       "tour_rank": 5,
-      "tour_weighted_points": 697.0,
+      "tour_weighted_points": 679.8,
       "dgpt_rank": 5,
       "wins": 0
     },
@@ -52,41 +52,25 @@
       "wins": 1
     },
     {
-      "slug": "niklas-anttila",
-      "name": "Niklas Anttila",
-      "tour_rank": 7,
-      "tour_weighted_points": 556.2,
-      "dgpt_rank": 7,
-      "wins": 1
-    },
-    {
       "slug": "anthony-barela",
       "name": "Anthony Barela",
-      "tour_rank": 8,
-      "tour_weighted_points": 527.5,
+      "tour_rank": 7,
+      "tour_weighted_points": 510.3,
       "dgpt_rank": 6,
       "wins": 0
     },
     {
-      "slug": "andrew-marwede",
-      "name": "Andrew Marwede",
-      "tour_rank": 9,
-      "tour_weighted_points": 475.4,
-      "dgpt_rank": 15,
-      "wins": 1
-    },
-    {
       "slug": "gavin-babcock",
       "name": "Gavin Babcock",
-      "tour_rank": 10,
-      "tour_weighted_points": 469.0,
+      "tour_rank": 8,
+      "tour_weighted_points": 426.0,
       "dgpt_rank": 18,
       "wins": 0
     },
     {
       "slug": "evan-smith",
       "name": "Evan Smith",
-      "tour_rank": 11,
+      "tour_rank": 9,
       "tour_weighted_points": 423.4,
       "dgpt_rank": 24,
       "wins": 0
@@ -94,10 +78,26 @@
     {
       "slug": "paul-ulibarri",
       "name": "Paul Ulibarri",
-      "tour_rank": 12,
+      "tour_rank": 10,
       "tour_weighted_points": 408.2,
       "dgpt_rank": 21,
       "wins": 2
+    },
+    {
+      "slug": "ezra-robinson",
+      "name": "Ezra Robinson",
+      "tour_rank": 11,
+      "tour_weighted_points": 397.6,
+      "dgpt_rank": 11,
+      "wins": 0
+    },
+    {
+      "slug": "kyle-klein",
+      "name": "Kyle Klein",
+      "tour_rank": 12,
+      "tour_weighted_points": 387.0,
+      "dgpt_rank": 16,
+      "wins": 1
     }
   ]
 }
