@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T20:56:47.188372+00:00",
+  "updated_at": "2026-06-02T17:16:51.048778+00:00",
   "divisions": {
     "MPO": {
       "weeks": [
@@ -412,15 +412,15 @@
                 "rank": 6
               },
               {
-                "id": "anthony-barela",
-                "label": "Anthony Barela",
-                "points": 510.3,
+                "id": "niklas-anttila",
+                "label": "Niklas Anttila",
+                "points": 556.2,
                 "rank": 7
               },
               {
-                "id": "gavin-babcock",
-                "label": "Gavin Babcock",
-                "points": 426.0,
+                "id": "anthony-barela",
+                "label": "Anthony Barela",
+                "points": 510.3,
                 "rank": 8
               }
             ]
