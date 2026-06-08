@@ -1,11 +1,12 @@
 {
-  "updated_at": "2026-06-02T17:16:51.048778+00:00",
+  "updated_at": "2026-06-08T19:20:59.257265+00:00",
   "divisions": {
     "MPO": {
       "weeks": [
         "2026-20",
         "2026-22",
-        "2026-23"
+        "2026-23",
+        "2026-24"
       ],
       "manufacturers_cup": {
         "snapshots": [
@@ -149,6 +150,53 @@
                 "color": "#0891b2"
               }
             ]
+          },
+          {
+            "week": "2026-24",
+            "standings": [
+              {
+                "id": "Discmania",
+                "label": "Discmania",
+                "points": 3328.6,
+                "rank": 1,
+                "color": "#f59e0b"
+              },
+              {
+                "id": "Discraft",
+                "label": "Discraft",
+                "points": 3236.2,
+                "rank": 2,
+                "color": "#2563eb"
+              },
+              {
+                "id": "MVP",
+                "label": "MVP",
+                "points": 2054.69,
+                "rank": 3,
+                "color": "#7c3aed"
+              },
+              {
+                "id": "DGA",
+                "label": "DGA",
+                "points": 2054.64,
+                "rank": 4,
+                "color": "#0d9488"
+              },
+              {
+                "id": "Innova",
+                "label": "Innova",
+                "points": 1792.79,
+                "rank": 5,
+                "color": "#dc2626"
+              },
+              {
+                "id": "Latitude 64",
+                "label": "Latitude 64",
+                "points": 1667.5,
+                "rank": 6,
+                "color": "#0891b2"
+              }
+            ]
           }
         ],
         "series": [
@@ -170,6 +218,11 @@
               {
                 "week": "2026-23",
                 "value": 2960.41,
+                "rank": 1
+              },
+              {
+                "week": "2026-24",
+                "value": 3328.6,
                 "rank": 1
               }
             ]
@@ -193,28 +246,11 @@
                 "week": "2026-23",
                 "value": 2798.02,
                 "rank": 2
-              }
-            ]
-          },
-          {
-            "id": "DGA",
-            "label": "DGA",
-            "color": "#0d9488",
-            "points": [
-              {
-                "week": "2026-20",
-                "value": 1671.86,
-                "rank": 3
               },
               {
-                "week": "2026-22",
-                "value": 1866.52,
-                "rank": 3
-              },
-              {
-                "week": "2026-23",
-                "value": 1881.52,
-                "rank": 3
+                "week": "2026-24",
+                "value": 3236.2,
+                "rank": 2
               }
             ]
           },
@@ -237,6 +273,38 @@
                 "week": "2026-23",
                 "value": 1824.49,
                 "rank": 4
+              },
+              {
+                "week": "2026-24",
+                "value": 2054.69,
+                "rank": 3
+              }
+            ]
+          },
+          {
+            "id": "DGA",
+            "label": "DGA",
+            "color": "#0d9488",
+            "points": [
+              {
+                "week": "2026-20",
+                "value": 1671.86,
+                "rank": 3
+              },
+              {
+                "week": "2026-22",
+                "value": 1866.52,
+                "rank": 3
+              },
+              {
+                "week": "2026-23",
+                "value": 1881.52,
+                "rank": 3
+              },
+              {
+                "week": "2026-24",
+                "value": 2054.64,
+                "rank": 4
               }
             ]
           },
@@ -258,6 +326,11 @@
               {
                 "week": "2026-23",
                 "value": 1515.68,
+                "rank": 5
+              },
+              {
+                "week": "2026-24",
+                "value": 1792.79,
                 "rank": 5
               }
             ]
@@ -424,6 +497,59 @@
                 "rank": 8
               }
             ]
+          },
+          {
+            "week": "2026-24",
+            "standings": [
+              {
+                "id": "gannon-buhr",
+                "label": "Gannon Buhr",
+                "points": 1890.0,
+                "rank": 1
+              },
+              {
+                "id": "calvin-heimburg",
+                "label": "Calvin Heimburg",
+                "points": 1027.8,
+                "rank": 2
+              },
+              {
+                "id": "richard-wysocki",
+                "label": "Richard Wysocki",
+                "points": 840.0,
+                "rank": 3
+              },
+              {
+                "id": "isaac-robinson",
+                "label": "Isaac Robinson",
+                "points": 706.2,
+                "rank": 4
+              },
+              {
+                "id": "adam-hammes",
+                "label": "Adam Hammes",
+                "points": 679.8,
+                "rank": 5
+              },
+              {
+                "id": "jaden-rye",
+                "label": "Jaden Rye",
+                "points": 675.5,
+                "rank": 6
+              },
+              {
+                "id": "niklas-anttila",
+                "label": "Niklas Anttila",
+                "points": 556.2,
+                "rank": 7
+              },
+              {
+                "id": "anthony-barela",
+                "label": "Anthony Barela",
+                "points": 510.3,
+                "rank": 8
+              }
+            ]
           }
         ],
         "series": [
@@ -444,6 +570,11 @@
               },
               {
                 "week": "2026-23",
+                "value": 1890.0,
+                "rank": 1
+              },
+              {
+                "week": "2026-24",
                 "value": 1890.0,
                 "rank": 1
               }
@@ -468,6 +599,11 @@
                 "week": "2026-23",
                 "value": 1027.8,
                 "rank": 2
+              },
+              {
+                "week": "2026-24",
+                "value": 1027.8,
+                "rank": 2
               }
             ]
           },
@@ -488,6 +624,11 @@
               },
               {
                 "week": "2026-23",
+                "value": 840.0,
+                "rank": 3
+              },
+              {
+                "week": "2026-24",
                 "value": 840.0,
                 "rank": 3
               }
@@ -512,6 +653,11 @@
                 "week": "2026-23",
                 "value": 706.2,
                 "rank": 4
+              },
+              {
+                "week": "2026-24",
+                "value": 706.2,
+                "rank": 4
               }
             ]
           },
@@ -534,6 +680,11 @@
                 "week": "2026-23",
                 "value": 679.8,
                 "rank": 5
+              },
+              {
+                "week": "2026-24",
+                "value": 679.8,
+                "rank": 5
               }
             ]
           }
@@ -544,7 +695,8 @@
       "weeks": [
         "2026-20",
         "2026-22",
-        "2026-23"
+        "2026-23",
+        "2026-24"
       ],
       "manufacturers_cup": {
         "snapshots": [
@@ -688,6 +840,53 @@
                 "color": "#334155"
               }
             ]
+          },
+          {
+            "week": "2026-24",
+            "standings": [
+              {
+                "id": "Discraft",
+                "label": "Discraft",
+                "points": 3480.33,
+                "rank": 1,
+                "color": "#2563eb"
+              },
+              {
+                "id": "Innova",
+                "label": "Innova",
+                "points": 3196.25,
+                "rank": 2,
+                "color": "#dc2626"
+              },
+              {
+                "id": "MVP",
+                "label": "MVP",
+                "points": 1847.91,
+                "rank": 3,
+                "color": "#7c3aed"
+              },
+              {
+                "id": "DGA",
+                "label": "DGA",
+                "points": 1272.08,
+                "rank": 4,
+                "color": "#0d9488"
+              },
+              {
+                "id": "Discmania",
+                "label": "Discmania",
+                "points": 1144.75,
+                "rank": 5,
+                "color": "#f59e0b"
+              },
+              {
+                "id": "OTB",
+                "label": "OTB",
+                "points": 646.83,
+                "rank": 6,
+                "color": "#334155"
+              }
+            ]
           }
         ],
         "series": [
@@ -709,6 +908,11 @@
               {
                 "week": "2026-23",
                 "value": 3024.33,
+                "rank": 1
+              },
+              {
+                "week": "2026-24",
+                "value": 3480.33,
                 "rank": 1
               }
             ]
@@ -732,6 +936,11 @@
                 "week": "2026-23",
                 "value": 2936.92,
                 "rank": 2
+              },
+              {
+                "week": "2026-24",
+                "value": 3196.25,
+                "rank": 2
               }
             ]
           },
@@ -753,6 +962,11 @@
               {
                 "week": "2026-23",
                 "value": 1592.91,
+                "rank": 3
+              },
+              {
+                "week": "2026-24",
+                "value": 1847.91,
                 "rank": 3
               }
             ]
@@ -776,6 +990,11 @@
                 "week": "2026-23",
                 "value": 1046.75,
                 "rank": 4
+              },
+              {
+                "week": "2026-24",
+                "value": 1272.08,
+                "rank": 4
               }
             ]
           },
@@ -797,6 +1016,11 @@
               {
                 "week": "2026-23",
                 "value": 1030.08,
+                "rank": 5
+              },
+              {
+                "week": "2026-24",
+                "value": 1144.75,
                 "rank": 5
               }
             ]
@@ -963,6 +1187,59 @@
                 "rank": 8
               }
             ]
+          },
+          {
+            "week": "2026-24",
+            "standings": [
+              {
+                "id": "ohn-scoggins",
+                "label": "Ohn Scoggins",
+                "points": 1598.7,
+                "rank": 1
+              },
+              {
+                "id": "holyn-handley",
+                "label": "Holyn Handley",
+                "points": 1590.0,
+                "rank": 2
+              },
+              {
+                "id": "silva-saarinen",
+                "label": "Silva Saarinen",
+                "points": 1217.2,
+                "rank": 3
+              },
+              {
+                "id": "henna-blomroos",
+                "label": "Henna Blomroos",
+                "points": 796.7,
+                "rank": 4
+              },
+              {
+                "id": "kat-mertsch",
+                "label": "Kat Mertsch",
+                "points": 544.1,
+                "rank": 5
+              },
+              {
+                "id": "lisa-fajkus",
+                "label": "Lisa Fajkus",
+                "points": 542.7,
+                "rank": 6
+              },
+              {
+                "id": "missy-gannon",
+                "label": "Missy Gannon",
+                "points": 542.5,
+                "rank": 7
+              },
+              {
+                "id": "valerie-mandujano",
+                "label": "Valerie Mandujano",
+                "points": 523.2,
+                "rank": 8
+              }
+            ]
           }
         ],
         "series": [
@@ -983,6 +1260,11 @@
               },
               {
                 "week": "2026-23",
+                "value": 1598.7,
+                "rank": 1
+              },
+              {
+                "week": "2026-24",
                 "value": 1598.7,
                 "rank": 1
               }
@@ -1007,6 +1289,11 @@
                 "week": "2026-23",
                 "value": 1590.0,
                 "rank": 2
+              },
+              {
+                "week": "2026-24",
+                "value": 1590.0,
+                "rank": 2
               }
             ]
           },
@@ -1027,6 +1314,11 @@
               },
               {
                 "week": "2026-23",
+                "value": 1217.2,
+                "rank": 3
+              },
+              {
+                "week": "2026-24",
                 "value": 1217.2,
                 "rank": 3
               }
@@ -1051,6 +1343,11 @@
                 "week": "2026-23",
                 "value": 796.7,
                 "rank": 4
+              },
+              {
+                "week": "2026-24",
+                "value": 796.7,
+                "rank": 4
               }
             ]
           },
@@ -1071,6 +1368,11 @@
               },
               {
                 "week": "2026-23",
+                "value": 544.1,
+                "rank": 5
+              },
+              {
+                "week": "2026-24",
                 "value": 544.1,
                 "rank": 5
               }

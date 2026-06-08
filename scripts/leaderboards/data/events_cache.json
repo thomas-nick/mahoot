@@ -2947,6 +2947,7 @@
   ],
   "brenden-koontz": [],
   "brook-johnson": [],
+  "bryson-little": [],
   "cadence-burge": [
     {
       "event": "DGPT - Queen City Classic presented by Another Round",
@@ -3117,6 +3118,96 @@
       "event_key": "pco-flex",
       "month": "Feb",
       "place": 1,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
+  "caleb-joiner": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 59,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Twin Rivers Open",
+      "event_key": "twin-rivers-open",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Beaver State Fling presented by Innova Champion Discs",
+      "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
+      "month": "May",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Ragnar Rip - Supported by Innova Discs",
+      "event_key": "the-ragnar-rip-supported-by-innova-discs",
+      "month": "Apr",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "29th WINDY RIVER OPEN - Powered by INNOVA",
+      "event_key": "29th-windy-river-open-powered-by-innova",
+      "month": "Apr",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Laura Palmer Memorial 2 Sponsored by Twedes Cafe",
+      "event_key": "laura-palmer-memorial-2-sponsored-by-twedes-cafe",
+      "month": "Apr",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Battle at the Beach - PRESENTED by INFINITE DISC",
+      "event_key": "battle-at-the-beach-presented-by-infinite-disc",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Windy Cities Spring League",
+      "event_key": "windy-cities-spring-league",
+      "month": "Mar",
+      "place": 1,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "Cloud City Chaos - Part 4! by Emerald City Discs",
+      "event_key": "cloud-city-chaos-part-4-by-emerald-city-discs",
+      "month": "Mar",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Slingin' Singles 4! by Emerald City Discs",
+      "event_key": "slingin-singles-4-by-emerald-city-discs",
+      "month": "Feb",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Say it Ain't Snow by Emerald City Discs",
+      "event_key": "say-it-ain-t-snow-by-emerald-city-discs",
+      "month": "Jan",
+      "place": 2,
       "tier": "C",
       "tour": ""
     }
@@ -3450,6 +3541,40 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "candyce-boyce": [
+    {
+      "event": "2026 Beaver State Fling presented by Innova Champion Discs",
+      "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
+      "month": "May",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Oregon Women\u2019s Series #3- Heyday at Hornings presented by All D",
+      "event_key": "oregon-women-s-series-3-heyday-at-hornings-prese",
+      "month": "Apr",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Oregon Women\u2019s Series #2- Chicks @ Champoeg presented by All Da",
+      "event_key": "oregon-women-s-series-2-chicks-champoeg-presente",
+      "month": "Mar",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Birdie Babes Owl Open (Developmental CEP)",
+      "event_key": "birdie-babes-owl-open-developmental-cep",
+      "month": "Jan",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
     }
   ],
   "casey-pennington": [
@@ -4108,6 +4233,7 @@
   ],
   "chris-reliford": [],
   "christian-byars": [],
+  "christian-dietrich": [],
   "clay-edwards": [
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
@@ -4457,6 +4583,32 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "colin-bryant": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 26,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Slingin' Singles 4! by Emerald City Discs",
+      "event_key": "slingin-singles-4-by-emerald-city-discs",
+      "month": "Feb",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Unchained Conference PreEvent presented by Soar (CEP Charity",
+      "event_key": "2026-unchained-conference-preevent-presented-by-",
+      "month": "Jan",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
     }
   ],
   "colten-montgomery": [
@@ -4818,6 +4970,40 @@
       "month": "Feb",
       "place": 1,
       "tier": "B",
+      "tour": ""
+    }
+  ],
+  "corey-dryden": [
+    {
+      "event": "2026 Smash & Tap Open presented by Discraft",
+      "event_key": "2026-smash-tap-open-presented-by-discraft",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "McU Sports Baked Potato Open XXIX - Brought to you by Innova Cham",
+      "event_key": "mcu-sports-baked-potato-open-xxix-brought-to-you",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Rock Creek canyon cup presented by legacy discs",
+      "event_key": "rock-creek-canyon-cup-presented-by-legacy-discs",
+      "month": "Mar",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 TVDG Tour Series #1",
+      "event_key": "2026-tvdg-tour-series-1",
+      "month": "Mar",
+      "place": 2,
+      "tier": "C",
       "tour": ""
     }
   ],
@@ -5383,6 +5569,64 @@
       "tour": "DGPT"
     }
   ],
+  "dustin-keegan": [
+    {
+      "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
+      "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Beaver State Fling presented by Innova Champion Discs",
+      "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
+      "month": "May",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT Q-Series - Discraft Resistance Discs Open presented by Climo",
+      "event_key": "q-series-discraft-resistance-discs-open-presente",
+      "month": "Apr",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Uplay Winter Series #7 - The Finale at Camp Serene",
+      "event_key": "uplay-winter-series-7-the-finale-at-camp-serene",
+      "month": "Feb",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Uplay Winter Series #6 - Schwarz Campground 2.0 (CEP Charity - Ra",
+      "event_key": "uplay-winter-series-6-schwarz-campground-2-0-cep",
+      "month": "Jan",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Santiam Open Presented by Innova",
+      "event_key": "2026-santiam-open-presented-by-innova",
+      "month": "Jan",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Uplay Winter Series #5 - Richardson Park Campground (CEP Charity",
+      "event_key": "uplay-winter-series-5-richardson-park-campground",
+      "month": "Jan",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    }
+  ],
   "dustin-klein": [
     {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
@@ -5491,6 +5735,7 @@
       "tour": ""
     }
   ],
+  "dylan-dietrich": [],
   "eagle-mcmahon": [
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
@@ -8170,6 +8415,7 @@
       "tour": "DGPT"
     }
   ],
+  "graham-fuller": [],
   "gt-hancock": [
     {
       "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
@@ -8923,6 +9169,48 @@
       "tour": ""
     }
   ],
+  "henry-thoma": [
+    {
+      "event": "All Day Disc Golf Presents the Lucky Sky Challenge sponsored by P",
+      "event_key": "all-day-disc-golf-presents-the-lucky-sky-challen",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "All Day Disc Golf Presents the McNulty Creek Open",
+      "event_key": "all-day-disc-golf-presents-the-mcnulty-creek-ope",
+      "month": "Mar",
+      "place": 12,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2025-26 Stumptown Slosh Series Finale @ Milo McIver",
+      "event_key": "2025-26-stumptown-slosh-series-finale-milo-mcive",
+      "month": "Mar",
+      "place": 16,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Reverberate Open",
+      "event_key": "the-2026-reverberate-open",
+      "month": "Mar",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Arctic Rose Rumble!",
+      "event_key": "the-arctic-rose-rumble",
+      "month": "Jan",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "holly-finley": [
     {
       "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
@@ -9053,6 +9341,17 @@
       "place": 1,
       "source": "pdga:96409",
       "tier": "NT",
+      "tour": "DGPT"
+    }
+  ],
+  "houston-finch": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 43,
+      "source": "pdga:98193",
+      "tier": "A",
       "tour": "DGPT"
     }
   ],
@@ -10736,6 +11035,72 @@
       "tour": "DGPT"
     }
   ],
+  "jennifer-rice": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 24,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Sisters of the Salish (WGE Event)",
+      "event_key": "sisters-of-the-salish-wge-event",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Beaver State Fling presented by Innova Champion Discs",
+      "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
+      "month": "May",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Blazin' Birdies Presented by Emerald City Discs",
+      "event_key": "blazin-birdies-presented-by-emerald-city-discs",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Ferns of the Olympics",
+      "event_key": "ferns-of-the-olympics",
+      "month": "Apr",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Discing at the Depot",
+      "event_key": "discing-at-the-depot",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Queens Court at the Fort",
+      "event_key": "queens-court-at-the-fort",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Say it Ain't Snow by Emerald City Discs",
+      "event_key": "say-it-ain-t-snow-by-emerald-city-discs",
+      "month": "Jan",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "jennifer-smiley": [
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
@@ -10934,6 +11299,7 @@
       "tour": "DGPT"
     }
   ],
+  "jesse-longenecker": [],
   "jesse-nieminen": [
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
@@ -12333,6 +12699,7 @@
       "tour": "DGPT"
     }
   ],
+  "kieran-atkinson": [],
   "kirby-snyder": [
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
@@ -13627,6 +13994,16 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "lucas-oberholtzerhess": [
+    {
+      "event": "Central Jersey Open presented by Innova and HyzerMedia",
+      "event_key": "central-jersey-open-presented-by-innova-and-hyze",
+      "month": "Mar",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
     }
   ],
   "luke-humphries": [
@@ -16340,6 +16717,17 @@
       "tour": "DGPT"
     }
   ],
+  "nolan-johnson": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 52,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
+    }
+  ],
   "nolan-ramser": [
     {
       "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
@@ -18110,6 +18498,16 @@
       "tour": "DGPT"
     }
   ],
+  "ryan-chesla": [
+    {
+      "event": "2026 Santiam Open Presented by Innova",
+      "event_key": "2026-santiam-open-presented-by-innova",
+      "month": "Jan",
+      "place": 23,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "ryan-clark-1": [],
   "ryan-hahn": [
     {
@@ -18401,6 +18799,64 @@
       "tour": ""
     }
   ],
+  "sadie-shattuck": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 31,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Benton City Battle 2",
+      "event_key": "benton-city-battle-2",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Beaver State Fling presented by Innova Champion Discs",
+      "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
+      "month": "May",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Blazin' Birdies Presented by Emerald City Discs",
+      "event_key": "blazin-birdies-presented-by-emerald-city-discs",
+      "month": "Apr",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Ferns of the Olympics",
+      "event_key": "ferns-of-the-olympics",
+      "month": "Apr",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Queens Court at the Fort",
+      "event_key": "queens-court-at-the-fort",
+      "month": "Mar",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "27th Annual Big Island Open",
+      "event_key": "27th-annual-big-island-open",
+      "month": "Jan",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "sam-dicarlo": [
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
@@ -18487,6 +18943,7 @@
       "tour": "DGPT"
     }
   ],
+  "samuel-snider": [],
   "sarah-duran": [
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
@@ -18758,6 +19215,188 @@
       "tour": ""
     }
   ],
+  "scott-withers": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 46,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Howling at The Den Supported by Innova",
+      "event_key": "howling-at-the-den-supported-by-innova",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Tim Selinske United States Masters Disc Golf Championships",
+      "event_key": "2026-tim-selinske-united-states-masters-disc-gol",
+      "month": "May",
+      "place": 5,
+      "tier": "M",
+      "tour": ""
+    },
+    {
+      "event": "2026 Beaver State Fling presented by Innova Champion Discs",
+      "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
+      "month": "May",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT Q-Series - Discraft Resistance Discs Open presented by Climo",
+      "event_key": "q-series-discraft-resistance-discs-open-presente",
+      "month": "Apr",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Nu\u00f1ez Ranch presents 2nd annual Spring Time Open",
+      "event_key": "the-nu-ez-ranch-presents-2nd-annual-spring-time-",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Buxton Woods Spring Celebration Pro Day",
+      "event_key": "2026-buxton-woods-spring-celebration-pro-day",
+      "month": "Mar",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SOWS 2025-2026 Whistlers Bend Pro Day",
+      "event_key": "sows-2025-2026-whistlers-bend-pro-day",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2025-26 Stumptown Slosh Series Finale @ Milo McIver",
+      "event_key": "2025-26-stumptown-slosh-series-finale-milo-mcive",
+      "month": "Mar",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "COWS #7 \u2013 Hyzer Pines \u2013\u00a0Supported by Innova",
+      "event_key": "cows-7-hyzer-pines-supported-by-innova",
+      "month": "Feb",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "SOWS 2025-2026 Tom Pearce Pro Day",
+      "event_key": "sows-2025-2026-tom-pearce-pro-day",
+      "month": "Feb",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Memorial Championship presented by Discraft",
+      "event_key": "the-memorial-championship-presented-by-discraft",
+      "month": "Feb",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SOWS 2025-2026 Whistlers Remix Pro Day",
+      "event_key": "sows-2025-2026-whistlers-remix-pro-day",
+      "month": "Feb",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Santiam Open Presented by Innova",
+      "event_key": "2026-santiam-open-presented-by-innova",
+      "month": "Jan",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
+  "sean-martin": [
+    {
+      "event": "2026 Beaver State Fling presented by Innova Champion Discs",
+      "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
+      "month": "May",
+      "place": 37,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "29th WINDY RIVER OPEN - Powered by INNOVA",
+      "event_key": "29th-windy-river-open-powered-by-innova",
+      "month": "Apr",
+      "place": 9,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Beaverberate Open",
+      "event_key": "the-beaverberate-open",
+      "month": "Apr",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2025-26 Stumptown Slosh Series Finale @ Milo McIver",
+      "event_key": "2025-26-stumptown-slosh-series-finale-milo-mcive",
+      "month": "Mar",
+      "place": 16,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Reverberate Open",
+      "event_key": "the-2026-reverberate-open",
+      "month": "Mar",
+      "place": 13,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2025-26 Stumptown Slosh Series Valentines at The Veer",
+      "event_key": "2025-26-stumptown-slosh-series-valentines-at-the",
+      "month": "Feb",
+      "place": 8,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Santiam Open Presented by Innova",
+      "event_key": "2026-santiam-open-presented-by-innova",
+      "month": "Jan",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "All Day Disc Golf Presents New Year at the Veer",
+      "event_key": "all-day-disc-golf-presents-new-year-at-the-veer",
+      "month": "Jan",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
+  "sean-sullivan-1": [],
+  "shane-anderson-1": [],
   "shelby-cowen": [],
   "sheliemae-lai": [
     {
@@ -19822,6 +20461,128 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "taylor-coulam": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 69,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Crooked Lines Classic - 2026",
+      "event_key": "crooked-lines-classic-2026",
+      "month": "May",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "All Day Disc Golf Presents the Arbor Beer Lodge Open",
+      "event_key": "all-day-disc-golf-presents-the-arbor-beer-lodge-",
+      "month": "May",
+      "place": 10,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Milton Creek Classic",
+      "event_key": "milton-creek-classic",
+      "month": "May",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Beaver State Fling presented by Innova Champion Discs",
+      "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
+      "month": "May",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Ragnar Rip - Supported by Innova Discs",
+      "event_key": "the-ragnar-rip-supported-by-innova-discs",
+      "month": "Apr",
+      "place": 20,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT Q-Series - Discraft Resistance Discs Open presented by Climo",
+      "event_key": "q-series-discraft-resistance-discs-open-presente",
+      "month": "Apr",
+      "place": 28,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Buxton Woods Spring Celebration Pro Day",
+      "event_key": "2026-buxton-woods-spring-celebration-pro-day",
+      "month": "Mar",
+      "place": 14,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SOWS 2025-2026 Whistlers Bend Pro Day",
+      "event_key": "sows-2025-2026-whistlers-bend-pro-day",
+      "month": "Mar",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2025-26 Stumptown Slosh Series Finale @ Milo McIver",
+      "event_key": "2025-26-stumptown-slosh-series-finale-milo-mcive",
+      "month": "Mar",
+      "place": 22,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Reverberate Open",
+      "event_key": "the-2026-reverberate-open",
+      "month": "Mar",
+      "place": 17,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Santiam Open Presented by Innova",
+      "event_key": "2026-santiam-open-presented-by-innova",
+      "month": "Jan",
+      "place": 13,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "All Day Disc Golf Presents New Year at the Veer",
+      "event_key": "all-day-disc-golf-presents-new-year-at-the-veer",
+      "month": "Jan",
+      "place": 10,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Arctic Rose Rumble!",
+      "event_key": "the-arctic-rose-rumble",
+      "month": "Jan",
+      "place": 13,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "New Years at Hornings!!",
+      "event_key": "new-years-at-hornings",
+      "month": "Jan",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
     }
   ],
   "therese-cuevas": [
