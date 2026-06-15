@@ -1,6 +1,14 @@
 {
   "aaron-gossage": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 66,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -119,6 +127,30 @@
   ],
   "abrahan-bahena": [
     {
+      "event": "18th Annual Battle At Bell Park",
+      "event_key": "18th-annual-battle-at-bell-park",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "7th Annual Magnolia Open Powered by Discraft",
+      "event_key": "7th-annual-magnolia-open-powered-by-discraft",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "6th Annual Persimmon Ridge Memorial Day Open",
+      "event_key": "6th-annual-persimmon-ridge-memorial-day-open",
+      "month": "May",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
       "event_key": "massive-graphics-presents-the-48th-annual-norman",
       "month": "May",
@@ -225,6 +257,14 @@
   ],
   "adam-hammes": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -315,6 +355,22 @@
     }
   ],
   "addison-woodard": [
+    {
+      "event": "2026 Illinois High School Disc Golf Championship Sponsored by Inn",
+      "event_key": "2026-illinois-high-school-disc-golf-championship",
+      "month": "May",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "IOS #137 Forest City Frenzy presented by Discraft",
+      "event_key": "ios-137-forest-city-frenzy-presented-by-discraft",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
       "event_key": "play-it-again-sports-jonesboro-open-presented-by",
@@ -418,6 +474,38 @@
     }
   ],
   "aidan-scott": [
+    {
+      "event": "30th annual Hotlanta, Sponsored by MVP disc",
+      "event_key": "30th-annual-hotlanta-sponsored-by-mvp-disc",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "May The Course Be With You Sponsored by John Clendenin",
+      "event_key": "may-the-course-be-with-you-sponsored-by-john-cle",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Rocket City Blast presented by Westside Discs +WGE",
+      "event_key": "2026-rocket-city-blast-presented-by-westside-dis",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "WGE - Lexington Open XXVIII powered by Bomb Discs and Prodigy",
+      "event_key": "wge-lexington-open-xxviii-powered-by-bomb-discs-",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 High on the Hog Disc Golf Tournament",
       "event_key": "2026-high-on-the-hog-disc-golf-tournament",
@@ -574,6 +662,14 @@
   "alan-vazquez": [],
   "albert-tamm": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -649,6 +745,14 @@
   ],
   "alden-harris": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 57,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -714,6 +818,22 @@
     }
   ],
   "alecia-hinkson": [
+    {
+      "event": "WNY Amateur Championships",
+      "event_key": "wny-amateur-championships",
+      "month": "May",
+      "place": 17,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "WGE - Lexington Open XXVIII powered by Bomb Discs and Prodigy",
+      "event_key": "wge-lexington-open-xxviii-powered-by-bomb-discs-",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
@@ -1082,6 +1202,14 @@
   ],
   "amanda-lennartsson": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -1138,6 +1266,14 @@
     }
   ],
   "andrew-marwede": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -1254,6 +1390,14 @@
   ],
   "andrew-miranda": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -1352,6 +1496,38 @@
     }
   ],
   "andrew-presnell": [
+    {
+      "event": "Maverick DG: Black Hoof Shootout 3 presented by Innova",
+      "event_key": "maverick-dg-black-hoof-shootout-3-presented-by-i",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "7th Annual Magnolia Open Powered by Discraft",
+      "event_key": "7th-annual-magnolia-open-powered-by-discraft",
+      "month": "May",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "All Dam Day - Supported by Innova",
+      "event_key": "all-dam-day-supported-by-innova",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Smokin Aces presents Cross Highway Clash Sponsored by Discmania",
+      "event_key": "smokin-aces-presents-cross-highway-clash-sponsor",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -1575,6 +1751,14 @@
   ],
   "anneli-tugjas-mnniste": [
     {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
       "month": "Apr",
@@ -1608,6 +1792,14 @@
     }
   ],
   "annikenkristiansen-steen": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -1659,6 +1851,22 @@
     }
   ],
   "anthony-anselmo": [
+    {
+      "event": "Pluck Farm 5th Anniversary Cup",
+      "event_key": "pluck-farm-5th-anniversary-cup",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
+      "event_key": "yeet-street-discs-presents-the-25th-annual-tar-h",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 College Disc Golf National Championships",
       "event_key": "2026-college-disc-golf-national-championships",
@@ -1741,6 +1949,14 @@
     }
   ],
   "anthony-barela": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -1929,6 +2145,22 @@
   ],
   "austen-bates": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 49,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Hazy Shade presents the 4th Annual Scott Burnett Open",
+      "event_key": "hazy-shade-presents-the-4th-annual-scott-burnett",
+      "month": "May",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Butler County Disc Golf Classic",
       "event_key": "butler-county-disc-golf-classic",
       "month": "May",
@@ -2050,6 +2282,14 @@
     }
   ],
   "austin-turner": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -2445,6 +2685,22 @@
   ],
   "bo-mclaughlin": [
     {
+      "event": "SHDG Flex Series #3.5 - John Hunt Park Temp",
+      "event_key": "shdg-flex-series-3-5-john-hunt-park-temp",
+      "month": "Jun",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Rocket City Blast presented by Westside Discs +WGE",
+      "event_key": "2026-rocket-city-blast-presented-by-westside-dis",
+      "month": "May",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "GDG SPRING/SUMMER 2026 FLEX SERIES STOP THREE (SO)",
       "event_key": "gdg-spring-summer-2026-flex-series-stop-three-so",
       "month": "May",
@@ -2466,6 +2722,14 @@
       "month": "May",
       "place": 28,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "GDG SPRING LEAGUE 1 (SS) (Flex Start)",
+      "event_key": "gdg-spring-league-1-ss-flex-start",
+      "month": "Apr",
+      "place": 2,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -2608,6 +2872,14 @@
   "bradley-baumgardner": [],
   "bradley-williams": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -2738,6 +3010,14 @@
     }
   ],
   "braeden-sides": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 70,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -3074,6 +3354,14 @@
   ],
   "caleb-bruce": [
     {
+      "event": "DGPT Q-Series - 2026 Star City Classic Presented by DGA",
+      "event_key": "q-series-2026-star-city-classic-presented-by-dga",
+      "month": "Jun",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
       "month": "Apr",
@@ -3123,6 +3411,22 @@
     }
   ],
   "caleb-joiner": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 99,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT+ Northwest Championship Monday Qualifier",
+      "event_key": "northwest-championship-monday-qualifier",
+      "month": "Jun",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -3213,6 +3517,14 @@
     }
   ],
   "calvin-heimburg": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -3305,6 +3617,14 @@
   ],
   "calvin-lonnquist": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -3380,6 +3700,30 @@
   ],
   "calvin-pettigrew": [
     {
+      "event": "State Games of Tennessee",
+      "event_key": "state-games-of-tennessee",
+      "month": "May",
+      "place": 8,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Rocket City Blast presented by Westside Discs +WGE",
+      "event_key": "2026-rocket-city-blast-presented-by-westside-dis",
+      "month": "May",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Barfield Open XVI",
+      "event_key": "barfield-open-xvi",
+      "month": "May",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "7th McFarland Park Open",
       "event_key": "7th-mcfarland-park-open",
       "month": "May",
@@ -3453,6 +3797,22 @@
     }
   ],
   "cam-rico": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 75,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Auburn Open",
+      "event_key": "auburn-open",
+      "month": "May",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -3545,6 +3905,22 @@
   ],
   "candyce-boyce": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "WGE: Free For All at Timber with Portland Disc Golf Women",
+      "event_key": "wge-free-for-all-at-timber-with-portland-disc-go",
+      "month": "May",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "2026 Beaver State Fling presented by Innova Champion Discs",
       "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
       "month": "May",
@@ -3579,6 +3955,22 @@
   ],
   "casey-pennington": [
     {
+      "event": "Maverick DG: Black Hoof Shootout 3 presented by Innova",
+      "event_key": "maverick-dg-black-hoof-shootout-3-presented-by-i",
+      "month": "Jun",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Nexus Flexus at Water Works",
+      "event_key": "nexus-flexus-at-water-works",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "KC Diva Spring Feeva-Women's Event",
       "event_key": "kc-diva-spring-feeva-women-s-event",
       "month": "May",
@@ -3612,6 +4004,14 @@
     }
   ],
   "casey-white": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -3696,6 +4096,54 @@
   ],
   "cassandra-lioi": [
     {
+      "event": "DisCap presents the 2026 Mine Kill Disc Golf Championship sponsor",
+      "event_key": "discap-presents-the-2026-mine-kill-disc-golf-cha",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "McNair Flex 27",
+      "event_key": "mcnair-flex-27",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Flight to Summer St. Charles Challenge (Flex Start)",
+      "event_key": "flight-to-summer-st-charles-challenge-flex-start",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Big Buck Memorial Flex",
+      "event_key": "big-buck-memorial-flex",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Logan Memorial (Flex Start)",
+      "event_key": "logan-memorial-flex-start",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Fore the Ladies! WGE",
+      "event_key": "fore-the-ladies-wge",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -3737,6 +4185,14 @@
     }
   ],
   "catrina-allen": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -3903,6 +4359,14 @@
   ],
   "chandler-kramer": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 53,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -4053,6 +4517,14 @@
   ],
   "chantel-budinsky": [
     {
+      "event": "Bronte and the Beast",
+      "event_key": "bronte-and-the-beast",
+      "month": "Jun",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "The Explore Waterloo Region Foxwood Open 2026 - Driven by Innova",
       "event_key": "the-explore-waterloo-region-foxwood-open-2026-dr",
       "month": "May",
@@ -4098,6 +4570,14 @@
     }
   ],
   "charles-peters": [
+    {
+      "event": "DGPT Q-Series - 2026 Star City Classic Presented by DGA",
+      "event_key": "q-series-2026-star-city-classic-presented-by-dga",
+      "month": "Jun",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
@@ -4233,8 +4713,25 @@
   ],
   "chris-reliford": [],
   "christian-byars": [],
-  "christian-dietrich": [],
+  "christian-dietrich": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 85,
+      "tier": "NT",
+      "tour": "DGPT"
+    }
+  ],
   "clay-edwards": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 66,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -4488,6 +4985,14 @@
   ],
   "cole-redalen": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -4587,6 +5092,14 @@
   ],
   "colin-bryant": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 53,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -4612,6 +5125,14 @@
     }
   ],
   "colten-montgomery": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 57,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -4811,6 +5332,14 @@
   "connor-king": [],
   "connor-oreilly": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 63,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -4885,6 +5414,14 @@
   ],
   "corbin-milchesky": [
     {
+      "event": "7th Annual Magnolia Open Powered by Discraft",
+      "event_key": "7th-annual-magnolia-open-powered-by-discraft",
+      "month": "May",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
       "event_key": "massive-graphics-presents-the-48th-annual-norman",
       "month": "May",
@@ -4906,6 +5443,14 @@
       "month": "Apr",
       "place": 9,
       "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Griffin Reds (Flex Start)",
+      "event_key": "2026-griffin-reds-flex-start",
+      "month": "Apr",
+      "place": 7,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -4975,6 +5520,14 @@
   ],
   "corey-dryden": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 101,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 Smash & Tap Open presented by Discraft",
       "event_key": "2026-smash-tap-open-presented-by-discraft",
       "month": "May",
@@ -5008,6 +5561,14 @@
     }
   ],
   "corey-ellis": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -5140,6 +5701,14 @@
   ],
   "cynthia-ricciotti": [
     {
+      "event": "DGPT Q-Series - 2026 Star City Classic Presented by DGA",
+      "event_key": "q-series-2026-star-city-classic-presented-by-dga",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
       "month": "Apr",
@@ -5203,6 +5772,14 @@
   "damien-biegert": [],
   "daniel-perry": [],
   "daniel-pfaff": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -5278,6 +5855,14 @@
     }
   ],
   "danik-hart": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -5422,6 +6007,30 @@
   "destyne-martinez": [],
   "dillon-spellman": [
     {
+      "event": "DGPT Q-Series - 2026 Star City Classic Presented by DGA",
+      "event_key": "q-series-2026-star-city-classic-presented-by-dga",
+      "month": "Jun",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Battle Along Big Creek",
+      "event_key": "the-battle-along-big-creek",
+      "month": "May",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Katy Days Open",
+      "event_key": "2026-katy-days-open",
+      "month": "May",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
       "month": "Apr",
@@ -5504,6 +6113,22 @@
   ],
   "drew-gibson": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Auburn Open",
+      "event_key": "auburn-open",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -5570,6 +6195,14 @@
     }
   ],
   "dustin-keegan": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
@@ -5671,6 +6304,30 @@
   ],
   "dylan-capaccioli": [
     {
+      "event": "DisCap presents the 2026 Mine Kill Disc Golf Championship sponsor",
+      "event_key": "discap-presents-the-2026-mine-kill-disc-golf-cha",
+      "month": "Jun",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Discmania Presents Sunshine Open at 501 and Mile Marker 63 - Powe",
+      "event_key": "discmania-presents-sunshine-open-at-501-and-mile",
+      "month": "May",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Friday Flex Tournament at Meadowbrook 3 of 6",
+      "event_key": "2026-friday-flex-tournament-at-meadowbrook-3-of-",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Tri-State Championship of New England",
       "event_key": "tri-state-championship-of-new-england",
       "month": "May",
@@ -5737,6 +6394,14 @@
   ],
   "dylan-dietrich": [],
   "eagle-mcmahon": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -5855,6 +6520,14 @@
     }
   ],
   "eli-swansen": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 102,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -6005,6 +6678,14 @@
   ],
   "eliezra-midtlyng": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -6136,6 +6817,14 @@
   ],
   "elijah-bickel": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -6259,6 +6948,30 @@
   ],
   "elijah-riderbrandt": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 70,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Discmania Presents Sunshine Open at 501 and Mile Marker 63 - Powe",
+      "event_key": "discmania-presents-sunshine-open-at-501-and-mile",
+      "month": "May",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "4th Annual Rhode Island Disc Golf Championships Presented By UPS",
+      "event_key": "4th-annual-rhode-island-disc-golf-championships-",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Prodigy presents the Lake Marshall Open- Pro",
       "event_key": "prodigy-presents-the-lake-marshall-open-pro",
       "month": "May",
@@ -6372,6 +7085,14 @@
     }
   ],
   "ella-hansen": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -6498,6 +7219,14 @@
   ],
   "elva-kate-preston": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 35,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -6556,6 +7285,22 @@
     }
   ],
   "emerson-keith": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 66,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "7th Annual Magnolia Open Powered by Discraft",
+      "event_key": "7th-annual-magnolia-open-powered-by-discraft",
+      "month": "May",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frederiksen Insurance Open",
       "event_key": "frederiksen-insurance-open",
@@ -6695,6 +7440,14 @@
   ],
   "emily-weatherman": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -6802,6 +7555,14 @@
   ],
   "emily-yale": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -6860,6 +7621,22 @@
     }
   ],
   "emmanuel-torres": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Auburn Open",
+      "event_key": "auburn-open",
+      "month": "May",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -6980,6 +7757,14 @@
   ],
   "erika-stinchcomb": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -7071,6 +7856,30 @@
   ],
   "eva-lutsenko": [
     {
+      "event": "Carolina Ladies Classic - Presented by AR.GVL & Powered by Innova",
+      "event_key": "carolina-ladies-classic-presented-by-ar-gvl-powe",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Memorial Day Flex Start VII- USC Upstate",
+      "event_key": "memorial-day-flex-start-vii-usc-upstate",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Pipeline Spring Sling",
+      "event_key": "pipeline-spring-sling",
+      "month": "May",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "The 4th Annual Heaven and Hell Open",
       "event_key": "the-4th-annual-heaven-and-hell-open",
       "month": "May",
@@ -7092,6 +7901,14 @@
       "month": "Apr",
       "place": 1,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Pipeline Blues (Flex Start)",
+      "event_key": "pipeline-blues-flex-start",
+      "month": "Apr",
+      "place": 1,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -7184,6 +8001,14 @@
     }
   ],
   "evan-scott": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 66,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -7300,6 +8125,22 @@
   ],
   "evan-smith": [
     {
+      "event": "Pluck Farm 5th Anniversary Cup",
+      "event_key": "pluck-farm-5th-anniversary-cup",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
+      "event_key": "yeet-street-discs-presents-the-25th-annual-tar-h",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "The Howling at Coyote Cut presented by Prodigy Disc",
       "event_key": "the-howling-at-coyote-cut-presented-by-prodigy-d",
       "month": "Apr",
@@ -7409,6 +8250,14 @@
   ],
   "ezra-aderhold": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 57,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -7483,6 +8332,22 @@
     }
   ],
   "ezra-hapner": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 89,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Auburn Open",
+      "event_key": "auburn-open",
+      "month": "May",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -7566,6 +8431,14 @@
     }
   ],
   "ezra-robinson": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 22,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -7665,6 +8538,22 @@
     }
   ],
   "fredy-meza": [
+    {
+      "event": "M\u00e9xico Tour - Campeonato Mexicano de Disc Golf 2026 patrocinado",
+      "event_key": "m-xico-tour-campeonato-mexicano-de-disc-golf-202",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "7th Annual Magnolia Open Powered by Discraft",
+      "event_key": "7th-annual-magnolia-open-powered-by-discraft",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frederiksen Insurance Open",
       "event_key": "frederiksen-insurance-open",
@@ -7900,6 +8789,14 @@
   ],
   "gannon-buhr": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -8008,6 +8905,14 @@
   "garrett-dknox": [],
   "garrett-gurthie": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -8098,6 +9003,14 @@
     }
   ],
   "gavin-babcock": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -8200,6 +9113,14 @@
     }
   ],
   "gavin-phillips": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 75,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -8417,6 +9338,30 @@
   ],
   "graham-fuller": [],
   "gt-hancock": [
+    {
+      "event": "MINT Disc presents the 24th Fahrenheit Fling presented by Texas C",
+      "event_key": "mint-disc-presents-the-24th-fahrenheit-fling-pre",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "7th Annual Magnolia Open Powered by Discraft",
+      "event_key": "7th-annual-magnolia-open-powered-by-discraft",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Palmer's Flex @North Park!! With Ideal Discs doing payout!",
+      "event_key": "palmer-s-flex-north-park-with-ideal-discs-doing-",
+      "month": "May",
+      "place": 20,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
       "event_key": "massive-graphics-presents-the-48th-annual-norman",
@@ -8791,6 +9736,22 @@
   ],
   "harry-chace": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Discmania Presents Sunshine Open at 501 and Mile Marker 63 - Powe",
+      "event_key": "discmania-presents-sunshine-open-at-501-and-mile",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Prodigy presents the Lake Marshall Open- Pro",
       "event_key": "prodigy-presents-the-lake-marshall-open-pro",
       "month": "May",
@@ -8963,6 +9924,14 @@
     }
   ],
   "heidi-laine": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -9171,6 +10140,22 @@
   ],
   "henry-thoma": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 107,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Crooked Lines Classic - 2026",
+      "event_key": "crooked-lines-classic-2026",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "All Day Disc Golf Presents the Lucky Sky Challenge sponsored by P",
       "event_key": "all-day-disc-golf-presents-the-lucky-sky-challen",
       "month": "Apr",
@@ -9212,6 +10197,14 @@
     }
   ],
   "holly-finley": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 22,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
       "event_key": "yeet-street-discs-presents-the-25th-annual-tar-h",
@@ -9270,6 +10263,14 @@
     }
   ],
   "holyn-handley": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -9401,6 +10402,38 @@
   "ian-krajna": [],
   "idaemilie-nesse": [
     {
+      "event": "NC3 Valdres Open presented by Discmania",
+      "event_key": "nc3-valdres-open-presented-by-discmania",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Nordic Female Open",
+      "event_key": "nordic-female-open",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "NC 2 Open Hestehagen",
+      "event_key": "nc-2-open-hestehagen",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NC 1 Open \u00d8ver\u00e5s - presented by Innova Champion Discs",
+      "event_key": "nc-1-open-ver-s-presented-by-innova-champion-dis",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Vestkyst Touren 2026 Presented by Innova Europe - Flaktveit",
       "event_key": "vestkyst-touren-2026-presented-by-innova-europe-",
       "month": "Apr",
@@ -9434,6 +10467,14 @@
     }
   ],
   "iida-lehtomki": [
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
       "event_key": "play-it-again-sports-jonesboro-open-presented-by",
@@ -9471,6 +10512,14 @@
     }
   ],
   "isaac-robinson": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -9570,6 +10619,46 @@
     }
   ],
   "isabella-parker": [
+    {
+      "event": "The 4th Annual Indian Paintbrush Open - WFDGT",
+      "event_key": "the-4th-annual-indian-paintbrush-open-wfdgt",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Throwing Down the Gauntlet at The Woods at Trinity (GOLD), Sponso",
+      "event_key": "throwing-down-the-gauntlet-at-the-woods-at-trini",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Flex'n Friday's at Shawshank DGC",
+      "event_key": "flex-n-friday-s-at-shawshank-dgc",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Chainsaw Classic at Challenger 7",
+      "event_key": "chainsaw-classic-at-challenger-7",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Flex'n Fridays at Stonebridge",
+      "event_key": "flex-n-fridays-at-stonebridge",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "WGE - Space City Slay Presented by Chicks Chasing Chains",
       "event_key": "wge-space-city-slay-presented-by-chicks-chasing-",
@@ -9982,6 +11071,14 @@
   ],
   "jaden-rye": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -10145,6 +11242,22 @@
   ],
   "jake-hebenheimer": [
     {
+      "event": "DGPT Q-Series - 2026 Star City Classic Presented by DGA",
+      "event_key": "q-series-2026-star-city-classic-presented-by-dga",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Patriots Gold & Silver presents: 9th Annual Dragon Ridge Open spo",
+      "event_key": "patriots-gold-silver-presents-9th-annual-dragon-",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -10243,6 +11356,14 @@
     }
   ],
   "jake-monn": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 80,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -10358,6 +11479,14 @@
     }
   ],
   "jakub-semerd": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 85,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -10499,6 +11628,14 @@
   "james-bennett": [],
   "james-collier": [],
   "james-conrad": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -10665,6 +11802,22 @@
   ],
   "jared-stoll": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 97,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "The Sarasota Championship",
+      "event_key": "the-sarasota-championship",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
       "event_key": "play-it-again-sports-jonesboro-open-presented-by",
       "month": "Apr",
@@ -10699,6 +11852,30 @@
   ],
   "jarod-obrien": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 82,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Nikiski Open",
+      "event_key": "nikiski-open",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Forest Fling - Pro Divisions",
+      "event_key": "the-forest-fling-pro-divisions",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Skyview Open",
       "event_key": "skyview-open",
       "month": "May",
@@ -10724,6 +11901,14 @@
     }
   ],
   "jason-lawson": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 70,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -10970,6 +12155,14 @@
   ],
   "jennifer-allen": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -11036,6 +12229,14 @@
     }
   ],
   "jennifer-rice": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 41,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -11299,7 +12500,16 @@
       "tour": "DGPT"
     }
   ],
-  "jesse-longenecker": [],
+  "jesse-longenecker": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 53,
+      "tier": "NT",
+      "tour": "DGPT"
+    }
+  ],
   "jesse-nieminen": [
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
@@ -11362,6 +12572,14 @@
     }
   ],
   "jessica-gurthie": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -11456,6 +12674,22 @@
   "jimmy-martinez": [],
   "jj-campbell": [],
   "joe-carey": [
+    {
+      "event": "18th Annual Battle At Bell Park",
+      "event_key": "18th-annual-battle-at-bell-park",
+      "month": "Jun",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "7th Annual Magnolia Open Powered by Discraft",
+      "event_key": "7th-annual-magnolia-open-powered-by-discraft",
+      "month": "May",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -11779,6 +13013,14 @@
   ],
   "john-jones": [
     {
+      "event": "DGPT Q-Series - 2026 Star City Classic Presented by DGA",
+      "event_key": "q-series-2026-star-city-classic-presented-by-dga",
+      "month": "Jun",
+      "place": 28,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
       "month": "Apr",
@@ -11855,6 +13097,38 @@
   ],
   "jonathan-borzick": [
     {
+      "event": "DisCap presents the 2026 Mine Kill Disc Golf Championship sponsor",
+      "event_key": "discap-presents-the-2026-mine-kill-disc-golf-cha",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Hazy Shade presents the 4th Annual Scott Burnett Open",
+      "event_key": "hazy-shade-presents-the-4th-annual-scott-burnett",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Rocket City Blast presented by Westside Discs +WGE",
+      "event_key": "2026-rocket-city-blast-presented-by-westside-dis",
+      "month": "May",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Discraft Presents The Rumble",
+      "event_key": "discraft-presents-the-rumble",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "IOS #137 Forest City Frenzy presented by Discraft",
       "event_key": "ios-137-forest-city-frenzy-presented-by-discraft",
       "month": "May",
@@ -11928,6 +13202,38 @@
     }
   ],
   "joona-heinnen": [
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 33,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Linnoitus Open 2026 sponsored by Ekomia + PGPT Status",
+      "event_key": "linnoitus-open-2026-sponsored-by-ekomia-pgpt-sta",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NBDG One Round\u2122 Keinukallio - Powered by GameProofer",
+      "event_key": "nbdg-one-round-keinukallio-powered-by-gameproofe",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
@@ -12014,6 +13320,14 @@
     }
   ],
   "joseph-anderson": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -12327,6 +13641,38 @@
   ],
   "karen-martel": [
     {
+      "event": "La Classique De Daveluy 2026 - BASSIN B - Le Circuit DisQu\u00e9bec -",
+      "event_key": "la-classique-de-daveluy-2026-bassin-b-le-circuit",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Greenfoot Energy Dieppe Open 2026 - Elevated by Thought Space Ath",
+      "event_key": "greenfoot-energy-dieppe-open-2026-elevated-by-th",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Elles d'or Qu\u00e9bec 2026 - \u00c9v\u00e9nement f\u00e9minin canadien (CWE) + W",
+      "event_key": "elles-d-or-qu-bec-2026-v-nement-f-minin-canadien",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Le D\u00e9fi de la Pin\u00e8de 2026 - Le Circuit DisQu\u00e9bec - 2/10 - Pr\u00e9",
+      "event_key": "le-d-fi-de-la-pin-de-2026-le-circuit-disqu-bec-2",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "La L\u00e9gende 2026 - Le Circuit DisQu\u00e9bec - 1/10 - Pr\u00e9sent\u00e9 par",
       "event_key": "la-l-gende-2026-le-circuit-disqu-bec-1-10-pr-sen",
       "month": "May",
@@ -12419,6 +13765,14 @@
     }
   ],
   "kat-mertsch": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 11,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -12551,6 +13905,14 @@
   ],
   "katherine-aydelott-284553": [],
   "kelley-foster": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -12702,6 +14064,14 @@
   "kieran-atkinson": [],
   "kirby-snyder": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 104,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -12808,6 +14178,14 @@
     }
   ],
   "konastar-montgomery": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -12916,6 +14294,14 @@
   ],
   "kyle-klein": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -12982,6 +14368,30 @@
   ],
   "kyle-krieckhaus": [],
   "kylie-kohut": [
+    {
+      "event": "Les Fleurs de Fallasburg VII MWS WGE",
+      "event_key": "les-fleurs-de-fallasburg-vii-mws-wge",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "WGE Serendipity of Goddesses: Year of the Scepter",
+      "event_key": "wge-serendipity-of-goddesses-year-of-the-scepter",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "WGE 2026 Mother Bird Open MWS",
+      "event_key": "wge-2026-mother-bird-open-mws",
+      "month": "May",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Discraft Presents: RIse of the Shewolf V Gripped by MItten Bags",
       "event_key": "discraft-presents-rise-of-the-shewolf-v-gripped-",
@@ -13090,6 +14500,14 @@
   "landen-carver": [],
   "landis-nelson": [],
   "landon-brooks": [
+    {
+      "event": "DGVTour #4 - Quarries Throwdown + WGE",
+      "event_key": "dgvtour-4-quarries-throwdown-wge",
+      "month": "May",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Tri-State Championship of New England",
       "event_key": "tri-state-championship-of-new-england",
@@ -13273,6 +14691,14 @@
   ],
   "lauri-lehtinen": [
     {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
       "month": "Apr",
@@ -13413,6 +14839,14 @@
   ],
   "levi-stout": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -13511,6 +14945,30 @@
     }
   ],
   "lindsey-maas": [
+    {
+      "event": "WGE Serendipity of Goddesses: Year of the Scepter",
+      "event_key": "wge-serendipity-of-goddesses-year-of-the-scepter",
+      "month": "May",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "WGE 2026 Mother Bird Open MWS",
+      "event_key": "wge-2026-mother-bird-open-mws",
+      "month": "May",
+      "place": 8,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Sleeping Bear Open",
+      "event_key": "sleeping-bear-open",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "South Kent County Open presented by Discraft - Pro, MA2, MA4, AMM",
       "event_key": "south-kent-county-open-presented-by-discraft-pro",
@@ -13617,6 +15075,14 @@
     }
   ],
   "lisa-fajkus": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 24,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -13801,6 +15267,22 @@
   ],
   "logan-weiss": [
     {
+      "event": "2026 Midsummer Meltdown in Metaire",
+      "event_key": "2026-midsummer-meltdown-in-metaire",
+      "month": "Jun",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Rocket City Blast presented by Westside Discs +WGE",
+      "event_key": "2026-rocket-city-blast-presented-by-westside-dis",
+      "month": "May",
+      "place": 38,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Crossroads Challenge presented by Innova",
       "event_key": "crossroads-challenge-presented-by-innova",
       "month": "Apr",
@@ -13882,6 +15364,14 @@
     }
   ],
   "lucas-carmichael": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 91,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -13998,6 +15488,30 @@
   ],
   "lucas-oberholtzerhess": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "4th Annual Rhode Island Disc Golf Championships Presented By UPS",
+      "event_key": "4th-annual-rhode-island-disc-golf-championships-",
+      "month": "May",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Prodigy presents the Lake Marshall Open- Pro",
+      "event_key": "prodigy-presents-the-lake-marshall-open-pro",
+      "month": "May",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Central Jersey Open presented by Innova and HyzerMedia",
       "event_key": "central-jersey-open-presented-by-innova-and-hyze",
       "month": "Mar",
@@ -14007,6 +15521,14 @@
     }
   ],
   "luke-humphries": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -14106,6 +15628,14 @@
     }
   ],
   "luke-samson": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -14245,6 +15775,14 @@
     }
   ],
   "luke-taylor": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -14421,6 +15959,14 @@
   ],
   "madison-tomaino": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 37,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -14528,6 +16074,14 @@
   ],
   "madison-walker": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 22,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -14594,6 +16148,14 @@
     }
   ],
   "maria-oliva": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 38,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -14778,6 +16340,22 @@
     }
   ],
   "mason-ford": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "The 35th Annual Capital of Texas Open",
+      "event_key": "the-35th-annual-capital-of-texas-open",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -14993,6 +16571,30 @@
   ],
   "matt-thompson": [
     {
+      "event": "Patriot Memorial 2026",
+      "event_key": "patriot-memorial-2026",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
+      "event_key": "yeet-street-discs-presents-the-25th-annual-tar-h",
+      "month": "May",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "BADG Summer League May/June",
+      "event_key": "badg-summer-league-may-june",
+      "month": "May",
+      "place": 1,
+      "tier": "L",
+      "tour": ""
+    },
+    {
       "event": "2026 Cedar Hills Championship",
       "event_key": "2026-cedar-hills-championship",
       "month": "Apr",
@@ -15050,6 +16652,14 @@
     }
   ],
   "matthew-alexander": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 92,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -15276,6 +16886,14 @@
   ],
   "matthew-orum": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -15383,6 +17001,22 @@
   ],
   "mauri-villmann": [
     {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -15474,6 +17108,14 @@
     }
   ],
   "maximus-meyer": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 78,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -15593,6 +17235,14 @@
   "mick-walter": [],
   "mickey-welsh": [
     {
+      "event": "Frederiksen Insurance Open",
+      "event_key": "frederiksen-insurance-open",
+      "month": "May",
+      "place": 32,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Throwing Down the Gauntlet at John E Hejl DGC (GOLD), Sponsored b",
       "event_key": "throwing-down-the-gauntlet-at-john-e-hejl-dgc-go",
       "month": "Apr",
@@ -15692,6 +17342,14 @@
     }
   ],
   "missy-gannon": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -16086,6 +17744,14 @@
   ],
   "nathan-sexton-1": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 57,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -16246,6 +17912,22 @@
   "nick-doan": [],
   "nick-robertson-1": [
     {
+      "event": "Camp Petosega Classic",
+      "event_key": "camp-petosega-classic",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Sleeping Bear Open",
+      "event_key": "sleeping-bear-open",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "South Kent County Open presented by Discraft - Pro, MA2, MA4, AMM",
       "event_key": "south-kent-county-open-presented-by-discraft-pro",
       "month": "May",
@@ -16276,6 +17958,14 @@
       "place": 44,
       "tier": "M",
       "tour": "Major"
+    },
+    {
+      "event": "Aloft Traverse Area Singles \u2014 Session 1",
+      "event_key": "aloft-traverse-area-singles-session-1",
+      "month": "Apr",
+      "place": 2,
+      "tier": "L",
+      "tour": ""
     },
     {
       "event": "The Blue Ridge Championship Generated By Grit Discs",
@@ -16534,6 +18224,14 @@
   ],
   "nina-bennett": [
     {
+      "event": "WGE - Lexington Open XXVIII powered by Bomb Discs and Prodigy",
+      "event_key": "wge-lexington-open-xxviii-powered-by-bomb-discs-",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
       "event_key": "play-it-again-sports-jonesboro-open-presented-by",
       "month": "Apr",
@@ -16676,6 +18374,14 @@
   ],
   "noah-meintsma": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -16729,6 +18435,22 @@
     }
   ],
   "nolan-ramser": [
+    {
+      "event": "DGPT Q-Series - 2026 Star City Classic Presented by DGA",
+      "event_key": "q-series-2026-star-city-classic-presented-by-dga",
+      "month": "Jun",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "ACDGC - Doo Dah XL presented by Wichita Riverfest",
+      "event_key": "acdgc-doo-dah-xl-presented-by-wichita-riverfest",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
       "event_key": "massive-graphics-presents-the-48th-annual-norman",
@@ -16811,6 +18533,14 @@
     }
   ],
   "ohn-scoggins": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -17070,6 +18800,14 @@
   ],
   "paige-pierce": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 11,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -17161,6 +18899,14 @@
   ],
   "parker-austin": [],
   "parker-welck": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -17277,6 +19023,14 @@
   ],
   "paul-davidson": [],
   "paul-krans": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -17461,6 +19215,22 @@
   ],
   "paul-ulibarri": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Mando Madness @ Eastway",
+      "event_key": "mando-madness-eastway",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -17608,6 +19378,22 @@
   ],
   "rasmus-saukkoriipi": [
     {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
       "month": "Apr",
@@ -17641,6 +19427,14 @@
     }
   ],
   "ratana-mcmahon": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -17749,6 +19543,14 @@
   ],
   "raven-klein": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -17831,6 +19633,14 @@
     }
   ],
   "raven-newsom": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -17947,6 +19757,14 @@
   ],
   "rebecca-cox": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -18037,6 +19855,14 @@
   ],
   "rebecca-don": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -18111,6 +19937,14 @@
     }
   ],
   "rebecca-minnick": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 43,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -18291,6 +20125,14 @@
   "reese-petersen": [],
   "richard-wysocki": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -18365,6 +20207,14 @@
     }
   ],
   "robert-burridge": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 49,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -18499,6 +20349,14 @@
     }
   ],
   "ryan-chesla": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 93,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 Santiam Open Presented by Innova",
       "event_key": "2026-santiam-open-presented-by-innova",
@@ -18660,6 +20518,14 @@
   ],
   "ryan-monn": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -18759,6 +20625,22 @@
   ],
   "ryan-mulder": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 89,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Memorial Day Bash",
+      "event_key": "memorial-day-bash",
+      "month": "May",
+      "place": 10,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Return Of The Sasquatch",
       "event_key": "return-of-the-sasquatch",
       "month": "May",
@@ -18800,6 +20682,14 @@
     }
   ],
   "sadie-shattuck": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -19103,6 +20993,22 @@
   "sawyer-barlow": [],
   "scott-adams": [
     {
+      "event": "18th Annual Battle At Bell Park",
+      "event_key": "18th-annual-battle-at-bell-park",
+      "month": "Jun",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "7th Annual Magnolia Open Powered by Discraft",
+      "event_key": "7th-annual-magnolia-open-powered-by-discraft",
+      "month": "May",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 Katy Days Open",
       "event_key": "2026-katy-days-open",
       "month": "May",
@@ -19217,6 +21123,14 @@
   ],
   "scott-withers": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -19330,6 +21244,14 @@
     }
   ],
   "sean-martin": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 106,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 Beaver State Fling presented by Innova Champion Discs",
       "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
@@ -19655,6 +21577,14 @@
   ],
   "silas-schultz": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -19737,6 +21667,14 @@
     }
   ],
   "silva-saarinen": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -19891,6 +21829,14 @@
   ],
   "sintija-klezberga": [
     {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -19948,6 +21894,14 @@
     }
   ],
   "sofia-donnecke": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 26,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -20113,6 +22067,14 @@
   "stephen-mclaren": [],
   "sullivan-tipton": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -20180,8 +22142,24 @@
   "sylus-williams": [],
   "tailey-rowley": [
     {
-      "event": "Upstate Women's Open - WGE",
-      "event_key": "upstate-women-s-open-wge",
+      "event": "CADL Inc. Presents: The 12th Annual Airborne Open @ Diavolo, Driv",
+      "event_key": "cadl-inc-presents-the-12th-annual-airborne-open-",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Valley Girls @ Valley Springs Sponsored By Yeet Street Discs - WG",
+      "event_key": "valley-girls-valley-springs-sponsored-by-yeet-st",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Upstate Women's Open",
+      "event_key": "upstate-women-s-open",
       "month": "May",
       "place": 1,
       "tier": "C",
@@ -20342,6 +22320,14 @@
   ],
   "taylor-chocek": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -20464,6 +22450,14 @@
     }
   ],
   "taylor-coulam": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 105,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -21106,6 +23100,14 @@
   ],
   "trevon-crowe": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 93,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -21295,6 +23297,14 @@
   ],
   "trinity-bryant": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -21370,6 +23380,14 @@
   ],
   "tristan-cook": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 97,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -21412,6 +23430,14 @@
     }
   ],
   "ty-love": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 85,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -21536,6 +23562,22 @@
   ],
   "valerie-mandujano": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "The 35th Annual Capital of Texas Open",
+      "event_key": "the-35th-annual-capital-of-texas-open",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -21602,6 +23644,14 @@
   ],
   "vin-mkel": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -21660,6 +23710,14 @@
     }
   ],
   "violet-main": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -21729,6 +23787,22 @@
   "whit-stephenson": [],
   "woods-mccue": [],
   "wyatt-mahoney": [
+    {
+      "event": "DisCap presents the 2026 Mine Kill Disc Golf Championship sponsor",
+      "event_key": "discap-presents-the-2026-mine-kill-disc-golf-cha",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Discmania Presents Sunshine Open at 501 and Mile Marker 63 - Powe",
+      "event_key": "discmania-presents-sunshine-open-at-501-and-mile",
+      "month": "May",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "The Explore Waterloo Region Foxwood Open 2026 - Driven by Innova",
       "event_key": "the-explore-waterloo-region-foxwood-open-2026-dr",
@@ -21939,6 +24013,14 @@
   ],
   "zach-arlinghaus": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -22144,6 +24226,14 @@
   ],
   "zachary-nash": [
     {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 20,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -22335,6 +24425,14 @@
     }
   ],
   "zoe-andyke": [
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 32,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
