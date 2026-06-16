@@ -424,6 +424,14 @@
   ],
   "aidan-guthrie": [
     {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -474,6 +482,14 @@
     }
   ],
   "aidan-scott": [
+    {
+      "event": "Show & Throw at Cherokee Park By RDG",
+      "event_key": "show-throw-at-cherokee-park-by-rdg",
+      "month": "Jun",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "30th annual Hotlanta, Sponsored by MVP disc",
       "event_key": "30th-annual-hotlanta-sponsored-by-mvp-disc",
@@ -819,6 +835,14 @@
   ],
   "alecia-hinkson": [
     {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "WNY Amateur Championships",
       "event_key": "wny-amateur-championships",
       "month": "May",
@@ -1019,6 +1043,30 @@
     }
   ],
   "alexis-kerman": [
+    {
+      "event": "Patriots Gold & Silver presents: 9th Annual Dragon Ridge Open spo",
+      "event_key": "patriots-gold-silver-presents-9th-annual-dragon-",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "All Dam Day - Supported by Innova",
+      "event_key": "all-dam-day-supported-by-innova",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Fore the Ladies! WGE",
+      "event_key": "fore-the-ladies-wge",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -1266,6 +1314,14 @@
     }
   ],
   "andrew-marwede": [
+    {
+      "event": "2026 Infinite Discs Beehive Classic",
+      "event_key": "2026-infinite-discs-beehive-classic",
+      "month": "Jun",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -1852,6 +1908,22 @@
   ],
   "anthony-anselmo": [
     {
+      "event": "Discraft Presents: Tennessee State Disc Golf Championships",
+      "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Big Valley Challenge Presented by The Original Q Shack and Beer S",
+      "event_key": "big-valley-challenge-presented-by-the-original-q",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Pluck Farm 5th Anniversary Cup",
       "event_key": "pluck-farm-5th-anniversary-cup",
       "month": "May",
@@ -2041,6 +2113,14 @@
   ],
   "anthony-bodanza": [
     {
+      "event": "Valley Springs Flex XX",
+      "event_key": "valley-springs-flex-xx",
+      "month": "Jun",
+      "place": 9,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
       "event_key": "yeet-street-discs-presents-the-25th-annual-tar-h",
       "month": "May",
@@ -2087,6 +2167,14 @@
       "place": 73,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "Acorn Hill Spring League (Flex Start)",
+      "event_key": "acorn-hill-spring-league-flex-start",
+      "month": "Mar",
+      "place": 9,
+      "tier": "L",
+      "tour": ""
     },
     {
       "event": "AR.RAL The Styx Descent @ Diavolo (Flex Start)",
@@ -2392,6 +2480,14 @@
     }
   ],
   "ben-holding": [
+    {
+      "event": "British Nationals Powered By Discraft",
+      "event_key": "british-nationals-powered-by-discraft",
+      "month": "Jun",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -3166,6 +3262,30 @@
   ],
   "brandon-brown": [
     {
+      "event": "Tryon International Disc Golf Classic - Driven by Innova",
+      "event_key": "tryon-international-disc-golf-classic-driven-by-",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Capital City Clash sponsored by VFW Post 4075",
+      "event_key": "capital-city-clash-sponsored-by-vfw-post-4075",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Barfield Open XVI",
+      "event_key": "barfield-open-xvi",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "2026 Rounds on the River",
       "event_key": "2026-rounds-on-the-river",
       "month": "Apr",
@@ -3279,6 +3399,14 @@
     }
   ],
   "cale-leiviska": [
+    {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 Tim Selinske United States Masters Disc Golf Championships",
       "event_key": "2026-tim-selinske-united-states-masters-disc-gol",
@@ -3798,6 +3926,14 @@
   ],
   "cam-rico": [
     {
+      "event": "2026 Infinite Discs Beehive Classic",
+      "event_key": "2026-infinite-discs-beehive-classic",
+      "month": "Jun",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -4096,6 +4232,14 @@
   ],
   "cassandra-lioi": [
     {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DisCap presents the 2026 Mine Kill Disc Golf Championship sponsor",
       "event_key": "discap-presents-the-2026-mine-kill-disc-golf-cha",
       "month": "Jun",
@@ -4293,6 +4437,22 @@
   ],
   "chad-sherbert": [
     {
+      "event": "State Games of MS Singles",
+      "event_key": "state-games-of-ms-singles",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2nd Annual Jackson Metro Open",
+      "event_key": "2nd-annual-jackson-metro-open",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "2026 Raleigh Rumble",
       "event_key": "2026-raleigh-rumble",
       "month": "May",
@@ -4358,6 +4518,14 @@
     }
   ],
   "chandler-kramer": [
+    {
+      "event": "2026 Infinite Discs Beehive Classic",
+      "event_key": "2026-infinite-discs-beehive-classic",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -4918,6 +5086,22 @@
   ],
   "colby-jones": [],
   "colby-schefers": [
+    {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 21,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Prodigy presents the Lake Marshall Open- Pro",
+      "event_key": "prodigy-presents-the-lake-marshall-open-pro",
+      "month": "May",
+      "place": 30,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -5947,6 +6131,22 @@
   ],
   "david-hurley": [
     {
+      "event": "2026 Power Disc Golf Academy Championship Series Qualifier - Rock",
+      "event_key": "2026-power-disc-golf-academy-championship-series",
+      "month": "Jun",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Auburn Open",
+      "event_key": "auburn-open",
+      "month": "May",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -5968,6 +6168,14 @@
       "month": "Apr",
       "place": 7,
       "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Rocklin Saturday Spring Tags",
+      "event_key": "rocklin-saturday-spring-tags",
+      "month": "Mar",
+      "place": 2,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -6303,6 +6511,14 @@
     }
   ],
   "dylan-capaccioli": [
+    {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DisCap presents the 2026 Mine Kill Disc Golf Championship sponsor",
       "event_key": "discap-presents-the-2026-mine-kill-disc-golf-cha",
@@ -6948,6 +7164,14 @@
   ],
   "elijah-riderbrandt": [
     {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 26,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -7168,6 +7392,14 @@
     }
   ],
   "ellie-bryant": [
+    {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Earth Day at the Preserve - Pro",
       "event_key": "earth-day-at-the-preserve-pro",
@@ -7555,6 +7787,14 @@
   ],
   "emily-yale": [
     {
+      "event": "2026 Infinite Discs Beehive Classic",
+      "event_key": "2026-infinite-discs-beehive-classic",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -7696,6 +7936,22 @@
     }
   ],
   "eric-downing": [
+    {
+      "event": "Maverick DG: Black Hoof Shootout 3 presented by Innova",
+      "event_key": "maverick-dg-black-hoof-shootout-3-presented-by-i",
+      "month": "Jun",
+      "place": 16,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "All Dam Day - Supported by Innova",
+      "event_key": "all-dam-day-supported-by-innova",
+      "month": "May",
+      "place": 12,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Maverick DG: Longview Open presented by Innova",
       "event_key": "maverick-dg-longview-open-presented-by-innova",
@@ -7856,6 +8112,14 @@
   ],
   "eva-lutsenko": [
     {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Carolina Ladies Classic - Presented by AR.GVL & Powered by Innova",
       "event_key": "carolina-ladies-classic-presented-by-ar-gvl-powe",
       "month": "Jun",
@@ -7901,6 +8165,22 @@
       "month": "Apr",
       "place": 1,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Wofford College (Flex Start)",
+      "event_key": "wofford-college-flex-start",
+      "month": "Apr",
+      "place": 1,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "AR.GVL Presents - \"Chain Lightning\" - Friday Flipt League",
+      "event_key": "ar-gvl-presents-chain-lightning-friday-flipt-lea",
+      "month": "Apr",
+      "place": 2,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -8538,6 +8818,14 @@
     }
   ],
   "fredy-meza": [
+    {
+      "event": "Lone Star Disc Flex at Stonebridge 6/11",
+      "event_key": "lone-star-disc-flex-at-stonebridge-6-11",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "M\u00e9xico Tour - Campeonato Mexicano de Disc Golf 2026 patrocinado",
       "event_key": "m-xico-tour-campeonato-mexicano-de-disc-golf-202",
@@ -9238,6 +9526,14 @@
   ],
   "gideon-drake": [
     {
+      "event": "18th Annual Battle At Bell Park",
+      "event_key": "18th-annual-battle-at-bell-park",
+      "month": "Jun",
+      "place": 15,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "6th Annual Mountain View Open presented by Innova",
       "event_key": "6th-annual-mountain-view-open-presented-by-innov",
       "month": "May",
@@ -9287,6 +9583,46 @@
     }
   ],
   "gillis-macdougall": [
+    {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DisCap presents the 2026 Mine Kill Disc Golf Championship sponsor",
+      "event_key": "discap-presents-the-2026-mine-kill-disc-golf-cha",
+      "month": "Jun",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Discmania Presents Sunshine Open at 501 and Mile Marker 63 - Powe",
+      "event_key": "discmania-presents-sunshine-open-at-501-and-mile",
+      "month": "May",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGVTour #4 - Quarries Throwdown + WGE",
+      "event_key": "dgvtour-4-quarries-throwdown-wge",
+      "month": "May",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Prodigy presents the Lake Marshall Open- Pro",
+      "event_key": "prodigy-presents-the-lake-marshall-open-pro",
+      "month": "May",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "The Oakholm Open",
       "event_key": "the-oakholm-open",
@@ -9621,6 +9957,30 @@
     }
   ],
   "harper-thompson": [
+    {
+      "event": "30th annual Hotlanta, Sponsored by MVP disc",
+      "event_key": "30th-annual-hotlanta-sponsored-by-mvp-disc",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Rocket City Blast presented by Westside Discs +WGE",
+      "event_key": "2026-rocket-city-blast-presented-by-westside-dis",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "WGE - Lexington Open XXVIII powered by Bomb Discs and Prodigy",
+      "event_key": "wge-lexington-open-xxviii-powered-by-bomb-discs-",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -10065,6 +10425,30 @@
     }
   ],
   "henry-bente": [
+    {
+      "event": "The 35th Annual Capital of Texas Open",
+      "event_key": "the-35th-annual-capital-of-texas-open",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Flex'n Fridays at Stonebridge",
+      "event_key": "flex-n-fridays-at-stonebridge",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Frederiksen Insurance Open",
+      "event_key": "frederiksen-insurance-open",
+      "month": "May",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -11306,6 +11690,14 @@
       "tour": "DGPT"
     },
     {
+      "event": "Sanctioned Spring Series '26",
+      "event_key": "sanctioned-spring-series-26",
+      "month": "Apr",
+      "place": 7,
+      "tier": "L",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
       "event_key": "play-it-again-sports-jonesboro-open-presented-by",
       "month": "Apr",
@@ -11712,6 +12104,22 @@
   ],
   "jamie-kiep": [
     {
+      "event": "30th annual Hotlanta, Sponsored by MVP disc",
+      "event_key": "30th-annual-hotlanta-sponsored-by-mvp-disc",
+      "month": "Jun",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Rocket City Blast presented by Westside Discs +WGE",
+      "event_key": "2026-rocket-city-blast-presented-by-westside-dis",
+      "month": "May",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "3rd Annual Claystone Clash Presented by Most Accurate Discs",
       "event_key": "3rd-annual-claystone-clash-presented-by-most-acc",
       "month": "May",
@@ -12112,6 +12520,14 @@
   ],
   "jeffrey-mccormick": [
     {
+      "event": "Hard Pan Classic presented by Legacy Discs, Visit Fresno County a",
+      "event_key": "hard-pan-classic-presented-by-legacy-discs-visit",
+      "month": "Jun",
+      "place": 10,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -12502,6 +12918,14 @@
   ],
   "jesse-longenecker": [
     {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -12772,6 +13196,14 @@
     }
   ],
   "joel-freeman": [
+    {
+      "event": "MHDGC Presents: Spring Fling 2026 - Pros",
+      "event_key": "mhdgc-presents-spring-fling-2026-pros",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Discraft's 303 Open Hosted by Visit Pueblo",
       "event_key": "discraft-s-303-open-hosted-by-visit-pueblo",
@@ -13486,6 +13918,22 @@
   ],
   "justin-bougher": [
     {
+      "event": "2026 Power Disc Golf Academy Championship Series Qualifier - Rock",
+      "event_key": "2026-power-disc-golf-academy-championship-series",
+      "month": "Jun",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Auburn Open",
+      "event_key": "auburn-open",
+      "month": "May",
+      "place": 38,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -13507,6 +13955,14 @@
       "month": "May",
       "place": 11,
       "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Rocklin Saturday Spring Tags",
+      "event_key": "rocklin-saturday-spring-tags",
+      "month": "Mar",
+      "place": 1,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -13558,6 +14014,30 @@
     }
   ],
   "justin-rosak": [
+    {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 23,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Phoenix Discs People's Championship - Pro",
+      "event_key": "the-phoenix-discs-people-s-championship-pro",
+      "month": "Jun",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Prodigy presents the Lake Marshall Open- Pro",
+      "event_key": "prodigy-presents-the-lake-marshall-open-pro",
+      "month": "May",
+      "place": 41,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Stafford Open - Driven by Innova - All Pros and MA1",
       "event_key": "stafford-open-driven-by-innova-all-pros-and-ma1",
@@ -14501,6 +14981,14 @@
   "landis-nelson": [],
   "landon-brooks": [
     {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGVTour #4 - Quarries Throwdown + WGE",
       "event_key": "dgvtour-4-quarries-throwdown-wge",
       "month": "May",
@@ -14559,6 +15047,22 @@
   ],
   "landon-knight": [
     {
+      "event": "27th Annual Nacogdoches Open - Supported by Innova",
+      "event_key": "27th-annual-nacogdoches-open-supported-by-innova",
+      "month": "Jun",
+      "place": 14,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Frederiksen Insurance Open",
+      "event_key": "frederiksen-insurance-open",
+      "month": "May",
+      "place": 26,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -14600,6 +15104,14 @@
     }
   ],
   "lauren-butler": [
+    {
+      "event": "Wisco Disco 2026",
+      "event_key": "wisco-disco-2026",
+      "month": "Jun",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Frederiksen Insurance Open",
       "event_key": "frederiksen-insurance-open",
@@ -14724,6 +15236,14 @@
     }
   ],
   "leah-tsinajinnie": [
+    {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -14945,6 +15465,14 @@
     }
   ],
   "lindsey-maas": [
+    {
+      "event": "Cherry Capital Open",
+      "event_key": "cherry-capital-open",
+      "month": "Jun",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "WGE Serendipity of Goddesses: Year of the Scepter",
       "event_key": "wge-serendipity-of-goddesses-year-of-the-scepter",
@@ -15488,6 +16016,14 @@
   ],
   "lucas-oberholtzerhess": [
     {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -15628,6 +16164,14 @@
     }
   ],
   "luke-samson": [
+    {
+      "event": "2026 Infinite Discs Beehive Classic",
+      "event_key": "2026-infinite-discs-beehive-classic",
+      "month": "Jun",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -16149,6 +16693,14 @@
   ],
   "maria-oliva": [
     {
+      "event": "2026 Infinite Discs Beehive Classic",
+      "event_key": "2026-infinite-discs-beehive-classic",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -16505,6 +17057,30 @@
   ],
   "matt-hammersten": [
     {
+      "event": "Battle of the Potomac 2",
+      "event_key": "battle-of-the-potomac-2",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Sausage Fest Goes Hawaiian!",
+      "event_key": "sausage-fest-goes-hawaiian",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Prodigy presents the Lake Marshall Open- Pro",
+      "event_key": "prodigy-presents-the-lake-marshall-open-pro",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "ODDS #4: The Seventh Annual Howling Gale Classic sponsored by Fai",
       "event_key": "odds-4-the-seventh-annual-howling-gale-classic-s",
       "month": "May",
@@ -16653,6 +17229,14 @@
   ],
   "matthew-alexander": [
     {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 58,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -16783,6 +17367,22 @@
     }
   ],
   "matthew-brown-1": [
+    {
+      "event": "30th annual Hotlanta, Sponsored by MVP disc",
+      "event_key": "30th-annual-hotlanta-sponsored-by-mvp-disc",
+      "month": "Jun",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Sarasota Championship",
+      "event_key": "the-sarasota-championship",
+      "month": "May",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Christie Lake Spring Fling",
       "event_key": "christie-lake-spring-fling",
@@ -17293,6 +17893,30 @@
   ],
   "miles-sayer": [
     {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 26,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DisCap presents the 2026 Mine Kill Disc Golf Championship sponsor",
+      "event_key": "discap-presents-the-2026-mine-kill-disc-golf-cha",
+      "month": "Jun",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Discmania Presents Sunshine Open at 501 and Mile Marker 63 - Powe",
+      "event_key": "discmania-presents-sunshine-open-at-501-and-mile",
+      "month": "May",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Dew Sweeper Championship Presented by PTDG V.3",
       "event_key": "dew-sweeper-championship-presented-by-ptdg-v-3",
       "month": "May",
@@ -17470,6 +18094,22 @@
   "natalie-berg-268900": [],
   "nate-corder": [
     {
+      "event": "4th Annual Monahan Ranch Open",
+      "event_key": "4th-annual-monahan-ranch-open",
+      "month": "Jun",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The 35th Annual Capital of Texas Open",
+      "event_key": "the-35th-annual-capital-of-texas-open",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -17511,6 +18151,14 @@
     }
   ],
   "nate-toutolmin": [
+    {
+      "event": "Auburn Open",
+      "event_key": "auburn-open",
+      "month": "May",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -17637,6 +18285,30 @@
     }
   ],
   "nathan-queen": [
+    {
+      "event": "CADL Inc. Presents: The 12th Annual Airborne Open @ Diavolo, Driv",
+      "event_key": "cadl-inc-presents-the-12th-annual-airborne-open-",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Rocket City Blast presented by Westside Discs +WGE",
+      "event_key": "2026-rocket-city-blast-presented-by-westside-dis",
+      "month": "May",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
+      "event_key": "yeet-street-discs-presents-the-25th-annual-tar-h",
+      "month": "May",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Huk Central",
       "event_key": "huk-central",
@@ -17829,6 +18501,30 @@
   ],
   "nicholas-gill": [
     {
+      "event": "Cherry Capital Open",
+      "event_key": "cherry-capital-open",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Hazy Shade presents the 4th Annual Scott Burnett Open",
+      "event_key": "hazy-shade-presents-the-4th-annual-scott-burnett",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "AJ Open",
+      "event_key": "aj-open",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "South Kent County Open presented by Discraft - Pro, MA2, MA4, AMM",
       "event_key": "south-kent-county-open-presented-by-discraft-pro",
       "month": "May",
@@ -17867,6 +18563,14 @@
       "place": 56,
       "tier": "M",
       "tour": "Major"
+    },
+    {
+      "event": "GRDGU Summer Sanctioned League @ Brewer (Golds) (Flex Start)",
+      "event_key": "grdgu-summer-sanctioned-league-brewer-golds-flex",
+      "month": "Apr",
+      "place": 11,
+      "tier": "L",
+      "tour": ""
     },
     {
       "event": "3rd Annual Concordia Cup",
@@ -17911,6 +18615,14 @@
   ],
   "nick-doan": [],
   "nick-robertson-1": [
+    {
+      "event": "Cherry Capital Open",
+      "event_key": "cherry-capital-open",
+      "month": "Jun",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Camp Petosega Classic",
       "event_key": "camp-petosega-classic",
@@ -18057,6 +18769,38 @@
     }
   ],
   "nid-ovathanasin": [
+    {
+      "event": "2026 Gulf Coast Tour Challenge Presented by Dynamic Discs - Stop",
+      "event_key": "2026-gulf-coast-tour-challenge-presented-by-dyna",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Sarasota Championship",
+      "event_key": "the-sarasota-championship",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Gulf Coast Tour Challenge Presented by Dynamic Discs - Stop",
+      "event_key": "2026-gulf-coast-tour-challenge-presented-by-dyna",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "WGE 2026 The Florida Hummingbird presented by Tri-Fly Disc Golf",
+      "event_key": "wge-2026-the-florida-hummingbird-presented-by-tr",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "2026 Gulf Coast Tour Challenge Presented by Dynamic Discs - Stop",
       "event_key": "2026-gulf-coast-tour-challenge-presented-by-dyna",
@@ -18283,6 +19027,22 @@
   "noah-baker": [],
   "noah-feil": [],
   "noah-fiveash": [
+    {
+      "event": "DGPT+ Northwest Championship Monday Qualifier",
+      "event_key": "northwest-championship-monday-qualifier",
+      "month": "Jun",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
+      "event_key": "yeet-street-discs-presents-the-25th-annual-tar-h",
+      "month": "May",
+      "place": 34,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Catawba River Run",
       "event_key": "catawba-river-run",
@@ -18673,6 +19433,14 @@
   ],
   "oiva-pivnsalo": [
     {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -18741,6 +19509,22 @@
     }
   ],
   "owen-mccall": [
+    {
+      "event": "Pancake Willy Presents: The Pancake Parley V",
+      "event_key": "pancake-willy-presents-the-pancake-parley-v",
+      "month": "May",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Par-Tee in the Sand",
+      "event_key": "2026-par-tee-in-the-sand",
+      "month": "May",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "24th Azalea Open Presented By Cape Fear Games",
       "event_key": "24th-azalea-open-presented-by-cape-fear-games",
@@ -19157,6 +19941,22 @@
   ],
   "paul-oman": [
     {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Hazy Shade presents the 4th Annual Scott Burnett Open",
+      "event_key": "hazy-shade-presents-the-4th-annual-scott-burnett",
+      "month": "May",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "WGE - Lexington Open XXVIII powered by Bomb Discs and Prodigy",
       "event_key": "wge-lexington-open-xxviii-powered-by-bomb-discs-",
       "month": "May",
@@ -19542,6 +20342,14 @@
     }
   ],
   "raven-klein": [
+    {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -20369,6 +21177,22 @@
   "ryan-clark-1": [],
   "ryan-hahn": [
     {
+      "event": "Triangle Friday Flex 2026 #10 presented by Yeet Street Discs",
+      "event_key": "triangle-friday-flex-2026-10-presented-by-yeet-s",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "CADL Inc. Presents: The 12th Annual Airborne Open @ Diavolo, Driv",
+      "event_key": "cadl-inc-presents-the-12th-annual-airborne-open-",
+      "month": "May",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
       "event_key": "yeet-street-discs-presents-the-25th-annual-tar-h",
       "month": "May",
@@ -20446,6 +21270,14 @@
       "month": "Mar",
       "place": 31,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Acorn Hill Spring League (Flex Start)",
+      "event_key": "acorn-hill-spring-league-flex-start",
+      "month": "Mar",
+      "place": 5,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -20749,6 +21581,30 @@
   ],
   "sam-dicarlo": [
     {
+      "event": "The 35th Annual Capital of Texas Open",
+      "event_key": "the-35th-annual-capital-of-texas-open",
+      "month": "May",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Chapel Hill Invitational - sponsored by Team Potato (a WGE e",
+      "event_key": "2026-chapel-hill-invitational-sponsored-by-team-",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "NO ATX Open 2026",
+      "event_key": "no-atx-open-2026",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -20807,6 +21663,22 @@
   ],
   "samantha-bonacci": [],
   "samuel-aldrich": [
+    {
+      "event": "Hard Pan Classic presented by Legacy Discs, Visit Fresno County a",
+      "event_key": "hard-pan-classic-presented-by-legacy-discs-visit",
+      "month": "Jun",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Auburn Open",
+      "event_key": "auburn-open",
+      "month": "May",
+      "place": 28,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -21470,6 +22342,14 @@
   ],
   "sias-elmore": [
     {
+      "event": "La Mirada Summer Classic 2026 (CDGS event #7 - Presented by Innov",
+      "event_key": "la-mirada-summer-classic-2026-cdgs-event-7-prese",
+      "month": "Jun",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -22023,6 +22903,14 @@
     }
   ],
   "stephanie-vincent": [
+    {
+      "event": "The 4th Annual Indian Paintbrush Open - WFDGT",
+      "event_key": "the-4th-annual-indian-paintbrush-open-wfdgt",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -22651,6 +23539,14 @@
   ],
   "thomas-tomaselli": [
     {
+      "event": "Auburn Open",
+      "event_key": "auburn-open",
+      "month": "May",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -22701,6 +23597,30 @@
     }
   ],
   "thunder-schultz": [
+    {
+      "event": "2026 Midsummer Meltdown in Metaire",
+      "event_key": "2026-midsummer-meltdown-in-metaire",
+      "month": "Jun",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Rocket City Blast presented by Westside Discs +WGE",
+      "event_key": "2026-rocket-city-blast-presented-by-westside-dis",
+      "month": "May",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Lockhart Training Services, LLC Presents: The 3rd Annual Birdie C",
+      "event_key": "lockhart-training-services-llc-presents-the-3rd-",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "The 6th Annual Pelican Park Disc Golf Doubles Championship",
       "event_key": "the-6th-annual-pelican-park-disc-golf-doubles-ch",
@@ -22776,6 +23696,38 @@
   ],
   "tiger-borth": [
     {
+      "event": "Deer Creek Doe Run Whites (Flex Start)",
+      "event_key": "deer-creek-doe-run-whites-flex-start",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Flight to Summer St. Charles Challenge (Flex Start)",
+      "event_key": "flight-to-summer-st-charles-challenge-flex-start",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Big Buck Memorial Flex",
+      "event_key": "big-buck-memorial-flex",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Fore the Ladies! WGE",
+      "event_key": "fore-the-ladies-wge",
+      "month": "May",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -22817,6 +23769,22 @@
     }
   ],
   "tim-denna": [
+    {
+      "event": "2026 Power Disc Golf Academy Championship Series Qualifier - Rock",
+      "event_key": "2026-power-disc-golf-academy-championship-series",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Hard Pan Classic presented by Legacy Discs, Visit Fresno County a",
+      "event_key": "hard-pan-classic-presented-by-legacy-discs-visit",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -22887,6 +23855,22 @@
     }
   ],
   "tom-shanley": [
+    {
+      "event": "Tryon International Disc Golf Classic - Driven by Innova",
+      "event_key": "tryon-international-disc-golf-classic-driven-by-",
+      "month": "May",
+      "place": 10,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Prodigy presents the Lake Marshall Open- Pro",
+      "event_key": "prodigy-presents-the-lake-marshall-open-pro",
+      "month": "May",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "The 4th Annual Heaven and Hell Open",
       "event_key": "the-4th-annual-heaven-and-hell-open",
@@ -22977,6 +23961,22 @@
     }
   ],
   "tony-moereiss": [
+    {
+      "event": "Hazy Shade presents the 4th Annual Scott Burnett Open",
+      "event_key": "hazy-shade-presents-the-4th-annual-scott-burnett",
+      "month": "May",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "WGE - Lexington Open XXVIII powered by Bomb Discs and Prodigy",
+      "event_key": "wge-lexington-open-xxviii-powered-by-bomb-discs-",
+      "month": "May",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Mt. Airy Open",
       "event_key": "mt-airy-open",
@@ -23431,6 +24431,14 @@
   ],
   "ty-love": [
     {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -23788,6 +24796,14 @@
   "woods-mccue": [],
   "wyatt-mahoney": [
     {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 21,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DisCap presents the 2026 Mine Kill Disc Golf Championship sponsor",
       "event_key": "discap-presents-the-2026-mine-kill-disc-golf-cha",
       "month": "Jun",
@@ -23894,6 +24910,30 @@
   ],
   "wynn-coggin": [],
   "xaelen-nash": [
+    {
+      "event": "2026 Infinite Discs Beehive Classic",
+      "event_key": "2026-infinite-discs-beehive-classic",
+      "month": "Jun",
+      "place": 55,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "La Mirada Summer Classic 2026 (CDGS event #7 - Presented by Innov",
+      "event_key": "la-mirada-summer-classic-2026-cdgs-event-7-prese",
+      "month": "Jun",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Auburn Open",
+      "event_key": "auburn-open",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -24160,6 +25200,14 @@
   ],
   "zach-melton": [
     {
+      "event": "Blue Ridge Open",
+      "event_key": "blue-ridge-open",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Prodigy presents the Lake Marshall Open- Pro",
       "event_key": "prodigy-presents-the-lake-marshall-open-pro",
       "month": "May",
@@ -24335,6 +25383,14 @@
     }
   ],
   "zane-letts": [
+    {
+      "event": "Dynamic Discs Presents the Dogwood Cup",
+      "event_key": "dynamic-discs-presents-the-dogwood-cup",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Frederiksen Insurance Open",
       "event_key": "frederiksen-insurance-open",
