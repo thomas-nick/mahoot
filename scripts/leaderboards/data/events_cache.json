@@ -1,5 +1,47 @@
 {
+  "aapo-karhi": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 65,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Takaysi, Yliskulma sponsored by AION auto",
+      "event_key": "takaysi-yliskulma-sponsored-by-aion-auto",
+      "month": "May",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "After Easter Open 2026 J\u00e4mi",
+      "event_key": "after-easter-open-2026-j-mi",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "aaron-gossage": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 20,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -256,6 +298,14 @@
     }
   ],
   "adam-hammes": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 12,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -678,6 +728,14 @@
   "alan-vazquez": [],
   "albert-tamm": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 28,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -760,6 +818,14 @@
     }
   ],
   "alden-harris": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 53,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -1042,6 +1108,64 @@
       "tour": "DGPT"
     }
   ],
+  "alexander-borgersrud": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 65,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "NC 1 Open \u00d8ver\u00e5s - presented by Innova Champion Discs",
+      "event_key": "nc-1-open-ver-s-presented-by-innova-champion-dis",
+      "month": "May",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Mayday! 2026 @ Krokhol DGC - presented by Alfa Discs",
+      "event_key": "mayday-2026-krokhol-dgc-presented-by-alfa-discs",
+      "month": "May",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Klemetsrud Grand Prix Doubles 2026",
+      "event_key": "klemetsrud-grand-prix-doubles-2026",
+      "month": "Apr",
+      "place": 8,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Mijas Spring Opener 2026",
+      "event_key": "mijas-spring-opener-2026",
+      "month": "Feb",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Heatland To Mijas 2026 - sponsored by Kastaplast",
+      "event_key": "heatland-to-mijas-2026-sponsored-by-kastaplast",
+      "month": "Feb",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Mijas Winter League 2026 (Flex Start)",
+      "event_key": "mijas-winter-league-2026-flex-start",
+      "month": "Jan",
+      "place": 10,
+      "tier": "L",
+      "tour": ""
+    }
+  ],
   "alexis-kerman": [
     {
       "event": "Patriots Gold & Silver presents: 9th Annual Dragon Ridge Open spo",
@@ -1150,6 +1274,14 @@
   ],
   "alexis-mandujano": [
     {
+      "event": "The 35th Annual Capital of Texas Open",
+      "event_key": "the-35th-annual-capital-of-texas-open",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -1249,6 +1381,14 @@
     }
   ],
   "amanda-lennartsson": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 11,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -1445,6 +1585,14 @@
     }
   ],
   "andrew-miranda": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 63,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -1771,6 +1919,56 @@
       "tour": ""
     }
   ],
+  "anna-damberga": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 43,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Latvijas Kauss 2.posms - Zibe\u0146i",
+      "event_key": "latvijas-kauss-2-posms-zibe-i",
+      "month": "Jun",
+      "place": 9,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas Kauss 1.posms - 9hill",
+      "event_key": "latvijas-kauss-1-posms-9hill",
+      "month": "Apr",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Balodis izlido Tukum\u0101",
+      "event_key": "balodis-izlido-tukum",
+      "month": "Apr",
+      "place": 38,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Balodis izlido Ventspil\u012b",
+      "event_key": "balodis-izlido-ventspil",
+      "month": "Apr",
+      "place": 28,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Lietuvos diskgolfo \u017eiemos \u010dempionatas 2026 su DiscCity.eu",
+      "event_key": "lietuvos-diskgolfo-iemos-empionatas-2026-su-disc",
+      "month": "Feb",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "anna-pinter": [
     {
       "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
@@ -1806,6 +2004,22 @@
     }
   ],
   "anneli-tugjas-mnniste": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 27,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 22,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
       "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
@@ -1848,6 +2062,22 @@
     }
   ],
   "annikenkristiansen-steen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 8,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -2021,6 +2251,22 @@
     }
   ],
   "anthony-barela": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 11,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -2210,6 +2456,49 @@
     }
   ],
   "ariel-walker": [],
+  "arttu-rossi": [],
+  "arvid-hkansson": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 51,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 28,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #1 Varberg",
+      "event_key": "nationella-touren-1-varberg",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
   "ashley-phelps": [],
   "athena-cuevas": [
     {
@@ -2370,6 +2659,14 @@
     }
   ],
   "austin-turner": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 16,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -2612,6 +2909,22 @@
   ],
   "benjamin-callaway": [
     {
+      "event": "Discraft Presents The Rumble",
+      "event_key": "discraft-presents-the-rumble",
+      "month": "May",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "IOS #137 Forest City Frenzy presented by Discraft",
+      "event_key": "ios-137-forest-city-frenzy-presented-by-discraft",
+      "month": "May",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
       "event_key": "play-it-again-sports-jonesboro-open-presented-by",
       "month": "Apr",
@@ -2629,6 +2942,14 @@
     }
   ],
   "bennett-doemland": [
+    {
+      "event": "ACDGC - Doo Dah XL presented by Wichita Riverfest",
+      "event_key": "acdgc-doo-dah-xl-presented-by-wichita-riverfest",
+      "month": "May",
+      "place": 18,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
       "event_key": "massive-graphics-presents-the-48th-annual-norman",
@@ -2720,8 +3041,82 @@
       "tour": "DGPT"
     }
   ],
+  "bjrn-marrandi": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 94,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Pure Open 2026",
+      "event_key": "pure-open-2026",
+      "month": "May",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Annikoru Open 2026 supported by Innova Europe",
+      "event_key": "annikoru-open-2026-supported-by-innova-europe",
+      "month": "Apr",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "blake-houston": [],
   "blake-poland": [
+    {
+      "event": "Big Valley Challenge Presented by The Original Q Shack and Beer S",
+      "event_key": "big-valley-challenge-presented-by-the-original-q",
+      "month": "Jun",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Patriot Memorial 2026",
+      "event_key": "patriot-memorial-2026",
+      "month": "May",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Par-Tee in the Sand",
+      "event_key": "2026-par-tee-in-the-sand",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "21st Annual Seneca Spring Fling presented by Discraft",
       "event_key": "21st-annual-seneca-spring-fling-presented-by-dis",
@@ -2780,6 +3175,22 @@
     }
   ],
   "bo-mclaughlin": [
+    {
+      "event": "GDG SPRING/SUMMER 2026 FLEX SERIES STOP FOUR! (KC)",
+      "event_key": "gdg-spring-summer-2026-flex-series-stop-four-kc",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Power Disc Golf Academy Championship Series Qualifier - Mast",
+      "event_key": "2026-power-disc-golf-academy-championship-series",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "SHDG Flex Series #3.5 - John Hunt Park Temp",
       "event_key": "shdg-flex-series-3-5-john-hunt-park-temp",
@@ -2968,6 +3379,14 @@
   "bradley-baumgardner": [],
   "bradley-williams": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 16,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -3106,6 +3525,14 @@
     }
   ],
   "braeden-sides": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 24,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -3346,6 +3773,7 @@
     }
   ],
   "brenden-koontz": [],
+  "brit-hamburg": [],
   "brook-johnson": [],
   "bryson-little": [],
   "cadence-burge": [
@@ -3540,6 +3968,14 @@
   ],
   "caleb-joiner": [
     {
+      "event": "Fort Steilacoom Open",
+      "event_key": "fort-steilacoom-open",
+      "month": "Jun",
+      "place": 15,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -3646,6 +4082,22 @@
   ],
   "calvin-heimburg": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 5,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -3744,6 +4196,14 @@
     }
   ],
   "calvin-lonnquist": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 63,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -4330,6 +4790,14 @@
   ],
   "catrina-allen": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 21,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -4757,6 +5225,38 @@
   ],
   "chris-clemons": [
     {
+      "event": "Mid America Open",
+      "event_key": "mid-america-open",
+      "month": "Jun",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Maverick DG: Black Hoof Shootout 3 presented by Innova",
+      "event_key": "maverick-dg-black-hoof-shootout-3-presented-by-i",
+      "month": "Jun",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Hazy Shade presents the 4th Annual Scott Burnett Open",
+      "event_key": "hazy-shade-presents-the-4th-annual-scott-burnett",
+      "month": "May",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Dilly 5002",
+      "event_key": "dilly-5002",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -4892,6 +5392,14 @@
     }
   ],
   "clay-edwards": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 33,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -5168,6 +5676,14 @@
     }
   ],
   "cole-redalen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 33,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -5465,6 +5981,14 @@
   ],
   "colton-lawless": [
     {
+      "event": "The 35th Annual Capital of Texas Open",
+      "event_key": "the-35th-annual-capital-of-texas-open",
+      "month": "May",
+      "place": 26,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -5515,6 +6039,14 @@
   ],
   "connor-king": [],
   "connor-oreilly": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 57,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -5619,6 +6151,14 @@
       "month": "May",
       "place": 66,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Trosper 25.0, Presented By Lost Brothers Cannabis, Supported By I",
+      "event_key": "trosper-25-0-presented-by-lost-brothers-cannabis",
+      "month": "Apr",
+      "place": 4,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -5954,8 +6494,50 @@
     }
   ],
   "damien-biegert": [],
+  "daniel-davidsson": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 14,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Tammer Open",
+      "event_key": "tammer-open",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "daniel-perry": [],
   "daniel-pfaff": [
+    {
+      "event": "Team High Country Presents - The Caliber Classic - Supported by I",
+      "event_key": "team-high-country-presents-the-caliber-classic-s",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -6210,6 +6792,64 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "dennis-augustsson": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 53,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 55,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Heatland Tour #5 - Kil",
+      "event_key": "heatland-tour-5-kil",
+      "month": "Apr",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Tjing Open 2026 presented by Kastaplast",
+      "event_key": "tjing-open-2026-presented-by-kastaplast",
+      "month": "Apr",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Heatland To Mijas 2026 - sponsored by Kastaplast",
+      "event_key": "heatland-to-mijas-2026-sponsored-by-kastaplast",
+      "month": "Feb",
+      "place": 18,
+      "tier": "C",
+      "tour": ""
     }
   ],
   "destyne-martinez": [],
@@ -6470,6 +7110,22 @@
   ],
   "dustin-klein": [
     {
+      "event": "Maverick DG: Black Hoof Shootout 3 presented by Innova",
+      "event_key": "maverick-dg-black-hoof-shootout-3-presented-by-i",
+      "month": "Jun",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Maverick DG: Longview Open presented by Innova",
+      "event_key": "maverick-dg-longview-open-presented-by-innova",
+      "month": "May",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
       "month": "Apr",
@@ -6611,6 +7267,22 @@
   "dylan-dietrich": [],
   "eagle-mcmahon": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 5,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -6735,7 +7407,116 @@
       "tour": "DGPT"
     }
   ],
+  "edvard-espesethjemdal": [],
+  "eetu-tuominen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 8,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
+  "egert-htt": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 88,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 25,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "P\u00e4rnu Rannapargi Open 2026 - MPO",
+      "event_key": "p-rnu-rannapargi-open-2026-mpo",
+      "month": "May",
+      "place": 8,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Annikoru Open 2026 supported by Innova Europe",
+      "event_key": "annikoru-open-2026-supported-by-innova-europe",
+      "month": "Apr",
+      "place": 20,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 24,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "X OPEN de ESPA\u00d1A - presented by INNOVA",
+      "event_key": "x-open-de-espa-a-presented-by-innova",
+      "month": "Mar",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Eesti Talvised Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "eesti-talvised-meistriv-istlused-discgolfis-2026",
+      "month": "Feb",
+      "place": 12,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Eesti Harrastajate Talvised Meistriv\u00f5istlused 2026",
+      "event_key": "eesti-harrastajate-talvised-meistriv-istlused-20",
+      "month": "Feb",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "eli-swansen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 88,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -6850,7 +7631,105 @@
       "tour": "DGPT"
     }
   ],
+  "elias-gripler": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 53,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "GT #5 Brohult Open",
+      "event_key": "gt-5-brohult-open",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The 27th J\u00e4rva Open 2026 presented by Innova",
+      "event_key": "the-27th-j-rva-open-2026-presented-by-innova",
+      "month": "May",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #1 Varberg",
+      "event_key": "nationella-touren-1-varberg",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "GT#2 St Hans Open",
+      "event_key": "gt-2-st-hans-open",
+      "month": "Apr",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Tjing Open 2026 presented by Kastaplast",
+      "event_key": "tjing-open-2026-presented-by-kastaplast",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "X OPEN de ESPA\u00d1A - presented by INNOVA",
+      "event_key": "x-open-de-espa-a-presented-by-innova",
+      "month": "Mar",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "elias-luukkonen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 33,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -6893,6 +7772,14 @@
     }
   ],
   "eliezra-midtlyng": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 17,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -7308,7 +8195,73 @@
       "tour": ""
     }
   ],
+  "elizabete-peksena": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 15,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Latvijas Kauss 2.posms - Zibe\u0146i",
+      "event_key": "latvijas-kauss-2-posms-zibe-i",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas Kauss 1.posms - 9hill",
+      "event_key": "latvijas-kauss-1-posms-9hill",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Balodis izlido Tukum\u0101",
+      "event_key": "balodis-izlido-tukum",
+      "month": "Apr",
+      "place": 22,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Balodis izlido Ventspil\u012b",
+      "event_key": "balodis-izlido-ventspil",
+      "month": "Apr",
+      "place": 12,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Lietuvos diskgolfo \u017eiemos \u010dempionatas 2026 su DiscCity.eu",
+      "event_key": "lietuvos-diskgolfo-iemos-empionatas-2026-su-disc",
+      "month": "Feb",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "ella-hansen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 4,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 31,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -7389,6 +8342,56 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "ella-tejler": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 38,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Heatland Tour #5 - Kil",
+      "event_key": "heatland-tour-5-kil",
+      "month": "Apr",
+      "place": 13,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Tjing Open 2026 presented by Kastaplast",
+      "event_key": "tjing-open-2026-presented-by-kastaplast",
+      "month": "Apr",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
     }
   ],
   "ellie-bryant": [
@@ -7671,6 +8674,22 @@
     }
   ],
   "emily-weatherman": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 9,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 32,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -8110,6 +9129,88 @@
       "tour": "DGPT"
     }
   ],
+  "espen-normannpaulsen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 95,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "NC3 Valdres Open presented by Discmania",
+      "event_key": "nc3-valdres-open-presented-by-discmania",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Skeikampen Open 2026",
+      "event_key": "skeikampen-open-2026",
+      "month": "May",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NC 2 Open Hestehagen",
+      "event_key": "nc-2-open-hestehagen",
+      "month": "May",
+      "place": 9,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NC 1 Open \u00d8ver\u00e5s - presented by Innova Champion Discs",
+      "event_key": "nc-1-open-ver-s-presented-by-innova-champion-dis",
+      "month": "May",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Klemetsrud Grand Prix Doubles 2026",
+      "event_key": "klemetsrud-grand-prix-doubles-2026",
+      "month": "Apr",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Tjing Open 2026 presented by Kastaplast",
+      "event_key": "tjing-open-2026-presented-by-kastaplast",
+      "month": "Apr",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Heatland Winter Tour #8 - Karlstad",
+      "event_key": "heatland-winter-tour-8-karlstad",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Just for fun",
+      "event_key": "just-for-fun",
+      "month": "Mar",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Stangehallen Open (Unrated)",
+      "event_key": "stangehallen-open-unrated",
+      "month": "Feb",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    }
+  ],
   "eva-lutsenko": [
     {
       "event": "The Majestic",
@@ -8281,6 +9382,14 @@
     }
   ],
   "evan-scott": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 39,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -8488,6 +9597,22 @@
   "evan-walker": [],
   "eveliina-salonen": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 1,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 29,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -8529,6 +9654,14 @@
     }
   ],
   "ezra-aderhold": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 76,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -8612,6 +9745,14 @@
     }
   ],
   "ezra-hapner": [
+    {
+      "event": "Team High Country Presents - The Caliber Classic - Supported by I",
+      "event_key": "team-high-country-presents-the-caliber-classic-s",
+      "month": "Jun",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -8711,6 +9852,14 @@
     }
   ],
   "ezra-robinson": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 30,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -8815,6 +9964,56 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "florian-lingenhel": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 103,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "PRESIDENTS CUP MUDAU",
+      "event_key": "presidents-cup-mudau",
+      "month": "May",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Spring Fling Linz 2026",
+      "event_key": "spring-fling-linz-2026",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "4. Charity Open",
+      "event_key": "4-charity-open",
+      "month": "Apr",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Biber Bach Open 2026",
+      "event_key": "biber-bach-open-2026",
+      "month": "Mar",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "PCT: STP Open 2026",
+      "event_key": "pct-stp-open-2026",
+      "month": "Mar",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
     }
   ],
   "fredy-meza": [
@@ -9075,7 +10274,89 @@
       "tour": ""
     }
   ],
+  "fritiof-fagergren": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 60,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The 27th J\u00e4rva Open 2026 presented by Innova",
+      "event_key": "the-27th-j-rva-open-2026-presented-by-innova",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Birch Grove Open 2026 by Kastaplast",
+      "event_key": "birch-grove-open-2026-by-kastaplast",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Valle D'encanto after storm open",
+      "event_key": "valle-d-encanto-after-storm-open",
+      "month": "Feb",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Heatland To Mijas 2026 - sponsored by Kastaplast",
+      "event_key": "heatland-to-mijas-2026-sponsored-by-kastaplast",
+      "month": "Feb",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "gannon-buhr": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 1,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -9290,7 +10571,16 @@
       "tour": "DGPT"
     }
   ],
+  "gaute-hauge": [],
   "gavin-babcock": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 3,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -9673,7 +10963,34 @@
     }
   ],
   "graham-fuller": [],
+  "gregg-barsby": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 72,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "DGPT JomezPro - Innova presents WACO powered by Legit Disc Golf",
+      "event_key": "jomezpro-innova-presents-waco-powered-by-legit-d",
+      "month": "May",
+      "place": 27,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
+  "gry-nagel-279466": [],
   "gt-hancock": [
+    {
+      "event": "DD Presents the 4th Annual Blackberry Pines Open by DiscTrac and",
+      "event_key": "dd-presents-the-4th-annual-blackberry-pines-open",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "MINT Disc presents the 24th Fahrenheit Fling presented by Texas C",
       "event_key": "mint-disc-presents-the-24th-fahrenheit-fling-pre",
@@ -9873,6 +11190,38 @@
   ],
   "hanna-huynh": [
     {
+      "event": "Mid America Open",
+      "event_key": "mid-america-open",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Maverick DG: Black Hoof Shootout 3 presented by Innova",
+      "event_key": "maverick-dg-black-hoof-shootout-3-presented-by-i",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Hazy Shade presents the 4th Annual Scott Burnett Open",
+      "event_key": "hazy-shade-presents-the-4th-annual-scott-burnett",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Dilly 5002",
+      "event_key": "dilly-5002",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -9957,6 +11306,14 @@
     }
   ],
   "harper-thompson": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 44,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "30th annual Hotlanta, Sponsored by MVP disc",
       "event_key": "30th-annual-hotlanta-sponsored-by-mvp-disc",
@@ -10095,6 +11452,14 @@
     }
   ],
   "harry-chace": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 48,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -10285,6 +11650,14 @@
   ],
   "heidi-laine": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 13,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -10375,6 +11748,22 @@
     }
   ],
   "henna-blomroos": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 11,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 29,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -10580,6 +11969,148 @@
       "tour": ""
     }
   ],
+  "hjalmar-fredriksson": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 61,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Heatland To Mijas 2026 - sponsored by Kastaplast",
+      "event_key": "heatland-to-mijas-2026-sponsored-by-kastaplast",
+      "month": "Feb",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
+  "hjalte-jensen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 79,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DFSU DT #2 \u2013 Ebeltoft Open - Presented by Disc Tree",
+      "event_key": "dfsu-dt-2-ebeltoft-open-presented-by-disc-tree",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DFSU DT #1 \u2013 Momh\u00f8je Open - Presented by Disc Tree",
+      "event_key": "dfsu-dt-1-momh-je-open-presented-by-disc-tree",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Heatland To Mijas 2026 - sponsored by Kastaplast",
+      "event_key": "heatland-to-mijas-2026-sponsored-by-kastaplast",
+      "month": "Feb",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
+  "holger-hkansson": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 109,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 38,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 29,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #1 Varberg",
+      "event_key": "nationella-touren-1-varberg",
+      "month": "May",
+      "place": 22,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 52,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
   "holly-finley": [
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
@@ -10647,6 +12178,22 @@
     }
   ],
   "holyn-handley": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 7,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -10743,6 +12290,14 @@
   "hunter-embler": [],
   "ian-fredrickson": [
     {
+      "event": "The 35th Annual Capital of Texas Open",
+      "event_key": "the-35th-annual-capital-of-texas-open",
+      "month": "May",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -10785,6 +12340,14 @@
   ],
   "ian-krajna": [],
   "idaemilie-nesse": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 31,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "NC3 Valdres Open presented by Discmania",
       "event_key": "nc3-valdres-open-presented-by-discmania",
@@ -10852,6 +12415,22 @@
   ],
   "iida-lehtomki": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 9,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "SFL Powergrip Pro Tour - #1 Tampere",
       "event_key": "sfl-powergrip-pro-tour-1-tampere",
       "month": "May",
@@ -10896,6 +12475,22 @@
     }
   ],
   "isaac-robinson": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 7,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -11003,6 +12598,14 @@
     }
   ],
   "isabella-parker": [
+    {
+      "event": "Flex'n Fridays at Texas Army Trail DGC (C Tier Flex)",
+      "event_key": "flex-n-fridays-at-texas-army-trail-dgc-c-tier-fl",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "The 4th Annual Indian Paintbrush Open - WFDGT",
       "event_key": "the-4th-annual-indian-paintbrush-open-wfdgt",
@@ -11217,6 +12820,14 @@
   ],
   "jacob-blair": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 90,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -11348,6 +12959,14 @@
   ],
   "jacob-courtis": [
     {
+      "event": "La Mirada Summer Classic 2026 (CDGS event #7 - Presented by Innov",
+      "event_key": "la-mirada-summer-classic-2026-cdgs-event-7-prese",
+      "month": "Jun",
+      "place": 13,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -11454,6 +13073,14 @@
     }
   ],
   "jaden-rye": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 23,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -11749,6 +13376,14 @@
   ],
   "jake-monn": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 20,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -11870,7 +13505,41 @@
       "tour": "DGPT"
     }
   ],
+  "jakub-knpek": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 79,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "PCT: Budi\u0161ov Open 2026",
+      "event_key": "pct-budi-ov-open-2026",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "CDGT: FALCON open 2026",
+      "event_key": "cdgt-falcon-open-2026",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "jakub-semerd": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 24,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -12020,6 +13689,14 @@
   "james-bennett": [],
   "james-collier": [],
   "james-conrad": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 48,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -12720,6 +14397,14 @@
   ],
   "jennifer-smiley": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 28,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
@@ -12936,6 +14621,22 @@
   ],
   "jesse-nieminen": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 30,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -13095,9 +14796,83 @@
     }
   ],
   "jessica-zilch": [],
+  "jimi-tapanila": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 99,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "European Open 2026 Monday Qualifier",
+      "event_key": "european-open-2026-monday-qualifier",
+      "month": "Jun",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Tarinalaakso new course 28.5",
+      "event_key": "tarinalaakso-new-course-28-5",
+      "month": "May",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Savo one rounds Atrain 21.5",
+      "event_key": "savo-one-rounds-atrain-21-5",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Kivij\u00e4rven kev\u00e4tkisa 2026",
+      "event_key": "kivij-rven-kev-tkisa-2026",
+      "month": "May",
+      "place": 10,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Kauden Avaus Tarinalaaksossa",
+      "event_key": "kauden-avaus-tarinalaaksossa",
+      "month": "May",
+      "place": 10,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Savo one rounds Huuha 23.4",
+      "event_key": "savo-one-rounds-huuha-23-4",
+      "month": "Apr",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Savo one rounds Vuorela 18.4",
+      "event_key": "savo-one-rounds-vuorela-18-4",
+      "month": "Apr",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "jimmy-martinez": [],
   "jj-campbell": [],
   "joe-carey": [
+    {
+      "event": "Mid America Open",
+      "event_key": "mid-america-open",
+      "month": "Jun",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "18th Annual Battle At Bell Park",
       "event_key": "18th-annual-battle-at-bell-park",
@@ -13302,6 +15077,14 @@
     }
   ],
   "joey-temali": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 101,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -13529,6 +15312,14 @@
   ],
   "jonathan-borzick": [
     {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DisCap presents the 2026 Mine Kill Disc Golf Championship sponsor",
       "event_key": "discap-presents-the-2026-mine-kill-disc-golf-cha",
       "month": "Jun",
@@ -13633,7 +15424,49 @@
       "tour": ""
     }
   ],
+  "joni-peltonen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 90,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Linnoitus Open 2026 sponsored by Ekomia + PGPT Status",
+      "event_key": "linnoitus-open-2026-sponsored-by-ekomia-pgpt-sta",
+      "month": "May",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "joona-heinnen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 16,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 24,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
       "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
@@ -13753,6 +15586,14 @@
   ],
   "joseph-anderson": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 42,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -13852,6 +15693,14 @@
   ],
   "joshua-patin": [
     {
+      "event": "Heatwave @ Lake Claiborne",
+      "event_key": "heatwave-lake-claiborne",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Lockhart Training Services, LLC Presents: The 3rd Annual Birdie C",
       "event_key": "lockhart-training-services-llc-presents-the-3rd-",
       "month": "May",
@@ -13913,6 +15762,56 @@
       "month": "Feb",
       "place": 1,
       "tier": "C",
+      "tour": ""
+    }
+  ],
+  "julia-fors": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 2,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "WGE -Tjejer Jagar Kedjor",
+      "event_key": "wge-tjejer-jagar-kedjor",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Tjing Open 2026 presented by Kastaplast",
+      "event_key": "tjing-open-2026-presented-by-kastaplast",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
       "tour": ""
     }
   ],
@@ -14119,6 +16018,133 @@
       "tour": ""
     }
   ],
+  "justus-sarvi": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 48,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
+  "kaidi-allsalu": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 21,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "P\u00e4rnu Rannapargi Open 2026 - MPO",
+      "event_key": "p-rnu-rannapargi-open-2026-mpo",
+      "month": "May",
+      "place": 46,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "P\u00e4rnu Rannapargi Open 2026 - MP40, FP40, FPO",
+      "event_key": "p-rnu-rannapargi-open-2026-mp40-fp40-fpo",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Eesti Talvised Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "eesti-talvised-meistriv-istlused-discgolfis-2026",
+      "month": "Feb",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
+  "kaire-tekku": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 31,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "P\u00e4rnu Rannapargi Open 2026 - MP40, FP40, FPO",
+      "event_key": "p-rnu-rannapargi-open-2026-mp40-fp40-fpo",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Annikoru Open 2026 supported by Innova Europe",
+      "event_key": "annikoru-open-2026-supported-by-innova-europe",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
+  "kalle-kela": [],
   "karen-martel": [
     {
       "event": "La Classique De Daveluy 2026 - BASSIN B - Le Circuit DisQu\u00e9bec -",
@@ -14178,6 +16204,14 @@
     }
   ],
   "karissa-dedmon": [
+    {
+      "event": "La Mirada Summer Classic 2026 (CDGS event #7 - Presented by Innov",
+      "event_key": "la-mirada-summer-classic-2026-cdgs-event-7-prese",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -14244,7 +16278,89 @@
       "tour": "DGPT"
     }
   ],
+  "kaspar-kukk": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 85,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 13,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Pure Open 2026",
+      "event_key": "pure-open-2026",
+      "month": "May",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "P\u00e4rnu Rannapargi Open 2026 - MPO",
+      "event_key": "p-rnu-rannapargi-open-2026-mpo",
+      "month": "May",
+      "place": 8,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Annikoru Open 2026 supported by Innova Europe",
+      "event_key": "annikoru-open-2026-supported-by-innova-europe",
+      "month": "Apr",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Pure x K\u00f5rvemaa PDGA Liiga 2026",
+      "event_key": "pure-x-k-rvemaa-pdga-liiga-2026",
+      "month": "Apr",
+      "place": 4,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "kat-mertsch": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 20,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -14384,6 +16500,106 @@
     }
   ],
   "katherine-aydelott-284553": [],
+  "katka-bodov": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 34,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 BTS Urban Mayday",
+      "event_key": "2026-bts-urban-mayday",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "PCT: \u015awierklaniec Open 2026 powered by Ledgestone",
+      "event_key": "pct-wierklaniec-open-2026-powered-by-ledgestone",
+      "month": "Apr",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Stork Manor Open \u2013 Voderady",
+      "event_key": "stork-manor-open-voderady",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "PCT: STP Open 2026",
+      "event_key": "pct-stp-open-2026",
+      "month": "Mar",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Samui Swine Classic XIII - Pros. Presented by Latitude64 - PDGA A",
+      "event_key": "samui-swine-classic-xiii-pros-presented-by-latit",
+      "month": "Jan",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
+  "keiti-ttte": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 25,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Annikoru Open 2026 supported by Innova Europe",
+      "event_key": "annikoru-open-2026-supported-by-innova-europe",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Eesti Talvised Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "eesti-talvised-meistriv-istlused-discgolfis-2026",
+      "month": "Feb",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "kelley-foster": [
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
@@ -14491,6 +16707,40 @@
       "tour": "DGPT"
     }
   ],
+  "kersti-miller": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 38,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Eesti Talvised Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "eesti-talvised-meistriv-istlused-discgolfis-2026",
+      "month": "Feb",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "kevin-jones": [
     {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
@@ -14543,6 +16793,14 @@
   ],
   "kieran-atkinson": [],
   "kirby-snyder": [
+    {
+      "event": "Fort Steilacoom Open",
+      "event_key": "fort-steilacoom-open",
+      "month": "Jun",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -14655,6 +16913,48 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "knut-valenhland": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 51,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "NC3 Valdres Open presented by Discmania",
+      "event_key": "nc3-valdres-open-presented-by-discmania",
+      "month": "Jun",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NC 2 Open Hestehagen",
+      "event_key": "nc-2-open-hestehagen",
+      "month": "May",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Sunnm\u00f8rstour Langev\u00e5g",
+      "event_key": "sunnm-rstour-langev-g",
+      "month": "May",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Sunnm\u00f8rstour Volda 2026",
+      "event_key": "sunnm-rstour-volda-2026",
+      "month": "Apr",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
     }
   ],
   "konastar-montgomery": [
@@ -14772,7 +17072,83 @@
       "tour": "DGPT"
     }
   ],
+  "kristi-unt": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 35,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
+  "kristna-jurkov": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 3,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Grab\u0161tejn Open 2026",
+      "event_key": "grab-tejn-open-2026",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "PCT: Budi\u0161ov Open 2026",
+      "event_key": "pct-budi-ov-open-2026",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "PCT: \u015awierklaniec Open 2026 powered by Ledgestone",
+      "event_key": "pct-wierklaniec-open-2026-powered-by-ledgestone",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "CDGT: FALCON open 2026",
+      "event_key": "cdgt-falcon-open-2026",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "PCT: STP Open 2026",
+      "event_key": "pct-stp-open-2026",
+      "month": "Mar",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "kyle-klein": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 42,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -15203,6 +17579,22 @@
   ],
   "lauri-lehtinen": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 24,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "SFL Powergrip Pro Tour - #1 Tampere",
       "event_key": "sfl-powergrip-pro-tour-1-tampere",
       "month": "May",
@@ -15358,6 +17750,14 @@
     }
   ],
   "levi-stout": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 85,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -15602,6 +18002,40 @@
       "tour": ""
     }
   ],
+  "linus-carlsson": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 70,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 22,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
   "lisa-fajkus": [
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
@@ -15719,6 +18153,14 @@
   ],
   "logan-plake": [],
   "logan-riding": [
+    {
+      "event": "Hard Pan Classic presented by Legacy Discs, Visit Fresno County a",
+      "event_key": "hard-pan-classic-presented-by-legacy-discs-visit",
+      "month": "Jun",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -16058,6 +18500,14 @@
   ],
   "luke-humphries": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 61,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -16320,6 +18770,14 @@
   ],
   "luke-taylor": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 39,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -16425,7 +18883,49 @@
       "tour": "DGPT"
     }
   ],
+  "luukas-rokkanen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 92,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "European Open 2026 Monday Qualifier",
+      "event_key": "european-open-2026-monday-qualifier",
+      "month": "Jun",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Linnoitus Open 2026 sponsored by Ekomia + PGPT Status",
+      "event_key": "linnoitus-open-2026-sponsored-by-ekomia-pgpt-sta",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Tammer Open",
+      "event_key": "tammer-open",
+      "month": "Apr",
+      "place": 35,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "lykke-lorentzen": [
+    {
+      "event": "The 35th Annual Capital of Texas Open",
+      "event_key": "the-35th-annual-capital-of-texas-open",
+      "month": "May",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -16456,6 +18956,32 @@
       "month": "Mar",
       "place": 1,
       "tier": "L",
+      "tour": ""
+    }
+  ],
+  "maarja-soasepp": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 36,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Pure x K\u00f5rvemaa PDGA Liiga 2026",
+      "event_key": "pure-x-k-rvemaa-pdga-liiga-2026",
+      "month": "Apr",
+      "place": 6,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 8,
+      "tier": "B",
       "tour": ""
     }
   ],
@@ -16618,6 +19144,14 @@
   ],
   "madison-walker": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 21,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -16689,6 +19223,220 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "maico-rimmel": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 16,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Pure Open 2026",
+      "event_key": "pure-open-2026",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "P\u00e4rnu Rannapargi Open 2026 - MPO",
+      "event_key": "p-rnu-rannapargi-open-2026-mpo",
+      "month": "May",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Annikoru Open 2026 supported by Innova Europe",
+      "event_key": "annikoru-open-2026-supported-by-innova-europe",
+      "month": "Apr",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Pure x K\u00f5rvemaa PDGA Liiga 2026",
+      "event_key": "pure-x-k-rvemaa-pdga-liiga-2026",
+      "month": "Apr",
+      "place": 14,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 12,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Eesti Talvised Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "eesti-talvised-meistriv-istlused-discgolfis-2026",
+      "month": "Feb",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
+  "mara-eldeykristnardttir": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 37,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Bikarkeppni FGR - Sumardeild - 16. j\u00fan\u00ed",
+      "event_key": "bikarkeppni-fgr-sumardeild-16-j-n",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Sumardeild - 9. j\u00fan\u00ed",
+      "event_key": "bikarkeppni-fgr-sumardeild-9-j-n",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "AK Open \u00ed bo\u00f0i H\u00f6lds Gull/Silfur",
+      "event_key": "ak-open-bo-i-h-lds-gull-silfur",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Sumardeild - 2. j\u00fan\u00ed",
+      "event_key": "bikarkeppni-fgr-sumardeild-2-j-n",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Sumardeild - 26. ma\u00ed",
+      "event_key": "bikarkeppni-fgr-sumardeild-26-ma",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "\u00cdFS - Gullm\u00f3t 2 - \u00dalflj\u00f3tsvatn",
+      "event_key": "fs-gullm-t-2-lflj-tsvatn",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Sumardeild- 19. ma\u00ed",
+      "event_key": "bikarkeppni-fgr-sumardeild-19-ma",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Vordeild - 12. ma\u00ed",
+      "event_key": "bikarkeppni-fgr-vordeild-12-ma",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Vordeild - 5. ma\u00ed",
+      "event_key": "bikarkeppni-fgr-vordeild-5-ma",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Vordeild - 28. apr\u00edl",
+      "event_key": "bikarkeppni-fgr-vordeild-28-apr-l",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Vordeild - 26. apr\u00edl",
+      "event_key": "bikarkeppni-fgr-vordeild-26-apr-l",
+      "month": "Apr",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Vordeild - 12. apr\u00edl",
+      "event_key": "bikarkeppni-fgr-vordeild-12-apr-l",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Vordeild - 29. mars",
+      "event_key": "bikarkeppni-fgr-vordeild-29-mars",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
+  "maria-liivamgi": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 45,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "DGPT JomezPro - Innova presents WACO powered by Legit Disc Golf",
+      "event_key": "jomezpro-innova-presents-waco-powered-by-legit-d",
+      "month": "May",
+      "place": 31,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Pure x K\u00f5rvemaa PDGA Liiga 2026",
+      "event_key": "pure-x-k-rvemaa-pdga-liiga-2026",
+      "month": "Apr",
+      "place": 9,
+      "tier": "L",
+      "tour": ""
     }
   ],
   "maria-oliva": [
@@ -16814,6 +19562,74 @@
       "tour": "DGPT"
     }
   ],
+  "marie-kielas": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 33,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "P\u00e4rnu Rannapargi Open 2026 - MP40, FP40, FPO",
+      "event_key": "p-rnu-rannapargi-open-2026-mp40-fp40-fpo",
+      "month": "May",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Annikoru Open 2026 supported by Innova Europe",
+      "event_key": "annikoru-open-2026-supported-by-innova-europe",
+      "month": "Apr",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "X OPEN de ESPA\u00d1A - presented by INNOVA",
+      "event_key": "x-open-de-espa-a-presented-by-innova",
+      "month": "Mar",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
+  "markus-saarepuu": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 92,
+      "tier": "M",
+      "tour": "Major"
+    }
+  ],
   "marshall-blanks": [
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
@@ -16865,6 +19681,14 @@
     }
   ],
   "martin-evans": [
+    {
+      "event": "Hard Pan Classic presented by Legacy Discs, Visit Fresno County a",
+      "event_key": "hard-pan-classic-presented-by-legacy-discs-visit",
+      "month": "Jun",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
@@ -16973,7 +19797,149 @@
       "tour": "DGPT"
     }
   ],
+  "mathias-villota": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 57,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Pure Open 2026",
+      "event_key": "pure-open-2026",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "P\u00e4rnu Rannapargi Open 2026 - MPO",
+      "event_key": "p-rnu-rannapargi-open-2026-mpo",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Annikoru Open 2026 supported by Innova Europe",
+      "event_key": "annikoru-open-2026-supported-by-innova-europe",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
+  "matilda-ringbom": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 18,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
+  "mats-eerik-thk": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 107,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 22,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "P\u00e4rnu Rannapargi Open 2026 - MPO",
+      "event_key": "p-rnu-rannapargi-open-2026-mpo",
+      "month": "May",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Annikoru Open 2026 supported by Innova Europe",
+      "event_key": "annikoru-open-2026-supported-by-innova-europe",
+      "month": "Apr",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Eesti Talvised Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "eesti-talvised-meistriv-istlused-discgolfis-2026",
+      "month": "Feb",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "matt-bell": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 106,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
       "event_key": "massive-graphics-presents-the-48th-annual-norman",
@@ -17146,6 +20112,14 @@
     }
   ],
   "matt-thompson": [
+    {
+      "event": "Big Valley Challenge Presented by The Original Q Shack and Beer S",
+      "event_key": "big-valley-challenge-presented-by-the-original-q",
+      "month": "Jun",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Patriot Memorial 2026",
       "event_key": "patriot-memorial-2026",
@@ -17601,6 +20575,22 @@
   ],
   "mauri-villmann": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 9,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
       "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
       "month": "Jun",
@@ -17678,6 +20668,56 @@
       "month": "Feb",
       "place": 1,
       "tier": "B",
+      "tour": ""
+    }
+  ],
+  "max-ringbom": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 72,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The 27th J\u00e4rva Open 2026 presented by Innova",
+      "event_key": "the-27th-j-rva-open-2026-presented-by-innova",
+      "month": "May",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 52,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #1 Varberg",
+      "event_key": "nationella-touren-1-varberg",
+      "month": "May",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 9,
+      "tier": "A",
       "tour": ""
     }
   ],
@@ -17891,6 +20931,116 @@
       "tour": ""
     }
   ],
+  "miio-hmlinen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 33,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nummenm\u00e4ki PDGA-Liiga",
+      "event_key": "nummenm-ki-pdga-liiga",
+      "month": "May",
+      "place": 5,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Tammer Open",
+      "event_key": "tammer-open",
+      "month": "Apr",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
+  "mikael-hautala": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 82,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 67,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Kauden Avaus Tarinalaaksossa",
+      "event_key": "kauden-avaus-tarinalaaksossa",
+      "month": "May",
+      "place": 20,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
+  "mikk-mts": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 99,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Annikoru Open 2026 supported by Innova Europe",
+      "event_key": "annikoru-open-2026-supported-by-innova-europe",
+      "month": "Apr",
+      "place": 9,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "miles-sayer": [
     {
       "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
@@ -17966,6 +21116,22 @@
     }
   ],
   "missy-gannon": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 5,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 22,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -18091,6 +21257,90 @@
       "tour": ""
     }
   ],
+  "morten-brenna": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 53,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "NC3 Valdres Open presented by Discmania",
+      "event_key": "nc3-valdres-open-presented-by-discmania",
+      "month": "Jun",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NC 2 Open Hestehagen",
+      "event_key": "nc-2-open-hestehagen",
+      "month": "May",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NC 1 Open \u00d8ver\u00e5s - presented by Innova Champion Discs",
+      "event_key": "nc-1-open-ver-s-presented-by-innova-champion-dis",
+      "month": "May",
+      "place": 9,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
+  "morten-kristiansen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 81,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "NC3 Valdres Open presented by Discmania",
+      "event_key": "nc3-valdres-open-presented-by-discmania",
+      "month": "Jun",
+      "place": 12,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NC 2 Open Hestehagen",
+      "event_key": "nc-2-open-hestehagen",
+      "month": "May",
+      "place": 33,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NC 1 Open \u00d8ver\u00e5s - presented by Innova Champion Discs",
+      "event_key": "nc-1-open-ver-s-presented-by-innova-champion-dis",
+      "month": "May",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Klemetsrud Grand Prix 2026",
+      "event_key": "klemetsrud-grand-prix-2026",
+      "month": "Apr",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "natalie-berg-268900": [],
   "nate-corder": [
     {
@@ -18211,6 +21461,22 @@
   ],
   "nathalie-ortiz": [
     {
+      "event": "Red-Tail Royale",
+      "event_key": "red-tail-royale",
+      "month": "Jun",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "La Mirada Summer Classic 2026 (CDGS event #7 - Presented by Innov",
+      "event_key": "la-mirada-summer-classic-2026-cdgs-event-7-prese",
+      "month": "Jun",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -18285,6 +21551,22 @@
     }
   ],
   "nathan-queen": [
+    {
+      "event": "Discraft Presents: Tennessee State Disc Golf Championships",
+      "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
+      "month": "Jun",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Big Valley Challenge Presented by The Original Q Shack and Beer S",
+      "event_key": "big-valley-challenge-presented-by-the-original-q",
+      "month": "Jun",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "CADL Inc. Presents: The 12th Annual Airborne Open @ Diavolo, Driv",
       "event_key": "cadl-inc-presents-the-12th-annual-airborne-open-",
@@ -18496,6 +21778,56 @@
       "month": "Jan",
       "place": 11,
       "tier": "A",
+      "tour": ""
+    }
+  ],
+  "nestori-tuhkanen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 44,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 36,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Tammer Open",
+      "event_key": "tammer-open",
+      "month": "Apr",
+      "place": 16,
+      "tier": "C",
       "tour": ""
     }
   ],
@@ -18910,6 +22242,22 @@
   ],
   "niklas-anttila": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 9,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -18964,6 +22312,48 @@
       "place": 15,
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "nikola-arkko": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 24,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 75,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Tammer Open",
+      "event_key": "tammer-open",
+      "month": "Apr",
+      "place": 18,
+      "tier": "C",
+      "tour": ""
     }
   ],
   "nina-bennett": [
@@ -19433,6 +22823,14 @@
   ],
   "oiva-pivnsalo": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 44,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "SFL Powergrip Pro Tour - #1 Tampere",
       "event_key": "sfl-powergrip-pro-tour-1-tampere",
       "month": "May",
@@ -19471,6 +22869,164 @@
       "place": 83,
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "olivia-kindstedt": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 15,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Linnoitus Open 2026 sponsored by Ekomia + PGPT Status",
+      "event_key": "linnoitus-open-2026-sponsored-by-ekomia-pgpt-sta",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NBDG One Round\u2122 Keinukallio - Powered by GameProofer",
+      "event_key": "nbdg-one-round-keinukallio-powered-by-gameproofe",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Skogby Lady Open 2026",
+      "event_key": "skogby-lady-open-2026",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Piazza Open 2026",
+      "event_key": "piazza-open-2026",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "NBDG Amateurs\u2122 Loviisa",
+      "event_key": "nbdg-amateurs-loviisa",
+      "month": "Apr",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "NBDG Amateurs\u2122 Laakspohja",
+      "event_key": "nbdg-amateurs-laakspohja",
+      "month": "Apr",
+      "place": 12,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
+  "onni-ruusunen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 14,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
+  "otto-mkinen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 33,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The 27th J\u00e4rva Open 2026 presented by Innova",
+      "event_key": "the-27th-j-rva-open-2026-presented-by-innova",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #1 Varberg",
+      "event_key": "nationella-touren-1-varberg",
+      "month": "May",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Mijas Spring Opener 2026",
+      "event_key": "mijas-spring-opener-2026",
+      "month": "Feb",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Heatland To Mijas 2026 - sponsored by Kastaplast",
+      "event_key": "heatland-to-mijas-2026-sponsored-by-kastaplast",
+      "month": "Feb",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
     }
   ],
   "owen-hamilton": [
@@ -19584,6 +23140,14 @@
   ],
   "paige-pierce": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 19,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -19683,6 +23247,14 @@
   ],
   "parker-austin": [],
   "parker-welck": [
+    {
+      "event": "2026 Infinite Discs Beehive Classic",
+      "event_key": "2026-infinite-discs-beehive-classic",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -20142,6 +23714,40 @@
   ],
   "peyton-kohut": [],
   "peyton-mansell": [],
+  "rainers-balodis": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 72,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Latvijas Kauss 2.posms - Zibe\u0146i",
+      "event_key": "latvijas-kauss-2-posms-zibe-i",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas Kauss 1.posms - 9hill",
+      "event_key": "latvijas-kauss-1-posms-9hill",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Lietuvos diskgolfo \u017eiemos \u010dempionatas 2026 su DiscCity.eu",
+      "event_key": "lietuvos-diskgolfo-iemos-empionatas-2026-su-disc",
+      "month": "Feb",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "randon-latta": [
     {
       "event": "DGPT - Discraft\u2019s Supreme Flight Open Presented by Florida\u2019s",
@@ -20176,7 +23782,65 @@
       "tour": ""
     }
   ],
+  "rasmus-lampela": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 65,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Kauden Avaus Tarinalaaksossa",
+      "event_key": "kauden-avaus-tarinalaaksossa",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Revolution Summer Season Opener (RSSO) 2026 sponsored by Prodiscu",
+      "event_key": "revolution-summer-season-opener-rsso-2026-sponso",
+      "month": "Apr",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Tammer Open",
+      "event_key": "tammer-open",
+      "month": "Apr",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "rasmus-saukkoriipi": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 20,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
       "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
@@ -20227,6 +23891,14 @@
     }
   ],
   "ratana-mcmahon": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 42,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -20441,6 +24113,14 @@
     }
   ],
   "raven-newsom": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 30,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -20662,6 +24342,14 @@
     }
   ],
   "rebecca-don": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 24,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -20931,7 +24619,73 @@
     }
   ],
   "reese-petersen": [],
+  "renrs-strazdi": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 96,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Latvijas Kauss 2.posms - Zibe\u0146i",
+      "event_key": "latvijas-kauss-2-posms-zibe-i",
+      "month": "Jun",
+      "place": 13,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas Kauss 1.posms - 9hill",
+      "event_key": "latvijas-kauss-1-posms-9hill",
+      "month": "Apr",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Balodis izlido Tukum\u0101",
+      "event_key": "balodis-izlido-tukum",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Balodis izlido Ventspil\u012b",
+      "event_key": "balodis-izlido-ventspil",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Lietuvos diskgolfo \u017eiemos \u010dempionatas 2026 su DiscCity.eu",
+      "event_key": "lietuvos-diskgolfo-iemos-empionatas-2026-su-disc",
+      "month": "Feb",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "richard-wysocki": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 2,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -21014,7 +24768,81 @@
       "tour": "DGPT"
     }
   ],
+  "rico-suigusaar": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 110,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 29,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 25,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Pure Open 2026",
+      "event_key": "pure-open-2026",
+      "month": "May",
+      "place": 14,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "P\u00e4rnu Rannapargi Open 2026 - MPO",
+      "event_key": "p-rnu-rannapargi-open-2026-mpo",
+      "month": "May",
+      "place": 25,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Annikoru Open 2026 supported by Innova Europe",
+      "event_key": "annikoru-open-2026-supported-by-innova-europe",
+      "month": "Apr",
+      "place": 19,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Pure x K\u00f5rvemaa PDGA Liiga 2026",
+      "event_key": "pure-x-k-rvemaa-pdga-liiga-2026",
+      "month": "Apr",
+      "place": 18,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 30,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "robert-burridge": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 70,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -21145,6 +24973,56 @@
       "tour": "DGPT"
     }
   ],
+  "roland-kur": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 28,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 15,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Annikoru Open 2026 supported by Innova Europe",
+      "event_key": "annikoru-open-2026-supported-by-innova-europe",
+      "month": "Apr",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Eesti Talvised Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "eesti-talvised-meistriv-istlused-discgolfis-2026",
+      "month": "Feb",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "ryan-bain": [
     {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
@@ -21182,6 +25060,14 @@
       "month": "Jun",
       "place": 1,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Big Valley Challenge Presented by The Original Q Shack and Beer S",
+      "event_key": "big-valley-challenge-presented-by-the-original-q",
+      "month": "Jun",
+      "place": 6,
+      "tier": "B",
       "tour": ""
     },
     {
@@ -21349,6 +25235,14 @@
     }
   ],
   "ryan-monn": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 69,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -21579,6 +25473,7 @@
       "tour": ""
     }
   ],
+  "saga-dahlstedt": [],
   "sam-dicarlo": [
     {
       "event": "The 35th Annual Capital of Texas Open",
@@ -21705,8 +25600,74 @@
       "tour": "DGPT"
     }
   ],
+  "samuel-hnninen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 76,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Takaysi, V\u00e4sterby sponsored by AION auto",
+      "event_key": "takaysi-v-sterby-sponsored-by-aion-auto",
+      "month": "May",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Linnoitus Open 2026 sponsored by Ekomia + PGPT Status",
+      "event_key": "linnoitus-open-2026-sponsored-by-ekomia-pgpt-sta",
+      "month": "May",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Takaysi, Yliskulma sponsored by AION auto",
+      "event_key": "takaysi-yliskulma-sponsored-by-aion-auto",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Kaatiksen Helmet 2026 2)",
+      "event_key": "kaatiksen-helmet-2026-2",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Tammer Open",
+      "event_key": "tammer-open",
+      "month": "Apr",
+      "place": 45,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "samuel-snider": [],
   "sarah-duran": [
+    {
+      "event": "2026 Chapel Hill Invitational - sponsored by Team Potato (a WGE e",
+      "event_key": "2026-chapel-hill-invitational-sponsored-by-team-",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -22190,6 +26151,24 @@
     }
   ],
   "sean-sullivan-1": [],
+  "severi-saviniemi": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 103,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #1 Tampere",
+      "event_key": "sfl-powergrip-pro-tour-1-tampere",
+      "month": "May",
+      "place": 46,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
   "shane-anderson-1": [],
   "shelby-cowen": [],
   "sheliemae-lai": [
@@ -22291,6 +26270,14 @@
     }
   ],
   "shiru-liu": [
+    {
+      "event": "The 35th Annual Capital of Texas Open",
+      "event_key": "the-35th-annual-capital-of-texas-open",
+      "month": "May",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -22457,6 +26444,14 @@
   ],
   "silas-schultz": [
     {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 12,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -22547,6 +26542,22 @@
     }
   ],
   "silva-saarinen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 13,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 27,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -22642,6 +26653,14 @@
   ],
   "simon-lizotte": [
     {
+      "event": "Discmania Presents Sunshine Open at 501 and Mile Marker 63 - Powe",
+      "event_key": "discmania-presents-sunshine-open-at-501-and-mile",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -22708,6 +26727,14 @@
     }
   ],
   "sintija-klezberga": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 6,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
       "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
@@ -22891,6 +26918,128 @@
       "tour": "DGPT"
     }
   ],
+  "stanislaus-amann": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 85,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Bruno Memorial Open 2026",
+      "event_key": "bruno-memorial-open-2026",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Zieleniec Open 2026 B-Tier - powered by Innova Europe",
+      "event_key": "zieleniec-open-2026-b-tier-powered-by-innova-eur",
+      "month": "May",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "ADGL 11. Kobyl\u00ed Open",
+      "event_key": "adgl-11-kobyl-open",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Wa\u0142brzych Open 2026",
+      "event_key": "wa-brzych-open-2026",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Vladar Martinu\u0161evca 2026",
+      "event_key": "vladar-martinu-evca-2026",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "PCT: \u015awierklaniec Open 2026 powered by Ledgestone",
+      "event_key": "pct-wierklaniec-open-2026-powered-by-ledgestone",
+      "month": "Apr",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Lava Open 2026",
+      "event_key": "lava-open-2026",
+      "month": "Apr",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "True Line Open Me\u017eica",
+      "event_key": "true-line-open-me-ica",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Pannonia Open",
+      "event_key": "pannonia-open",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Biber Bach Open 2026",
+      "event_key": "biber-bach-open-2026",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Cernik Open 2026",
+      "event_key": "cernik-open-2026",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "PCT: STP Open 2026",
+      "event_key": "pct-stp-open-2026",
+      "month": "Mar",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Iron City Ice Crush Singles",
+      "event_key": "iron-city-ice-crush-singles",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Iron City Ice Crush Doubles",
+      "event_key": "iron-city-ice-crush-doubles",
+      "month": "Jan",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    }
+  ],
   "stefani-ewell": [
     {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
@@ -22954,6 +27103,14 @@
   ],
   "stephen-mclaren": [],
   "sullivan-tipton": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 33,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -23028,7 +27185,16 @@
     }
   ],
   "sylus-williams": [],
+  "taaniel-mehine": [],
   "tailey-rowley": [
+    {
+      "event": "Discraft Presents: Tennessee State Disc Golf Championships",
+      "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
+      "month": "Jun",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "CADL Inc. Presents: The 12th Annual Airborne Open @ Diavolo, Driv",
       "event_key": "cadl-inc-presents-the-12th-annual-airborne-open-",
@@ -23207,6 +27373,22 @@
     }
   ],
   "taylor-chocek": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 29,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -23467,6 +27649,98 @@
       "tour": ""
     }
   ],
+  "teemu-lampainen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 3,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "The 27th J\u00e4rva Open 2026 presented by Innova",
+      "event_key": "the-27th-j-rva-open-2026-presented-by-innova",
+      "month": "May",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #1 Varberg",
+      "event_key": "nationella-touren-1-varberg",
+      "month": "May",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
+  "teemu-talikainen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 59,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Disc",
+      "event_key": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
+      "month": "Jun",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The 27th J\u00e4rva Open 2026 presented by Innova",
+      "event_key": "the-27th-j-rva-open-2026-presented-by-innova",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #1 Varberg",
+      "event_key": "nationella-touren-1-varberg",
+      "month": "May",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Mijas Spring Opener 2026",
+      "event_key": "mijas-spring-opener-2026",
+      "month": "Feb",
+      "place": 16,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Heatland To Mijas 2026 - sponsored by Kastaplast",
+      "event_key": "heatland-to-mijas-2026-sponsored-by-kastaplast",
+      "month": "Feb",
+      "place": 14,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "therese-cuevas": [
     {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
@@ -23534,6 +27808,48 @@
       "month": "Feb",
       "place": 3,
       "tier": "B",
+      "tour": ""
+    }
+  ],
+  "thomas-helgesen": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 98,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "NC 2 Open Hestehagen",
+      "event_key": "nc-2-open-hestehagen",
+      "month": "May",
+      "place": 37,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NC 1 Open \u00d8ver\u00e5s - presented by Innova Champion Discs",
+      "event_key": "nc-1-open-ver-s-presented-by-innova-champion-dis",
+      "month": "May",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "V\u00e5rspretten 2026",
+      "event_key": "v-rspretten-2026",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Trondheim Frisbeeklubb Klubbtur",
+      "event_key": "trondheim-frisbeeklubb-klubbtur",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
       "tour": ""
     }
   ],
@@ -23852,6 +28168,98 @@
       "source": "pdga:98193",
       "tier": "A",
       "tour": "DGPT"
+    }
+  ],
+  "tnis-soppe": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 103,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 23,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 36,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
+  "tom-mozola": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 101,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Grab\u0161tejn Open 2026",
+      "event_key": "grab-tejn-open-2026",
+      "month": "Jun",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "PCT: Budi\u0161ov Open 2026",
+      "event_key": "pct-budi-ov-open-2026",
+      "month": "May",
+      "place": 23,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 BTS Urban Mayday",
+      "event_key": "2026-bts-urban-mayday",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "PCT: \u015awierklaniec Open 2026 powered by Ledgestone",
+      "event_key": "pct-wierklaniec-open-2026-powered-by-ledgestone",
+      "month": "Apr",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "CDGT: FALCON open 2026",
+      "event_key": "cdgt-falcon-open-2026",
+      "month": "Apr",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Stork Manor Open \u2013 Voderady",
+      "event_key": "stork-manor-open-voderady",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "PCT: STP Open 2026",
+      "event_key": "pct-stp-open-2026",
+      "month": "Mar",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
     }
   ],
   "tom-shanley": [
@@ -24568,6 +28976,7 @@
       "tour": "DGPT"
     }
   ],
+  "una-lokmane": [],
   "valerie-mandujano": [
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
@@ -24650,7 +29059,91 @@
       "tour": "DGPT"
     }
   ],
+  "ville-ahokas": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 96,
+      "tier": "M",
+      "tour": "Major"
+    }
+  ],
+  "ville-kivisilla": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 39,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "European Open 2026 Monday Qualifier",
+      "event_key": "european-open-2026-monday-qualifier",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rva-Jaani",
+      "event_key": "edgl-pro-karikasari-2026-j-rva-jaani",
+      "month": "May",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Birdie Bunch avatud karikasari 2026 III etapp",
+      "event_key": "birdie-bunch-avatud-karikasari-2026-iii-etapp",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Pure x K\u00f5rvemaa PDGA Liiga 2026",
+      "event_key": "pure-x-k-rvemaa-pdga-liiga-2026",
+      "month": "Apr",
+      "place": 7,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00f5ulum\u00e4e",
+      "event_key": "edgl-pro-karikasari-2026-j-ulum-e",
+      "month": "Apr",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Birdie Bunch avatud karikasari 2026 II etapp",
+      "event_key": "birdie-bunch-avatud-karikasari-2026-ii-etapp",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "vin-mkel": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 44,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Presidents Cup",
+      "event_key": "2026-presidents-cup",
+      "month": "Jun",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -25051,7 +29544,33 @@
       "tour": "DGPT"
     }
   ],
+  "yvind-jarnes": [
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 72,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Skeikampen Open 2026",
+      "event_key": "skeikampen-open-2026",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "zach-arlinghaus": [
+    {
+      "event": "Discraft Presents: Tennessee State Disc Golf Championships",
+      "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
+      "month": "Jun",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -25481,6 +30000,14 @@
     }
   ],
   "zoe-andyke": [
+    {
+      "event": "The Tournament Capital Open",
+      "event_key": "the-tournament-capital-open",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
