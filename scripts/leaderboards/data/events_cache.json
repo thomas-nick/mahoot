@@ -43,6 +43,14 @@
   ],
   "aaron-gossage": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -307,6 +315,14 @@
   ],
   "adam-hammes": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -413,6 +429,14 @@
     }
   ],
   "addison-woodard": [
+    {
+      "event": "Clash at The Canyons X",
+      "event_key": "clash-at-the-canyons-x",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "2026 Illinois High School Disc Golf Championship Sponsored by Inn",
       "event_key": "2026-illinois-high-school-disc-golf-championship",
@@ -843,6 +867,14 @@
   ],
   "albin-widman": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 107,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
       "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
       "month": "Jun",
@@ -868,6 +900,14 @@
     }
   ],
   "alden-harris": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 62,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -1160,6 +1200,14 @@
   ],
   "alexander-borgersrud": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 78,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -1441,6 +1489,14 @@
   ],
   "amanda-lennartsson": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -1644,6 +1700,14 @@
     }
   ],
   "andrew-miranda": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -2080,6 +2144,14 @@
   ],
   "anneli-tugjas-mnniste": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -2145,6 +2217,14 @@
     }
   ],
   "annikenkristiansen-steen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -2334,6 +2414,14 @@
     }
   ],
   "anthony-barela": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -2542,6 +2630,38 @@
   "arttu-rossi": [],
   "arvid-hansson": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 88,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Midsommarkastet",
+      "event_key": "midsommarkastet",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bor\u00e5s Touren Svenljunga",
+      "event_key": "bor-s-touren-svenljunga",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Seriespel Bockarp #9",
+      "event_key": "seriespel-bockarp-9",
+      "month": "Jun",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
       "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
       "month": "Jun",
@@ -2648,6 +2768,14 @@
   ],
   "arvid-hkansson": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -2711,6 +2839,14 @@
   ],
   "austen-bates": [
     {
+      "event": "Survive the Solstice 2026 presented by Pug Life Disc Golf",
+      "event_key": "survive-the-solstice-2026-presented-by-pug-life-",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -2732,6 +2868,14 @@
       "month": "May",
       "place": 1,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Huron Valley Spring Singles",
+      "event_key": "huron-valley-spring-singles",
+      "month": "May",
+      "place": 4,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -2967,6 +3111,14 @@
   ],
   "axel-wernborg": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 73,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
       "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
       "month": "Jun",
@@ -3016,6 +3168,22 @@
     }
   ],
   "ben-holding": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 80,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "European Open 2026 Monday Qualifier",
+      "event_key": "european-open-2026-monday-qualifier",
+      "month": "Jun",
+      "place": 16,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "British Nationals Powered By Discraft",
       "event_key": "british-nationals-powered-by-discraft",
@@ -3282,6 +3450,14 @@
   ],
   "bjrn-marrandi": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -3422,6 +3598,14 @@
     }
   ],
   "blrrn-sgeirsson": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 83,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "AK Open \u00ed bo\u00f0i H\u00f6lds Gull/Silfur",
       "event_key": "ak-open-bo-i-h-lds-gull-silfur",
@@ -3700,6 +3884,14 @@
   "bradley-baumgardner": [],
   "bradley-williams": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -3846,6 +4038,14 @@
     }
   ],
   "braeden-sides": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -4403,6 +4603,14 @@
   ],
   "calvin-heimburg": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -4517,6 +4725,14 @@
     }
   ],
   "calvin-lonnquist": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -5118,6 +5334,14 @@
     }
   ],
   "catrina-allen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -5722,6 +5946,14 @@
   ],
   "clay-edwards": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -6014,6 +6246,14 @@
   ],
   "cole-redalen": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -6128,6 +6368,22 @@
     }
   ],
   "colin-bryant": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Fort Steilacoom Open",
+      "event_key": "fort-steilacoom-open",
+      "month": "Jun",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -6833,6 +7089,14 @@
   "damien-biegert": [],
   "daniel-davidsson": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 49,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -7140,6 +7404,14 @@
     }
   ],
   "dennis-augustsson": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 68,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -7628,6 +7900,14 @@
   "dylan-dietrich": [],
   "eagle-mcmahon": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -7769,8 +8049,25 @@
     }
   ],
   "edvard-espesethjemdal": [],
-  "eetu-salomki": [],
+  "eetu-salomki": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 88,
+      "tier": "NT",
+      "tour": "DGPT"
+    }
+  ],
   "eetu-tuominen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -7879,6 +8176,14 @@
     }
   ],
   "eli-swansen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 49,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -8003,6 +8308,14 @@
   ],
   "elias-gripler": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 73,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -8085,6 +8398,14 @@
   ],
   "elias-luukkonen": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -8142,6 +8463,14 @@
     }
   ],
   "eliezra-midtlyng": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 31,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -8575,6 +8904,14 @@
   ],
   "elina-rydberg": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT EuroTour - P\u00e4rnu Open presented by Latitude 64",
       "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
       "month": "Jun",
@@ -8608,6 +8945,14 @@
     }
   ],
   "elizabete-peksena": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -8666,6 +9011,14 @@
     }
   ],
   "ella-hansen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -8765,6 +9118,14 @@
     }
   ],
   "ella-tejler": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 38,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -8873,6 +9234,14 @@
     }
   ],
   "elva-kate-preston": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -9095,6 +9464,14 @@
   ],
   "emil-karlsson": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 101,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "European Open 2026 Monday Qualifier",
       "event_key": "european-open-2026-monday-qualifier",
       "month": "Jun",
@@ -9176,6 +9553,14 @@
     }
   ],
   "emile-barbe": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 105,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "FFFD NT #4 - Vichy - Sponsoris\u00e9 par Hole19",
       "event_key": "fffd-nt-4-vichy-sponsoris-par-hole19",
@@ -9935,6 +10320,14 @@
   ],
   "evald-sandermoenwre": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 93,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT EuroTour - P\u00e4rnu Open presented by Latitude 64",
       "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
       "month": "Jun",
@@ -9992,6 +10385,14 @@
     }
   ],
   "evan-scott": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -10207,6 +10608,14 @@
   "evan-walker": [],
   "eveliina-salonen": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -10264,6 +10673,14 @@
     }
   ],
   "ezra-aderhold": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -10463,6 +10880,14 @@
   ],
   "ezra-robinson": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -10577,6 +11002,14 @@
     }
   ],
   "florian-lingenhel": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 112,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -10894,6 +11327,14 @@
   ],
   "fritiof-fagergren": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 62,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -10959,6 +11400,14 @@
     }
   ],
   "gannon-buhr": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -11191,6 +11640,14 @@
   ],
   "gaute-hauge": [],
   "gavin-babcock": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -11796,6 +12253,14 @@
   ],
   "gustav-dahln": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 83,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
       "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
       "month": "Jun",
@@ -11957,6 +12422,14 @@
   ],
   "hanna-jansson": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Nationella Touren #2 Hofors",
       "event_key": "nationella-touren-2-hofors",
       "month": "May",
@@ -11985,6 +12458,14 @@
     }
   ],
   "harper-thompson": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 62,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -12131,6 +12612,14 @@
     }
   ],
   "harry-chace": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 49,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -12329,6 +12818,14 @@
   ],
   "heidi-laine": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -12428,6 +12925,14 @@
   ],
   "henna-blomroos": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -12494,6 +12999,14 @@
   ],
   "henric-hagman": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 94,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
       "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
       "month": "May",
@@ -12503,6 +13016,14 @@
     }
   ],
   "henrik-haaland": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 49,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "NC3 Valdres Open presented by Discmania",
       "event_key": "nc3-valdres-open-presented-by-discmania",
@@ -12679,6 +13200,14 @@
   "herman-bentzenhinkel": [],
   "herman-hatlo": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 105,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "NC3 Valdres Open presented by Discmania",
       "event_key": "nc3-valdres-open-presented-by-discmania",
       "month": "Jun",
@@ -12704,6 +13233,14 @@
     }
   ],
   "hjalmar-fredriksson": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -12746,6 +13283,14 @@
     }
   ],
   "hjalte-jensen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 83,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -12813,6 +13358,14 @@
   ],
   "hkon-kveseth": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 109,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "NC 2 Open Hestehagen",
       "event_key": "nc-2-open-hestehagen",
       "month": "May",
@@ -12822,6 +13375,14 @@
     }
   ],
   "holger-hkansson": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 100,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -12930,6 +13491,14 @@
     }
   ],
   "holyn-handley": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -13041,6 +13610,14 @@
   ],
   "hugo-frjdlund": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 80,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
       "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
       "month": "Jun",
@@ -13151,6 +13728,14 @@
   "ian-krajna": [],
   "ida-kennmark": [],
   "idaemilie-nesse": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -13294,6 +13879,14 @@
     }
   ],
   "isaac-robinson": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -13639,6 +14232,14 @@
   ],
   "isak-andersson": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 87,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "The 27th J\u00e4rva Open 2026 presented by Innova",
       "event_key": "the-27th-j-rva-open-2026-presented-by-innova",
       "month": "May",
@@ -13926,6 +14527,14 @@
     }
   ],
   "jaden-rye": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -14229,6 +14838,14 @@
   ],
   "jake-monn": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -14360,6 +14977,14 @@
   ],
   "jakub-knpek": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -14393,6 +15018,14 @@
     }
   ],
   "jakub-semerd": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 49,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -14558,6 +15191,14 @@
   "james-bennett": [],
   "james-collier": [],
   "james-conrad": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -15405,6 +16046,14 @@
   ],
   "jenny-larsson": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
       "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
       "month": "Jun",
@@ -15539,6 +16188,14 @@
     }
   ],
   "jesse-nieminen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -16013,6 +16670,14 @@
   ],
   "joey-temali": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -16403,6 +17068,14 @@
   ],
   "joona-heinnen": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -16545,6 +17218,14 @@
   ],
   "josef-berg": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 96,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "NC 2 Open Hestehagen",
       "event_key": "nc-2-open-hestehagen",
       "month": "May",
@@ -16554,6 +17235,14 @@
     }
   ],
   "josefine-johansson": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT EuroTour - P\u00e4rnu Open presented by Latitude 64",
       "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
@@ -16612,6 +17301,14 @@
     }
   ],
   "joseph-anderson": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -16794,6 +17491,14 @@
   ],
   "julia-fors": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -16851,6 +17556,22 @@
     }
   ],
   "julius-mlgaard": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 80,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DFSU DT #4 \u2013 Aarhus Open Presented By Disc Tree",
+      "event_key": "dfsu-dt-4-aarhus-open-presented-by-disc-tree",
+      "month": "Jun",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
       "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
@@ -17089,6 +17810,14 @@
   ],
   "justus-sarvi": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 62,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -17114,6 +17843,14 @@
     }
   ],
   "kaidi-allsalu": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -17181,6 +17918,14 @@
   ],
   "kaire-tekku": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -17238,6 +17983,14 @@
     }
   ],
   "kajsa-wahl": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "#8 Ale Vit - Revolution Race Tour 2026",
       "event_key": "8-ale-vit-revolution-race-tour-2026",
@@ -17489,6 +18242,22 @@
   ],
   "kassandra-fogwichmann": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 46,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DFSU DT #4 \u2013 Aarhus Open Presented By Disc Tree",
+      "event_key": "dfsu-dt-4-aarhus-open-presented-by-disc-tree",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
       "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
       "month": "Jun",
@@ -17554,6 +18323,14 @@
     }
   ],
   "kat-mertsch": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -17768,6 +18545,14 @@
     }
   ],
   "keiti-ttte": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -18142,6 +18927,14 @@
   ],
   "knut-valenhland": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 94,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -18333,6 +19126,14 @@
   ],
   "kristna-jurkov": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -18465,6 +19266,14 @@
   ],
   "kyle-krieckhaus": [],
   "kylie-kohut": [
+    {
+      "event": "Roses at the Thorne",
+      "event_key": "roses-at-the-thorne",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Les Fleurs de Fallasburg VII MWS WGE",
       "event_key": "les-fleurs-de-fallasburg-vii-mws-wge",
@@ -18738,6 +19547,14 @@
   ],
   "lauren-butler": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Wisco Disco 2026",
       "event_key": "wisco-disco-2026",
       "month": "Jun",
@@ -18835,6 +19652,14 @@
     }
   ],
   "lauri-lehtinen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -19015,6 +19840,14 @@
     }
   ],
   "levi-stout": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -19268,6 +20101,14 @@
     }
   ],
   "linus-carlsson": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -19781,6 +20622,14 @@
   ],
   "luke-humphries": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -20051,6 +20900,14 @@
   ],
   "luke-taylor": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -20165,6 +21022,14 @@
     }
   ],
   "luukas-rokkanen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -20433,6 +21298,14 @@
   ],
   "madison-walker": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 29,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -20516,6 +21389,14 @@
   ],
   "maico-rimmel": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 68,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -20597,6 +21478,14 @@
     }
   ],
   "mara-eldeykristnardttir": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -20711,6 +21600,14 @@
     }
   ],
   "maria-liivamgi": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -20996,6 +21893,14 @@
   ],
   "martin-cronacher": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 96,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "38th Berlin Open - Presented by Innova",
       "event_key": "38th-berlin-open-presented-by-innova",
       "month": "May",
@@ -21088,6 +21993,14 @@
     }
   ],
   "martje-sumowski": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 39,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "PRESIDENTS CUP MUDAU",
       "event_key": "presidents-cup-mudau",
@@ -21271,6 +22184,14 @@
   ],
   "matilda-ringbom": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -21362,6 +22283,14 @@
     }
   ],
   "matt-bell": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -22021,6 +22950,14 @@
   ],
   "mauri-villmann": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -22126,6 +23063,14 @@
     }
   ],
   "max-ringbom": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 62,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -22254,6 +23199,14 @@
   ],
   "melker-molin": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 110,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "#3 Spelartouren 2026 - Skat\u00e5s open powered by Ugglans Discgolf",
       "event_key": "3-spelartouren-2026-skat-s-open-powered-by-uggla",
       "month": "May",
@@ -22283,6 +23236,14 @@
       "month": "Apr",
       "place": 1,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Uspastouren 2026 v\u00e5r-sommar",
+      "event_key": "uspastouren-2026-v-r-sommar",
+      "month": "Apr",
+      "place": 27,
+      "tier": "L",
       "tour": ""
     }
   ],
@@ -22428,6 +23389,14 @@
     }
   ],
   "miio-hmlinen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 73,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -22645,6 +23614,14 @@
   ],
   "missy-gannon": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -22820,6 +23797,14 @@
     }
   ],
   "morten-kristiansen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -23335,6 +24320,14 @@
   ],
   "nestori-tuhkanen": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -23393,6 +24386,14 @@
   ],
   "netta-leppaho": [],
   "nicholas-gill": [
+    {
+      "event": "Turf Toe Open",
+      "event_key": "turf-toe-open",
+      "month": "Jun",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Cherry Capital Open",
       "event_key": "cherry-capital-open",
@@ -23803,6 +24804,14 @@
   ],
   "niklas-anttila": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -23877,6 +24886,14 @@
   ],
   "niko-rtty": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 111,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "European Open 2026 Monday Qualifier",
       "event_key": "european-open-2026-monday-qualifier",
       "month": "Jun",
@@ -23894,6 +24911,14 @@
     }
   ],
   "nikola-arkko": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -24110,6 +25135,14 @@
     }
   ],
   "noah-meintsma": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -24418,12 +25451,28 @@
   ],
   "oiva-pivnsalo": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 88,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
       "place": 44,
       "tier": "M",
       "tour": "Major"
+    },
+    {
+      "event": "Kaatis Flex Start By Fribakisat.fi",
+      "event_key": "kaatis-flex-start-by-fribakisat-fi",
+      "month": "Jun",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
     },
     {
       "event": "SFL Powergrip Pro Tour - #1 Tampere",
@@ -24467,6 +25516,14 @@
     }
   ],
   "olivia-kindstedt": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -24550,6 +25607,14 @@
   ],
   "olle-frjdlund": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 96,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
       "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
       "month": "Jun",
@@ -24584,6 +25649,14 @@
   ],
   "onni-ruusunen": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -24609,6 +25682,14 @@
     }
   ],
   "otto-mkinen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 88,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -25375,6 +26456,14 @@
   ],
   "peter-lunde": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 73,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "NC 2 Open Hestehagen",
       "event_key": "nc-2-open-hestehagen",
       "month": "May",
@@ -25394,6 +26483,14 @@
   "peyton-kohut": [],
   "peyton-mansell": [],
   "rainers-balodis": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -25536,6 +26633,14 @@
     }
   ],
   "rasmus-saukkoriipi": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 96,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -25817,6 +26922,14 @@
   ],
   "raven-newsom": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -26045,6 +27158,14 @@
     }
   ],
   "rebecca-don": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -26398,6 +27519,14 @@
   ],
   "richard-wysocki": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -26571,6 +27700,14 @@
   ],
   "rienk-kan": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 88,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Green Man Challenge 2026 powered by Dynamic Discs",
       "event_key": "green-man-challenge-2026-powered-by-dynamic-disc",
       "month": "Apr",
@@ -26580,6 +27717,14 @@
     }
   ],
   "robert-burridge": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -26719,6 +27864,14 @@
     }
   ],
   "roland-kur": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -26989,6 +28142,14 @@
   ],
   "ryan-monn": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -27103,6 +28264,14 @@
     }
   ],
   "ryan-mulder": [
+    {
+      "event": "Clash at The Canyons X",
+      "event_key": "clash-at-the-canyons-x",
+      "month": "Jun",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -27355,12 +28524,28 @@
   ],
   "samuel-hnninen": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 83,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
       "place": 76,
       "tier": "M",
       "tour": "Major"
+    },
+    {
+      "event": "Kaatis Flex Start By Fribakisat.fi",
+      "event_key": "kaatis-flex-start-by-fribakisat-fi",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
     },
     {
       "event": "SFL Powergrip Pro Tour - #1 Tampere",
@@ -27906,6 +29091,14 @@
   "sean-sullivan-1": [],
   "severi-saviniemi": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 68,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -28237,6 +29430,14 @@
   ],
   "silas-schultz": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 62,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -28335,6 +29536,14 @@
     }
   ],
   "silva-saarinen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -28446,6 +29655,14 @@
   ],
   "simon-lizotte": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Discmania Presents Sunshine Open at 501 and Mile Marker 63 - Powe",
       "event_key": "discmania-presents-sunshine-open-at-501-and-mile",
       "month": "May",
@@ -28520,6 +29737,14 @@
     }
   ],
   "sintija-klezberga": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -28710,6 +29935,14 @@
   ],
   "sofie-bjrlycke": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 29,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
       "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
       "month": "Jun",
@@ -28755,6 +29988,14 @@
       "month": "Apr",
       "place": 1,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Uspastouren 2026 v\u00e5r-sommar",
+      "event_key": "uspastouren-2026-v-r-sommar",
+      "month": "Apr",
+      "place": 2,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -28807,6 +30048,14 @@
     }
   ],
   "sonja-laine": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT EuroTour - P\u00e4rnu Open presented by Latitude 64",
       "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
@@ -29020,6 +30269,14 @@
   ],
   "stephen-mclaren": [],
   "sullivan-tipton": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -29299,6 +30556,14 @@
   ],
   "taylor-chocek": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -29576,6 +30841,14 @@
   ],
   "teemu-lampainen": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -29617,6 +30890,14 @@
     }
   ],
   "teemu-talikainen": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 49,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -30163,6 +31444,14 @@
   ],
   "tobias-sderqvist": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 102,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
       "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
       "month": "Jun",
@@ -30196,6 +31485,22 @@
     }
   ],
   "toke-kyed": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 102,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DFSU DT #4 \u2013 Aarhus Open Presented By Disc Tree",
+      "event_key": "dfsu-dt-4-aarhus-open-presented-by-disc-tree",
+      "month": "Jun",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
       "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
@@ -30904,6 +32209,22 @@
   ],
   "ture-valtonen": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 68,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Rocket Discs Tour #5 Rydskogen DGB",
+      "event_key": "rocket-discs-tour-5-rydskogen-dgb",
+      "month": "Jun",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Nationella Touren #2 Hofors",
       "event_key": "nationella-touren-2-hofors",
       "month": "May",
@@ -30941,7 +32262,7 @@
       "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
       "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
       "month": "Jun",
-      "place": 2,
+      "place": 3,
       "tier": "A",
       "tour": ""
     },
@@ -31237,6 +32558,14 @@
   ],
   "ville-parpala": [
     {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 78,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "V\u00e4sterbottenstouren 2026 sponsored by Mickes Discgolf #3 Penglun",
       "event_key": "v-sterbottenstouren-2026-sponsored-by-mickes-dis",
       "month": "Jun",
@@ -31262,6 +32591,14 @@
     }
   ],
   "vin-mkel": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -31695,6 +33032,14 @@
     }
   ],
   "yvind-jarnes": [
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 73,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
