@@ -430,6 +430,14 @@
   ],
   "addison-woodard": [
     {
+      "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
+      "event_key": "q-series-discraft-s-oakland-county-championship",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Clash at The Canyons X",
       "event_key": "clash-at-the-canyons-x",
       "month": "Jun",
@@ -991,6 +999,14 @@
   ],
   "alecia-hinkson": [
     {
+      "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
+      "event_key": "q-series-discraft-s-oakland-county-championship",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
       "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
       "month": "Jun",
@@ -1066,6 +1082,14 @@
     }
   ],
   "alex-berg": [
+    {
+      "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
+      "event_key": "q-series-discraft-s-oakland-county-championship",
+      "month": "Jun",
+      "place": 22,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frederiksen Insurance Open",
       "event_key": "frederiksen-insurance-open",
@@ -2626,6 +2650,7 @@
       "tour": ""
     }
   ],
+  "anton-bergqvist-1": [],
   "ariel-walker": [],
   "arttu-rossi": [],
   "arvid-hansson": [
@@ -2838,6 +2863,14 @@
     }
   ],
   "austen-bates": [
+    {
+      "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
+      "event_key": "q-series-discraft-s-oakland-county-championship",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Survive the Solstice 2026 presented by Pug Life Disc Golf",
       "event_key": "survive-the-solstice-2026-presented-by-pug-life-",
@@ -4923,6 +4956,14 @@
   ],
   "cam-rico": [
     {
+      "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
+      "event_key": "british-columbia-open-pro-raptors-knoll-presente",
+      "month": "Jun",
+      "place": 29,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc Golf",
       "event_key": "the-challenge-reidy-creek-2026-presented-by-inno",
       "month": "Jun",
@@ -5042,6 +5083,24 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "camilla-grundn": [
+    {
+      "event": "Nationella Touren #1 Varberg",
+      "event_key": "nationella-touren-1-varberg",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "#2 Ale Gul - Revolution Race Tour 2026",
+      "event_key": "2-ale-gul-revolution-race-tour-2026",
+      "month": "Mar",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
     }
   ],
   "candyce-boyce": [
@@ -5705,6 +5764,14 @@
     }
   ],
   "chantel-budinsky": [
+    {
+      "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
+      "event_key": "q-series-discraft-s-oakland-county-championship",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Bronte and the Beast",
       "event_key": "bronte-and-the-beast",
@@ -8462,6 +8529,7 @@
       "tour": ""
     }
   ],
+  "elias-nordberg": [],
   "eliezra-midtlyng": [
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
@@ -8618,6 +8686,14 @@
     }
   ],
   "elijah-bickel": [
+    {
+      "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
+      "event_key": "q-series-discraft-s-oakland-county-championship",
+      "month": "Jun",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -10772,6 +10848,14 @@
     }
   ],
   "ezra-hapner": [
+    {
+      "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
+      "event_key": "british-columbia-open-pro-raptors-knoll-presente",
+      "month": "Jun",
+      "place": 29,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Team High Country Presents - The Caliber Classic - Supported by I",
       "event_key": "team-high-country-presents-the-caliber-classic-s",
@@ -14975,6 +15059,7 @@
       "tour": "DGPT"
     }
   ],
+  "jakob-grv": [],
   "jakub-knpek": [
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
@@ -15395,6 +15480,7 @@
       "tour": ""
     }
   ],
+  "jannicke-hjemli": [],
   "jared-stoll": [
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
@@ -18804,6 +18890,22 @@
   "kieran-atkinson": [],
   "kirby-snyder": [
     {
+      "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
+      "event_key": "british-columbia-open-pro-raptors-knoll-presente",
+      "month": "Jun",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Olympic Discs 2026 Shelton Springs Open Presented by Innova",
+      "event_key": "the-olympic-discs-2026-shelton-springs-open-pres",
+      "month": "Jun",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Fort Steilacoom Open",
       "event_key": "fort-steilacoom-open",
       "month": "Jun",
@@ -19266,6 +19368,14 @@
   ],
   "kyle-krieckhaus": [],
   "kylie-kohut": [
+    {
+      "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
+      "event_key": "q-series-discraft-s-oakland-county-championship",
+      "month": "Jun",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Roses at the Thorne",
       "event_key": "roses-at-the-thorne",
@@ -21183,6 +21293,14 @@
   ],
   "madison-tomaino": [
     {
+      "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
+      "event_key": "british-columbia-open-pro-raptors-knoll-presente",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -22562,6 +22680,14 @@
   ],
   "matthew-alexander": [
     {
+      "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
+      "event_key": "q-series-discraft-s-oakland-county-championship",
+      "month": "Jun",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGVTour #6 - Brewster Ridge Open Driven by Innova - DGPT Q-Series",
       "event_key": "dgvtour-6-brewster-ridge-open-driven-by-innova-d",
       "month": "Jun",
@@ -23612,6 +23738,7 @@
       "tour": "DGPT"
     }
   ],
+  "mina-alme": [],
   "missy-gannon": [
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
@@ -24386,6 +24513,14 @@
   ],
   "netta-leppaho": [],
   "nicholas-gill": [
+    {
+      "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
+      "event_key": "q-series-discraft-s-oakland-county-championship",
+      "month": "Jun",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Turf Toe Open",
       "event_key": "turf-toe-open",
@@ -27258,6 +27393,14 @@
   ],
   "rebecca-minnick": [
     {
+      "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
+      "event_key": "q-series-discraft-s-oakland-county-championship",
+      "month": "Jun",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGVTour #6 - Brewster Ridge Open Driven by Innova - DGPT Q-Series",
       "event_key": "dgvtour-6-brewster-ridge-open-driven-by-innova-d",
       "month": "Jun",
@@ -27458,6 +27601,7 @@
       "tour": ""
     }
   ],
+  "rebecka-hoppe": [],
   "reese-petersen": [],
   "renrs-strazdi": [
     {
@@ -28265,6 +28409,14 @@
   ],
   "ryan-mulder": [
     {
+      "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
+      "event_key": "q-series-discraft-s-oakland-county-championship",
+      "month": "Jun",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Clash at The Canyons X",
       "event_key": "clash-at-the-canyons-x",
       "month": "Jun",
@@ -28597,6 +28749,7 @@
     }
   ],
   "samuel-snider": [],
+  "sanne-dalseth": [],
   "sarah-duran": [
     {
       "event": "2026 Chapel Hill Invitational - sponsored by Team Potato (a WGE e",
@@ -28893,6 +29046,14 @@
     }
   ],
   "scott-withers": [
+    {
+      "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
+      "event_key": "british-columbia-open-pro-raptors-knoll-presente",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -29428,6 +29589,56 @@
       "tour": "DGPT"
     }
   ],
+  "silas-evaldwiwe": [
+    {
+      "event": "SDGPT - A6 Open 2026 sponsored by MVP Discs",
+      "event_key": "sdgpt-a6-open-2026-sponsored-by-mvp-discs",
+      "month": "Jun",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DFSU DT #3 \u2013 Kokkedal Open - Presented by Disc Tree",
+      "event_key": "dfsu-dt-3-kokkedal-open-presented-by-disc-tree",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Vinberg Open 2026 sponsored by Latitude 64",
+      "event_key": "sdgpt-vinberg-open-2026-sponsored-by-latitude-64",
+      "month": "May",
+      "place": 42,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DFSU DT #2 \u2013 Ebeltoft Open - Presented by Disc Tree",
+      "event_key": "dfsu-dt-2-ebeltoft-open-presented-by-disc-tree",
+      "month": "May",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - V\u00e4stervik Open 2026 sponsored by Prodigy Discs",
+      "event_key": "sdgpt-v-stervik-open-2026-sponsored-by-prodigy-d",
+      "month": "May",
+      "place": 37,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DFSU DT #1 \u2013 Momh\u00f8je Open - Presented by Disc Tree",
+      "event_key": "dfsu-dt-1-momh-je-open-presented-by-disc-tree",
+      "month": "Apr",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "silas-schultz": [
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
@@ -29827,6 +30038,14 @@
     }
   ],
   "sofia-donnecke": [
+    {
+      "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
+      "event_key": "british-columbia-open-pro-raptors-knoll-presente",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -31442,6 +31661,7 @@
       "tour": ""
     }
   ],
+  "tobias-hjortelandschjlberg": [],
   "tobias-sderqvist": [
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
@@ -32251,6 +32471,14 @@
   ],
   "ty-love": [
     {
+      "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
+      "event_key": "q-series-discraft-s-oakland-county-championship",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGVTour #6 - Brewster Ridge Open Driven by Innova - DGPT Q-Series",
       "event_key": "dgvtour-6-brewster-ridge-open-driven-by-innova-d",
       "month": "Jun",
@@ -32590,6 +32818,7 @@
       "tour": ""
     }
   ],
+  "ville-vonhertzen": [],
   "vin-mkel": [
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
