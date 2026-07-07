@@ -32,7 +32,7 @@
       "major_win": 400.0
     }
   },
-  "updated_at": "2026-07-06T18:52:46.225945+00:00",
+  "updated_at": "2026-07-07T15:40:53.084911+00:00",
   "divisions": {
     "MPO": {
       "division": "MPO",
@@ -3050,6 +3050,85 @@
           "tour_rank": 38
         },
         {
+          "slug": "chris-dickerson",
+          "name": "Chris Dickerson",
+          "dgpt_rank": 26,
+          "manufacturer": "Discraft",
+          "dgpt_points": 502.5,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 234.5,
+          "wins": 1,
+          "podiums": 1,
+          "top10": 3,
+          "tour_starts": 8,
+          "by_level": {
+            "major": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 32.0
+            },
+            "elite": {
+              "starts": 6,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 2,
+              "points": 167.5
+            },
+            "a_tier": {
+              "starts": 1,
+              "wins": 1,
+              "podiums": 1,
+              "top10": 1,
+              "points": 35.0
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
+              "event": "Discraft Presents: Tennessee State Disc Golf Championships",
+              "month": "Jun",
+              "place": 1,
+              "level": "a_tier",
+              "weighted_points": 35.0
+            },
+            {
+              "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
+              "event": "Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
+              "month": "May",
+              "place": 22,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
+              "event": "GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
+              "month": "Apr",
+              "place": 17,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "play-it-again-sports-jonesboro-open-presented-by",
+              "event": "Play it Again Sports Jonesboro Open presented by Westside",
+              "month": "Apr",
+              "place": 9,
+              "level": "elite",
+              "weighted_points": 50.0
+            },
+            {
+              "event_key": "2026-pdga-champions-cup-presented-by-vessi",
+              "event": "2026 PDGA Champions Cup Presented by Vessi",
+              "month": "Apr",
+              "place": 13,
+              "level": "major",
+              "weighted_points": 32.0
+            }
+          ],
+          "tour_rank": 39
+        },
+        {
           "slug": "jonathan-borzick",
           "name": "Jonathan Borzick",
           "dgpt_rank": 77,
@@ -3126,7 +3205,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 39
+          "tour_rank": 40
         },
         {
           "slug": "aidan-scott",
@@ -3205,7 +3284,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 40
+          "tour_rank": 41
         },
         {
           "slug": "austin-turner",
@@ -3284,7 +3363,7 @@
               "weighted_points": 20.0
             }
           ],
-          "tour_rank": 41
+          "tour_rank": 42
         },
         {
           "slug": "ty-love",
@@ -3363,7 +3442,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 42
+          "tour_rank": 43
         },
         {
           "slug": "robert-burridge",
@@ -3442,7 +3521,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 43
+          "tour_rank": 44
         },
         {
           "slug": "austen-bates",
@@ -3519,85 +3598,6 @@
               "place": 57,
               "level": "elite",
               "weighted_points": 7.5
-            }
-          ],
-          "tour_rank": 44
-        },
-        {
-          "slug": "chris-dickerson",
-          "name": "Chris Dickerson",
-          "dgpt_rank": 26,
-          "manufacturer": "Discraft",
-          "dgpt_points": 502.5,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 199.5,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 2,
-          "tour_starts": 7,
-          "by_level": {
-            "major": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 32.0
-            },
-            "elite": {
-              "starts": 6,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 2,
-              "points": 167.5
-            },
-            "a_tier": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
-              "event": "Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
-              "month": "May",
-              "place": 22,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
-              "event": "GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
-              "month": "Apr",
-              "place": 17,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "play-it-again-sports-jonesboro-open-presented-by",
-              "event": "Play it Again Sports Jonesboro Open presented by Westside",
-              "month": "Apr",
-              "place": 9,
-              "level": "elite",
-              "weighted_points": 50.0
-            },
-            {
-              "event_key": "2026-pdga-champions-cup-presented-by-vessi",
-              "event": "2026 PDGA Champions Cup Presented by Vessi",
-              "month": "Apr",
-              "place": 13,
-              "level": "major",
-              "weighted_points": 32.0
-            },
-            {
-              "event_key": "queen-city-classic-presented-by-another-round",
-              "event": "Queen City Classic presented by Another Round",
-              "month": "Mar",
-              "place": 16,
-              "level": "elite",
-              "weighted_points": 20.0
             }
           ],
           "tour_rank": 45
@@ -21320,6 +21320,60 @@
           ]
         },
         {
+          "id": "discraft-presents-tennessee-state-disc-golf-cham",
+          "name": "Discraft Presents: Tennessee State Disc Golf Championships",
+          "tier": "A",
+          "tour": "",
+          "month": "Jun",
+          "level": "a_tier",
+          "multiplier": 0.35,
+          "entries": 5,
+          "winner": {
+            "slug": "chris-dickerson",
+            "name": "Chris Dickerson",
+            "manufacturer": "Discraft",
+            "place": 1,
+            "weighted_points": 35.0
+          },
+          "top_finishes": [
+            {
+              "slug": "chris-dickerson",
+              "name": "Chris Dickerson",
+              "manufacturer": "Discraft",
+              "place": 1,
+              "weighted_points": 35.0
+            },
+            {
+              "slug": "anthony-anselmo",
+              "name": "Anthony Anselmo",
+              "manufacturer": "Unknown",
+              "place": 2,
+              "weighted_points": 26.2
+            },
+            {
+              "slug": "aidan-scott",
+              "name": "Aidan Scott",
+              "manufacturer": "Prodigy",
+              "place": 3,
+              "weighted_points": 19.2
+            },
+            {
+              "slug": "zach-arlinghaus",
+              "name": "Zach Arlinghaus",
+              "manufacturer": "Discraft",
+              "place": 9,
+              "weighted_points": 7.0
+            },
+            {
+              "slug": "nathan-queen",
+              "name": "Nathan Queen",
+              "manufacturer": "Infinite",
+              "place": 9,
+              "weighted_points": 7.0
+            }
+          ]
+        },
+        {
           "id": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
           "name": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Di",
           "tier": "A",
@@ -21523,53 +21577,6 @@
               "slug": "ryan-mulder",
               "name": "Ryan Mulder",
               "manufacturer": "Unknown",
-              "place": 9,
-              "weighted_points": 7.0
-            }
-          ]
-        },
-        {
-          "id": "discraft-presents-tennessee-state-disc-golf-cham",
-          "name": "Discraft Presents: Tennessee State Disc Golf Championships",
-          "tier": "A",
-          "tour": "",
-          "month": "Jun",
-          "level": "a_tier",
-          "multiplier": 0.35,
-          "entries": 4,
-          "winner": {
-            "slug": "anthony-anselmo",
-            "name": "Anthony Anselmo",
-            "manufacturer": "Unknown",
-            "place": 2,
-            "weighted_points": 26.2
-          },
-          "top_finishes": [
-            {
-              "slug": "anthony-anselmo",
-              "name": "Anthony Anselmo",
-              "manufacturer": "Unknown",
-              "place": 2,
-              "weighted_points": 26.2
-            },
-            {
-              "slug": "aidan-scott",
-              "name": "Aidan Scott",
-              "manufacturer": "Prodigy",
-              "place": 3,
-              "weighted_points": 19.2
-            },
-            {
-              "slug": "zach-arlinghaus",
-              "name": "Zach Arlinghaus",
-              "manufacturer": "Discraft",
-              "place": 9,
-              "weighted_points": 7.0
-            },
-            {
-              "slug": "nathan-queen",
-              "name": "Nathan Queen",
-              "manufacturer": "Infinite",
               "place": 9,
               "weighted_points": 7.0
             }
@@ -26140,6 +26147,60 @@
             ]
           },
           {
+            "id": "discraft-presents-tennessee-state-disc-golf-cham",
+            "name": "Discraft Presents: Tennessee State Disc Golf Championships",
+            "tier": "A",
+            "tour": "",
+            "month": "Jun",
+            "level": "a_tier",
+            "multiplier": 0.35,
+            "entries": 5,
+            "winner": {
+              "slug": "chris-dickerson",
+              "name": "Chris Dickerson",
+              "manufacturer": "Discraft",
+              "place": 1,
+              "weighted_points": 35.0
+            },
+            "top_finishes": [
+              {
+                "slug": "chris-dickerson",
+                "name": "Chris Dickerson",
+                "manufacturer": "Discraft",
+                "place": 1,
+                "weighted_points": 35.0
+              },
+              {
+                "slug": "anthony-anselmo",
+                "name": "Anthony Anselmo",
+                "manufacturer": "Unknown",
+                "place": 2,
+                "weighted_points": 26.2
+              },
+              {
+                "slug": "aidan-scott",
+                "name": "Aidan Scott",
+                "manufacturer": "Prodigy",
+                "place": 3,
+                "weighted_points": 19.2
+              },
+              {
+                "slug": "zach-arlinghaus",
+                "name": "Zach Arlinghaus",
+                "manufacturer": "Discraft",
+                "place": 9,
+                "weighted_points": 7.0
+              },
+              {
+                "slug": "nathan-queen",
+                "name": "Nathan Queen",
+                "manufacturer": "Infinite",
+                "place": 9,
+                "weighted_points": 7.0
+              }
+            ]
+          },
+          {
             "id": "bdgc-xiv-alutaguse-open-2026-presented-by-innova",
             "name": "BDGC XIV Alutaguse Open 2026 presented by Innova Champion Di",
             "tier": "A",
@@ -26192,53 +26253,6 @@
                 "weighted_points": 12.2
               }
             ]
-          },
-          {
-            "id": "chicken-coop-classic-generated-by-grit-discs",
-            "name": "Chicken Coop Classic Generated By Grit Discs",
-            "tier": "A",
-            "tour": "",
-            "month": "Jun",
-            "level": "a_tier",
-            "multiplier": 0.35,
-            "entries": 4,
-            "winner": {
-              "slug": "paul-ulibarri",
-              "name": "Paul Ulibarri",
-              "manufacturer": "Discraft",
-              "place": 1,
-              "weighted_points": 35.0
-            },
-            "top_finishes": [
-              {
-                "slug": "paul-ulibarri",
-                "name": "Paul Ulibarri",
-                "manufacturer": "Discraft",
-                "place": 1,
-                "weighted_points": 35.0
-              },
-              {
-                "slug": "aidan-scott",
-                "name": "Aidan Scott",
-                "manufacturer": "Prodigy",
-                "place": 2,
-                "weighted_points": 26.2
-              },
-              {
-                "slug": "nathan-queen",
-                "name": "Nathan Queen",
-                "manufacturer": "Infinite",
-                "place": 4,
-                "weighted_points": 12.2
-              },
-              {
-                "slug": "matthew-brown-1",
-                "name": "Matthew Brown",
-                "manufacturer": "Unknown",
-                "place": 14,
-                "weighted_points": 2.8
-              }
-            ]
           }
         ]
       }
@@ -26249,10 +26263,10 @@
       "year": "2026",
       "player_count": 144,
       "tour_player_count": 121,
-      "event_count": 76,
+      "event_count": 77,
       "events_by_level": {
         "major": 4,
-        "elite": 10,
+        "elite": 11,
         "a_tier": 62
       },
       "players": [
@@ -29219,6 +29233,85 @@
           "tour_rank": 38
         },
         {
+          "slug": "macie-velediaz",
+          "name": "Macie Velediaz",
+          "dgpt_rank": 38,
+          "manufacturer": "DD",
+          "dgpt_points": 294.67,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 162.5,
+          "wins": 1,
+          "podiums": 1,
+          "top10": 2,
+          "tour_starts": 5,
+          "by_level": {
+            "major": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 1,
+              "points": 80.0
+            },
+            "elite": {
+              "starts": 3,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 47.5
+            },
+            "a_tier": {
+              "starts": 1,
+              "wins": 1,
+              "podiums": 1,
+              "top10": 1,
+              "points": 35.0
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
+              "event": "Discraft Presents: Tennessee State Disc Golf Championships",
+              "month": "Jun",
+              "place": 1,
+              "level": "a_tier",
+              "weighted_points": 35.0
+            },
+            {
+              "event_key": "play-it-again-sports-jonesboro-open-presented-by",
+              "event": "Play it Again Sports Jonesboro Open presented by Westside",
+              "month": "Apr",
+              "place": 17,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "2026-pdga-champions-cup-presented-by-vessi",
+              "event": "2026 PDGA Champions Cup Presented by Vessi",
+              "month": "Apr",
+              "place": 8,
+              "level": "major",
+              "weighted_points": 80.0
+            },
+            {
+              "event_key": "queen-city-classic-presented-by-another-round",
+              "event": "Queen City Classic presented by Another Round",
+              "month": "Mar",
+              "place": 17,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "discraft-s-supreme-flight-open-presented-by-flor",
+              "event": "Discraft\u2019s Supreme Flight Open Presented by Florida\u2019s",
+              "month": "Feb",
+              "place": 27,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 39
+        },
+        {
           "slug": "zoe-andyke",
           "name": "Zoe AnDyke",
           "dgpt_rank": 74,
@@ -29295,7 +29388,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 39
+          "tour_rank": 40
         },
         {
           "slug": "amanda-lennartsson",
@@ -29374,7 +29467,7 @@
               "weighted_points": 20.0
             }
           ],
-          "tour_rank": 40
+          "tour_rank": 41
         },
         {
           "slug": "leah-tsinajinnie",
@@ -29453,7 +29546,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 41
+          "tour_rank": 42
         },
         {
           "slug": "idaemilie-nesse",
@@ -29532,7 +29625,7 @@
               "weighted_points": 50.0
             }
           ],
-          "tour_rank": 42
+          "tour_rank": 43
         },
         {
           "slug": "maria-oliva",
@@ -29611,7 +29704,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 43
+          "tour_rank": 44
         },
         {
           "slug": "kelley-foster",
@@ -29690,7 +29783,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 44
+          "tour_rank": 45
         },
         {
           "slug": "danik-hart",
@@ -29769,7 +29862,7 @@
               "weighted_points": 20.0
             }
           ],
-          "tour_rank": 45
+          "tour_rank": 46
         },
         {
           "slug": "sarah-hokom",
@@ -29846,77 +29939,6 @@
               "place": 15,
               "level": "elite",
               "weighted_points": 20.0
-            }
-          ],
-          "tour_rank": 46
-        },
-        {
-          "slug": "macie-velediaz",
-          "name": "Macie Velediaz",
-          "dgpt_rank": 38,
-          "manufacturer": "DD",
-          "dgpt_points": 294.67,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 127.5,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 1,
-          "tour_starts": 4,
-          "by_level": {
-            "major": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 1,
-              "points": 80.0
-            },
-            "elite": {
-              "starts": 3,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 47.5
-            },
-            "a_tier": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "play-it-again-sports-jonesboro-open-presented-by",
-              "event": "Play it Again Sports Jonesboro Open presented by Westside",
-              "month": "Apr",
-              "place": 17,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "2026-pdga-champions-cup-presented-by-vessi",
-              "event": "2026 PDGA Champions Cup Presented by Vessi",
-              "month": "Apr",
-              "place": 8,
-              "level": "major",
-              "weighted_points": 80.0
-            },
-            {
-              "event_key": "queen-city-classic-presented-by-another-round",
-              "event": "Queen City Classic presented by Another Round",
-              "month": "Mar",
-              "place": 17,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "discraft-s-supreme-flight-open-presented-by-flor",
-              "event": "Discraft\u2019s Supreme Flight Open Presented by Florida\u2019s",
-              "month": "Feb",
-              "place": 27,
-              "level": "elite",
-              "weighted_points": 7.5
             }
           ],
           "tour_rank": 47
@@ -32480,6 +32502,61 @@
           "tour_rank": 81
         },
         {
+          "slug": "camilla-grundn",
+          "name": "Camilla Grund\u00e9n",
+          "dgpt_rank": 139,
+          "manufacturer": "Unknown",
+          "dgpt_points": 7.5,
+          "dgpt_points_gain": 7.5,
+          "tour_weighted_points": 42.5,
+          "wins": 1,
+          "podiums": 1,
+          "top10": 1,
+          "tour_starts": 2,
+          "by_level": {
+            "major": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "elite": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 7.5
+            },
+            "a_tier": {
+              "starts": 1,
+              "wins": 1,
+              "podiums": 1,
+              "top10": 1,
+              "points": 35.0
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "ale-open-presented-by-discraft",
+              "event": "Ale Open presented by Discraft",
+              "month": "Jul",
+              "place": 45,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "nationella-touren-1-varberg",
+              "event": "Nationella Touren #1 Varberg",
+              "month": "May",
+              "place": 1,
+              "level": "a_tier",
+              "weighted_points": 35.0
+            }
+          ],
+          "tour_rank": 82
+        },
+        {
           "slug": "lykke-lorentzen",
           "name": "Lykke Lorentzen",
           "dgpt_rank": 90,
@@ -32548,7 +32625,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 82
+          "tour_rank": 83
         },
         {
           "slug": "karissa-dedmon",
@@ -32619,7 +32696,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 83
+          "tour_rank": 84
         },
         {
           "slug": "therese-cuevas",
@@ -32672,53 +32749,6 @@
               "place": 13,
               "level": "elite",
               "weighted_points": 20.0
-            }
-          ],
-          "tour_rank": 84
-        },
-        {
-          "slug": "camilla-grundn",
-          "name": "Camilla Grund\u00e9n",
-          "dgpt_rank": 139,
-          "manufacturer": "Unknown",
-          "dgpt_points": 7.5,
-          "dgpt_points_gain": 7.5,
-          "tour_weighted_points": 35.0,
-          "wins": 1,
-          "podiums": 1,
-          "top10": 1,
-          "tour_starts": 1,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "a_tier": {
-              "starts": 1,
-              "wins": 1,
-              "podiums": 1,
-              "top10": 1,
-              "points": 35.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "nationella-touren-1-varberg",
-              "event": "Nationella Touren #1 Varberg",
-              "month": "May",
-              "place": 1,
-              "level": "a_tier",
-              "weighted_points": 35.0
             }
           ],
           "tour_rank": 85
@@ -34722,6 +34752,32 @@
       ],
       "events": [
         {
+          "id": "ale-open-presented-by-discraft",
+          "name": "Ale Open presented by Discraft",
+          "tier": "NT",
+          "tour": "DGPT",
+          "month": "Jul",
+          "level": "elite",
+          "multiplier": 2.5,
+          "entries": 1,
+          "winner": {
+            "slug": "camilla-grundn",
+            "name": "Camilla Grund\u00e9n",
+            "manufacturer": "Unknown",
+            "place": 45,
+            "weighted_points": 7.5
+          },
+          "top_finishes": [
+            {
+              "slug": "camilla-grundn",
+              "name": "Camilla Grund\u00e9n",
+              "manufacturer": "Unknown",
+              "place": 45,
+              "weighted_points": 7.5
+            }
+          ]
+        },
+        {
           "id": "the-challenge-reidy-creek-2026-presented-by-inno",
           "name": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc",
           "tier": "A",
@@ -35037,6 +35093,46 @@
           ]
         },
         {
+          "id": "discraft-presents-tennessee-state-disc-golf-cham",
+          "name": "Discraft Presents: Tennessee State Disc Golf Championships",
+          "tier": "A",
+          "tour": "",
+          "month": "Jun",
+          "level": "a_tier",
+          "multiplier": 0.35,
+          "entries": 3,
+          "winner": {
+            "slug": "macie-velediaz",
+            "name": "Macie Velediaz",
+            "manufacturer": "DD",
+            "place": 1,
+            "weighted_points": 35.0
+          },
+          "top_finishes": [
+            {
+              "slug": "macie-velediaz",
+              "name": "Macie Velediaz",
+              "manufacturer": "DD",
+              "place": 1,
+              "weighted_points": 35.0
+            },
+            {
+              "slug": "rebecca-minnick",
+              "name": "Rebecca Minnick",
+              "manufacturer": "Unknown",
+              "place": 4,
+              "weighted_points": 12.2
+            },
+            {
+              "slug": "tailey-rowley",
+              "name": "Tailey Rowley",
+              "manufacturer": "Unknown",
+              "place": 5,
+              "weighted_points": 12.2
+            }
+          ]
+        },
+        {
           "id": "2026-infinite-discs-beehive-classic",
           "name": "2026 Infinite Discs Beehive Classic",
           "tier": "A",
@@ -35219,39 +35315,6 @@
               "manufacturer": "Unknown",
               "place": 2,
               "weighted_points": 26.2
-            }
-          ]
-        },
-        {
-          "id": "discraft-presents-tennessee-state-disc-golf-cham",
-          "name": "Discraft Presents: Tennessee State Disc Golf Championships",
-          "tier": "A",
-          "tour": "",
-          "month": "Jun",
-          "level": "a_tier",
-          "multiplier": 0.35,
-          "entries": 2,
-          "winner": {
-            "slug": "rebecca-minnick",
-            "name": "Rebecca Minnick",
-            "manufacturer": "Unknown",
-            "place": 4,
-            "weighted_points": 12.2
-          },
-          "top_finishes": [
-            {
-              "slug": "rebecca-minnick",
-              "name": "Rebecca Minnick",
-              "manufacturer": "Unknown",
-              "place": 4,
-              "weighted_points": 12.2
-            },
-            {
-              "slug": "tailey-rowley",
-              "name": "Tailey Rowley",
-              "manufacturer": "Unknown",
-              "place": 5,
-              "weighted_points": 12.2
             }
           ]
         },
@@ -38119,6 +38182,32 @@
         },
         "recent_events": [
           {
+            "id": "ale-open-presented-by-discraft",
+            "name": "Ale Open presented by Discraft",
+            "tier": "NT",
+            "tour": "DGPT",
+            "month": "Jul",
+            "level": "elite",
+            "multiplier": 2.5,
+            "entries": 1,
+            "winner": {
+              "slug": "camilla-grundn",
+              "name": "Camilla Grund\u00e9n",
+              "manufacturer": "Unknown",
+              "place": 45,
+              "weighted_points": 7.5
+            },
+            "top_finishes": [
+              {
+                "slug": "camilla-grundn",
+                "name": "Camilla Grund\u00e9n",
+                "manufacturer": "Unknown",
+                "place": 45,
+                "weighted_points": 7.5
+              }
+            ]
+          },
+          {
             "id": "the-challenge-reidy-creek-2026-presented-by-inno",
             "name": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc",
             "tier": "A",
@@ -38277,32 +38366,6 @@
                 "manufacturer": "Unknown",
                 "place": 5,
                 "weighted_points": 12.2
-              }
-            ]
-          },
-          {
-            "id": "mid-america-open",
-            "name": "Mid America Open",
-            "tier": "A",
-            "tour": "",
-            "month": "Jun",
-            "level": "a_tier",
-            "multiplier": 0.35,
-            "entries": 1,
-            "winner": {
-              "slug": "hanna-huynh",
-              "name": "Hanna Huynh",
-              "manufacturer": "Discraft",
-              "place": 1,
-              "weighted_points": 35.0
-            },
-            "top_finishes": [
-              {
-                "slug": "hanna-huynh",
-                "name": "Hanna Huynh",
-                "manufacturer": "Discraft",
-                "place": 1,
-                "weighted_points": 35.0
               }
             ]
           }

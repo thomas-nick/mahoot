@@ -5087,11 +5087,27 @@
   ],
   "camilla-grundn": [
     {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Nationella Touren #1 Varberg",
       "event_key": "nationella-touren-1-varberg",
       "month": "May",
       "place": 1,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "ADGK Veckotour 1-10",
+      "event_key": "adgk-veckotour-1-10",
+      "month": "Apr",
+      "place": 3,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -5942,6 +5958,22 @@
     }
   ],
   "chris-dickerson": [
+    {
+      "event": "41st Annual Lakefront Open",
+      "event_key": "41st-annual-lakefront-open",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Discraft Presents: Tennessee State Disc Golf Championships",
+      "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -13954,6 +13986,14 @@
   "isaac-chance": [],
   "isaac-heinen": [
     {
+      "event": "Maverick DG: Black Hoof Shootout 3 presented by Innova",
+      "event_key": "maverick-dg-black-hoof-shootout-3-presented-by-i",
+      "month": "Jun",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
       "month": "Apr",
@@ -21251,6 +21291,22 @@
   ],
   "macie-velediaz": [
     {
+      "event": "Discraft Presents: Tennessee State Disc Golf Championships",
+      "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Show & Throw at Cherokee Park By RDG",
+      "event_key": "show-throw-at-cherokee-park-by-rdg",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
       "event_key": "play-it-again-sports-jonesboro-open-presented-by",
       "month": "Apr",
@@ -24920,6 +24976,22 @@
     }
   ],
   "nikko-locastro": [
+    {
+      "event": "STLDGC-FLEX Carondelet #6",
+      "event_key": "stldgc-flex-carondelet-6",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "STLDGC-FLEX Carrollton #5",
+      "event_key": "stldgc-flex-carrollton-5",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
@@ -31203,6 +31275,14 @@
     }
   ],
   "thomas-canfield": [
+    {
+      "event": "Discraft Presents: Spike Hyzer's Fifth Annual Piedmont Disc Golf",
+      "event_key": "discraft-presents-spike-hyzer-s-fifth-annual-pie",
+      "month": "Jun",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Winget3 Presented By KK & CO Realty and Simon Brais @ Movement Mo",
       "event_key": "winget3-presented-by-kk-co-realty-and-simon-brai",
