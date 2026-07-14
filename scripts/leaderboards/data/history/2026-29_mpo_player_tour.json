@@ -1,30 +1,30 @@
 {
   "division": "MPO",
   "week": "2026-29",
-  "saved_at": "2026-07-13T18:42:23.097419+00:00",
+  "saved_at": "2026-07-14T14:44:46.994287+00:00",
   "players": [
     {
       "slug": "gannon-buhr",
       "name": "Gannon Buhr",
       "tour_rank": 1,
-      "tour_weighted_points": 2677.5,
+      "tour_weighted_points": 2927.5,
       "dgpt_rank": 1,
-      "wins": 9
-    },
-    {
-      "slug": "richard-wysocki",
-      "name": "Richard Wysocki",
-      "tour_rank": 2,
-      "tour_weighted_points": 1565.0,
-      "dgpt_rank": 2,
-      "wins": 2
+      "wins": 10
     },
     {
       "slug": "calvin-heimburg",
       "name": "Calvin Heimburg",
-      "tour_rank": 3,
-      "tour_weighted_points": 1550.3,
+      "tour_rank": 2,
+      "tour_weighted_points": 1737.8,
       "dgpt_rank": 3,
+      "wins": 2
+    },
+    {
+      "slug": "richard-wysocki",
+      "name": "Richard Wysocki",
+      "tour_rank": 3,
+      "tour_weighted_points": 1565.0,
+      "dgpt_rank": 2,
       "wins": 2
     },
     {
@@ -44,42 +44,42 @@
       "wins": 0
     },
     {
+      "slug": "jaden-rye",
+      "name": "Jaden Rye",
+      "tour_rank": 6,
+      "tour_weighted_points": 792.5,
+      "dgpt_rank": 15,
+      "wins": 1
+    },
+    {
       "slug": "eagle-mcmahon",
       "name": "Eagle McMahon",
-      "tour_rank": 6,
+      "tour_rank": 7,
       "tour_weighted_points": 771.2,
       "dgpt_rank": 8,
       "wins": 2
     },
     {
-      "slug": "jaden-rye",
-      "name": "Jaden Rye",
-      "tour_rank": 7,
-      "tour_weighted_points": 742.5,
-      "dgpt_rank": 15,
-      "wins": 1
+      "slug": "anthony-barela",
+      "name": "Anthony Barela",
+      "tour_rank": 8,
+      "tour_weighted_points": 749.8,
+      "dgpt_rank": 5,
+      "wins": 0
     },
     {
       "slug": "gavin-babcock",
       "name": "Gavin Babcock",
-      "tour_rank": 8,
+      "tour_rank": 9,
       "tour_weighted_points": 723.5,
       "dgpt_rank": 10,
-      "wins": 0
-    },
-    {
-      "slug": "anthony-barela",
-      "name": "Anthony Barela",
-      "tour_rank": 9,
-      "tour_weighted_points": 699.8,
-      "dgpt_rank": 5,
       "wins": 0
     },
     {
       "slug": "niklas-anttila",
       "name": "Niklas Anttila",
       "tour_rank": 10,
-      "tour_weighted_points": 693.7,
+      "tour_weighted_points": 713.7,
       "dgpt_rank": 7,
       "wins": 1
     },

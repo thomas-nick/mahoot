@@ -1,6 +1,14 @@
 {
   "aapo-halmeenmki": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 74,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Pohjois-Karjalan avoimet 2026 sponsored by Powergrip",
       "event_key": "pohjois-karjalan-avoimet-2026-sponsored-by-power",
       "month": "Jun",
@@ -50,6 +58,14 @@
     }
   ],
   "aapo-karhi": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Ehtoorundi tour -26 \u2192 Tammela",
       "event_key": "ehtoorundi-tour-26-tammela",
@@ -108,6 +124,14 @@
     }
   ],
   "aaron-gossage": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -898,6 +922,14 @@
   "alan-vazquez": [],
   "albert-tamm": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 57,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -1212,6 +1244,14 @@
     }
   ],
   "alex-berg": [
+    {
+      "event": "Dynamic Discs Silver Cup XXVI Pro",
+      "event_key": "dynamic-discs-silver-cup-xxvi-pro",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Sandy Knoll Open Presented by Riverside Disc Golf",
       "event_key": "sandy-knoll-open-presented-by-riverside-disc-gol",
@@ -2641,6 +2681,14 @@
   ],
   "anthony-barela": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -2864,6 +2912,14 @@
   "ariel-walker": [],
   "arttu-aaltonen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 102,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "European Open 2026 Monday Qualifier",
       "event_key": "european-open-2026-monday-qualifier",
       "month": "Jun",
@@ -3085,6 +3141,14 @@
     }
   ],
   "arvid-hkansson": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -3840,6 +3904,14 @@
   ],
   "bjrn-marrandi": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 52,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -4306,6 +4378,14 @@
   "bradley-baumgardner": [],
   "bradley-williams": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -4468,6 +4548,14 @@
     }
   ],
   "braeden-sides": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -4787,6 +4875,14 @@
   ],
   "cale-leiviska": [
     {
+      "event": "Dynamic Discs Silver Cup XXVI Pro",
+      "event_key": "dynamic-discs-silver-cup-xxvi-pro",
+      "month": "Jul",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Jun",
@@ -5065,6 +5161,14 @@
   ],
   "calvin-heimburg": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -5195,6 +5299,14 @@
     }
   ],
   "calvin-lonnquist": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 24,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -5408,6 +5520,14 @@
     }
   ],
   "cam-rico": [
+    {
+      "event": "Dynamic Discs Silver Cup XXVI Pro",
+      "event_key": "dynamic-discs-silver-cup-xxvi-pro",
+      "month": "Jul",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "15th Annual Conejo Pro Am Presented By Legacy Discs and Tarantula",
       "event_key": "15th-annual-conejo-pro-am-presented-by-legacy-di",
@@ -6083,6 +6203,14 @@
     }
   ],
   "chandler-kramer": [
+    {
+      "event": "Dynamic Discs Silver Cup XXVI Pro",
+      "event_key": "dynamic-discs-silver-cup-xxvi-pro",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Dynamic Discs Glass Blown Open",
       "event_key": "dynamic-discs-glass-blown-open",
@@ -7713,6 +7841,14 @@
   "damien-biegert": [],
   "daniel-davidsson": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -7770,6 +7906,14 @@
     }
   ],
   "daniel-kokunja": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 105,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Ykk\u00f6srinki Open 2026",
       "event_key": "ykk-srinki-open-2026",
@@ -8134,6 +8278,14 @@
     }
   ],
   "dennis-augustsson": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 24,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -8555,6 +8707,14 @@
   ],
   "dylan-capaccioli": [
     {
+      "event": "Clement Classic 2026",
+      "event_key": "clement-classic-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Brewport Open",
       "event_key": "brewport-open",
       "month": "Jul",
@@ -8835,9 +8995,26 @@
     }
   ],
   "edvard-espesethjemdal": [],
-  "eeka-klhi": [],
+  "eeka-klhi": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 98,
+      "tier": "NT",
+      "tour": "DGPT"
+    }
+  ],
   "eelis-immonen-278808": [],
   "eemil-lampela": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 52,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "\u00c4\u00e4nekoski Open 2026 + PGPT Status",
       "event_key": "nekoski-open-2026-pgpt-status",
@@ -8889,6 +9066,14 @@
   ],
   "eetu-salomki": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 43,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -8906,6 +9091,14 @@
     }
   ],
   "eetu-tuominen": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -9170,6 +9363,14 @@
   ],
   "elias-gripler": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -9267,6 +9468,14 @@
     }
   ],
   "elias-luukkonen": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 52,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -9636,6 +9845,14 @@
     }
   ],
   "elijah-riderbrandt": [
+    {
+      "event": "Clement Classic 2026",
+      "event_key": "clement-classic-2026",
+      "month": "Jul",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Brewport Open",
       "event_key": "brewport-open",
@@ -10466,6 +10683,14 @@
   ],
   "emile-barbe": [
     {
+      "event": "Zurich Disc Golf Open (ZDGO) 2026",
+      "event_key": "zurich-disc-golf-open-zdgo-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -11264,6 +11489,14 @@
   ],
   "evald-sandermoenwre": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 90,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -11641,6 +11874,14 @@
     }
   ],
   "ezra-aderhold": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -12367,6 +12608,14 @@
   ],
   "fritiof-fagergren": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -12448,6 +12697,14 @@
     }
   ],
   "gannon-buhr": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -13128,6 +13385,14 @@
   "graham-fuller": [],
   "gregg-barsby": [
     {
+      "event": "Dynamic Discs Silver Cup XXVI Pro",
+      "event_key": "dynamic-discs-silver-cup-xxvi-pro",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -13579,6 +13844,14 @@
   ],
   "harper-thompson": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 43,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -13740,6 +14013,14 @@
     }
   ],
   "harry-chace": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -14442,6 +14723,14 @@
     }
   ],
   "hjalmar-fredriksson": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 67,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -15489,6 +15778,14 @@
   ],
   "isak-andersson": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 74,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -15808,6 +16105,14 @@
     }
   ],
   "jaden-rye": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -16283,6 +16588,14 @@
   "jakob-grv": [],
   "jakub-knpek": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -16332,6 +16645,14 @@
     }
   ],
   "jakub-semerd": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -16621,6 +16942,14 @@
   ],
   "jami-kuhanen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 81,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Ykk\u00f6srinki Open 2026",
       "event_key": "ykk-srinki-open-2026",
       "month": "Jul",
@@ -16840,6 +17169,14 @@
     }
   ],
   "jan-mikael-lampela": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "\u00c4\u00e4nekoski Open 2026 + PGPT Status",
       "event_key": "nekoski-open-2026-pgpt-status",
@@ -17599,6 +17936,14 @@
   ],
   "jere-kukkurainen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 95,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Karjaa Open 2026",
       "event_key": "karjaa-open-2026",
       "month": "Jun",
@@ -17708,6 +18053,14 @@
   ],
   "jesse-longenecker": [
     {
+      "event": "Clement Classic 2026",
+      "event_key": "clement-classic-2026",
+      "month": "Jul",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "East Coast Metal Roofing presents The Massachusetts State Champio",
       "event_key": "east-coast-metal-roofing-presents-the-massachuse",
       "month": "Jun",
@@ -17741,6 +18094,14 @@
     }
   ],
   "jesse-nieminen": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -17942,6 +18303,14 @@
   ],
   "jessica-zilch": [],
   "jimi-tapanila": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 81,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Oulu Open 2026 +PGPT STATUS",
       "event_key": "oulu-open-2026-pgpt-status",
@@ -18521,6 +18890,14 @@
   ],
   "jonathan-borzick": [
     {
+      "event": "Clement Classic 2026",
+      "event_key": "clement-classic-2026",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Brewport Open",
       "event_key": "brewport-open",
       "month": "Jul",
@@ -18659,6 +19036,14 @@
   ],
   "joni-luumi": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 87,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Masterit",
       "event_key": "frisbeegolfin-sm-2026-masterit",
       "month": "Jul",
@@ -18757,6 +19142,14 @@
   ],
   "joni-peltonen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 24,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Oulu Open 2026 +PGPT STATUS",
       "event_key": "oulu-open-2026-pgpt-status",
       "month": "Jul",
@@ -18798,6 +19191,14 @@
     }
   ],
   "joona-heinnen": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -19246,6 +19647,14 @@
   ],
   "jukka-tyni": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 95,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Ykk\u00f6srinki Open 2026",
       "event_key": "ykk-srinki-open-2026",
       "month": "Jul",
@@ -19599,6 +20008,14 @@
   ],
   "justus-sarvi": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -19823,6 +20240,14 @@
   ],
   "kalle-kela": [],
   "kalle-ojala": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Ykk\u00f6srinki Open 2026",
       "event_key": "ykk-srinki-open-2026",
@@ -21410,6 +21835,14 @@
   ],
   "lassi-khri": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 57,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "European Open 2026 Monday Qualifier",
       "event_key": "european-open-2026-monday-qualifier",
       "month": "Jun",
@@ -21565,6 +21998,14 @@
     }
   ],
   "lauri-lehtinen": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -21770,6 +22211,22 @@
   ],
   "leevi-lhdesmki": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 57,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #2 Oulu",
+      "event_key": "sfl-powergrip-pro-tour-2-oulu",
+      "month": "Jun",
+      "place": 29,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "SFL Powergrip Pro Tour - #1 Tampere",
       "event_key": "sfl-powergrip-pro-tour-1-tampere",
       "month": "May",
@@ -21819,6 +22276,14 @@
     }
   ],
   "levi-stout": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -22088,6 +22553,14 @@
     }
   ],
   "linus-carlsson": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -22575,6 +23048,14 @@
     }
   ],
   "lucas-oberholtzerhess": [
+    {
+      "event": "Clement Classic 2026",
+      "event_key": "clement-classic-2026",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "East Coast Metal Roofing presents The Massachusetts State Champio",
       "event_key": "east-coast-metal-roofing-presents-the-massachuse",
@@ -23067,6 +23548,14 @@
   ],
   "luukas-rokkanen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -23464,6 +23953,14 @@
     }
   ],
   "maico-rimmel": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -23977,6 +24474,14 @@
   ],
   "martin-cronacher": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 97,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -24218,6 +24723,14 @@
   ],
   "mathias-villota": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 87,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "EDGL PRO KARIKASARI 2026 - Mammaste",
       "event_key": "edgl-pro-karikasari-2026-mammaste",
       "month": "Jul",
@@ -24292,6 +24805,14 @@
   ],
   "matias-kanniainen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 98,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Kes\u00e4illan Frisbeevalssi One Round",
       "event_key": "kes-illan-frisbeevalssi-one-round",
       "month": "Jun",
@@ -24325,6 +24846,14 @@
     }
   ],
   "matias-mntysaari": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 80,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Tyyni 2026 + PGPT Status",
       "event_key": "tyyni-2026-pgpt-status",
@@ -24810,6 +25339,14 @@
   ],
   "matthew-alexander": [
     {
+      "event": "Dynamic Discs Silver Cup XXVI Pro",
+      "event_key": "dynamic-discs-silver-cup-xxvi-pro",
+      "month": "Jul",
+      "place": 29,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
       "month": "Jun",
@@ -25214,6 +25751,14 @@
   ],
   "mauri-villmann": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -25336,6 +25881,14 @@
   ],
   "max-forsman": [],
   "max-ringbom": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 64,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -25711,6 +26264,14 @@
   ],
   "miio-hmlinen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -25792,6 +26353,14 @@
     }
   ],
   "mika-laikko": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 57,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Masterit",
       "event_key": "frisbeegolfin-sm-2026-masterit",
@@ -25943,6 +26512,14 @@
   ],
   "miles-sayer": [
     {
+      "event": "Clement Classic 2026",
+      "event_key": "clement-classic-2026",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "East Coast Metal Roofing presents The Massachusetts State Champio",
       "event_key": "east-coast-metal-roofing-presents-the-massachuse",
       "month": "Jun",
@@ -26033,6 +26610,14 @@
   ],
   "mina-alme": [],
   "miro-ryhnen": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Tyyni 2026 + PGPT Status",
       "event_key": "tyyni-2026-pgpt-status",
@@ -26243,6 +26828,14 @@
     }
   ],
   "morten-kristiansen": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 24,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -26813,6 +27406,14 @@
     }
   ],
   "nestori-tuhkanen": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -27387,6 +27988,14 @@
   ],
   "niklas-anttila": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -27477,6 +28086,14 @@
   ],
   "niko-rtty": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 86,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -27518,6 +28135,14 @@
     }
   ],
   "nikola-arkko": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 71,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -27951,6 +28576,14 @@
   ],
   "nooa-hmlinen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Tyyni One Round - #7 Kippis",
       "event_key": "tyyni-one-round-7-kippis",
       "month": "Jun",
@@ -28147,6 +28780,14 @@
     }
   ],
   "oiva-pivnsalo": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -28362,6 +29003,14 @@
   ],
   "onni-ruusunen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -28404,6 +29053,14 @@
   ],
   "oskari-krintil": [],
   "otto-mkinen": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -28852,6 +29509,14 @@
   "paul-davidson": [],
   "paul-krans": [
     {
+      "event": "Dynamic Discs Silver Cup XXVI Pro",
+      "event_key": "dynamic-discs-silver-cup-xxvi-pro",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "East Coast Metal Roofing presents The Massachusetts State Champio",
       "event_key": "east-coast-metal-roofing-presents-the-massachuse",
       "month": "Jun",
@@ -29000,6 +29665,14 @@
     }
   ],
   "paul-oman": [
+    {
+      "event": "Dynamic Discs Silver Cup XXVI Pro",
+      "event_key": "dynamic-discs-silver-cup-xxvi-pro",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
@@ -29231,6 +29904,14 @@
   "payton-mergen": [],
   "pekka-hyvnen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Oulu Open 2026 +PGPT STATUS",
       "event_key": "oulu-open-2026-pgpt-status",
       "month": "Jul",
@@ -29295,6 +29976,14 @@
   "peyton-kohut": [],
   "peyton-mansell": [],
   "rainers-balodis": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 57,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -29395,6 +30084,14 @@
     }
   ],
   "rasmus-koski": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 52,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Pohjois-Karjalan avoimet 2026 sponsored by Powergrip",
       "event_key": "pohjois-karjalan-avoimet-2026-sponsored-by-power",
@@ -29504,6 +30201,14 @@
   ],
   "rasmus-saukkoriipi": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -29577,6 +30282,14 @@
     }
   ],
   "rasmus-tuominen": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 74,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Ykk\u00f6srinki Open 2026",
       "event_key": "ykk-srinki-open-2026",
@@ -30555,6 +31268,14 @@
   ],
   "ricko-kokko": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 64,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Ykk\u00f6srinki Open 2026",
       "event_key": "ykk-srinki-open-2026",
       "month": "Jul",
@@ -30860,6 +31581,14 @@
     }
   ],
   "roland-kur": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 84,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -31560,6 +32289,14 @@
   ],
   "samuel-hnninen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 52,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -32168,6 +32905,14 @@
   "sean-sullivan-1": [],
   "severi-saviniemi": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 57,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -32581,6 +33326,14 @@
   ],
   "silas-schultz": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -32802,6 +33555,14 @@
     }
   ],
   "simo-luoma": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 90,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Tyyni One Round - #2 Keinukallio",
       "event_key": "tyyni-one-round-2-keinukallio",
@@ -33579,6 +34340,14 @@
   "taaniel-mehine": [],
   "taavi-suutari": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 93,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Ykk\u00f6srinki Open 2026",
       "event_key": "ykk-srinki-open-2026",
       "month": "Jul",
@@ -34140,6 +34909,14 @@
   ],
   "teemu-lampainen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -34197,6 +34974,14 @@
     }
   ],
   "teemu-talikainen": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -34909,6 +35694,14 @@
   ],
   "tom-mozola": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 87,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "HDGT Vacenovice powered by Discmania",
       "event_key": "hdgt-vacenovice-powered-by-discmania",
       "month": "Jun",
@@ -35598,6 +36391,14 @@
   ],
   "tuomas-pkknen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 71,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Tyyni One Round - #7 Kippis",
       "event_key": "tyyni-one-round-7-kippis",
       "month": "Jun",
@@ -35854,6 +36655,14 @@
   "una-lokmane": [],
   "urho-nuutinen": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 98,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Tyyni One Round - #7 Kippis",
       "event_key": "tyyni-one-round-7-kippis",
       "month": "Jun",
@@ -35972,6 +36781,14 @@
   "vilho-lamponen-284527": [],
   "ville-ahokas": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 93,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -36064,6 +36881,14 @@
   ],
   "ville-parpala": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 81,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -36106,6 +36931,14 @@
   ],
   "ville-vonhertzen": [],
   "vin-mkel": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -36571,6 +37404,14 @@
     }
   ],
   "yvind-jarnes": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 64,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
