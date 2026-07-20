@@ -1161,6 +1161,14 @@
   ],
   "alecia-hinkson": [
     {
+      "event": "Michigan Professional State Championship presented by Discraft",
+      "event_key": "michigan-professional-state-championship-present",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
       "month": "Jun",
@@ -1485,6 +1493,22 @@
   "alexander-karanzas": [],
   "alexis-kerman": [
     {
+      "event": "Dynamic Discs Glass Blown Open",
+      "event_key": "dynamic-discs-glass-blown-open",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Mid America Open",
+      "event_key": "mid-america-open",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Patriots Gold & Silver presents: 9th Annual Dragon Ridge Open spo",
       "event_key": "patriots-gold-silver-presents-9th-annual-dragon-",
       "month": "May",
@@ -1697,7 +1721,32 @@
       "tour": ""
     }
   ],
+  "amanda-kaestner": [],
   "amanda-lennartsson": [
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -1756,6 +1805,7 @@
       "tour": "DGPT"
     }
   ],
+  "amanda-o-connor-218779": [],
   "amelia-saechao": [
     {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
@@ -1765,6 +1815,64 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "andrea-cammack": [
+    {
+      "event": "Over The Top Mad Pelican Open 7 Presented By Innova",
+      "event_key": "over-the-top-mad-pelican-open-7-presented-by-inn",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Smash & Tap Open presented by Discraft",
+      "event_key": "2026-smash-tap-open-presented-by-discraft",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "McU Sports Baked Potato Open XXIX - Brought to you by Innova Cham",
+      "event_key": "mcu-sports-baked-potato-open-xxix-brought-to-you",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 TVDG Tour Series #2",
+      "event_key": "2026-tvdg-tour-series-2",
+      "month": "Apr",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Power Disc Golf Academy Championship Series Qualifier - Eagl",
+      "event_key": "2026-power-disc-golf-academy-championship-series",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Rock Creek canyon cup presented by legacy discs",
+      "event_key": "rock-creek-canyon-cup-presented-by-legacy-discs",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "GSDGC Thursday League",
+      "event_key": "gsdgc-thursday-league",
+      "month": "Mar",
+      "place": 1,
+      "tier": "L",
+      "tour": ""
     }
   ],
   "andrew-bakken": [
@@ -2410,6 +2518,14 @@
   ],
   "anneli-tugjas-mnniste": [
     {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -2483,6 +2599,22 @@
     }
   ],
   "annikenkristiansen-steen": [
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -2909,6 +3041,32 @@
     }
   ],
   "anton-bergqvist-1": [],
+  "aria-castruita": [
+    {
+      "event": "The 35th Annual Capital of Texas Open",
+      "event_key": "the-35th-annual-capital-of-texas-open",
+      "month": "May",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT JomezPro - Innova presents WACO powered by Legit Disc Golf",
+      "event_key": "jomezpro-innova-presents-waco-powered-by-legit-d",
+      "month": "May",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The 6th Annual Mint Discs Open (A HOTT Points Event)",
+      "event_key": "the-6th-annual-mint-discs-open-a-hott-points-eve",
+      "month": "Apr",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
   "ariel-walker": [],
   "arttu-aaltonen": [
     {
@@ -3207,6 +3365,7 @@
     }
   ],
   "ashley-phelps": [],
+  "ashton-webberley": [],
   "athena-cuevas": [
     {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
@@ -4821,6 +4980,7 @@
   ],
   "brenden-koontz": [],
   "brit-hamburg": [],
+  "brittney-armentrout-45407": [],
   "brook-johnson": [],
   "bryson-little": [],
   "cadence-burge": [
@@ -5702,6 +5862,14 @@
   ],
   "candyce-boyce": [
     {
+      "event": "OWS #6: Palindrome Day on the Fairway presented by All Day Disc G",
+      "event_key": "ows-6-palindrome-day-on-the-fairway-presented-by",
+      "month": "Jun",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -5901,6 +6069,22 @@
   ],
   "cassandra-lioi": [
     {
+      "event": "Brewport Open",
+      "event_key": "brewport-open",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "East Coast Metal Roofing presents The Massachusetts State Champio",
+      "event_key": "east-coast-metal-roofing-presents-the-massachuse",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
       "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
       "month": "Jun",
@@ -5998,6 +6182,14 @@
     }
   ],
   "catrina-allen": [
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -6464,7 +6656,16 @@
       "tour": "DGPT"
     }
   ],
+  "chelsea-sutton": [],
   "chris-clemons": [
+    {
+      "event": "The Bloom",
+      "event_key": "the-bloom",
+      "month": "Jul",
+      "place": 12,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Dynamic Discs Glass Blown Open",
       "event_key": "dynamic-discs-glass-blown-open",
@@ -8103,6 +8304,7 @@
       "tour": "DGPT"
     }
   ],
+  "danielle-weigandt": [],
   "danik-hart": [
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
@@ -9552,6 +9754,14 @@
   "elias-nordberg": [],
   "eliezra-midtlyng": [
     {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -10016,6 +10226,30 @@
   ],
   "elina-rydberg": [
     {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -10057,6 +10291,30 @@
     }
   ],
   "elizabete-peksena": [
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -10123,6 +10381,14 @@
     }
   ],
   "ella-hansen": [
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -10230,6 +10496,30 @@
     }
   ],
   "ella-tejler": [
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 23,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 35,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -10347,6 +10637,14 @@
   ],
   "elmeri-laaksonen": [],
   "elva-kate-preston": [
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -10880,6 +11178,14 @@
   ],
   "emily-yale": [
     {
+      "event": "14th Annual Patriot Classic",
+      "event_key": "14th-annual-patriot-classic",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "2026 Infinite Discs Beehive Classic",
       "event_key": "2026-infinite-discs-beehive-classic",
       "month": "Jun",
@@ -11112,6 +11418,7 @@
       "tour": "DGPT"
     }
   ],
+  "erika-apple": [],
   "erika-stinchcomb": [
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
@@ -11318,6 +11625,30 @@
     }
   ],
   "eva-lutsenko": [
+    {
+      "event": "2026 PDGA Junior Disc Golf World Championships presented by UPMC",
+      "event_key": "2026-pdga-junior-disc-golf-world-championships-p",
+      "month": "Jul",
+      "place": 1,
+      "tier": "M",
+      "tour": ""
+    },
+    {
+      "event": "2026 Long Drive Competition at Junior Worlds presented by Innova",
+      "event_key": "2026-long-drive-competition-at-junior-worlds-pre",
+      "month": "Jul",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Junior Worlds Putting Competition presented by Innova",
+      "event_key": "2026-junior-worlds-putting-competition-presented",
+      "month": "Jul",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "The Majestic",
       "event_key": "the-majestic",
@@ -11808,6 +12139,14 @@
   ],
   "evan-walker": [],
   "eveliina-salonen": [
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -13698,8 +14037,33 @@
       "tour": "DGPT"
     }
   ],
+  "hailey-huber": [],
   "halvard-solberg": [],
   "hanna-huynh": [
+    {
+      "event": "The Bloom",
+      "event_key": "the-bloom",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Dynamic Discs Glass Blown Open",
+      "event_key": "dynamic-discs-glass-blown-open",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Missouri Eagle & Elephant & Castle presents: The 16th Annual Jare",
+      "event_key": "missouri-eagle-elephant-castle-presents-the-16th",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Mid America Open",
       "event_key": "mid-america-open",
@@ -13806,6 +14170,14 @@
     }
   ],
   "hanna-jansson": [
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -14267,6 +14639,14 @@
   ],
   "heidi-laine": [
     {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 26,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -14281,6 +14661,14 @@
       "place": 13,
       "tier": "M",
       "tour": "Major"
+    },
+    {
+      "event": "Sekaparifrisbeegolfin SM 2026",
+      "event_key": "sekaparifrisbeegolfin-sm-2026",
+      "month": "Jun",
+      "place": 4,
+      "tier": "XA",
+      "tour": ""
     },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
@@ -14373,6 +14761,14 @@
     }
   ],
   "henna-blomroos": [
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -14948,6 +15344,14 @@
   ],
   "holly-finley": [
     {
+      "event": "Discraft Presents: Tennessee State Disc Golf Championships",
+      "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -15013,6 +15417,14 @@
     }
   ],
   "holyn-handley": [
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -15259,6 +15671,30 @@
   "ida-kennmark": [],
   "idaemilie-nesse": [
     {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 11,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -15340,6 +15776,30 @@
     }
   ],
   "iida-lehtomki": [
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -15556,6 +16016,30 @@
     }
   ],
   "isabella-parker": [
+    {
+      "event": "6th Annual Tiger Open presented by Innova",
+      "event_key": "6th-annual-tiger-open-presented-by-innova",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 NADGT Flex @ Lone Star 9 Supported by Lone Star Disc",
+      "event_key": "2026-nadgt-flex-lone-star-9-supported-by-lone-st",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Lone Star Disc Flex at HQ 6-25",
+      "event_key": "lone-star-disc-flex-at-hq-6-25",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Flex'n Fridays at Texas Army Trail DGC (C Tier Flex)",
       "event_key": "flex-n-fridays-at-texas-army-trail-dgc-c-tier-fl",
@@ -17596,6 +18080,7 @@
       "tour": "DGPT"
     }
   ],
+  "jenn-cazanov-diggs": [],
   "jennifer-allen": [
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
@@ -17672,6 +18157,30 @@
     }
   ],
   "jennifer-rice": [
+    {
+      "event": "Ladies of the Lake: Fairy Fling Women Only",
+      "event_key": "ladies-of-the-lake-fairy-fling-women-only",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Olympic Discs 2026 Shelton Springs Open Presented by Innova",
+      "event_key": "the-olympic-discs-2026-shelton-springs-open-pres",
+      "month": "Jun",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Wandering Through Whitmarsh",
+      "event_key": "wandering-through-whitmarsh",
+      "month": "Jun",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -17885,6 +18394,14 @@
     }
   ],
   "jenny-larsson": [
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 35,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -18203,6 +18720,14 @@
     }
   ],
   "jessica-gurthie": [
+    {
+      "event": "14th Annual Patriot Classic",
+      "event_key": "14th-annual-patriot-classic",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -18525,6 +19050,14 @@
     }
   ],
   "joel-freeman": [
+    {
+      "event": "The Bloom",
+      "event_key": "the-bloom",
+      "month": "Jul",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "High Plains Challenge Sponsored by Trash Panda Disc Golf",
       "event_key": "high-plains-challenge-sponsored-by-trash-panda-d",
@@ -18852,6 +19385,17 @@
       "place": 7,
       "tier": "B",
       "tour": ""
+    }
+  ],
+  "joleigh-miller-178707": [
+    {
+      "event": "DGPT JomezPro - Discraft Cascade Challenge",
+      "event_key": "jomezpro-discraft-cascade-challenge",
+      "month": "May",
+      "place": 19,
+      "source": "pdga:98193",
+      "tier": "A",
+      "tour": "DGPT"
     }
   ],
   "jon-lynn": [
@@ -19298,6 +19842,14 @@
   ],
   "jordan-coomes": [
     {
+      "event": "Jonesboro Spring League 26'",
+      "event_key": "jonesboro-spring-league-26",
+      "month": "May",
+      "place": 19,
+      "tier": "L",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
       "event_key": "play-it-again-sports-jonesboro-open-presented-by",
       "month": "Apr",
@@ -19375,6 +19927,30 @@
     }
   ],
   "josefine-johansson": [
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 32,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -19680,6 +20256,30 @@
     }
   ],
   "julia-fors": [
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -20066,6 +20666,30 @@
   ],
   "kaidi-allsalu": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -20206,6 +20830,14 @@
   ],
   "kajsa-wahl": [
     {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 38,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -20266,6 +20898,14 @@
     }
   ],
   "karen-martel": [
+    {
+      "event": "Le Roi des Ch\u00eanes 2026 - Le Circuit DisQu\u00e9bec - 5/10 - Pr\u00e9sent",
+      "event_key": "le-roi-des-ch-nes-2026-le-circuit-disqu-bec-5-10",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGVTour #6 - Brewster Ridge Open Driven by Innova - DGPT Q-Series",
       "event_key": "dgvtour-6-brewster-ridge-open-driven-by-innova-d",
@@ -20580,6 +21220,14 @@
   ],
   "kat-mertsch": [
     {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 11,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -20742,6 +21390,8 @@
     }
   ],
   "katherine-aydelott-284553": [],
+  "kati-chachere": [],
+  "katie-kahrs": [],
   "katka-bodov": [
     {
       "event": "2026 PDGA European Open",
@@ -20801,6 +21451,30 @@
     }
   ],
   "keiti-ttte": [
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -20973,6 +21647,7 @@
       "tour": "DGPT"
     }
   ],
+  "kendyl-sullivan": [],
   "kersti-miller": [
     {
       "event": "2026 PDGA European Open",
@@ -21406,6 +22081,22 @@
   ],
   "kristna-jurkov": [
     {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -21546,6 +22237,14 @@
   ],
   "kyle-krieckhaus": [],
   "kylie-kohut": [
+    {
+      "event": "Michigan Professional State Championship presented by Discraft",
+      "event_key": "michigan-professional-state-championship-present",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
@@ -21891,7 +22590,16 @@
       "tour": ""
     }
   ],
+  "laura-tatiananiocarranza": [],
   "lauren-butler": [
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -22414,13 +23122,112 @@
       "tour": "DGPT"
     }
   ],
+  "lexi-marx": [],
+  "lindsay-fish": [
+    {
+      "event": "Dynamic Discs Silver Cup XXVI Pro",
+      "event_key": "dynamic-discs-silver-cup-xxvi-pro",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Wisco Disco 2026",
+      "event_key": "wisco-disco-2026",
+      "month": "Jun",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Greater Milwaukee Open - Pro & Adv",
+      "event_key": "greater-milwaukee-open-pro-adv",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Spring Fling Women's Open presented by WOMT 100",
+      "event_key": "2026-spring-fling-women-s-open-presented-by-womt",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Standing Rocks Open - Pro/Adv. - Wisconsin Tour Stop",
+      "event_key": "standing-rocks-open-pro-adv-wisconsin-tour-stop",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Prairie Open 2026 Wisconsin Tour Stop - All Pro and All Advan",
+      "event_key": "the-prairie-open-2026-wisconsin-tour-stop-all-pr",
+      "month": "Apr",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Wisconsin Spring Opener - Wi Tour Stop - Pro, Adv",
+      "event_key": "wisconsin-spring-opener-wi-tour-stop-pro-adv",
+      "month": "Mar",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Gulf Coast Charity Open Presented by Florida Real Estate",
+      "event_key": "the-2026-gulf-coast-charity-open-presented-by-fl",
+      "month": "Feb",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
   "lindsey-maas": [
+    {
+      "event": "Michigan Professional State Championship presented by Discraft",
+      "event_key": "michigan-professional-state-championship-present",
+      "month": "Jul",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Tilley's Open (Saturday)",
+      "event_key": "tilley-s-open-saturday",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Turf Toe Open",
+      "event_key": "turf-toe-open",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Cherry Capital Open",
       "event_key": "cherry-capital-open",
       "month": "Jun",
       "place": 7,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Aloft Traverse Area Singles \u2014 Session 2",
+      "event_key": "aloft-traverse-area-singles-session-2",
+      "month": "May",
+      "place": 4,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -22918,6 +23725,14 @@
   "luca-nieminen": [],
   "lucas-carmichael": [
     {
+      "event": "The Bloom",
+      "event_key": "the-bloom",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "High Plains Challenge Sponsored by Trash Panda Disc Golf",
       "event_key": "high-plains-challenge-sponsored-by-trash-panda-d",
       "month": "Jun",
@@ -23114,6 +23929,14 @@
     }
   ],
   "luke-humphries": [
+    {
+      "event": "The Bloom",
+      "event_key": "the-bloom",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -23656,6 +24479,22 @@
   ],
   "maarja-soasepp": [
     {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -23738,6 +24577,7 @@
       "tour": "DGPT"
     }
   ],
+  "mackenzie-morris": [],
   "madison-tomaino": [
     {
       "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
@@ -23862,6 +24702,14 @@
     }
   ],
   "madison-walker": [
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -24060,6 +24908,30 @@
   ],
   "mara-eldeykristnardttir": [
     {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 25,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 38,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -24180,6 +25052,7 @@
       "tour": ""
     }
   ],
+  "mara-neal-210287": [],
   "maria-liivamgi": [
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
@@ -24223,6 +25096,14 @@
     }
   ],
   "maria-oliva": [
+    {
+      "event": "High Plains Challenge Sponsored by Trash Panda Disc Golf",
+      "event_key": "high-plains-challenge-sponsored-by-trash-panda-d",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 Infinite Discs Beehive Classic",
       "event_key": "2026-infinite-discs-beehive-classic",
@@ -24346,6 +25227,14 @@
     }
   ],
   "marie-kielas": [
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - Mammaste",
+      "event_key": "edgl-pro-karikasari-2026-mammaste",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -24472,6 +25361,7 @@
       "tour": ""
     }
   ],
+  "marta-villa": [],
   "martin-cronacher": [
     {
       "event": "DGPT - Heinola Open presented by MVP",
@@ -24590,6 +25480,30 @@
     }
   ],
   "martje-sumowski": [
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 21,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 38,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -24928,6 +25842,30 @@
     }
   ],
   "matilda-ringbom": [
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -26179,6 +27117,33 @@
     }
   ],
   "michael-williamson": [],
+  "michelle-saggboy": [
+    {
+      "event": "The 9th Annual Big Picture Classic Generated By Grit Discs",
+      "event_key": "the-9th-annual-big-picture-classic-generated-by-",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Green River Open",
+      "event_key": "green-river-open",
+      "month": "Apr",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Battle at the Bluff",
+      "event_key": "2026-battle-at-the-bluff",
+      "month": "Feb",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
+  "michelle-southworth": [],
   "mick-walter": [],
   "mickey-welsh": [
     {
@@ -26637,6 +27602,14 @@
   ],
   "missy-gannon": [
     {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -27060,6 +28033,14 @@
     }
   ],
   "nathalie-ortiz": [
+    {
+      "event": "Kit Carson Clash 2026 (CDGS event #8 - Presented by Innova)",
+      "event_key": "kit-carson-clash-2026-cdgs-event-8-presented-by-",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc Golf",
       "event_key": "the-challenge-reidy-creek-2026-presented-by-inno",
@@ -27831,6 +28812,22 @@
   ],
   "nid-ovathanasin": [
     {
+      "event": "Sarasota Sky Pilots Red, White, & Blue Series - White Weekend",
+      "event_key": "sarasota-sky-pilots-red-white-blue-series-white-",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Gulf Coast Tour Challenge Presented by Dynamic Discs - Stop",
+      "event_key": "2026-gulf-coast-tour-challenge-presented-by-dyna",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "2026 Gulf Coast Tour Challenge Presented by Dynamic Discs - Stop",
       "event_key": "2026-gulf-coast-tour-challenge-presented-by-dyna",
       "month": "Jun",
@@ -28217,6 +29214,22 @@
     }
   ],
   "nina-bennett": [
+    {
+      "event": "Charlie Vettiner Open presented by Prodigy and Bomb Discs",
+      "event_key": "charlie-vettiner-open-presented-by-prodigy-and-b",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Throw Pink Women's Team Championship (CEP Charity - Not Rated)",
+      "event_key": "throw-pink-women-s-team-championship-cep-charity",
+      "month": "Jun",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "WGE - Lexington Open XXVIII powered by Bomb Discs and Prodigy",
       "event_key": "wge-lexington-open-xxviii-powered-by-bomb-discs-",
@@ -28634,6 +29647,14 @@
   ],
   "ohn-scoggins": [
     {
+      "event": "Summertime Open",
+      "event_key": "summertime-open",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc Golf",
       "event_key": "the-challenge-reidy-creek-2026-presented-by-inno",
       "month": "Jun",
@@ -28871,6 +29892,30 @@
   ],
   "olivia-kindstedt": [
     {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -28891,6 +29936,14 @@
       "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
       "month": "Jun",
       "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #2 Oulu",
+      "event_key": "sfl-powergrip-pro-tour-2-oulu",
+      "month": "Jun",
+      "place": 1,
       "tier": "A",
       "tour": ""
     },
@@ -29252,6 +30305,14 @@
     }
   ],
   "paige-pierce": [
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -30317,6 +31378,14 @@
   ],
   "ratana-mcmahon": [
     {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 47,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -30783,6 +31852,14 @@
     }
   ],
   "rebecca-don": [
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -31662,6 +32739,24 @@
       "tour": ""
     }
   ],
+  "ruth-steele": [
+    {
+      "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
+      "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Lake Chabot New Years Classic 2026",
+      "event_key": "lake-chabot-new-years-classic-2026",
+      "month": "Jan",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "ryan-bain": [
     {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
@@ -32096,6 +33191,14 @@
   ],
   "sadie-shattuck": [
     {
+      "event": "The Olympic Discs 2026 Shelton Springs Open Presented by Innova",
+      "event_key": "the-olympic-discs-2026-shelton-springs-open-pres",
+      "month": "Jun",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -32161,6 +33264,32 @@
     }
   ],
   "saga-dahlstedt": [],
+  "sai-ananda": [
+    {
+      "event": "Liberty for All - WGE",
+      "event_key": "liberty-for-all-wge",
+      "month": "May",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Beaver State Fling presented by Innova Champion Discs",
+      "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Spring Fling",
+      "event_key": "spring-fling",
+      "month": "Apr",
+      "place": 16,
+      "tier": "L",
+      "tour": ""
+    }
+  ],
   "sam-dicarlo": [
     {
       "event": "The 35th Annual Capital of Texas Open",
@@ -32543,6 +33672,7 @@
       "tour": ""
     }
   ],
+  "sarah-may": [],
   "sawyer-barlow": [],
   "scott-adams": [
     {
@@ -32949,6 +34079,14 @@
   "shelby-cowen": [],
   "sheliemae-lai": [
     {
+      "event": "Kit Carson Clash 2026 (CDGS event #8 - Presented by Innova)",
+      "event_key": "kit-carson-clash-2026-cdgs-event-8-presented-by-",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc Golf",
       "event_key": "the-challenge-reidy-creek-2026-presented-by-inno",
       "month": "Jun",
@@ -33136,6 +34274,22 @@
     }
   ],
   "sias-elmore": [
+    {
+      "event": "Kit Carson Clash 2026 (CDGS event #8 - Presented by Innova)",
+      "event_key": "kit-carson-clash-2026-cdgs-event-8-presented-by-",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "San Diego Aces $5 Flex Start - July 2026",
+      "event_key": "san-diego-aces-5-flex-start-july-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc Golf",
       "event_key": "the-challenge-reidy-creek-2026-presented-by-inno",
@@ -33684,6 +34838,14 @@
   ],
   "sintija-klezberga": [
     {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -33889,6 +35051,14 @@
   ],
   "sofie-bjrlycke": [
     {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -34002,6 +35172,30 @@
     }
   ],
   "sonja-laine": [
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 22,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Heinola Open presented by MVP",
+      "event_key": "heinola-open-presented-by-mvp",
+      "month": "Jul",
+      "place": 22,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 35,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -34422,6 +35616,14 @@
       "tour": ""
     },
     {
+      "event": "Throw Pink Women's Team Championship (CEP Charity - Not Rated)",
+      "event_key": "throw-pink-women-s-team-championship-cep-charity",
+      "month": "Jun",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "CADL Inc. Presents: The 12th Annual Airborne Open @ Diavolo, Driv",
       "event_key": "cadl-inc-presents-the-12th-annual-airborne-open-",
       "month": "May",
@@ -34598,7 +35800,16 @@
       "tour": ""
     }
   ],
+  "tanisha-platero": [],
   "taylor-chocek": [
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -35359,6 +36570,30 @@
   ],
   "tiger-borth": [
     {
+      "event": "Deer Creek Big Buck Whites (Flex Start)",
+      "event_key": "deer-creek-big-buck-whites-flex-start",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Summer Slam @ Unger (Flex Start)",
+      "event_key": "summer-slam-unger-flex-start",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Deer Creek: Big Buck Whites (Flex Start)",
+      "event_key": "deer-creek-big-buck-whites-flex-start",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Deer Creek Doe Run Whites (Flex Start)",
       "event_key": "deer-creek-doe-run-whites-flex-start",
       "month": "Jun",
@@ -36042,6 +37277,7 @@
       "tour": ""
     }
   ],
+  "tori-pasquin": [],
   "trevon-crowe": [
     {
       "event": "Johnson Hills Open - Pros",
@@ -37063,6 +38299,14 @@
       "tour": ""
     },
     {
+      "event": "Buckets Disc Golf Weekly - Spring 2",
+      "event_key": "buckets-disc-golf-weekly-spring-2",
+      "month": "May",
+      "place": 11,
+      "tier": "L",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA Champions Cup Presented by Vessi",
       "event_key": "2026-pdga-champions-cup-presented-by-vessi",
       "month": "Apr",
@@ -37254,6 +38498,14 @@
   ],
   "wynn-coggin": [],
   "xaelen-nash": [
+    {
+      "event": "Kit Carson Clash 2026 (CDGS event #8 - Presented by Innova)",
+      "event_key": "kit-carson-clash-2026-cdgs-event-8-presented-by-",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc Golf",
       "event_key": "the-challenge-reidy-creek-2026-presented-by-inno",
