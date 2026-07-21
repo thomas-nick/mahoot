@@ -552,6 +552,22 @@
   ],
   "addison-woodard": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 4,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Solitude Open Presented by MVP Disc Sports",
+      "event_key": "2026-solitude-open-presented-by-mvp-disc-sports",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
       "month": "Jun",
@@ -1493,6 +1509,14 @@
   "alexander-karanzas": [],
   "alexis-kerman": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 28,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "Dynamic Discs Glass Blown Open",
       "event_key": "dynamic-discs-glass-blown-open",
       "month": "Jun",
@@ -1689,6 +1713,14 @@
   ],
   "ali-smith": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 34,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
       "month": "Apr",
@@ -1818,6 +1850,14 @@
     }
   ],
   "andrea-cammack": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 63,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "Over The Top Mad Pelican Open 7 Presented By Innova",
       "event_key": "over-the-top-mad-pelican-open-7-presented-by-inn",
@@ -2518,6 +2558,14 @@
   ],
   "anneli-tugjas-mnniste": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 26,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -3042,6 +3090,14 @@
   ],
   "anton-bergqvist-1": [],
   "aria-castruita": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 34,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "The 35th Annual Capital of Texas Open",
       "event_key": "the-35th-annual-capital-of-texas-open",
@@ -5920,6 +5976,14 @@
   ],
   "casey-pennington": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 58,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "Maverick DG: Black Hoof Shootout 3 presented by Innova",
       "event_key": "maverick-dg-black-hoof-shootout-3-presented-by-i",
       "month": "Jun",
@@ -6182,6 +6246,14 @@
     }
   ],
   "catrina-allen": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 20,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -8304,8 +8376,25 @@
       "tour": "DGPT"
     }
   ],
-  "danielle-weigandt": [],
+  "danielle-weigandt": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 65,
+      "tier": "M",
+      "tour": "Major"
+    }
+  ],
   "danik-hart": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 17,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -9754,6 +9843,14 @@
   "elias-nordberg": [],
   "eliezra-midtlyng": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 12,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -10382,6 +10479,14 @@
   ],
   "ella-hansen": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 4,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -10578,6 +10683,14 @@
     }
   ],
   "ellie-bryant": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 64,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "The Majestic",
       "event_key": "the-majestic",
@@ -11047,6 +11160,14 @@
   ],
   "emily-weatherman": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 26,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -11177,6 +11298,14 @@
     }
   ],
   "emily-yale": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 39,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "14th Annual Patriot Classic",
       "event_key": "14th-annual-patriot-classic",
@@ -11421,6 +11550,14 @@
   "erika-apple": [],
   "erika-stinchcomb": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 36,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -11625,6 +11762,14 @@
     }
   ],
   "eva-lutsenko": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 2,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 PDGA Junior Disc Golf World Championships presented by UPMC",
       "event_key": "2026-pdga-junior-disc-golf-world-championships-p",
@@ -12139,6 +12284,14 @@
   ],
   "evan-walker": [],
   "eveliina-salonen": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 11,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -14041,6 +14194,14 @@
   "halvard-solberg": [],
   "hanna-huynh": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 36,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "The Bloom",
       "event_key": "the-bloom",
       "month": "Jul",
@@ -14639,6 +14800,14 @@
   ],
   "heidi-laine": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 12,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -14761,6 +14930,14 @@
     }
   ],
   "henna-blomroos": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 28,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -15344,6 +15521,14 @@
   ],
   "holly-finley": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 6,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "Discraft Presents: Tennessee State Disc Golf Championships",
       "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
       "month": "Jun",
@@ -15417,6 +15602,14 @@
     }
   ],
   "holyn-handley": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 7,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -18080,8 +18273,25 @@
       "tour": "DGPT"
     }
   ],
-  "jenn-cazanov-diggs": [],
+  "jenn-cazanov-diggs": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 50,
+      "tier": "M",
+      "tour": "Major"
+    }
+  ],
   "jennifer-allen": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 2,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -18255,6 +18465,14 @@
     }
   ],
   "jennifer-smiley": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 46,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -18720,6 +18938,14 @@
     }
   ],
   "jessica-gurthie": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 12,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "14th Annual Patriot Classic",
       "event_key": "14th-annual-patriot-classic",
@@ -20973,6 +21199,14 @@
   ],
   "karissa-dedmon": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 36,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc Golf",
       "event_key": "the-challenge-reidy-creek-2026-presented-by-inno",
       "month": "Jun",
@@ -21219,6 +21453,14 @@
     }
   ],
   "kat-mertsch": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 9,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -21541,6 +21783,14 @@
     }
   ],
   "kelley-foster": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 22,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -21940,6 +22190,14 @@
   ],
   "konastar-montgomery": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 25,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc Golf",
       "event_key": "the-challenge-reidy-creek-2026-presented-by-inno",
       "month": "Jun",
@@ -22237,6 +22495,22 @@
   ],
   "kyle-krieckhaus": [],
   "kylie-kohut": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 10,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Solitude Open Presented by MVP Disc Sports",
+      "event_key": "2026-solitude-open-presented-by-mvp-disc-sports",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
@@ -22797,6 +23071,22 @@
   ],
   "leah-tsinajinnie": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 44,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "IOS #140 Forsyth Open presented by Discraft",
+      "event_key": "ios-140-forsyth-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
       "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
       "month": "Jun",
@@ -23125,6 +23415,14 @@
   "lexi-marx": [],
   "lindsay-fish": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 56,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "Dynamic Discs Silver Cup XXVI Pro",
       "event_key": "dynamic-discs-silver-cup-xxvi-pro",
       "month": "Jul",
@@ -23418,6 +23716,14 @@
     }
   ],
   "lisa-fajkus": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 1,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -24702,6 +25008,14 @@
     }
   ],
   "madison-walker": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 22,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -27119,6 +27433,14 @@
   "michael-williamson": [],
   "michelle-saggboy": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 56,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "The 9th Annual Big Picture Classic Generated By Grit Discs",
       "event_key": "the-9th-annual-big-picture-classic-generated-by-",
       "month": "May",
@@ -27601,6 +27923,14 @@
     }
   ],
   "missy-gannon": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 3,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -29647,6 +29977,14 @@
   ],
   "ohn-scoggins": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 2,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "Summertime Open",
       "event_key": "summertime-open",
       "month": "Jun",
@@ -30305,6 +30643,14 @@
     }
   ],
   "paige-pierce": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 30,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -31509,6 +31855,14 @@
   ],
   "raven-klein": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 45,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "The Majestic",
       "event_key": "the-majestic",
       "month": "Jun",
@@ -31853,6 +32207,14 @@
   ],
   "rebecca-don": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 8,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -31959,6 +32321,22 @@
     }
   ],
   "rebecca-minnick": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 12,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Solitude Open Presented by MVP Disc Sports",
+      "event_key": "2026-solitude-open-presented-by-mvp-disc-sports",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
@@ -32741,6 +33119,14 @@
   ],
   "ruth-steele": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 65,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
       "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
       "month": "May",
@@ -33265,6 +33651,22 @@
   ],
   "saga-dahlstedt": [],
   "sai-ananda": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 17,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Team High Country Presents - The Caliber Classic - Supported by I",
+      "event_key": "team-high-country-presents-the-caliber-classic-s",
+      "month": "Jun",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Liberty for All - WGE",
       "event_key": "liberty-for-all-wge",
@@ -34079,6 +34481,14 @@
   "shelby-cowen": [],
   "sheliemae-lai": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 40,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "Kit Carson Clash 2026 (CDGS event #8 - Presented by Innova)",
       "event_key": "kit-carson-clash-2026-cdgs-event-8-presented-by-",
       "month": "Jul",
@@ -34216,6 +34626,14 @@
     }
   ],
   "shiru-liu": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 55,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "The 35th Annual Capital of Texas Open",
       "event_key": "the-35th-annual-capital-of-texas-open",
@@ -34603,6 +35021,14 @@
   ],
   "silva-saarinen": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 1,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -34837,6 +35263,14 @@
     }
   ],
   "sintija-klezberga": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 12,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -35383,6 +35817,14 @@
   ],
   "stephanie-vincent": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 3,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "The 4th Annual Indian Paintbrush Open - WFDGT",
       "event_key": "the-4th-annual-indian-paintbrush-open-wfdgt",
       "month": "Jun",
@@ -35600,6 +36042,22 @@
   ],
   "tailey-rowley": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 49,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Pipeline Summer Sling",
+      "event_key": "pipeline-summer-sling",
+      "month": "Jul",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Chicken Coop Classic Generated By Grit Discs",
       "event_key": "chicken-coop-classic-generated-by-grit-discs",
       "month": "Jun",
@@ -35802,6 +36260,14 @@
   ],
   "tanisha-platero": [],
   "taylor-chocek": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 32,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -37485,6 +37951,14 @@
   ],
   "trinity-bryant": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 52,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -37933,6 +38407,14 @@
   ],
   "valerie-mandujano": [
     {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 12,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -38274,6 +38756,14 @@
     }
   ],
   "violet-main": [
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 33,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",

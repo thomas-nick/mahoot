@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T18:52:41.841396+00:00",
+  "updated_at": "2026-07-21T15:00:23.235170+00:00",
   "divisions": {
     "MPO": {
       "weeks": [
@@ -2487,49 +2487,49 @@
               {
                 "id": "holyn-handley",
                 "label": "Holyn Handley",
-                "points": 2132.5,
+                "points": 2212.5,
                 "rank": 1
               },
               {
                 "id": "silva-saarinen",
                 "label": "Silva Saarinen",
-                "points": 1749.2,
+                "points": 2149.2,
                 "rank": 2
               },
               {
                 "id": "ohn-scoggins",
                 "label": "Ohn Scoggins",
-                "points": 1721.2,
+                "points": 2021.2,
                 "rank": 3
               },
               {
                 "id": "eveliina-salonen",
                 "label": "Eveliina Salonen",
-                "points": 1325.0,
+                "points": 1357.0,
                 "rank": 4
               },
               {
                 "id": "missy-gannon",
                 "label": "Missy Gannon",
-                "points": 907.5,
+                "points": 1127.5,
                 "rank": 5
               },
               {
-                "id": "henna-blomroos",
-                "label": "Henna Blomroos",
-                "points": 868.7,
+                "id": "lisa-fajkus",
+                "label": "Lisa Fajkus",
+                "points": 962.7,
                 "rank": 6
-              },
-              {
-                "id": "julia-fors",
-                "label": "Julia Fors",
-                "points": 836.6,
-                "rank": 7
               },
               {
                 "id": "ella-hansen",
                 "label": "Ella Hansen",
-                "points": 774.5,
+                "points": 914.5,
+                "rank": 7
+              },
+              {
+                "id": "henna-blomroos",
+                "label": "Henna Blomroos",
+                "points": 880.7,
                 "rank": 8
               }
             ]
@@ -2583,7 +2583,7 @@
               },
               {
                 "week": "2026-30",
-                "value": 2132.5,
+                "value": 2212.5,
                 "rank": 1
               }
             ]
@@ -2635,7 +2635,7 @@
               },
               {
                 "week": "2026-30",
-                "value": 1749.2,
+                "value": 2149.2,
                 "rank": 2
               }
             ]
@@ -2687,7 +2687,7 @@
               },
               {
                 "week": "2026-30",
-                "value": 1721.2,
+                "value": 2021.2,
                 "rank": 3
               }
             ]
@@ -2739,7 +2739,7 @@
               },
               {
                 "week": "2026-30",
-                "value": 1325.0,
+                "value": 1357.0,
                 "rank": 4
               }
             ]
@@ -2791,7 +2791,7 @@
               },
               {
                 "week": "2026-30",
-                "value": 907.5,
+                "value": 1127.5,
                 "rank": 5
               }
             ]
