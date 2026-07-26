@@ -1,6 +1,8 @@
 "use client";
 
+import Link from "next/link";
 import { formatPoints, TOP4_CAP } from "../_lib/scoring";
+import { TOP_N } from "../_lib/tourPlayerConstants";
 import type { ComputedManufacturer, ScoringMode } from "../_lib/types";
 import { HankoSeal } from "./HankoSeal";
 
@@ -81,7 +83,18 @@ export function TeamPanel({ team, mode }: TeamPanelProps) {
                     className={counts ? "row-scoring" : "row-muted"}
                   >
                     <td className="tabular-nums text-[#8a8070]">#{player.rank}</td>
-                    <td className="font-medium">{player.name}</td>
+                    <td className="font-medium">
+                      {player.rank > 0 && player.rank <= TOP_N ? (
+                        <Link
+                          href={`/leaderboards/players/${player.slug}`}
+                          className="tour-profile-link"
+                        >
+                          {player.name}
+                        </Link>
+                      ) : (
+                        player.name
+                      )}
+                    </td>
                     <td className="text-right tabular-nums font-semibold">
                       {player.points.toFixed(1)}
                     </td>

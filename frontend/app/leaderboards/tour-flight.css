@@ -1,0 +1,182 @@
+/* DGPT tour player profiles — Flightpath layout with tour-blue accent */
+.tour-flight {
+  --asia-chalk: #f4f6fb;
+  --asia-ink: #0f172a;
+  --asia-pine: #1e3a8a;
+  --asia-mist: #dbe4f5;
+  --asia-lime: #93c5fd;
+  --asia-muted: #64748b;
+  --accent: #2563eb;
+
+  background:
+    radial-gradient(1100px 520px at 8% -8%, rgba(37, 99, 235, 0.14), transparent 55%),
+    radial-gradient(800px 420px at 92% 0%, rgba(30, 58, 138, 0.08), transparent 50%),
+    var(--asia-chalk);
+}
+
+.tour-flight .asia-flight-pill {
+  color: var(--asia-pine);
+}
+
+.tour-rank-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.75rem 0 0.25rem;
+}
+
+.tour-rank-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  background: rgba(255, 255, 255, 0.75);
+  border: 1px solid rgba(30, 58, 138, 0.14);
+  color: var(--asia-ink);
+}
+
+.tour-form-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.tour-form-hot {
+  background: rgba(16, 185, 129, 0.15);
+  color: #047857;
+}
+
+.tour-form-cool {
+  background: rgba(59, 130, 246, 0.12);
+  color: #1d4ed8;
+}
+
+.tour-form-steady {
+  background: rgba(100, 116, 139, 0.12);
+  color: #475569;
+}
+
+.tour-side-grid {
+  display: grid;
+  gap: 0.85rem;
+  margin: 1.5rem 0;
+}
+
+@media (min-width: 768px) {
+  .tour-side-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.tour-side-card {
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(30, 58, 138, 0.1);
+  border-radius: var(--asia-radius, 1.25rem);
+  padding: 1rem 1.1rem;
+}
+
+.tour-side-card h2 {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--asia-muted);
+  margin: 0 0 0.5rem;
+}
+
+.tour-side-lead {
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin: 0 0 0.35rem;
+}
+
+.tour-tier-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.tour-tier-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  font-size: 0.88rem;
+}
+
+.tour-tier-list li span:first-child {
+  font-weight: 600;
+}
+
+.tour-tier-list li span:last-child {
+  color: var(--asia-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.tour-brand-row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.65rem;
+}
+
+.tour-table-wrap {
+  overflow-x: auto;
+  border-radius: var(--asia-radius, 1.25rem);
+  border: 1px solid rgba(30, 58, 138, 0.1);
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.tour-results-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+}
+
+.tour-results-table th,
+.tour-results-table td {
+  padding: 0.65rem 0.85rem;
+  text-align: left;
+  border-bottom: 1px solid rgba(30, 58, 138, 0.08);
+  vertical-align: top;
+}
+
+.tour-results-table th {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--asia-muted);
+  font-weight: 700;
+  background: rgba(219, 228, 245, 0.45);
+}
+
+.tour-results-table td:first-child,
+.tour-results-table td:last-child {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+}
+
+.tour-flight-foot {
+  margin-top: 2rem;
+  font-size: 0.78rem;
+}
+
+.tour-flight .asia-flight-profile-art {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.tour-flight .tour-flight-initials-fallback {
+  display: none;
+}
+

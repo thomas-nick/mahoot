@@ -1713,6 +1713,32 @@ body:has(.theme-clean) .page-shell {
   color: #111827;
 }
 
+a.clean-player-name.tour-profile-link,
+a.tour-profile-link {
+  color: var(--accent, #2563eb);
+  text-decoration: none;
+}
+
+a.clean-player-name.tour-profile-link:hover,
+a.tour-profile-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.player-tour-profile-cta {
+  display: inline-flex;
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent, #2563eb);
+  text-decoration: none;
+}
+
+.player-tour-profile-cta:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .clean-player-pts {
   font-weight: 700;
   font-variant-numeric: tabular-nums;

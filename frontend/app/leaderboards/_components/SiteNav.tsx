@@ -18,7 +18,8 @@ const links: NavLink[] = [
   {
     href: "/leaderboards/players",
     label: "Player Tour Stats",
-    isActive: (p) => p === "/leaderboards/players",
+    isActive: (p) =>
+      p === "/leaderboards/players" || p.startsWith("/leaderboards/players/"),
   },
   {
     href: "/leaderboards/coverage/players",
@@ -27,11 +28,6 @@ const links: NavLink[] = [
       p.startsWith("/leaderboards/coverage/players") ||
       p.startsWith("/leaderboards/coverage/player/") ||
       p.startsWith("/leaderboards/coverage/matchup"),
-  },
-  {
-    href: "/leaderboards/asia",
-    label: "Asia Leaderboard",
-    isActive: (p) => p.startsWith("/leaderboards/asia"),
   },
   {
     href: "/leaderboards/skins",

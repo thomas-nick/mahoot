@@ -1,6 +1,8 @@
 "use client";
 
+import Link from "next/link";
 import type { PlayerTourEntry } from "../_lib/playerTourTypes";
+import { TOP_N } from "../_lib/tourPlayerConstants";
 import { BrandLogo } from "./BrandLogo";
 import { brandColor } from "../_lib/brandAssets";
 
@@ -13,6 +15,13 @@ interface PlayerRankingsListProps {
 }
 
 const LEVEL_LABELS = { major: "M", elite: "E", a_tier: "A" } as const;
+
+function hasProfile(player: PlayerTourEntry): boolean {
+  return (
+    (player.dgpt_rank > 0 && player.dgpt_rank <= TOP_N) ||
+    (player.tour_rank > 0 && player.tour_rank <= TOP_N)
+  );
+}
 
 export function PlayerRankingsList({
   players,
@@ -100,6 +109,14 @@ export function PlayerRankingsList({
                     </li>
                   ))}
                 </ul>
+                {hasProfile(selectedPlayer) && (
+                  <Link
+                    href={`/leaderboards/players/${selectedPlayer.slug}`}
+                    className="player-tour-profile-cta"
+                  >
+                    Open player profile →
+                  </Link>
+                )}
               </div>
             )}
           </li>

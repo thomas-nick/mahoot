@@ -1,6 +1,8 @@
 "use client";
 
+import Link from "next/link";
 import { formatPoints, rankDelta, compareModeLabel, TOP4_CAP } from "../_lib/scoring";
+import { TOP_N } from "../_lib/tourPlayerConstants";
 import type { ComputedManufacturer, RosterMeta, ScoringMode, TeamStats } from "../_lib/types";
 import { BrandLogo } from "./BrandLogo";
 
@@ -127,13 +129,23 @@ export function CleanView({
                       .sort((a, b) => b.points - a.points)
                       .map((player) => {
                         const counts = scoringSlugs.has(player.slug);
+                        const profile =
+                          player.rank > 0 && player.rank <= TOP_N
+                            ? `/leaderboards/players/${player.slug}`
+                            : null;
                         return (
                           <li
                             key={player.slug}
                             className={`clean-player ${counts ? "clean-player-active" : ""}`}
                           >
                             <span className="clean-player-rank">#{player.rank}</span>
-                            <span className="clean-player-name">{player.name}</span>
+                            {profile ? (
+                              <Link href={profile} className="clean-player-name tour-profile-link">
+                                {player.name}
+                              </Link>
+                            ) : (
+                              <span className="clean-player-name">{player.name}</span>
+                            )}
                             <span className="clean-player-pts">{player.points.toFixed(1)}</span>
                             {player.rank_gain !== undefined && player.rank_gain !== 0 && (
                               <span className={`clean-player-move ${player.rank_gain > 0 ? "up" : "down"}`}>
