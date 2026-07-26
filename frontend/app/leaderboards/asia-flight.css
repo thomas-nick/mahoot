@@ -1,0 +1,347 @@
+/* Scoped Flightpath-inspired theme for Asia boards + player profiles only */
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Syne:wght@700;800&display=swap");
+
+.asia-flight {
+  --asia-chalk: #f2f5f0;
+  --asia-ink: #121816;
+  --asia-pine: #16382c;
+  --asia-mist: #d7e3da;
+  --asia-lime: #c6e85a;
+  --asia-muted: #5c6b62;
+  --asia-radius: 1.25rem;
+  --accent: var(--asia-pine);
+
+  color: var(--asia-ink);
+  font-family: "IBM Plex Sans", system-ui, sans-serif;
+  background:
+    radial-gradient(1200px 600px at 10% -10%, rgba(198, 232, 90, 0.18), transparent 55%),
+    radial-gradient(900px 500px at 90% 0%, rgba(22, 56, 44, 0.08), transparent 50%),
+    var(--asia-chalk);
+  border-radius: 0;
+  min-height: 100%;
+}
+
+.asia-flight .page-hero-title,
+.asia-flight .asia-section-title,
+.asia-flight .asia-flight-profile h1,
+.asia-flight .asia-flight-section-head h2 {
+  font-family: Syne, "IBM Plex Sans", system-ui, sans-serif;
+  letter-spacing: -0.03em;
+}
+
+.asia-flight .page-hero-eyebrow,
+.asia-flight .asia-flight-pill {
+  color: var(--asia-pine);
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+}
+
+.asia-flight .scoring-pill-active,
+.asia-flight .asia-country-chip-active,
+.asia-flight .asia-section-tab-active {
+  background: var(--asia-pine) !important;
+  color: var(--asia-chalk) !important;
+  border-color: var(--asia-pine) !important;
+}
+
+.asia-flight .asia-country-chip,
+.asia-flight .scoring-pill,
+.asia-flight .asia-section-tab {
+  border-color: rgba(22, 56, 44, 0.16);
+  background: rgba(255, 255, 255, 0.55);
+}
+
+.asia-flight .asia-podium-card {
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.9), rgba(215, 227, 218, 0.65));
+  border: 1px solid rgba(22, 56, 44, 0.12);
+  box-shadow: 0 12px 32px rgba(18, 24, 22, 0.06);
+}
+
+.asia-flight .asia-podium-gold {
+  outline: 2px solid var(--asia-lime);
+}
+
+.asia-flight .clean-rank-leader,
+.asia-flight .asia-tour-rank-1 {
+  background: var(--asia-lime);
+  color: var(--asia-ink);
+}
+
+.asia-flight .clean-item,
+.asia-flight .asia-tour-row {
+  background: rgba(255, 255, 255, 0.62);
+  border-color: rgba(22, 56, 44, 0.1);
+}
+
+.asia-flight .asia-flight-profile-link {
+  color: var(--asia-pine);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.asia-flight .asia-flight-profile-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* Profile */
+.asia-flight-back,
+.asia-flight-cta-ghost {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--asia-muted);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.92rem;
+}
+
+.asia-flight-back:hover,
+.asia-flight-cta-ghost:hover {
+  color: var(--asia-pine);
+}
+
+.asia-flight-profile-hero {
+  display: grid;
+  gap: 1.25rem;
+  margin: 1.25rem 0 1.75rem;
+}
+
+@media (min-width: 720px) {
+  .asia-flight-profile-hero {
+    grid-template-columns: 160px 1fr;
+    align-items: stretch;
+  }
+}
+
+.asia-flight-profile-art {
+  min-height: 160px;
+  border-radius: var(--asia-radius);
+  background:
+    radial-gradient(circle at 30% 20%, rgba(198, 232, 90, 0.55), transparent 55%),
+    linear-gradient(145deg, var(--asia-pine), #0f241c 70%);
+  display: grid;
+  place-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.asia-flight-profile-initials {
+  font-family: Syne, sans-serif;
+  font-size: 2.75rem;
+  font-weight: 800;
+  color: var(--asia-chalk);
+  letter-spacing: -0.04em;
+}
+
+.asia-flight-profile-intro h1 {
+  margin: 0.35rem 0;
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  line-height: 1.05;
+}
+
+.asia-flight-hero-sub,
+.asia-flight-muted,
+.asia-flight-section-head p,
+.asia-flight-attr {
+  color: var(--asia-muted);
+}
+
+.asia-flight-cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.asia-flight-cta {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.7rem 1.1rem;
+  border-radius: 999px;
+  background: var(--asia-pine);
+  color: var(--asia-chalk);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.asia-flight-cta:hover {
+  background: #0f241c;
+}
+
+.asia-flight-class-toggle-wrap {
+  margin: 1.25rem 0 1.5rem;
+}
+
+.asia-flight-class-toggle {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0.35rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(22, 56, 44, 0.12);
+}
+
+.asia-flight-class-toggle button {
+  border: 0;
+  background: transparent;
+  color: var(--asia-muted);
+  font-weight: 600;
+  padding: 0.55rem 0.95rem;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.asia-flight-class-toggle button.is-active {
+  background: var(--asia-pine);
+  color: var(--asia-chalk);
+}
+
+.asia-flight-class-toggle button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.asia-flight-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 640px) {
+  .asia-flight-stat-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 960px) {
+  .asia-flight-stat-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+.asia-flight-stat {
+  padding: 0.95rem 1rem;
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(22, 56, 44, 0.1);
+}
+
+.asia-flight-stat-value {
+  display: block;
+  font-family: Syne, sans-serif;
+  font-size: 1.45rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+.asia-flight-stat-label {
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 0.78rem;
+  color: var(--asia-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+}
+
+.asia-flight-section-head {
+  margin-bottom: 0.85rem;
+}
+
+.asia-flight-section-head h2 {
+  margin: 0;
+  font-size: 1.35rem;
+}
+
+.asia-flight-section-head p {
+  margin: 0.25rem 0 0;
+  font-size: 0.92rem;
+}
+
+.asia-flight-chart-grid {
+  display: grid;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 900px) {
+  .asia-flight-chart-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.asia-flight-chart-card {
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(22, 56, 44, 0.1);
+  border-radius: var(--asia-radius);
+  padding: 1rem 1rem 0.5rem;
+}
+
+.asia-flight-chart-head h3 {
+  margin: 0;
+  font-size: 1rem;
+  font-family: Syne, sans-serif;
+}
+
+.asia-flight-chart-head p {
+  margin: 0.2rem 0 0.6rem;
+  color: var(--asia-muted);
+  font-size: 0.85rem;
+}
+
+.asia-flight-table-block {
+  margin-bottom: 2rem;
+}
+
+.asia-flight-table-wrap {
+  overflow-x: auto;
+  border-radius: var(--asia-radius);
+  border: 1px solid rgba(22, 56, 44, 0.1);
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.asia-flight-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+.asia-flight-table th,
+.asia-flight-table td {
+  padding: 0.7rem 0.85rem;
+  text-align: left;
+  border-bottom: 1px solid rgba(22, 56, 44, 0.08);
+  white-space: nowrap;
+}
+
+.asia-flight-table th {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--asia-muted);
+}
+
+.asia-flight-table a {
+  color: var(--asia-pine);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.asia-flight-table a:hover {
+  text-decoration: underline;
+}
+
+.asia-flight-attr {
+  font-size: 0.85rem;
+  margin: 2rem 0 0.5rem;
+}
+
+.asia-flight-attr a {
+  color: var(--asia-pine);
+  font-weight: 600;
+}
