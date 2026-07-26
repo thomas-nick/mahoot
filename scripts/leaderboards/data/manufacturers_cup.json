@@ -1,12 +1,12 @@
 {
   "title": "DGPT Manufacturers Cup",
   "description": "F1-style constructors championship for disc golf brands",
-  "updated_at": "2026-07-21T14:58:46.975280+00:00",
+  "updated_at": "2026-07-26T19:00:37.880818+00:00",
   "divisions": {
     "MPO": {
       "division": "MPO",
       "week": "2026-30",
-      "updated_at": "2026-07-21T14:59:53.798113+00:00",
+      "updated_at": "2026-07-26T19:01:51.324750+00:00",
       "source": "https://statmando.com/rankings/dgpt/mpo",
       "player_count": 413,
       "mapped_players": 103,
@@ -6044,27 +6044,58 @@
           "manufacturer": "Discraft",
           "value": 9
         },
-        "biggest_movers": [],
-        "points_movers": [
+        "biggest_movers": [
+          {
+            "manufacturer": "DGA",
+            "from": 3,
+            "to": 5,
+            "delta": -2
+          },
           {
             "manufacturer": "Discraft",
-            "points_delta": 0.0
+            "from": 2,
+            "to": 1,
+            "delta": 1
           },
           {
             "manufacturer": "Discmania",
-            "points_delta": 0.0
+            "from": 1,
+            "to": 2,
+            "delta": -1
           },
           {
             "manufacturer": "MVP",
-            "points_delta": 0.0
+            "from": 4,
+            "to": 3,
+            "delta": 1
           },
           {
             "manufacturer": "Innova",
-            "points_delta": 0.0
+            "from": 5,
+            "to": 4,
+            "delta": 1
+          }
+        ],
+        "points_movers": [
+          {
+            "manufacturer": "Discraft",
+            "points_delta": 1692.8
           },
           {
-            "manufacturer": "DGA",
-            "points_delta": 0.0
+            "manufacturer": "Discmania",
+            "points_delta": 1506.4
+          },
+          {
+            "manufacturer": "Innova",
+            "points_delta": 1345.6
+          },
+          {
+            "manufacturer": "MVP",
+            "points_delta": 1285.4
+          },
+          {
+            "manufacturer": "Latitude 64",
+            "points_delta": 1212.4
           }
         ]
       },
@@ -6258,7 +6289,7 @@
     "FPO": {
       "division": "FPO",
       "week": "2026-30",
-      "updated_at": "2026-07-21T15:00:23.179766+00:00",
+      "updated_at": "2026-07-26T19:02:28.718916+00:00",
       "source": "https://statmando.com/rankings/dgpt/fpo",
       "player_count": 172,
       "mapped_players": 50,
@@ -9034,7 +9065,55 @@
         "most_top50": {
           "manufacturer": "Innova",
           "value": 13
-        }
+        },
+        "biggest_movers": [
+          {
+            "manufacturer": "Westside",
+            "from": 8,
+            "to": 6,
+            "delta": 2
+          },
+          {
+            "manufacturer": "Latitude 64",
+            "from": 9,
+            "to": 7,
+            "delta": 2
+          },
+          {
+            "manufacturer": "OTB",
+            "from": 6,
+            "to": 8,
+            "delta": -2
+          },
+          {
+            "manufacturer": "ThoughtSpace",
+            "from": 7,
+            "to": 9,
+            "delta": -2
+          }
+        ],
+        "points_movers": [
+          {
+            "manufacturer": "Innova",
+            "points_delta": 1628.4
+          },
+          {
+            "manufacturer": "Discraft",
+            "points_delta": 1578.0
+          },
+          {
+            "manufacturer": "MVP",
+            "points_delta": 1080.7
+          },
+          {
+            "manufacturer": "DGA",
+            "points_delta": 801.4
+          },
+          {
+            "manufacturer": "Discmania",
+            "points_delta": 612.6
+          }
+        ]
       },
       "standings_snapshot": {
         "top4": [
