@@ -1,6 +1,22 @@
 {
   "aapo-halmeenmki": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 73,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -58,6 +74,22 @@
     }
   ],
   "aapo-karhi": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 37,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -3125,6 +3157,22 @@
   ],
   "ariel-walker": [],
   "arttu-aaltonen": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 42,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -8114,6 +8162,22 @@
   "damien-biegert": [],
   "daniel-davidsson": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -9299,6 +9363,22 @@
   "eelis-immonen-278808": [],
   "eemil-lampela": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 46,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 61,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -9357,6 +9437,22 @@
   ],
   "eetu-salomki": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 25,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 52,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -9382,6 +9478,14 @@
     }
   ],
   "eetu-tuominen": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -11386,6 +11490,96 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "emma-arp": [
+    {
+      "event": "The 2026 Pepsi Pro Classic Disc Golf Tournament",
+      "event_key": "the-2026-pepsi-pro-classic-disc-golf-tournament",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "EtzaDG Presents the 4th Annual Scissortail Open powered by Discra",
+      "event_key": "etzadg-presents-the-4th-annual-scissortail-open-",
+      "month": "Jun",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT Q-Series - 2026 Star City Classic Presented by DGA",
+      "event_key": "q-series-2026-star-city-classic-presented-by-dga",
+      "month": "Jun",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "7th Annual Magnolia Open Powered by Discraft",
+      "event_key": "7th-annual-magnolia-open-powered-by-discraft",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Katy Days Open",
+      "event_key": "2026-katy-days-open",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Massive Graphics presents the 48th Annual Norman Pro/Am presented",
+      "event_key": "massive-graphics-presents-the-48th-annual-norman",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Plum Creek Jam",
+      "event_key": "plum-creek-jam",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Salt City Open",
+      "event_key": "salt-city-open",
+      "month": "May",
+      "place": 15,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Springing Into TutHill",
+      "event_key": "springing-into-tuthill",
+      "month": "Apr",
+      "place": 14,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Pawhuska Open",
+      "event_key": "pawhuska-open",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "King of the Mill #5",
+      "event_key": "king-of-the-mill-5",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
     }
   ],
   "emmanuel-torres": [
@@ -15970,20 +16164,20 @@
   ],
   "iida-lehtomki": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
       "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
       "month": "Jul",
       "place": 5,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 5,
-      "tier": "NT",
-      "tour": "DGPT"
     },
     {
       "event": "DGPT - Ale Open presented by Discraft",
@@ -17847,6 +18041,22 @@
   ],
   "jan-mikael-lampela": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 49,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "V\u00e4lijoki Open 2026",
+      "event_key": "v-lijoki-open-2026",
+      "month": "Jul",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -18830,6 +19040,14 @@
   ],
   "jesse-nieminen": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -19054,6 +19272,22 @@
   ],
   "jessica-zilch": [],
   "jimi-tapanila": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 55,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 105,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -19912,6 +20146,22 @@
   ],
   "joni-peltonen": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -19961,6 +20211,22 @@
     }
   ],
   "joona-heinnen": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -20833,6 +21099,22 @@
     }
   ],
   "justus-sarvi": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 25,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 52,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -22808,6 +23090,14 @@
   ],
   "lassi-khri": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 39,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -22980,6 +23270,14 @@
     }
   ],
   "lauri-lehtinen": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -23208,6 +23506,22 @@
     }
   ],
   "leevi-lhdesmki": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 66,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 91,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -24676,6 +24990,22 @@
     }
   ],
   "luukas-rokkanen": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 32,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 33,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -27641,6 +27971,14 @@
   ],
   "mika-laikko": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 45,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -27714,6 +28052,30 @@
     }
   ],
   "mikael-hautala": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL MASTERS TOUR KUUSAMO BY SUBARU & CLIMO DISC GOLF - RUKA OPEN",
+      "event_key": "sfl-masters-tour-kuusamo-by-subaru-climo-disc-go",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -28718,6 +29080,22 @@
   ],
   "nestori-tuhkanen": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -29315,6 +29693,14 @@
   ],
   "niklas-anttila": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -29413,6 +29799,14 @@
   ],
   "niko-rtty": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 66,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -29462,6 +29856,22 @@
     }
   ],
   "nikola-arkko": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 33,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -29919,6 +30329,14 @@
   ],
   "nooa-hmlinen": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -30230,12 +30648,20 @@
   ],
   "olivia-kindstedt": [
     {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
-      "place": 13,
-      "tier": "NT",
-      "tour": "DGPT"
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
     },
     {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
@@ -30394,6 +30820,14 @@
   ],
   "onni-ruusunen": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -30444,6 +30878,22 @@
   ],
   "oskari-krintil": [],
   "otto-mkinen": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 37,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -31311,6 +31761,22 @@
   "payton-mergen": [],
   "pekka-hyvnen": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 66,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 52,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -31492,6 +31958,22 @@
   ],
   "rasmus-koski": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 36,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -31608,6 +32090,22 @@
   ],
   "rasmus-saukkoriipi": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 52,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -31689,6 +32187,14 @@
     }
   ],
   "rasmus-tuominen": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 55,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -32722,6 +33228,30 @@
     }
   ],
   "ricko-kokko": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 42,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "NBDG Extra\u2122 Kukonkoivu",
+      "event_key": "nbdg-extra-kukonkoivu",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -33820,6 +34350,22 @@
   ],
   "samuel-hnninen": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -34436,6 +34982,22 @@
   ],
   "sean-sullivan-1": [],
   "severi-saviniemi": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 23,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 62,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -35136,6 +35698,14 @@
   ],
   "simo-luoma": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 55,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -35607,20 +36177,20 @@
   ],
   "sonja-laine": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
       "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
       "month": "Jul",
       "place": 22,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 22,
-      "tier": "NT",
-      "tour": "DGPT"
     },
     {
       "event": "DGPT - Ale Open presented by Discraft",
@@ -35975,6 +36545,22 @@
   "sylus-williams": [],
   "taaniel-mehine": [],
   "taavi-suutari": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 25,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 66,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -36586,6 +37172,22 @@
   ],
   "teemu-lampainen": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -36651,6 +37253,22 @@
     }
   ],
   "teemu-talikainen": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 33,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -38499,6 +39117,22 @@
   "vilho-lamponen-284527": [],
   "ville-ahokas": [
     {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 24,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 33,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -38649,6 +39283,14 @@
   ],
   "ville-vonhertzen": [],
   "vin-mkel": [
+    {
+      "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
+      "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
