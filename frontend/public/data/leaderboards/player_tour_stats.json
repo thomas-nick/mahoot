@@ -32,7 +32,7 @@
       "major_win": 400.0
     }
   },
-  "updated_at": "2026-07-27T18:21:44.028037+00:00",
+  "updated_at": "2026-07-28T15:14:16.986822+00:00",
   "divisions": {
     "MPO": {
       "division": "MPO",
@@ -40,11 +40,11 @@
       "year": "2026",
       "player_count": 413,
       "tour_player_count": 336,
-      "event_count": 112,
+      "event_count": 113,
       "events_by_level": {
         "major": 4,
         "elite": 12,
-        "a_tier": 96
+        "a_tier": 97
       },
       "players": [
         {
@@ -10602,6 +10602,85 @@
           "tour_rank": 134
         },
         {
+          "slug": "morten-kristiansen",
+          "name": "Morten Kristiansen",
+          "dgpt_rank": 112,
+          "manufacturer": "Unknown",
+          "dgpt_points": 69.96,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 57.8,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 1,
+          "tour_starts": 7,
+          "by_level": {
+            "major": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 12.0
+            },
+            "elite": {
+              "starts": 3,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 35.0
+            },
+            "a_tier": {
+              "starts": 3,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 1,
+              "points": 10.8
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
+              "month": "Jul",
+              "place": 7,
+              "level": "a_tier",
+              "weighted_points": 7.0
+            },
+            {
+              "event_key": "heinola-open-presented-by-mvp",
+              "event": "Heinola Open presented by MVP",
+              "month": "Jul",
+              "place": 24,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "ale-open-presented-by-discraft",
+              "event": "Ale Open presented by Discraft",
+              "month": "Jul",
+              "place": 101,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
+              "event": "EuroTour - P\u00e4rnu Open presented by Latitude 64",
+              "month": "Jun",
+              "place": 83,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "swedish-open-presented-by-kastaplast",
+              "event": "Swedish Open presented by Kastaplast",
+              "month": "Jun",
+              "place": 55,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 135
+        },
+        {
           "slug": "ben-holding",
           "name": "Ben Holding",
           "dgpt_rank": 153,
@@ -10678,7 +10757,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 135
+          "tour_rank": 136
         },
         {
           "slug": "rainers-balodis",
@@ -10757,7 +10836,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 136
+          "tour_rank": 137
         },
         {
           "slug": "brandon-brown",
@@ -10828,7 +10907,7 @@
               "weighted_points": 26.2
             }
           ],
-          "tour_rank": 137
+          "tour_rank": 138
         },
         {
           "slug": "benjamin-callaway",
@@ -10899,7 +10978,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 138
+          "tour_rank": 139
         },
         {
           "slug": "nate-corder",
@@ -10978,7 +11057,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 139
+          "tour_rank": 140
         },
         {
           "slug": "landon-brooks",
@@ -11049,7 +11128,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 140
+          "tour_rank": 141
         },
         {
           "slug": "tony-moereiss",
@@ -11128,7 +11207,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 141
+          "tour_rank": 142
         },
         {
           "slug": "axel-wernborg",
@@ -11207,7 +11286,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 142
+          "tour_rank": 143
         },
         {
           "slug": "hugo-frjdlund",
@@ -11286,86 +11365,70 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 143
+          "tour_rank": 144
         },
         {
-          "slug": "morten-kristiansen",
-          "name": "Morten Kristiansen",
-          "dgpt_rank": 112,
+          "slug": "henrik-haaland",
+          "name": "Henrik Haaland",
+          "dgpt_rank": 142,
           "manufacturer": "Unknown",
-          "dgpt_points": 69.96,
+          "dgpt_points": 42.5,
           "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 50.8,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 6,
+          "tour_weighted_points": 50.0,
+          "wins": 1,
+          "podiums": 1,
+          "top10": 1,
+          "tour_starts": 3,
           "by_level": {
             "major": {
-              "starts": 1,
+              "starts": 0,
               "wins": 0,
               "podiums": 0,
               "top10": 0,
-              "points": 12.0
+              "points": 0.0
             },
             "elite": {
-              "starts": 3,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 35.0
-            },
-            "a_tier": {
               "starts": 2,
               "wins": 0,
               "podiums": 0,
               "top10": 0,
-              "points": 3.8
+              "points": 15.0
+            },
+            "a_tier": {
+              "starts": 1,
+              "wins": 1,
+              "podiums": 1,
+              "top10": 1,
+              "points": 35.0
             }
           },
           "recent_results": [
             {
-              "event_key": "heinola-open-presented-by-mvp",
-              "event": "Heinola Open presented by MVP",
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
               "month": "Jul",
-              "place": 24,
-              "level": "elite",
-              "weighted_points": 20.0
+              "place": 1,
+              "level": "a_tier",
+              "weighted_points": 35.0
             },
             {
               "event_key": "ale-open-presented-by-discraft",
               "event": "Ale Open presented by Discraft",
               "month": "Jul",
-              "place": 101,
+              "place": 37,
               "level": "elite",
               "weighted_points": 7.5
-            },
-            {
-              "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
-              "event": "EuroTour - P\u00e4rnu Open presented by Latitude 64",
-              "month": "Jun",
-              "place": 83,
-              "level": "a_tier",
-              "weighted_points": 1.0
             },
             {
               "event_key": "swedish-open-presented-by-kastaplast",
               "event": "Swedish Open presented by Kastaplast",
               "month": "Jun",
-              "place": 55,
+              "place": 49,
               "level": "elite",
               "weighted_points": 7.5
-            },
-            {
-              "event_key": "2026-pdga-european-open",
-              "event": "2026 PDGA European Open",
-              "month": "Jun",
-              "place": 81,
-              "level": "major",
-              "weighted_points": 12.0
             }
           ],
-          "tour_rank": 144
+          "tour_rank": 145
         },
         {
           "slug": "luukas-rokkanen",
@@ -11444,7 +11507,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 145
+          "tour_rank": 146
         },
         {
           "slug": "nicholas-gill",
@@ -11507,7 +11570,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 146
+          "tour_rank": 147
         },
         {
           "slug": "kevin-jones",
@@ -11586,7 +11649,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 147
+          "tour_rank": 148
         },
         {
           "slug": "joe-carey",
@@ -11665,7 +11728,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 148
+          "tour_rank": 149
         },
         {
           "slug": "roland-kur",
@@ -11744,7 +11807,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 149
+          "tour_rank": 150
         },
         {
           "slug": "randon-latta",
@@ -11815,7 +11878,7 @@
               "weighted_points": 35.0
             }
           ],
-          "tour_rank": 150
+          "tour_rank": 151
         },
         {
           "slug": "justin-rosak",
@@ -11894,7 +11957,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 151
+          "tour_rank": 152
         },
         {
           "slug": "ryan-hahn",
@@ -11973,7 +12036,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 152
+          "tour_rank": 153
         },
         {
           "slug": "micah-groth",
@@ -12036,7 +12099,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 153
+          "tour_rank": 154
         },
         {
           "slug": "matt-hammersten",
@@ -12099,7 +12162,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 154
+          "tour_rank": 155
         },
         {
           "slug": "mika-laikko",
@@ -12162,7 +12225,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 155
+          "tour_rank": 156
         },
         {
           "slug": "sam-dicarlo",
@@ -12241,7 +12304,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 156
+          "tour_rank": 157
         },
         {
           "slug": "nick-robertson-1",
@@ -12320,7 +12383,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 157
+          "tour_rank": 158
         },
         {
           "slug": "gustav-dahln",
@@ -12399,7 +12462,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 158
+          "tour_rank": 159
         },
         {
           "slug": "joni-peltonen",
@@ -12478,7 +12541,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 159
+          "tour_rank": 160
         },
         {
           "slug": "nooa-hmlinen",
@@ -12549,7 +12612,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 160
+          "tour_rank": 161
         },
         {
           "slug": "nolan-ramser",
@@ -12628,7 +12691,86 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 161
+          "tour_rank": 162
+        },
+        {
+          "slug": "yvind-jarnes",
+          "name": "\u00d8yvind Jarnes",
+          "dgpt_rank": 120,
+          "manufacturer": "Latitude 64",
+          "dgpt_points": 54.63,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 42.5,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 1,
+          "tour_starts": 6,
+          "by_level": {
+            "major": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 12.0
+            },
+            "elite": {
+              "starts": 3,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 22.5
+            },
+            "a_tier": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 1,
+              "points": 8.0
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
+              "month": "Jul",
+              "place": 8,
+              "level": "a_tier",
+              "weighted_points": 7.0
+            },
+            {
+              "event_key": "heinola-open-presented-by-mvp",
+              "event": "Heinola Open presented by MVP",
+              "month": "Jul",
+              "place": 64,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "ale-open-presented-by-discraft",
+              "event": "Ale Open presented by Discraft",
+              "month": "Jul",
+              "place": 45,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
+              "event": "EuroTour - P\u00e4rnu Open presented by Latitude 64",
+              "month": "Jun",
+              "place": 41,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "swedish-open-presented-by-kastaplast",
+              "event": "Swedish Open presented by Kastaplast",
+              "month": "Jun",
+              "place": 73,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 163
         },
         {
           "slug": "rasmus-lampela",
@@ -12707,7 +12849,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 162
+          "tour_rank": 164
         },
         {
           "slug": "alex-berg",
@@ -12786,7 +12928,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 163
+          "tour_rank": 165
         },
         {
           "slug": "gillis-macdougall",
@@ -12865,7 +13007,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 164
+          "tour_rank": 166
         },
         {
           "slug": "kirby-snyder",
@@ -12944,7 +13086,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 165
+          "tour_rank": 167
         },
         {
           "slug": "severi-saviniemi",
@@ -13023,7 +13165,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 166
+          "tour_rank": 168
         },
         {
           "slug": "gregg-barsby",
@@ -13086,7 +13228,70 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 167
+          "tour_rank": 169
+        },
+        {
+          "slug": "morten-brenna",
+          "name": "Morten Brenna",
+          "dgpt_rank": 145,
+          "manufacturer": "Unknown",
+          "dgpt_points": 39.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 38.7,
+          "wins": 0,
+          "podiums": 1,
+          "top10": 1,
+          "tour_starts": 3,
+          "by_level": {
+            "major": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 12.0
+            },
+            "elite": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 7.5
+            },
+            "a_tier": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 1,
+              "top10": 1,
+              "points": 19.2
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
+              "month": "Jul",
+              "place": 3,
+              "level": "a_tier",
+              "weighted_points": 19.2
+            },
+            {
+              "event_key": "ale-open-presented-by-discraft",
+              "event": "Ale Open presented by Discraft",
+              "month": "Jul",
+              "place": 73,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "2026-pdga-european-open",
+              "event": "2026 PDGA European Open",
+              "month": "Jun",
+              "place": 53,
+              "level": "major",
+              "weighted_points": 12.0
+            }
+          ],
+          "tour_rank": 170
         },
         {
           "slug": "ezra-hapner",
@@ -13165,7 +13370,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 168
+          "tour_rank": 171
         },
         {
           "slug": "noah-fiveash",
@@ -13244,19 +13449,19 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 169
+          "tour_rank": 172
         },
         {
-          "slug": "yvind-jarnes",
-          "name": "\u00d8yvind Jarnes",
-          "dgpt_rank": 120,
-          "manufacturer": "Latitude 64",
-          "dgpt_points": 54.63,
+          "slug": "alexander-borgersrud",
+          "name": "Alexander Borgersrud",
+          "dgpt_rank": 154,
+          "manufacturer": "Unknown",
+          "dgpt_points": 33.33,
           "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 35.5,
+          "tour_weighted_points": 35.0,
           "wins": 0,
           "podiums": 0,
-          "top10": 0,
+          "top10": 1,
           "tour_starts": 5,
           "by_level": {
             "major": {
@@ -13267,34 +13472,34 @@
               "points": 12.0
             },
             "elite": {
-              "starts": 3,
+              "starts": 2,
               "wins": 0,
               "podiums": 0,
               "top10": 0,
-              "points": 22.5
+              "points": 15.0
             },
             "a_tier": {
-              "starts": 1,
+              "starts": 2,
               "wins": 0,
               "podiums": 0,
-              "top10": 0,
-              "points": 1.0
+              "top10": 1,
+              "points": 8.0
             }
           },
           "recent_results": [
             {
-              "event_key": "heinola-open-presented-by-mvp",
-              "event": "Heinola Open presented by MVP",
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
               "month": "Jul",
-              "place": 64,
-              "level": "elite",
-              "weighted_points": 7.5
+              "place": 8,
+              "level": "a_tier",
+              "weighted_points": 7.0
             },
             {
               "event_key": "ale-open-presented-by-discraft",
               "event": "Ale Open presented by Discraft",
               "month": "Jul",
-              "place": 45,
+              "place": 80,
               "level": "elite",
               "weighted_points": 7.5
             },
@@ -13302,7 +13507,7 @@
               "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
               "event": "EuroTour - P\u00e4rnu Open presented by Latitude 64",
               "month": "Jun",
-              "place": 41,
+              "place": 46,
               "level": "a_tier",
               "weighted_points": 1.0
             },
@@ -13310,7 +13515,7 @@
               "event_key": "swedish-open-presented-by-kastaplast",
               "event": "Swedish Open presented by Kastaplast",
               "month": "Jun",
-              "place": 73,
+              "place": 78,
               "level": "elite",
               "weighted_points": 7.5
             },
@@ -13318,12 +13523,12 @@
               "event_key": "2026-pdga-european-open",
               "event": "2026 PDGA European Open",
               "month": "Jun",
-              "place": 72,
+              "place": 65,
               "level": "major",
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 170
+          "tour_rank": 173
         },
         {
           "slug": "sias-elmore",
@@ -13402,7 +13607,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 171
+          "tour_rank": 174
         },
         {
           "slug": "zach-melton",
@@ -13481,7 +13686,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 172
+          "tour_rank": 175
         },
         {
           "slug": "emil-karlsson",
@@ -13560,7 +13765,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 173
+          "tour_rank": 176
         },
         {
           "slug": "holger-hkansson",
@@ -13639,7 +13844,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 174
+          "tour_rank": 177
         },
         {
           "slug": "aapo-karhi",
@@ -13718,7 +13923,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 175
+          "tour_rank": 178
         },
         {
           "slug": "isak-andersson",
@@ -13797,7 +14002,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 176
+          "tour_rank": 179
         },
         {
           "slug": "colby-schefers",
@@ -13876,7 +14081,165 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 177
+          "tour_rank": 180
+        },
+        {
+          "slug": "knut-valenhland",
+          "name": "Knut Valen H\u00e5land",
+          "dgpt_rank": 116,
+          "manufacturer": "Innova",
+          "dgpt_points": 63.5,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 30.8,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 0,
+          "tour_starts": 5,
+          "by_level": {
+            "major": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 12.0
+            },
+            "elite": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 15.0
+            },
+            "a_tier": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 3.8
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
+              "month": "Jul",
+              "place": 28,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "ale-open-presented-by-discraft",
+              "event": "Ale Open presented by Discraft",
+              "month": "Jul",
+              "place": 37,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
+              "event": "EuroTour - P\u00e4rnu Open presented by Latitude 64",
+              "month": "Jun",
+              "place": 19,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "swedish-open-presented-by-kastaplast",
+              "event": "Swedish Open presented by Kastaplast",
+              "month": "Jun",
+              "place": 94,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "2026-pdga-european-open",
+              "event": "2026 PDGA European Open",
+              "month": "Jun",
+              "place": 51,
+              "level": "major",
+              "weighted_points": 12.0
+            }
+          ],
+          "tour_rank": 181
+        },
+        {
+          "slug": "evald-sandermoenwre",
+          "name": "Evald Sandermoen \u00d8wre",
+          "dgpt_rank": 247,
+          "manufacturer": "Unknown",
+          "dgpt_points": 11.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 30.5,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 1,
+          "tour_starts": 5,
+          "by_level": {
+            "major": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "elite": {
+              "starts": 3,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 22.5
+            },
+            "a_tier": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 1,
+              "points": 8.0
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
+              "month": "Jul",
+              "place": 6,
+              "level": "a_tier",
+              "weighted_points": 7.0
+            },
+            {
+              "event_key": "heinola-open-presented-by-mvp",
+              "event": "Heinola Open presented by MVP",
+              "month": "Jul",
+              "place": 90,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "ale-open-presented-by-discraft",
+              "event": "Ale Open presented by Discraft",
+              "month": "Jul",
+              "place": 105,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
+              "event": "EuroTour - P\u00e4rnu Open presented by Latitude 64",
+              "month": "Jun",
+              "place": 52,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "swedish-open-presented-by-kastaplast",
+              "event": "Swedish Open presented by Kastaplast",
+              "month": "Jun",
+              "place": 93,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 182
         },
         {
           "slug": "ville-ahokas",
@@ -13955,7 +14318,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 178
+          "tour_rank": 183
         },
         {
           "slug": "bennett-doemland",
@@ -14026,78 +14389,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 179
-        },
-        {
-          "slug": "knut-valenhland",
-          "name": "Knut Valen H\u00e5land",
-          "dgpt_rank": 116,
-          "manufacturer": "Innova",
-          "dgpt_points": 63.5,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 29.8,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 4,
-          "by_level": {
-            "major": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 12.0
-            },
-            "elite": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 15.0
-            },
-            "a_tier": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 2.8
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "ale-open-presented-by-discraft",
-              "event": "Ale Open presented by Discraft",
-              "month": "Jul",
-              "place": 37,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
-              "event": "EuroTour - P\u00e4rnu Open presented by Latitude 64",
-              "month": "Jun",
-              "place": 19,
-              "level": "a_tier",
-              "weighted_points": 2.8
-            },
-            {
-              "event_key": "swedish-open-presented-by-kastaplast",
-              "event": "Swedish Open presented by Kastaplast",
-              "month": "Jun",
-              "place": 94,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "2026-pdga-european-open",
-              "event": "2026 PDGA European Open",
-              "month": "Jun",
-              "place": 51,
-              "level": "major",
-              "weighted_points": 12.0
-            }
-          ],
-          "tour_rank": 180
+          "tour_rank": 184
         },
         {
           "slug": "mathias-villota",
@@ -14168,7 +14460,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 181
+          "tour_rank": 185
         },
         {
           "slug": "ville-parpala",
@@ -14247,7 +14539,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 182
+          "tour_rank": 186
         },
         {
           "slug": "tristan-cook",
@@ -14326,78 +14618,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 183
-        },
-        {
-          "slug": "alexander-borgersrud",
-          "name": "Alexander Borgersrud",
-          "dgpt_rank": 154,
-          "manufacturer": "Unknown",
-          "dgpt_points": 33.33,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 28.0,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 4,
-          "by_level": {
-            "major": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 12.0
-            },
-            "elite": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 15.0
-            },
-            "a_tier": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 1.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "ale-open-presented-by-discraft",
-              "event": "Ale Open presented by Discraft",
-              "month": "Jul",
-              "place": 80,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
-              "event": "EuroTour - P\u00e4rnu Open presented by Latitude 64",
-              "month": "Jun",
-              "place": 46,
-              "level": "a_tier",
-              "weighted_points": 1.0
-            },
-            {
-              "event_key": "swedish-open-presented-by-kastaplast",
-              "event": "Swedish Open presented by Kastaplast",
-              "month": "Jun",
-              "place": 78,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "2026-pdga-european-open",
-              "event": "2026 PDGA European Open",
-              "month": "Jun",
-              "place": 65,
-              "level": "major",
-              "weighted_points": 12.0
-            }
-          ],
-          "tour_rank": 184
+          "tour_rank": 187
         },
         {
           "slug": "florian-lingenhel",
@@ -14468,7 +14689,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 185
+          "tour_rank": 188
         },
         {
           "slug": "logan-riding",
@@ -14547,7 +14768,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 186
+          "tour_rank": 189
         },
         {
           "slug": "dallas-garber",
@@ -14602,7 +14823,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 187
+          "tour_rank": 190
         },
         {
           "slug": "david-hurley",
@@ -14665,7 +14886,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 188
+          "tour_rank": 191
         },
         {
           "slug": "aidan-guthrie",
@@ -14728,7 +14949,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 189
+          "tour_rank": 192
         },
         {
           "slug": "joni-luumi",
@@ -14783,7 +15004,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 190
+          "tour_rank": 193
         },
         {
           "slug": "corey-dryden",
@@ -14838,7 +15059,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 191
+          "tour_rank": 194
         },
         {
           "slug": "eetu-salomki",
@@ -14917,7 +15138,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 192
+          "tour_rank": 195
         },
         {
           "slug": "jared-stoll",
@@ -14996,7 +15217,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 193
+          "tour_rank": 196
         },
         {
           "slug": "matthew-brown-1",
@@ -15075,7 +15296,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 194
+          "tour_rank": 197
         },
         {
           "slug": "thomas-tomaselli",
@@ -15154,7 +15375,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 195
+          "tour_rank": 198
         },
         {
           "slug": "owen-mccall",
@@ -15233,7 +15454,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 196
+          "tour_rank": 199
         },
         {
           "slug": "niko-rtty",
@@ -15312,7 +15533,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 197
+          "tour_rank": 200
         },
         {
           "slug": "scott-adams",
@@ -15383,7 +15604,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 198
+          "tour_rank": 201
         },
         {
           "slug": "julius-mlgaard",
@@ -15454,7 +15675,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 199
+          "tour_rank": 202
         },
         {
           "slug": "jimi-tapanila",
@@ -15533,78 +15754,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 200
-        },
-        {
-          "slug": "evald-sandermoenwre",
-          "name": "Evald Sandermoen \u00d8wre",
-          "dgpt_rank": 247,
-          "manufacturer": "Unknown",
-          "dgpt_points": 11.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 23.5,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 4,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 3,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 22.5
-            },
-            "a_tier": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 1.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "heinola-open-presented-by-mvp",
-              "event": "Heinola Open presented by MVP",
-              "month": "Jul",
-              "place": 90,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "ale-open-presented-by-discraft",
-              "event": "Ale Open presented by Discraft",
-              "month": "Jul",
-              "place": 105,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
-              "event": "EuroTour - P\u00e4rnu Open presented by Latitude 64",
-              "month": "Jun",
-              "place": 52,
-              "level": "a_tier",
-              "weighted_points": 1.0
-            },
-            {
-              "event_key": "swedish-open-presented-by-kastaplast",
-              "event": "Swedish Open presented by Kastaplast",
-              "month": "Jun",
-              "place": 93,
-              "level": "elite",
-              "weighted_points": 7.5
-            }
-          ],
-          "tour_rank": 201
+          "tour_rank": 203
         },
         {
           "slug": "eric-oakley",
@@ -15667,7 +15817,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 202
+          "tour_rank": 204
         },
         {
           "slug": "maximus-meyer",
@@ -15730,7 +15880,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 203
+          "tour_rank": 205
         },
         {
           "slug": "martin-cronacher",
@@ -15793,7 +15943,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 204
+          "tour_rank": 206
         },
         {
           "slug": "mikael-hautala",
@@ -15872,7 +16022,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 205
+          "tour_rank": 207
         },
         {
           "slug": "ricko-kokko",
@@ -15951,7 +16101,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 206
+          "tour_rank": 208
         },
         {
           "slug": "ryan-mulder",
@@ -16014,7 +16164,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 207
+          "tour_rank": 209
         },
         {
           "slug": "ture-valtonen",
@@ -16093,7 +16243,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 208
+          "tour_rank": 210
         },
         {
           "slug": "corbin-milchesky",
@@ -16172,7 +16322,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 209
+          "tour_rank": 211
         },
         {
           "slug": "tim-denna",
@@ -16243,7 +16393,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 210
+          "tour_rank": 212
         },
         {
           "slug": "dillon-spellman",
@@ -16314,7 +16464,70 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 211
+          "tour_rank": 213
+        },
+        {
+          "slug": "espen-normannpaulsen",
+          "name": "Espen Normann Paulsen",
+          "dgpt_rank": 282,
+          "manufacturer": "Unknown",
+          "dgpt_points": 8.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 20.5,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 0,
+          "tour_starts": 3,
+          "by_level": {
+            "major": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 12.0
+            },
+            "elite": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 7.5
+            },
+            "a_tier": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 1.0
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
+              "month": "Jul",
+              "place": 47,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "ale-open-presented-by-discraft",
+              "event": "Ale Open presented by Discraft",
+              "month": "Jul",
+              "place": 112,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "2026-pdga-european-open",
+              "event": "2026 PDGA European Open",
+              "month": "Jun",
+              "place": 95,
+              "level": "major",
+              "weighted_points": 12.0
+            }
+          ],
+          "tour_rank": 214
         },
         {
           "slug": "jasper-tyll",
@@ -16377,7 +16590,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 212
+          "tour_rank": 215
         },
         {
           "slug": "matt-thompson",
@@ -16448,7 +16661,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 213
+          "tour_rank": 216
         },
         {
           "slug": "nate-toutolmin",
@@ -16527,62 +16740,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 214
-        },
-        {
-          "slug": "morten-brenna",
-          "name": "Morten Brenna",
-          "dgpt_rank": 145,
-          "manufacturer": "Unknown",
-          "dgpt_points": 39.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 19.5,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 2,
-          "by_level": {
-            "major": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 12.0
-            },
-            "elite": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 7.5
-            },
-            "a_tier": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "ale-open-presented-by-discraft",
-              "event": "Ale Open presented by Discraft",
-              "month": "Jul",
-              "place": 73,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "2026-pdga-european-open",
-              "event": "2026 PDGA European Open",
-              "month": "Jun",
-              "place": 53,
-              "level": "major",
-              "weighted_points": 12.0
-            }
-          ],
-          "tour_rank": 215
+          "tour_rank": 217
         },
         {
           "slug": "nikko-locastro",
@@ -16637,7 +16795,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 216
+          "tour_rank": 218
         },
         {
           "slug": "tom-mozola",
@@ -16692,62 +16850,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 217
-        },
-        {
-          "slug": "espen-normannpaulsen",
-          "name": "Espen Normann Paulsen",
-          "dgpt_rank": 282,
-          "manufacturer": "Unknown",
-          "dgpt_points": 8.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 19.5,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 2,
-          "by_level": {
-            "major": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 12.0
-            },
-            "elite": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 7.5
-            },
-            "a_tier": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "ale-open-presented-by-discraft",
-              "event": "Ale Open presented by Discraft",
-              "month": "Jul",
-              "place": 112,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "2026-pdga-european-open",
-              "event": "2026 PDGA European Open",
-              "month": "Jun",
-              "place": 95,
-              "level": "major",
-              "weighted_points": 12.0
-            }
-          ],
-          "tour_rank": 218
+          "tour_rank": 219
         },
         {
           "slug": "aapo-halmeenmki",
@@ -16826,7 +16929,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 219
+          "tour_rank": 220
         },
         {
           "slug": "rasmus-koski",
@@ -16905,7 +17008,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 220
+          "tour_rank": 221
         },
         {
           "slug": "taavi-suutari",
@@ -16976,7 +17079,133 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 221
+          "tour_rank": 222
+        },
+        {
+          "slug": "peter-lunde",
+          "name": "Peter Lunde",
+          "dgpt_rank": 183,
+          "manufacturer": "Unknown",
+          "dgpt_points": 23.51,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 17.8,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 0,
+          "tour_starts": 3,
+          "by_level": {
+            "major": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "elite": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 15.0
+            },
+            "a_tier": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 2.8
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
+              "month": "Jul",
+              "place": 12,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "ale-open-presented-by-discraft",
+              "event": "Ale Open presented by Discraft",
+              "month": "Jul",
+              "place": 51,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "swedish-open-presented-by-kastaplast",
+              "event": "Swedish Open presented by Kastaplast",
+              "month": "Jun",
+              "place": 73,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 223
+        },
+        {
+          "slug": "herman-hatlo",
+          "name": "Herman Hatlo",
+          "dgpt_rank": 308,
+          "manufacturer": "Unknown",
+          "dgpt_points": 6.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 17.8,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 0,
+          "tour_starts": 3,
+          "by_level": {
+            "major": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "elite": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 15.0
+            },
+            "a_tier": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 2.8
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
+              "month": "Jul",
+              "place": 24,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "ale-open-presented-by-discraft",
+              "event": "Ale Open presented by Discraft",
+              "month": "Jul",
+              "place": 106,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "swedish-open-presented-by-kastaplast",
+              "event": "Swedish Open presented by Kastaplast",
+              "month": "Jun",
+              "place": 105,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 224
         },
         {
           "slug": "thunder-schultz",
@@ -17055,7 +17284,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 222
+          "tour_rank": 225
         },
         {
           "slug": "olle-frjdlund",
@@ -17134,7 +17363,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 223
+          "tour_rank": 226
         },
         {
           "slug": "tom-shanley",
@@ -17213,7 +17442,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 224
+          "tour_rank": 227
         },
         {
           "slug": "zane-letts",
@@ -17284,7 +17513,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 225
+          "tour_rank": 228
         },
         {
           "slug": "silas-evaldwiwe",
@@ -17355,7 +17584,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 226
+          "tour_rank": 229
         },
         {
           "slug": "arvid-hansson",
@@ -17434,7 +17663,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 227
+          "tour_rank": 230
         },
         {
           "slug": "colin-bryant",
@@ -17497,7 +17726,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 228
+          "tour_rank": 231
         },
         {
           "slug": "maxime-tanghe",
@@ -17560,7 +17789,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 229
+          "tour_rank": 232
         },
         {
           "slug": "hayden-frederiksen",
@@ -17623,7 +17852,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 230
+          "tour_rank": 233
         },
         {
           "slug": "john-jones",
@@ -17686,7 +17915,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 231
+          "tour_rank": 234
         },
         {
           "slug": "jarod-obrien",
@@ -17749,7 +17978,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 232
+          "tour_rank": 235
         },
         {
           "slug": "henric-hagman",
@@ -17812,7 +18041,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 233
+          "tour_rank": 236
         },
         {
           "slug": "justin-bougher",
@@ -17875,7 +18104,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 234
+          "tour_rank": 237
         },
         {
           "slug": "samuel-aldrich",
@@ -17938,7 +18167,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 235
+          "tour_rank": 238
         },
         {
           "slug": "melker-molin",
@@ -18001,7 +18230,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 236
+          "tour_rank": 239
         },
         {
           "slug": "jeffrey-mccormick",
@@ -18064,7 +18293,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 237
+          "tour_rank": 240
         },
         {
           "slug": "kaspar-kukk",
@@ -18127,7 +18356,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 238
+          "tour_rank": 241
         },
         {
           "slug": "egert-htt",
@@ -18190,7 +18419,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 239
+          "tour_rank": 242
         },
         {
           "slug": "mats-eerik-thk",
@@ -18253,7 +18482,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 240
+          "tour_rank": 243
         },
         {
           "slug": "ian-fredrickson",
@@ -18316,7 +18545,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 241
+          "tour_rank": 244
         },
         {
           "slug": "caleb-joiner",
@@ -18379,117 +18608,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 242
-        },
-        {
-          "slug": "henrik-haaland",
-          "name": "Henrik Haaland",
-          "dgpt_rank": 142,
-          "manufacturer": "Unknown",
-          "dgpt_points": 42.5,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 15.0,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 2,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 15.0
-            },
-            "a_tier": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "ale-open-presented-by-discraft",
-              "event": "Ale Open presented by Discraft",
-              "month": "Jul",
-              "place": 37,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "swedish-open-presented-by-kastaplast",
-              "event": "Swedish Open presented by Kastaplast",
-              "month": "Jun",
-              "place": 49,
-              "level": "elite",
-              "weighted_points": 7.5
-            }
-          ],
-          "tour_rank": 243
-        },
-        {
-          "slug": "peter-lunde",
-          "name": "Peter Lunde",
-          "dgpt_rank": 183,
-          "manufacturer": "Unknown",
-          "dgpt_points": 23.51,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 15.0,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 2,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 15.0
-            },
-            "a_tier": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "ale-open-presented-by-discraft",
-              "event": "Ale Open presented by Discraft",
-              "month": "Jul",
-              "place": 51,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "swedish-open-presented-by-kastaplast",
-              "event": "Swedish Open presented by Kastaplast",
-              "month": "Jun",
-              "place": 73,
-              "level": "elite",
-              "weighted_points": 7.5
-            }
-          ],
-          "tour_rank": 244
+          "tour_rank": 245
         },
         {
           "slug": "charles-peake-267928",
@@ -18544,7 +18663,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 245
+          "tour_rank": 246
         },
         {
           "slug": "owen-hamilton",
@@ -18599,7 +18718,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 246
+          "tour_rank": 247
         },
         {
           "slug": "blrrn-sgeirsson",
@@ -18654,7 +18773,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 247
+          "tour_rank": 248
         },
         {
           "slug": "guy-melms",
@@ -18709,7 +18828,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 248
+          "tour_rank": 249
         },
         {
           "slug": "rienk-kan",
@@ -18764,7 +18883,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 249
+          "tour_rank": 250
         },
         {
           "slug": "michael-arauza",
@@ -18819,7 +18938,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 250
+          "tour_rank": 251
         },
         {
           "slug": "emile-barbe",
@@ -18862,61 +18981,6 @@
               "event": "Ale Open presented by Discraft",
               "month": "Jul",
               "place": 102,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "swedish-open-presented-by-kastaplast",
-              "event": "Swedish Open presented by Kastaplast",
-              "month": "Jun",
-              "place": 105,
-              "level": "elite",
-              "weighted_points": 7.5
-            }
-          ],
-          "tour_rank": 251
-        },
-        {
-          "slug": "herman-hatlo",
-          "name": "Herman Hatlo",
-          "dgpt_rank": 308,
-          "manufacturer": "Unknown",
-          "dgpt_points": 6.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 15.0,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 2,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 15.0
-            },
-            "a_tier": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "ale-open-presented-by-discraft",
-              "event": "Ale Open presented by Discraft",
-              "month": "Jul",
-              "place": 106,
               "level": "elite",
               "weighted_points": 7.5
             },
@@ -19601,6 +19665,69 @@
           "tour_rank": 263
         },
         {
+          "slug": "thomas-helgesen",
+          "name": "Thomas Helgesen",
+          "dgpt_rank": 308,
+          "manufacturer": "Unknown",
+          "dgpt_points": 6.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 14.0,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 0,
+          "tour_starts": 3,
+          "by_level": {
+            "major": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 12.0
+            },
+            "elite": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "a_tier": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 2.0
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
+              "month": "Jul",
+              "place": 47,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
+              "event": "EuroTour - P\u00e4rnu Open presented by Latitude 64",
+              "month": "Jun",
+              "place": 67,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "2026-pdga-european-open",
+              "event": "2026 PDGA European Open",
+              "month": "Jun",
+              "place": 98,
+              "level": "major",
+              "weighted_points": 12.0
+            }
+          ],
+          "tour_rank": 264
+        },
+        {
           "slug": "rico-suigusaar",
           "name": "Rico Suigusaar",
           "dgpt_rank": 339,
@@ -19661,7 +19788,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 264
+          "tour_rank": 265
         },
         {
           "slug": "eemil-lampela",
@@ -19740,7 +19867,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 265
+          "tour_rank": 266
         },
         {
           "slug": "leevi-lhdesmki",
@@ -19819,7 +19946,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 266
+          "tour_rank": 267
         },
         {
           "slug": "caleb-bruce",
@@ -19882,7 +20009,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 267
+          "tour_rank": 268
         },
         {
           "slug": "renrs-strazdi",
@@ -19937,7 +20064,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 268
+          "tour_rank": 269
         },
         {
           "slug": "tnis-soppe",
@@ -19992,7 +20119,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 269
+          "tour_rank": 270
         },
         {
           "slug": "mikk-mts",
@@ -20043,61 +20170,6 @@
               "event": "2026 PDGA European Open",
               "month": "Jun",
               "place": 99,
-              "level": "major",
-              "weighted_points": 12.0
-            }
-          ],
-          "tour_rank": 270
-        },
-        {
-          "slug": "thomas-helgesen",
-          "name": "Thomas Helgesen",
-          "dgpt_rank": 308,
-          "manufacturer": "Unknown",
-          "dgpt_points": 6.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 13.0,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 2,
-          "by_level": {
-            "major": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 12.0
-            },
-            "elite": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "a_tier": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 1.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
-              "event": "EuroTour - P\u00e4rnu Open presented by Latitude 64",
-              "month": "Jun",
-              "place": 67,
-              "level": "a_tier",
-              "weighted_points": 1.0
-            },
-            {
-              "event_key": "2026-pdga-european-open",
-              "event": "2026 PDGA European Open",
-              "month": "Jun",
-              "place": 98,
               "level": "major",
               "weighted_points": 12.0
             }
@@ -21592,6 +21664,61 @@
           "tour_rank": 296
         },
         {
+          "slug": "hkon-kveseth",
+          "name": "H\u00e5kon Kveseth",
+          "dgpt_rank": 412,
+          "manufacturer": "Unknown",
+          "dgpt_points": 2.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 8.5,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 0,
+          "tour_starts": 2,
+          "by_level": {
+            "major": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "elite": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 7.5
+            },
+            "a_tier": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 1.0
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
+              "month": "Jul",
+              "place": 98,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "swedish-open-presented-by-kastaplast",
+              "event": "Swedish Open presented by Kastaplast",
+              "month": "Jun",
+              "place": 109,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 297
+        },
+        {
           "slug": "aviel-gomez",
           "name": "Aviel Gomez",
           "dgpt_rank": 124,
@@ -21636,7 +21763,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 297
+          "tour_rank": 298
         },
         {
           "slug": "jedd-berger",
@@ -21683,7 +21810,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 298
+          "tour_rank": 299
         },
         {
           "slug": "gavin-bos",
@@ -21730,7 +21857,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 299
+          "tour_rank": 300
         },
         {
           "slug": "zack-wysocki",
@@ -21777,7 +21904,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 300
+          "tour_rank": 301
         },
         {
           "slug": "isaiah-oliver",
@@ -21824,7 +21951,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 301
+          "tour_rank": 302
         },
         {
           "slug": "cola-ditullio",
@@ -21871,7 +21998,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 302
+          "tour_rank": 303
         },
         {
           "slug": "ryan-jewell",
@@ -21918,7 +22045,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 303
+          "tour_rank": 304
         },
         {
           "slug": "tj-reel",
@@ -21965,7 +22092,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 304
+          "tour_rank": 305
         },
         {
           "slug": "ryan-bain",
@@ -22012,7 +22139,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 305
+          "tour_rank": 306
         },
         {
           "slug": "miro-ryhnen",
@@ -22059,7 +22186,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 306
+          "tour_rank": 307
         },
         {
           "slug": "houston-finch",
@@ -22106,7 +22233,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 307
+          "tour_rank": 308
         },
         {
           "slug": "simon-crosby",
@@ -22153,7 +22280,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 308
+          "tour_rank": 309
         },
         {
           "slug": "thomas-canfield",
@@ -22200,7 +22327,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 309
+          "tour_rank": 310
         },
         {
           "slug": "justin-mateo",
@@ -22247,7 +22374,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 310
+          "tour_rank": 311
         },
         {
           "slug": "jon-lynn",
@@ -22294,7 +22421,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 311
+          "tour_rank": 312
         },
         {
           "slug": "tuomas-pkknen",
@@ -22341,7 +22468,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 312
+          "tour_rank": 313
         },
         {
           "slug": "chad-sherbert",
@@ -22388,7 +22515,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 313
+          "tour_rank": 314
         },
         {
           "slug": "joshua-patin",
@@ -22435,7 +22562,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 314
+          "tour_rank": 315
         },
         {
           "slug": "christian-dietrich",
@@ -22482,7 +22609,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 315
+          "tour_rank": 316
         },
         {
           "slug": "nolan-johnson",
@@ -22529,7 +22656,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 316
+          "tour_rank": 317
         },
         {
           "slug": "abraham-johnson",
@@ -22576,7 +22703,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 317
+          "tour_rank": 318
         },
         {
           "slug": "isaac-heinen",
@@ -22623,7 +22750,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 318
+          "tour_rank": 319
         },
         {
           "slug": "ryan-chesla",
@@ -22670,7 +22797,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 319
+          "tour_rank": 320
         },
         {
           "slug": "andrew-bakken",
@@ -22717,7 +22844,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 320
+          "tour_rank": 321
         },
         {
           "slug": "gideon-drake",
@@ -22764,7 +22891,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 321
+          "tour_rank": 322
         },
         {
           "slug": "justin-j-rocliddell",
@@ -22811,7 +22938,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 322
+          "tour_rank": 323
         },
         {
           "slug": "adrian-zapata",
@@ -22858,7 +22985,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 323
+          "tour_rank": 324
         },
         {
           "slug": "trevor-dominy",
@@ -22905,7 +23032,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 324
+          "tour_rank": 325
         },
         {
           "slug": "bill-kirk",
@@ -22952,7 +23079,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 325
+          "tour_rank": 326
         },
         {
           "slug": "henry-thoma",
@@ -22999,7 +23126,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 326
+          "tour_rank": 327
         },
         {
           "slug": "dustin-klein",
@@ -23046,7 +23173,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 327
+          "tour_rank": 328
         },
         {
           "slug": "michael-bueno",
@@ -23093,7 +23220,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 328
+          "tour_rank": 329
         },
         {
           "slug": "perry-walker",
@@ -23140,7 +23267,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 329
+          "tour_rank": 330
         },
         {
           "slug": "yashua-xiong",
@@ -23187,7 +23314,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 330
+          "tour_rank": 331
         },
         {
           "slug": "josef-berg",
@@ -23234,7 +23361,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 331
+          "tour_rank": 332
         },
         {
           "slug": "brendan-orwig",
@@ -23281,7 +23408,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 332
+          "tour_rank": 333
         },
         {
           "slug": "eeka-klhi",
@@ -23328,7 +23455,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 333
+          "tour_rank": 334
         },
         {
           "slug": "alex-banning",
@@ -23375,7 +23502,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 334
+          "tour_rank": 335
         },
         {
           "slug": "daniel-kokunja",
@@ -23418,53 +23545,6 @@
               "event": "Heinola Open presented by MVP",
               "month": "Jul",
               "place": 105,
-              "level": "elite",
-              "weighted_points": 7.5
-            }
-          ],
-          "tour_rank": 335
-        },
-        {
-          "slug": "hkon-kveseth",
-          "name": "H\u00e5kon Kveseth",
-          "dgpt_rank": 412,
-          "manufacturer": "Unknown",
-          "dgpt_points": 2.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 7.5,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 1,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 7.5
-            },
-            "a_tier": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "swedish-open-presented-by-kastaplast",
-              "event": "Swedish Open presented by Kastaplast",
-              "month": "Jun",
-              "place": 109,
               "level": "elite",
               "weighted_points": 7.5
             }
@@ -23685,6 +23765,60 @@
               "name": "Elijah Rider Brandt",
               "manufacturer": "Unknown",
               "place": 7,
+              "weighted_points": 7.0
+            }
+          ]
+        },
+        {
+          "id": "norgesmesterskapet-i-diskgolf-2026",
+          "name": "Norgesmesterskapet i Diskgolf 2026",
+          "tier": "A",
+          "tour": "",
+          "month": "Jul",
+          "level": "a_tier",
+          "multiplier": 0.35,
+          "entries": 12,
+          "winner": {
+            "slug": "henrik-haaland",
+            "name": "Henrik Haaland",
+            "manufacturer": "Unknown",
+            "place": 1,
+            "weighted_points": 35.0
+          },
+          "top_finishes": [
+            {
+              "slug": "henrik-haaland",
+              "name": "Henrik Haaland",
+              "manufacturer": "Unknown",
+              "place": 1,
+              "weighted_points": 35.0
+            },
+            {
+              "slug": "morten-brenna",
+              "name": "Morten Brenna",
+              "manufacturer": "Unknown",
+              "place": 3,
+              "weighted_points": 19.2
+            },
+            {
+              "slug": "evald-sandermoenwre",
+              "name": "Evald Sandermoen \u00d8wre",
+              "manufacturer": "Unknown",
+              "place": 6,
+              "weighted_points": 7.0
+            },
+            {
+              "slug": "morten-kristiansen",
+              "name": "Morten Kristiansen",
+              "manufacturer": "Unknown",
+              "place": 7,
+              "weighted_points": 7.0
+            },
+            {
+              "slug": "yvind-jarnes",
+              "name": "\u00d8yvind Jarnes",
+              "manufacturer": "Latitude 64",
+              "place": 8,
               "weighted_points": 7.0
             }
           ]
@@ -29284,11 +29418,11 @@
       "year": "2026",
       "player_count": 173,
       "tour_player_count": 131,
-      "event_count": 96,
+      "event_count": 97,
       "events_by_level": {
         "major": 6,
         "elite": 12,
-        "a_tier": 78
+        "a_tier": 79
       },
       "players": [
         {
@@ -30556,6 +30690,85 @@
           "tour_rank": 16
         },
         {
+          "slug": "annikenkristiansen-steen",
+          "name": "Anniken Kristiansen Steen",
+          "dgpt_rank": 18,
+          "manufacturer": "Unknown",
+          "dgpt_points": 700.29,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 529.5,
+          "wins": 2,
+          "podiums": 3,
+          "top10": 7,
+          "tour_starts": 11,
+          "by_level": {
+            "major": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 1,
+              "points": 112.0
+            },
+            "elite": {
+              "starts": 7,
+              "wins": 0,
+              "podiums": 1,
+              "top10": 4,
+              "points": 347.5
+            },
+            "a_tier": {
+              "starts": 2,
+              "wins": 2,
+              "podiums": 2,
+              "top10": 2,
+              "points": 70.0
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
+              "month": "Jul",
+              "place": 1,
+              "level": "a_tier",
+              "weighted_points": 35.0
+            },
+            {
+              "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+              "event": "EuroTour - Heinola Open 2026 presented by MVP",
+              "month": "Jul",
+              "place": 1,
+              "level": "a_tier",
+              "weighted_points": 35.0
+            },
+            {
+              "event_key": "ale-open-presented-by-discraft",
+              "event": "Ale Open presented by Discraft",
+              "month": "Jul",
+              "place": 19,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "swedish-open-presented-by-kastaplast",
+              "event": "Swedish Open presented by Kastaplast",
+              "month": "Jun",
+              "place": 19,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "northwest-championship-presented-by-latitude-64",
+              "event": "Northwest Championship Presented by Latitude 64\u00b0",
+              "month": "Jun",
+              "place": 10,
+              "level": "elite",
+              "weighted_points": 50.0
+            }
+          ],
+          "tour_rank": 17
+        },
+        {
           "slug": "jessica-gurthie",
           "name": "Jessica Gurthie",
           "dgpt_rank": 17,
@@ -30630,85 +30843,6 @@
               "place": 26,
               "level": "elite",
               "weighted_points": 7.5
-            }
-          ],
-          "tour_rank": 17
-        },
-        {
-          "slug": "annikenkristiansen-steen",
-          "name": "Anniken Kristiansen Steen",
-          "dgpt_rank": 18,
-          "manufacturer": "Unknown",
-          "dgpt_points": 700.29,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 494.5,
-          "wins": 1,
-          "podiums": 2,
-          "top10": 6,
-          "tour_starts": 10,
-          "by_level": {
-            "major": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 1,
-              "points": 112.0
-            },
-            "elite": {
-              "starts": 7,
-              "wins": 0,
-              "podiums": 1,
-              "top10": 4,
-              "points": 347.5
-            },
-            "a_tier": {
-              "starts": 1,
-              "wins": 1,
-              "podiums": 1,
-              "top10": 1,
-              "points": 35.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
-              "event": "EuroTour - Heinola Open 2026 presented by MVP",
-              "month": "Jul",
-              "place": 1,
-              "level": "a_tier",
-              "weighted_points": 35.0
-            },
-            {
-              "event_key": "ale-open-presented-by-discraft",
-              "event": "Ale Open presented by Discraft",
-              "month": "Jul",
-              "place": 19,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "swedish-open-presented-by-kastaplast",
-              "event": "Swedish Open presented by Kastaplast",
-              "month": "Jun",
-              "place": 19,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "northwest-championship-presented-by-latitude-64",
-              "event": "Northwest Championship Presented by Latitude 64\u00b0",
-              "month": "Jun",
-              "place": 10,
-              "level": "elite",
-              "weighted_points": 50.0
-            },
-            {
-              "event_key": "2026-pdga-european-open",
-              "event": "2026 PDGA European Open",
-              "month": "Jun",
-              "place": 8,
-              "level": "major",
-              "weighted_points": 80.0
             }
           ],
           "tour_rank": 18
@@ -32736,85 +32870,6 @@
           "tour_rank": 44
         },
         {
-          "slug": "idaemilie-nesse",
-          "name": "Ida Emilie Nesse",
-          "dgpt_rank": 37,
-          "manufacturer": "MVP",
-          "dgpt_points": 334.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 187.0,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 3,
-          "tour_starts": 8,
-          "by_level": {
-            "major": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 12.0
-            },
-            "elite": {
-              "starts": 5,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 2,
-              "points": 160.0
-            },
-            "a_tier": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 1,
-              "points": 15.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
-              "event": "EuroTour - Heinola Open 2026 presented by MVP",
-              "month": "Jul",
-              "place": 13,
-              "level": "a_tier",
-              "weighted_points": 2.8
-            },
-            {
-              "event_key": "heinola-open-presented-by-mvp",
-              "event": "Heinola Open presented by MVP",
-              "month": "Jul",
-              "place": 13,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "ale-open-presented-by-discraft",
-              "event": "Ale Open presented by Discraft",
-              "month": "Jul",
-              "place": 11,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "swedish-open-presented-by-kastaplast",
-              "event": "Swedish Open presented by Kastaplast",
-              "month": "Jun",
-              "place": 18,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "2026-pdga-european-open",
-              "event": "2026 PDGA European Open",
-              "month": "Jun",
-              "place": 31,
-              "level": "major",
-              "weighted_points": 12.0
-            }
-          ],
-          "tour_rank": 45
-        },
-        {
           "slug": "leah-tsinajinnie",
           "name": "Leah Tsinajinnie",
           "dgpt_rank": 82,
@@ -32889,6 +32944,85 @@
               "place": 2,
               "level": "a_tier",
               "weighted_points": 26.2
+            }
+          ],
+          "tour_rank": 45
+        },
+        {
+          "slug": "idaemilie-nesse",
+          "name": "Ida Emilie Nesse",
+          "dgpt_rank": 37,
+          "manufacturer": "MVP",
+          "dgpt_points": 334.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 186.2,
+          "wins": 0,
+          "podiums": 1,
+          "top10": 4,
+          "tour_starts": 8,
+          "by_level": {
+            "major": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 12.0
+            },
+            "elite": {
+              "starts": 4,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 2,
+              "points": 140.0
+            },
+            "a_tier": {
+              "starts": 3,
+              "wins": 0,
+              "podiums": 1,
+              "top10": 2,
+              "points": 34.2
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
+              "month": "Jul",
+              "place": 3,
+              "level": "a_tier",
+              "weighted_points": 19.2
+            },
+            {
+              "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+              "event": "EuroTour - Heinola Open 2026 presented by MVP",
+              "month": "Jul",
+              "place": 13,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "ale-open-presented-by-discraft",
+              "event": "Ale Open presented by Discraft",
+              "month": "Jul",
+              "place": 11,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "swedish-open-presented-by-kastaplast",
+              "event": "Swedish Open presented by Kastaplast",
+              "month": "Jun",
+              "place": 18,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "2026-pdga-european-open",
+              "event": "2026 PDGA European Open",
+              "month": "Jun",
+              "place": 31,
+              "level": "major",
+              "weighted_points": 12.0
             }
           ],
           "tour_rank": 46
@@ -38587,6 +38721,39 @@
       ],
       "events": [
         {
+          "id": "norgesmesterskapet-i-diskgolf-2026",
+          "name": "Norgesmesterskapet i Diskgolf 2026",
+          "tier": "A",
+          "tour": "",
+          "month": "Jul",
+          "level": "a_tier",
+          "multiplier": 0.35,
+          "entries": 2,
+          "winner": {
+            "slug": "annikenkristiansen-steen",
+            "name": "Anniken Kristiansen Steen",
+            "manufacturer": "Unknown",
+            "place": 1,
+            "weighted_points": 35.0
+          },
+          "top_finishes": [
+            {
+              "slug": "annikenkristiansen-steen",
+              "name": "Anniken Kristiansen Steen",
+              "manufacturer": "Unknown",
+              "place": 1,
+              "weighted_points": 35.0
+            },
+            {
+              "slug": "idaemilie-nesse",
+              "name": "Ida Emilie Nesse",
+              "manufacturer": "MVP",
+              "place": 3,
+              "weighted_points": 19.2
+            }
+          ]
+        },
+        {
           "id": "eurotour-heinola-open-2026-presented-by-mvp",
           "name": "EuroTour - Heinola Open 2026 presented by MVP",
           "tier": "A",
@@ -38820,7 +38987,7 @@
           "month": "Jul",
           "level": "elite",
           "multiplier": 2.5,
-          "entries": 14,
+          "entries": 13,
           "winner": {
             "slug": "julia-fors",
             "name": "Julia Fors",
@@ -42686,6 +42853,39 @@
         },
         "recent_events": [
           {
+            "id": "norgesmesterskapet-i-diskgolf-2026",
+            "name": "Norgesmesterskapet i Diskgolf 2026",
+            "tier": "A",
+            "tour": "",
+            "month": "Jul",
+            "level": "a_tier",
+            "multiplier": 0.35,
+            "entries": 2,
+            "winner": {
+              "slug": "annikenkristiansen-steen",
+              "name": "Anniken Kristiansen Steen",
+              "manufacturer": "Unknown",
+              "place": 1,
+              "weighted_points": 35.0
+            },
+            "top_finishes": [
+              {
+                "slug": "annikenkristiansen-steen",
+                "name": "Anniken Kristiansen Steen",
+                "manufacturer": "Unknown",
+                "place": 1,
+                "weighted_points": 35.0
+              },
+              {
+                "slug": "idaemilie-nesse",
+                "name": "Ida Emilie Nesse",
+                "manufacturer": "MVP",
+                "place": 3,
+                "weighted_points": 19.2
+              }
+            ]
+          },
+          {
             "id": "eurotour-heinola-open-2026-presented-by-mvp",
             "name": "EuroTour - Heinola Open 2026 presented by MVP",
             "tier": "A",
@@ -42800,32 +43000,6 @@
                 "slug": "olivia-kindstedt",
                 "name": "Olivia Kindstedt",
                 "manufacturer": "Latitude 64",
-                "place": 2,
-                "weighted_points": 26.2
-              }
-            ]
-          },
-          {
-            "id": "ios-140-forsyth-open-presented-by-discraft",
-            "name": "IOS #140 Forsyth Open presented by Discraft",
-            "tier": "A",
-            "tour": "",
-            "month": "Jul",
-            "level": "a_tier",
-            "multiplier": 0.35,
-            "entries": 1,
-            "winner": {
-              "slug": "leah-tsinajinnie",
-              "name": "Leah Tsinajinnie",
-              "manufacturer": "OTB",
-              "place": 2,
-              "weighted_points": 26.2
-            },
-            "top_finishes": [
-              {
-                "slug": "leah-tsinajinnie",
-                "name": "Leah Tsinajinnie",
-                "manufacturer": "OTB",
                 "place": 2,
                 "weighted_points": 26.2
               }
