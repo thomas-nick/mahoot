@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T18:49:20.802249+00:00",
+  "updated_at": "2026-08-04T15:21:17.854654+00:00",
   "divisions": {
     "MPO": {
       "weeks": [
@@ -1260,37 +1260,37 @@
               {
                 "id": "gannon-buhr",
                 "label": "Gannon Buhr",
-                "points": 2962.5,
+                "points": 3150.0,
                 "rank": 1
               },
               {
                 "id": "calvin-heimburg",
                 "label": "Calvin Heimburg",
-                "points": 1737.8,
+                "points": 1757.8,
                 "rank": 2
               },
               {
                 "id": "richard-wysocki",
                 "label": "Richard Wysocki",
-                "points": 1565.0,
+                "points": 1652.5,
                 "rank": 3
               },
               {
                 "id": "isaac-robinson",
                 "label": "Isaac Robinson",
-                "points": 1068.7,
+                "points": 1156.2,
                 "rank": 4
               },
               {
                 "id": "adam-hammes",
                 "label": "Adam Hammes",
-                "points": 876.8,
+                "points": 964.3,
                 "rank": 5
               },
               {
                 "id": "jaden-rye",
                 "label": "Jaden Rye",
-                "points": 795.3,
+                "points": 802.8,
                 "rank": 6
               },
               {
@@ -1302,7 +1302,7 @@
               {
                 "id": "anthony-barela",
                 "label": "Anthony Barela",
-                "points": 749.8,
+                "points": 769.8,
                 "rank": 8
               }
             ]
@@ -1361,7 +1361,7 @@
               },
               {
                 "week": "2026-32",
-                "value": 2962.5,
+                "value": 3150.0,
                 "rank": 1
               }
             ]
@@ -1418,7 +1418,7 @@
               },
               {
                 "week": "2026-32",
-                "value": 1737.8,
+                "value": 1757.8,
                 "rank": 2
               }
             ]
@@ -1475,7 +1475,7 @@
               },
               {
                 "week": "2026-32",
-                "value": 1565.0,
+                "value": 1652.5,
                 "rank": 3
               }
             ]
@@ -1532,7 +1532,7 @@
               },
               {
                 "week": "2026-32",
-                "value": 1068.7,
+                "value": 1156.2,
                 "rank": 4
               }
             ]
@@ -1589,7 +1589,7 @@
               },
               {
                 "week": "2026-32",
-                "value": 876.8,
+                "value": 964.3,
                 "rank": 5
               }
             ]
@@ -2764,49 +2764,49 @@
               {
                 "id": "holyn-handley",
                 "label": "Holyn Handley",
-                "points": 2212.5,
+                "points": 2300.0,
                 "rank": 1
               },
               {
                 "id": "silva-saarinen",
                 "label": "Silva Saarinen",
-                "points": 2149.2,
+                "points": 2199.2,
                 "rank": 2
               },
               {
                 "id": "ohn-scoggins",
                 "label": "Ohn Scoggins",
-                "points": 2056.2,
+                "points": 2106.2,
                 "rank": 3
               },
               {
                 "id": "eveliina-salonen",
                 "label": "Eveliina Salonen",
-                "points": 1357.0,
+                "points": 1607.0,
                 "rank": 4
               },
               {
                 "id": "missy-gannon",
                 "label": "Missy Gannon",
-                "points": 1127.5,
+                "points": 1177.5,
                 "rank": 5
-              },
-              {
-                "id": "lisa-fajkus",
-                "label": "Lisa Fajkus",
-                "points": 962.7,
-                "rank": 6
               },
               {
                 "id": "ella-hansen",
                 "label": "Ella Hansen",
-                "points": 914.5,
-                "rank": 7
+                "points": 1102.0,
+                "rank": 6
               },
               {
                 "id": "henna-blomroos",
                 "label": "Henna Blomroos",
-                "points": 880.7,
+                "points": 1018.2,
+                "rank": 7
+              },
+              {
+                "id": "lisa-fajkus",
+                "label": "Lisa Fajkus",
+                "points": 970.2,
                 "rank": 8
               }
             ]
@@ -2865,7 +2865,7 @@
               },
               {
                 "week": "2026-32",
-                "value": 2212.5,
+                "value": 2300.0,
                 "rank": 1
               }
             ]
@@ -2922,7 +2922,7 @@
               },
               {
                 "week": "2026-32",
-                "value": 2149.2,
+                "value": 2199.2,
                 "rank": 2
               }
             ]
@@ -2979,7 +2979,7 @@
               },
               {
                 "week": "2026-32",
-                "value": 2056.2,
+                "value": 2106.2,
                 "rank": 3
               }
             ]
@@ -3036,7 +3036,7 @@
               },
               {
                 "week": "2026-32",
-                "value": 1357.0,
+                "value": 1607.0,
                 "rank": 4
               }
             ]
@@ -3093,7 +3093,7 @@
               },
               {
                 "week": "2026-32",
-                "value": 1127.5,
+                "value": 1177.5,
                 "rank": 5
               }
             ]

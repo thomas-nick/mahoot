@@ -157,6 +157,14 @@
   ],
   "aaron-gossage": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -461,6 +469,14 @@
   ],
   "adam-hammes": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -584,6 +600,14 @@
   ],
   "addison-woodard": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -658,6 +682,70 @@
   ],
   "adrian-chevalier": [
     {
+      "event": "Ledgestone Flex - Kennel Lake (CEP Charity - Rated)",
+      "event_key": "ledgestone-flex-kennel-lake-cep-charity-rated",
+      "month": "Jul",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 89,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Ledgestone Flex - Wildlife Prairie Park (CEP Charity - Rated)",
+      "event_key": "ledgestone-flex-wildlife-prairie-park-cep-charit",
+      "month": "Jul",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Ledgestone Flex - Northwood Blue",
+      "event_key": "ledgestone-flex-northwood-blue",
+      "month": "Jul",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "44th Illinois State Disc Golf Championships",
+      "event_key": "44th-illinois-state-disc-golf-championships",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Back in the Saddle VII a DGPT Q-Series event Presented by Bangin",
+      "event_key": "back-in-the-saddle-vii-a-dgpt-q-series-event-pre",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "IOS #140 Forsyth Open presented by Discraft",
+      "event_key": "ios-140-forsyth-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Forsyth Open Flex @ The Prairie - Forsyth DGC",
+      "event_key": "forsyth-open-flex-the-prairie-forsyth-dgc",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
       "month": "Jul",
@@ -718,6 +806,14 @@
       "event_key": "sanctioned-saturday-flex-start",
       "month": "May",
       "place": 10,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "Champaign County Disc Golf Club- Wednesday Handicapped Singles Le",
+      "event_key": "champaign-county-disc-golf-club-wednesday-handic",
+      "month": "May",
+      "place": 1,
       "tier": "L",
       "tour": ""
     },
@@ -846,6 +942,14 @@
   ],
   "aidan-guthrie": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 140,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "The Majestic",
       "event_key": "the-majestic",
       "month": "Jun",
@@ -905,6 +1009,54 @@
   ],
   "aidan-hosler": [],
   "aidan-scott": [
+    {
+      "event": "Ledgestone Flex - Kennel Lake (CEP Charity - Rated)",
+      "event_key": "ledgestone-flex-kennel-lake-cep-charity-rated",
+      "month": "Jul",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 59,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Ledgestone Flex - McNaughton Park (CEP Charity - Rated)",
+      "event_key": "ledgestone-flex-mcnaughton-park-cep-charity-rate",
+      "month": "Jul",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Prodigy presents The 2026 Bronco Bash",
+      "event_key": "prodigy-presents-the-2026-bronco-bash",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Knoxville Disc Golf Association Presents: The 2026 Knoxville",
+      "event_key": "the-knoxville-disc-golf-association-presents-the",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "IOS #140 Forsyth Open presented by Discraft",
+      "event_key": "ios-140-forsyth-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 Honoring the Sacrifice Summer Fun at Fletcher DGC",
       "event_key": "2026-honoring-the-sacrifice-summer-fun-at-fletch",
@@ -1132,6 +1284,14 @@
   ],
   "alan-vazquez": [],
   "albert-tamm": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -1371,6 +1531,22 @@
     }
   ],
   "alecia-hinkson": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 52,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "IOS #140 Forsyth Open presented by Discraft",
+      "event_key": "ios-140-forsyth-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
@@ -1713,6 +1889,14 @@
   "alexander-karanzas": [],
   "alexis-kerman": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 39,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -1842,6 +2026,14 @@
     }
   ],
   "alexis-mandujano": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "The 35th Annual Capital of Texas Open",
       "event_key": "the-35th-annual-capital-of-texas-open",
@@ -2133,6 +2325,14 @@
   "andrew-cogley": [],
   "andrew-marwede": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 38,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
       "month": "Jul",
@@ -2280,6 +2480,14 @@
   ],
   "andrew-miranda": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 38,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -2410,6 +2618,30 @@
     }
   ],
   "andrew-presnell": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 20,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "South City Showdown Supported By Innova",
+      "event_key": "south-city-showdown-supported-by-innova",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "IOS #140 Forsyth Open presented by Discraft",
+      "event_key": "ios-140-forsyth-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Ozark Mountain Discs 2026 Flex Tour - McCauley Park",
       "event_key": "ozark-mountain-discs-2026-flex-tour-mccauley-par",
@@ -2763,6 +2995,14 @@
   ],
   "anneli-tugjas-mnniste": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 29,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -2960,6 +3200,30 @@
   ],
   "anthony-anselmo": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 59,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Crom Transmission & Automotive Specialist Presents The 6th Annual",
+      "event_key": "crom-transmission-automotive-specialist-presents",
+      "month": "Jul",
+      "place": 37,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Discraft Presents: Tennessee State Disc Golf Championships",
       "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
       "month": "Jun",
@@ -3073,6 +3337,14 @@
     }
   ],
   "anthony-barela": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 20,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -3673,6 +3945,22 @@
   ],
   "austen-bates": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 26,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Massasauga Open",
+      "event_key": "massasauga-open",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
       "month": "Jul",
@@ -3843,6 +4131,14 @@
   ],
   "austin-turner": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 78,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -3960,6 +4256,22 @@
     }
   ],
   "axel-olson": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 70,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Iron Range Classic - Singles",
+      "event_key": "iron-range-classic-singles",
+      "month": "Jul",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
       "event_key": "british-columbia-open-pro-raptors-knoll-presente",
@@ -4224,6 +4536,38 @@
   ],
   "benjamin-appel": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 125,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Ledgestone Flex - McNaughton Park (CEP Charity - Rated)",
+      "event_key": "ledgestone-flex-mcnaughton-park-cep-charity-rate",
+      "month": "Jul",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Superthriller Doubles 2026",
+      "event_key": "superthriller-doubles-2026",
+      "month": "Jul",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "6th Annual Triple Double",
+      "event_key": "6th-annual-triple-double",
+      "month": "Jul",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "TreeMagnets: The Maple Madness",
       "event_key": "treemagnets-the-maple-madness",
       "month": "Jun",
@@ -4307,6 +4651,14 @@
     }
   ],
   "bennett-doemland": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 104,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -4711,6 +5063,14 @@
   ],
   "bo-mclaughlin": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 63,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "GDG SPRING/SUMMER 2026 FLEX SERIES STOP SIX! (NH)",
       "event_key": "gdg-spring-summer-2026-flex-series-stop-six-nh",
       "month": "Jul",
@@ -4732,6 +5092,14 @@
       "month": "Jun",
       "place": 1,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "GDG SANCTIONED LEAGUE SUMMER 2026 (SO) (Flex Start)",
+      "event_key": "gdg-sanctioned-league-summer-2026-so-flex-start",
+      "month": "Jun",
+      "place": 1,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -4922,6 +5290,14 @@
   "bradley-baumgardner": [],
   "bradley-williams": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 20,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -5093,6 +5469,22 @@
   ],
   "brady-harbinson": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 111,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Twin Town Throwdown",
+      "event_key": "twin-town-throwdown",
+      "month": "Jul",
+      "place": 39,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "The Majestic",
       "event_key": "the-majestic",
       "month": "Jun",
@@ -5134,6 +5526,22 @@
     }
   ],
   "braeden-sides": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 38,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "GPT Mayhem at McNasty",
+      "event_key": "gpt-mayhem-at-mcnasty",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -5562,6 +5970,14 @@
   ],
   "caleb-bruce": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 125,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -5627,6 +6043,30 @@
     }
   ],
   "caleb-joiner": [
+    {
+      "event": "Dips Discs 2026 South Sound Classic Presented By Dynamic Discs -",
+      "event_key": "dips-discs-2026-south-sound-classic-presented-by",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The 21st White River Open Supported By Innova",
+      "event_key": "the-21st-white-river-open-supported-by-innova",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Jet City Scramble 3 presented by Emerald City Discs",
+      "event_key": "jet-city-scramble-3-presented-by-emerald-city-di",
+      "month": "Jul",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Columbia River Classic Presented by Infinite Discs",
       "event_key": "columbia-river-classic-presented-by-infinite-dis",
@@ -5758,6 +6198,14 @@
   ],
   "calvin-delamere": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 137,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "High Plains Challenge Sponsored by Trash Panda Disc Golf",
       "event_key": "high-plains-challenge-sponsored-by-trash-panda-d",
       "month": "Jun",
@@ -5799,6 +6247,14 @@
     }
   ],
   "calvin-heimburg": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -5938,6 +6394,14 @@
     }
   ],
   "calvin-lonnquist": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 85,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -6159,6 +6623,14 @@
     }
   ],
   "cam-rico": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 85,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -6474,6 +6946,14 @@
   ],
   "casey-white": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 20,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "East Coast Metal Roofing presents The Massachusetts State Champio",
       "event_key": "east-coast-metal-roofing-presents-the-massachuse",
       "month": "Jun",
@@ -6686,6 +7166,14 @@
     }
   ],
   "catrina-allen": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -6916,6 +7404,14 @@
   ],
   "chandler-kramer": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 78,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Dynamic Discs Silver Cup XXVI Pro",
       "event_key": "dynamic-discs-silver-cup-xxvi-pro",
       "month": "Jul",
@@ -7099,6 +7595,22 @@
   "chandler-whisenand": [],
   "chantel-budinsky": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "2026 Guelph Royale Presented by Discraft",
+      "event_key": "2026-guelph-royale-presented-by-discraft",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
       "month": "Jun",
@@ -7178,6 +7690,22 @@
     }
   ],
   "chase-farler": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 141,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Hazy Shade Presents the 12th Annual Echo Valley Open",
+      "event_key": "hazy-shade-presents-the-12th-annual-echo-valley-",
+      "month": "Jul",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Dynamic Discs Glass Blown Open",
       "event_key": "dynamic-discs-glass-blown-open",
@@ -7285,6 +7813,14 @@
   ],
   "chelsea-sutton": [],
   "chris-clemons": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 85,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "The Bloom",
       "event_key": "the-bloom",
@@ -7408,6 +7944,30 @@
   ],
   "chris-dickerson": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 11,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Lake Eureka Preview Event & DGPT Qualifier (Flex Start)",
+      "event_key": "lake-eureka-preview-event-dgpt-qualifier-flex-st",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Lake Eureka Preview Event - Saturday (Flex Start)",
+      "event_key": "lake-eureka-preview-event-saturday-flex-start",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "41st Annual Lakefront Open",
       "event_key": "41st-annual-lakefront-open",
       "month": "Jun",
@@ -7494,6 +8054,14 @@
   ],
   "christopher-meyer": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 149,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "IOS #138 Case Jackson Memorial presented by Discontinuum - MPO/MA",
       "event_key": "ios-138-case-jackson-memorial-presented-by-disco",
       "month": "May",
@@ -7527,6 +8095,14 @@
     }
   ],
   "clay-edwards": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 47,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -7844,6 +8420,14 @@
   ],
   "cole-redalen": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -7975,6 +8559,22 @@
   ],
   "colin-bryant": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Kayak Point Open 6, Supported by Innova",
+      "event_key": "kayak-point-open-6-supported-by-innova",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -8025,6 +8625,14 @@
   ],
   "collin-thompson": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 90,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Greater Peoria Open",
       "event_key": "greater-peoria-open",
       "month": "Jun",
@@ -8049,6 +8657,14 @@
       "tour": ""
     },
     {
+      "event": "Iron Lion's Mulligan Monday League (Flex Start)",
+      "event_key": "iron-lion-s-mulligan-monday-league-flex-start",
+      "month": "May",
+      "place": 10,
+      "tier": "L",
+      "tour": ""
+    },
+    {
       "event": "Discraft Presents The Rumble",
       "event_key": "discraft-presents-the-rumble",
       "month": "May",
@@ -8058,6 +8674,22 @@
     }
   ],
   "colten-montgomery": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 113,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Sunday Funday Stop 4",
+      "event_key": "sunday-funday-stop-4",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -8296,6 +8928,14 @@
   ],
   "connor-king": [],
   "connor-oreilly": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -8543,6 +9183,30 @@
   ],
   "corey-ellis": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Kanawha Valley Regional (DGPT Q Series)",
+      "event_key": "kanawha-valley-regional-dgpt-q-series",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "IOS #140 Forsyth Open presented by Discraft",
+      "event_key": "ios-140-forsyth-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Charlie Vettiner Open presented by Prodigy and Bomb Discs",
       "event_key": "charlie-vettiner-open-presented-by-prodigy-and-b",
       "month": "Jun",
@@ -8690,6 +9354,14 @@
   ],
   "cynthia-ricciotti": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 51,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -8767,6 +9439,22 @@
     }
   ],
   "dallas-wrinkle": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 145,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "MVP Kansas City Flying Disc Challenge fueled by Raising Cane's",
+      "event_key": "mvp-kansas-city-flying-disc-challenge-fueled-by-",
+      "month": "Jul",
+      "place": 46,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Dynamic Discs Glass Blown Open",
       "event_key": "dynamic-discs-glass-blown-open",
@@ -8992,6 +9680,30 @@
   "daniel-perry": [],
   "daniel-pfaff": [
     {
+      "event": "Dips Discs 2026 South Sound Classic Presented By Dynamic Discs -",
+      "event_key": "dips-discs-2026-south-sound-classic-presented-by",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Raven's Run sponsored by Wahkiakum Chamber of Commerce and suppor",
+      "event_key": "raven-s-run-sponsored-by-wahkiakum-chamber-of-co",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Discraft North Umpqua Invitational Presented by the Nune",
+      "event_key": "the-2026-discraft-north-umpqua-invitational-pres",
+      "month": "Jul",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "The Olympic Discs 2026 Shelton Springs Open Presented by Innova",
       "event_key": "the-olympic-discs-2026-shelton-springs-open-pres",
       "month": "Jun",
@@ -9100,6 +9812,14 @@
     }
   ],
   "danik-hart": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 24,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -9283,6 +10003,22 @@
   ],
   "dawson-snelling": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 113,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Titan Open 2026 presented by Discraft",
+      "event_key": "titan-open-2026-presented-by-discraft",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Colfax Open Powered by Prodigy Discs",
       "event_key": "colfax-open-powered-by-prodigy-discs",
       "month": "Jun",
@@ -9312,6 +10048,14 @@
       "month": "May",
       "place": 3,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Iron Lion's Mulligan Monday League (Flex Start)",
+      "event_key": "iron-lion-s-mulligan-monday-league-flex-start",
+      "month": "May",
+      "place": 1,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -10123,6 +10867,22 @@
   ],
   "eden-fornoff": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 50,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Warwick Disc Golf Championships",
+      "event_key": "warwick-disc-golf-championships",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Millbrook Metamorphosis",
       "event_key": "millbrook-metamorphosis",
       "month": "Jul",
@@ -10777,6 +11537,14 @@
   "elias-nordberg": [],
   "eliezra-midtlyng": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 32,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -10948,6 +11716,22 @@
   ],
   "elijah-bickel": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Back in the Saddle VII a DGPT Q-Series event Presented by Bangin",
+      "event_key": "back-in-the-saddle-vii-a-dgpt-q-series-event-pre",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
       "month": "Jun",
@@ -11086,6 +11870,14 @@
     }
   ],
   "elijah-riderbrandt": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 31,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -11429,6 +12221,14 @@
   ],
   "ella-hansen": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -11700,6 +12500,14 @@
   ],
   "elmeri-laaksonen": [],
   "elva-kate-preston": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 46,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -12117,6 +12925,14 @@
     }
   ],
   "emily-weatherman": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -12621,6 +13437,14 @@
   ],
   "erika-apple": [],
   "erika-stinchcomb": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 43,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -13152,6 +13976,14 @@
   ],
   "evan-scott": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 31,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -13390,6 +14222,14 @@
   "evan-walker": [],
   "eveliina-salonen": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -13471,6 +14311,14 @@
     }
   ],
   "ezra-aderhold": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 63,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -13587,6 +14435,30 @@
   ],
   "ezra-hapner": [
     {
+      "event": "Dips Discs 2026 South Sound Classic Presented By Dynamic Discs -",
+      "event_key": "dips-discs-2026-south-sound-classic-presented-by",
+      "month": "Jul",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "All Day Disc Golf Presents the 2026 Oak Grove Open Sponsored by K",
+      "event_key": "all-day-disc-golf-presents-the-2026-oak-grove-op",
+      "month": "Jul",
+      "place": 12,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Discraft North Umpqua Invitational Presented by the Nune",
+      "event_key": "the-2026-discraft-north-umpqua-invitational-pres",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
       "event_key": "british-columbia-open-pro-raptors-knoll-presente",
       "month": "Jun",
@@ -13701,6 +14573,22 @@
     }
   ],
   "ezra-robinson": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Pre-Tall Grass Open flex C-tier: red tees",
+      "event_key": "pre-tall-grass-open-flex-c-tier-red-tees",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -13907,6 +14795,46 @@
   ],
   "frank-smith": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "3Rivers Open 2026",
+      "event_key": "3rivers-open-2026",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Back in the Saddle VII a DGPT Q-Series event Presented by Bangin",
+      "event_key": "back-in-the-saddle-vii-a-dgpt-q-series-event-pre",
+      "month": "Jul",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Midland Open - MPO, FPO, MA2, MA4, MA40+, FA40+",
+      "event_key": "the-midland-open-mpo-fpo-ma2-ma4-ma40-fa40",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Battle at Memorial 9",
+      "event_key": "battle-at-memorial-9",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
       "month": "Jul",
@@ -14052,6 +14980,30 @@
     }
   ],
   "fredy-meza": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "44th Illinois State Disc Golf Championships",
+      "event_key": "44th-illinois-state-disc-golf-championships",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Lone Star Disc Presents HQ 7/16 (Flex Start)",
+      "event_key": "lone-star-disc-presents-hq-7-16-flex-start",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Lone Star Disc Flex at Bear Branch 7/2",
       "event_key": "lone-star-disc-flex-at-bear-branch-7-2",
@@ -14441,6 +15393,14 @@
   ],
   "gannon-buhr": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -14605,6 +15565,14 @@
   "garrett-dknox": [],
   "garrett-gurthie": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "14th Annual Patriot Classic",
       "event_key": "14th-annual-patriot-classic",
       "month": "Jul",
@@ -14712,6 +15680,46 @@
   ],
   "garry-patton": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 97,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Ledgestone Flex - Northwood Blue",
+      "event_key": "ledgestone-flex-northwood-blue",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Lake Eureka Preview Event & DGPT Qualifier (Flex Start)",
+      "event_key": "lake-eureka-preview-event-dgpt-qualifier-flex-st",
+      "month": "Jul",
+      "place": 16,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Ledgestone Flex - Brady Park",
+      "event_key": "ledgestone-flex-brady-park",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "IOS #140 Forsyth Open presented by Discraft",
+      "event_key": "ios-140-forsyth-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Greater Peoria Open",
       "event_key": "greater-peoria-open",
       "month": "Jun",
@@ -14770,6 +15778,14 @@
   ],
   "gaute-hauge": [],
   "gavin-babcock": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -14893,6 +15909,14 @@
     }
   ],
   "gavin-bos": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 38,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -15033,6 +16057,14 @@
   ],
   "gavin-king": [],
   "gavin-phillips": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 63,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -15216,6 +16248,22 @@
   ],
   "gillis-macdougall": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 59,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Warwick Disc Golf Championships",
+      "event_key": "warwick-disc-golf-championships",
+      "month": "Jul",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "East Coast Metal Roofing presents The Massachusetts State Champio",
       "event_key": "east-coast-metal-roofing-presents-the-massachuse",
       "month": "Jun",
@@ -15323,6 +16371,22 @@
   "gracen-lomelino": [],
   "graham-fuller": [],
   "gregg-barsby": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 95,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Titan Open 2026 presented by Discraft",
+      "event_key": "titan-open-2026-presented-by-discraft",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Dynamic Discs Silver Cup XXVI Pro",
       "event_key": "dynamic-discs-silver-cup-xxvi-pro",
@@ -15657,6 +16721,14 @@
   "halvard-solberg": [],
   "hanna-huynh": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -15840,6 +16912,30 @@
   ],
   "hannah-lengel": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Battle at Memorial 9",
+      "event_key": "battle-at-memorial-9",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Throw Pink Women's Team Championship (CEP Charity - Not Rated)",
+      "event_key": "throw-pink-women-s-team-championship-cep-charity",
+      "month": "Jun",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "The Greg Welch Memorial Cannonball Open VIII",
       "event_key": "the-greg-welch-memorial-cannonball-open-viii",
       "month": "May",
@@ -15873,6 +16969,22 @@
     }
   ],
   "harper-thompson": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "16th Annual Seviren Lang Memorial Presented by Mister Hardware an",
+      "event_key": "16th-annual-seviren-lang-memorial-presented-by-m",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -16043,6 +17155,22 @@
     }
   ],
   "harry-chace": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 78,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Warwick Disc Golf Championships",
+      "event_key": "warwick-disc-golf-championships",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -16297,6 +17425,14 @@
   ],
   "heidi-laine": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -16435,6 +17571,14 @@
     }
   ],
   "henna-blomroos": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -17051,6 +18195,14 @@
   ],
   "holly-finley": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 24,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -17132,6 +18284,14 @@
     }
   ],
   "holyn-handley": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -17395,6 +18555,14 @@
   "ida-kennmark": [],
   "idaemilie-nesse": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Norgesmesterskapet i Diskgolf 2026",
       "event_key": "norgesmesterskapet-i-diskgolf-2026",
       "month": "Jul",
@@ -17602,6 +18770,14 @@
     }
   ],
   "isaac-robinson": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -18316,6 +19492,14 @@
   ],
   "jaden-rye": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 56,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -18543,6 +19727,30 @@
   ],
   "jake-hebenheimer": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "MVP Kansas City Flying Disc Challenge fueled by Raising Cane's",
+      "event_key": "mvp-kansas-city-flying-disc-challenge-fueled-by-",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "IOS #140 Forsyth Open presented by Discraft",
+      "event_key": "ios-140-forsyth-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Missouri Eagle & Elephant & Castle presents: The 16th Annual Jare",
       "event_key": "missouri-eagle-elephant-castle-presents-the-16th",
       "month": "Jun",
@@ -18673,6 +19881,14 @@
     }
   ],
   "jake-monn": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 70,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -19068,6 +20284,14 @@
   "james-bennett": [],
   "james-collier": [],
   "james-conrad": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 63,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -19480,6 +20704,14 @@
   "jannicke-hjemli": [],
   "jared-stoll": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 108,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -19529,6 +20761,14 @@
     }
   ],
   "jarod-obrien": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 83,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 Kincaid Classic Sponsored by MoMo's Bakery and Innova Discs",
       "event_key": "2026-kincaid-classic-sponsored-by-momo-s-bakery-",
@@ -19941,6 +21181,14 @@
     }
   ],
   "jennifer-rice": [
+    {
+      "event": "Dips Discs 2026 South Sound Classic Presented By Dynamic Discs -",
+      "event_key": "dips-discs-2026-south-sound-classic-presented-by",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Ladies of the Lake: Fairy Fling Women Only",
       "event_key": "ladies-of-the-lake-fairy-fling-women-only",
@@ -20362,6 +21610,22 @@
   ],
   "jesse-longenecker": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 20,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Warwick Disc Golf Championships",
+      "event_key": "warwick-disc-golf-championships",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Clement Classic 2026",
       "event_key": "clement-classic-2026",
       "month": "Jul",
@@ -20520,6 +21784,14 @@
     }
   ],
   "jessica-gurthie": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -20891,6 +22163,14 @@
   ],
   "joel-freeman": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -21020,6 +22300,14 @@
     }
   ],
   "joey-temali": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 74,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -21187,6 +22475,14 @@
   ],
   "john-jones": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 121,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -21297,6 +22593,22 @@
     }
   ],
   "jonathan-borzick": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Warwick Disc Golf Championships",
+      "event_key": "warwick-disc-golf-championships",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Clement Classic 2026",
       "event_key": "clement-classic-2026",
@@ -21756,6 +23068,14 @@
   ],
   "jordan-lynds": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA Champions Cup Presented by Vessi",
       "event_key": "2026-pdga-champions-cup-presented-by-vessi",
       "month": "Apr",
@@ -21914,6 +23234,14 @@
   ],
   "joseph-anderson": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 56,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -22036,6 +23364,14 @@
     }
   ],
   "joshua-anthon": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 110,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc Golf",
       "event_key": "the-challenge-reidy-creek-2026-presented-by-inno",
@@ -23200,6 +24536,14 @@
   ],
   "kat-mertsch": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 26,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -23531,6 +24875,14 @@
   ],
   "kelley-foster": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 46,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -23680,6 +25032,38 @@
     }
   ],
   "kevin-fodrey": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 121,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "3Rivers Open 2026",
+      "event_key": "3rivers-open-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Back in the Saddle VII a DGPT Q-Series event Presented by Bangin",
+      "event_key": "back-in-the-saddle-vii-a-dgpt-q-series-event-pre",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Cardinal Classic",
+      "event_key": "the-2026-cardinal-classic",
+      "month": "Jul",
+      "place": 9,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
@@ -23859,6 +25243,14 @@
   ],
   "kevin-jones": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 75,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
       "month": "Apr",
@@ -23909,6 +25301,30 @@
   ],
   "kieran-atkinson": [],
   "kirby-snyder": [
+    {
+      "event": "Dips Discs 2026 South Sound Classic Presented By Dynamic Discs -",
+      "event_key": "dips-discs-2026-south-sound-classic-presented-by",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "6th Annual Rainshadow Open presented by Dynamic Discs & Flexline",
+      "event_key": "6th-annual-rainshadow-open-presented-by-dynamic-",
+      "month": "Jul",
+      "place": 11,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Jet City Scramble 3 presented by Emerald City Discs",
+      "event_key": "jet-city-scramble-3-presented-by-emerald-city-di",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
       "event_key": "british-columbia-open-pro-raptors-knoll-presente",
@@ -24122,6 +25538,14 @@
     }
   ],
   "konastar-montgomery": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -24346,6 +25770,14 @@
   ],
   "kyle-klein": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 68,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -24428,6 +25860,14 @@
   ],
   "kyle-krieckhaus": [],
   "kylie-kohut": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 29,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -24816,6 +26256,14 @@
   "laura-tatiananiocarranza": [],
   "lauren-butler": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 53,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -25027,6 +26475,22 @@
     }
   ],
   "leah-tsinajinnie": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 38,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -25248,6 +26712,22 @@
   ],
   "levi-stout": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 56,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Reykjav\u00edk Open Presented by Innova Europe",
+      "event_key": "reykjav-k-open-presented-by-innova-europe",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -25462,6 +26942,14 @@
   ],
   "lindsey-maas": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 41,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
       "month": "Jul",
@@ -25515,6 +27003,14 @@
       "month": "May",
       "place": 8,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Aloft Sunday Singles \u2014 Summer Session 1",
+      "event_key": "aloft-sunday-singles-summer-session-1",
+      "month": "May",
+      "place": 2,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -25689,6 +27185,14 @@
     }
   ],
   "lisa-fajkus": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 26,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -26004,6 +27508,14 @@
   "luca-nieminen": [],
   "lucas-carmichael": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 154,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -26151,6 +27663,30 @@
   ],
   "lucas-oberholtzerhess": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 68,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "16th Annual Seviren Lang Memorial Presented by Mister Hardware an",
+      "event_key": "16th-annual-seviren-lang-memorial-presented-by-m",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Warwick Disc Golf Championships",
+      "event_key": "warwick-disc-golf-championships",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Clement Classic 2026",
       "event_key": "clement-classic-2026",
       "month": "Jul",
@@ -26216,6 +27752,14 @@
     }
   ],
   "luke-humphries": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "The Bloom",
       "event_key": "the-bloom",
@@ -26355,6 +27899,14 @@
     }
   ],
   "luke-samson": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 85,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "6th Annual Tiger Open presented by Innova",
       "event_key": "6th-annual-tiger-open-presented-by-innova",
@@ -26526,6 +28078,14 @@
     }
   ],
   "luke-taylor": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -26891,6 +28451,22 @@
   "mackenzie-morris": [],
   "madison-tomaino": [
     {
+      "event": "Dips Discs 2026 South Sound Classic Presented By Dynamic Discs -",
+      "event_key": "dips-discs-2026-south-sound-classic-presented-by",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "OWS #7- Maidens at McCormick presented by All Day Disc Golf",
+      "event_key": "ows-7-maidens-at-mccormick-presented-by-all-day-",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
       "event_key": "british-columbia-open-pro-raptors-knoll-presente",
       "month": "Jun",
@@ -27013,6 +28589,14 @@
     }
   ],
   "madison-walker": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 54,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -27416,6 +29000,14 @@
   ],
   "maria-oliva": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "High Plains Challenge Sponsored by Trash Panda Disc Golf",
       "event_key": "high-plains-challenge-sponsored-by-trash-panda-d",
       "month": "Jun",
@@ -27622,6 +29214,30 @@
   "marion-mattsson": [],
   "mark-jones": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 139,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Flying Blind Saturday Flex @ Joseph C. Miller DGC (White to White",
+      "event_key": "flying-blind-saturday-flex-joseph-c-miller-dgc-w",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "IOS #140 Forsyth Open presented by Discraft",
+      "event_key": "ios-140-forsyth-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 27,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Greater Peoria Open",
       "event_key": "greater-peoria-open",
       "month": "Jun",
@@ -27635,6 +29251,14 @@
       "month": "Jun",
       "place": 4,
       "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Effingham Summer Sanctioned League (Flex Start)",
+      "event_key": "effingham-summer-sanctioned-league-flex-start",
+      "month": "Jun",
+      "place": 2,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -27939,6 +29563,14 @@
     }
   ],
   "mason-ford": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Oh Say Can UC",
       "event_key": "oh-say-can-uc",
@@ -28360,6 +29992,22 @@
   ],
   "matt-bell": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Cancerplaybook Charity Open Presented by Villain Disc Golf @ Silv",
+      "event_key": "cancerplaybook-charity-open-presented-by-villain",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -28670,6 +30318,38 @@
   ],
   "matthew-alexander": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Lake Eureka Preview Event & DGPT Qualifier (Flex Start)",
+      "event_key": "lake-eureka-preview-event-dgpt-qualifier-flex-st",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Lake Eureka Preview Event - Saturday (Flex Start)",
+      "event_key": "lake-eureka-preview-event-saturday-flex-start",
+      "month": "Jul",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Kanawha Valley Regional (DGPT Q Series)",
+      "event_key": "kanawha-valley-regional-dgpt-q-series",
+      "month": "Jul",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Dynamic Discs Silver Cup XXVI Pro",
       "event_key": "dynamic-discs-silver-cup-xxvi-pro",
       "month": "Jul",
@@ -28963,6 +30643,38 @@
   ],
   "matthew-henderson": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 133,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Sarasota Sky Pilots Red, White, & Blue Series - Blue Weekend",
+      "event_key": "sarasota-sky-pilots-red-white-blue-series-blue-w",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Sarasota Sky Pilots Red, White, & Blue Series - Red Weekend",
+      "event_key": "sarasota-sky-pilots-red-white-blue-series-red-we",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Gulf Coast Tour Challenge Presented by Dynamic Discs - Stop",
+      "event_key": "2026-gulf-coast-tour-challenge-presented-by-dyna",
+      "month": "Jun",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "2026 Gulf Coast Tour Challenge Presented by Dynamic Discs - Stop",
       "event_key": "2026-gulf-coast-tour-challenge-presented-by-dyna",
       "month": "Jun",
@@ -29128,6 +30840,14 @@
     }
   ],
   "matthew-orum": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -29381,6 +31101,30 @@
     }
   ],
   "max-anderson": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 97,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "2026 Midwest Showdown",
+      "event_key": "2026-midwest-showdown",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "South City Showdown Supported By Innova",
+      "event_key": "south-city-showdown-supported-by-innova",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Mid America Open",
       "event_key": "mid-america-open",
@@ -30122,6 +31866,30 @@
   ],
   "miles-sayer": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 113,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Wyatt Works Presents The 2026 Daceyland Open Sponsored by Latitud",
+      "event_key": "wyatt-works-presents-the-2026-daceyland-open-spo",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Circle 1 Maine Classic",
+      "event_key": "circle-1-maine-classic",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Clement Classic 2026",
       "event_key": "clement-classic-2026",
       "month": "Jul",
@@ -30247,6 +32015,14 @@
   ],
   "missy-gannon": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -30362,6 +32138,14 @@
   ],
   "mj-gager": [],
   "morgan-lynds": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA Champions Cup Presented by Vessi",
       "event_key": "2026-pdga-champions-cup-presented-by-vessi",
@@ -30553,6 +32337,14 @@
   ],
   "natalie-berg-268900": [],
   "nate-corder": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 104,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Oh Say Can UC",
       "event_key": "oh-say-can-uc",
@@ -30809,6 +32601,22 @@
     }
   ],
   "nathan-queen": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 38,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Kanawha Valley Regional (DGPT Q Series)",
+      "event_key": "kanawha-valley-regional-dgpt-q-series",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Discraft Presents: Spike Hyzer's Fifth Annual Piedmont Disc Golf",
       "event_key": "discraft-presents-spike-hyzer-s-fifth-annual-pie",
@@ -31164,6 +32972,22 @@
   "netta-leppaho": [],
   "nicholas-gill": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 82,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Massasauga Open",
+      "event_key": "massasauga-open",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
       "month": "Jul",
@@ -31506,6 +33330,22 @@
   ],
   "nick-robinson": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 124,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "44th Illinois State Disc Golf Championships",
+      "event_key": "44th-illinois-state-disc-golf-championships",
+      "month": "Jul",
+      "place": 20,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Dynamic Discs Silver Cup XXVI Pro",
       "event_key": "dynamic-discs-silver-cup-xxvi-pro",
       "month": "Jul",
@@ -31555,6 +33395,14 @@
     }
   ],
   "nid-ovathanasin": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 49,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Sarasota Sky Pilots Red, White, & Blue Series - White Weekend",
       "event_key": "sarasota-sky-pilots-red-white-blue-series-white-",
@@ -31694,6 +33542,14 @@
   ],
   "niilo-hyry": [],
   "nikko-locastro": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 72,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "STLDGC-FLEX Carondelet #6",
       "event_key": "stldgc-flex-carondelet-6",
@@ -31991,6 +33847,22 @@
   ],
   "nina-bennett": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Kanawha Valley Regional (DGPT Q Series)",
+      "event_key": "kanawha-valley-regional-dgpt-q-series",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Charlie Vettiner Open presented by Prodigy and Bomb Discs",
       "event_key": "charlie-vettiner-open-presented-by-prodigy-and-b",
       "month": "Jun",
@@ -32066,6 +33938,22 @@
   "noah-baker": [],
   "noah-feil": [],
   "noah-fiveash": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 101,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Lake Eureka Preview Event & DGPT Qualifier (Flex Start)",
+      "event_key": "lake-eureka-preview-event-dgpt-qualifier-flex-st",
+      "month": "Jul",
+      "place": 21,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Discraft Presents: Tennessee State Disc Golf Championships",
       "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
@@ -32454,6 +34342,14 @@
     }
   ],
   "ohn-scoggins": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -33162,6 +35058,14 @@
   ],
   "paige-pierce": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -33285,6 +35189,14 @@
   ],
   "parker-austin": [],
   "parker-welck": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 38,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -33459,6 +35371,38 @@
   "paul-davidson": [],
   "paul-krans": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Lake Eureka Preview Event & DGPT Qualifier (Flex Start)",
+      "event_key": "lake-eureka-preview-event-dgpt-qualifier-flex-st",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Lake Eureka Preview Event - Saturday (Flex Start)",
+      "event_key": "lake-eureka-preview-event-saturday-flex-start",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Twin Town Throwdown",
+      "event_key": "twin-town-throwdown",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Dynamic Discs Silver Cup XXVI Pro",
       "event_key": "dynamic-discs-silver-cup-xxvi-pro",
       "month": "Jul",
@@ -33598,6 +35542,14 @@
   ],
   "paul-mcbeth": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA Champions Cup Presented by Vessi",
       "event_key": "2026-pdga-champions-cup-presented-by-vessi",
       "month": "Apr",
@@ -33713,6 +35665,46 @@
     }
   ],
   "paul-ulibarri": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Chain Reactions Summer Series #3 (Y5) @Eager Beaver - Driven by I",
+      "event_key": "chain-reactions-summer-series-3-y5-eager-beaver-",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Chain Reactions Summer Series #4 (Y5) @Angry Beaver - Driven by I",
+      "event_key": "chain-reactions-summer-series-4-y5-angry-beaver-",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Crom Transmission & Automotive Specialist Presents The 6th Annual",
+      "event_key": "crom-transmission-automotive-specialist-presents",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Williston Classic 2026",
+      "event_key": "williston-classic-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Chain Reactions Summer Series #1 (Y5) @Bradford - Driven by INNOV",
       "event_key": "chain-reactions-summer-series-1-y5-bradford-driv",
@@ -34462,6 +36454,14 @@
   ],
   "raven-klein": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -34568,6 +36568,14 @@
     }
   ],
   "raven-newsom": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -34716,6 +36724,22 @@
   ],
   "rebecca-cox": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Kanawha Valley Regional (DGPT Q Series)",
+      "event_key": "kanawha-valley-regional-dgpt-q-series",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -34813,6 +36837,14 @@
     }
   ],
   "rebecca-don": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -35215,6 +37247,14 @@
   ],
   "richard-wysocki": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -35522,6 +37562,14 @@
   "riku-grhn": [],
   "robert-burridge": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 72,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -35804,6 +37852,14 @@
   ],
   "ryan-begley": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 151,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Clement Classic 2026",
       "event_key": "clement-classic-2026",
       "month": "Jul",
@@ -35856,6 +37912,38 @@
   ],
   "ryan-clark-1": [],
   "ryan-hahn": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 130,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Crom Transmission & Automotive Specialist Presents The 6th Annual",
+      "event_key": "crom-transmission-automotive-specialist-presents",
+      "month": "Jul",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Yard Gnomes Open presented by Play it Again Sports",
+      "event_key": "yard-gnomes-open-presented-by-play-it-again-spor",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "5th Annual Stars and Bars Classic Presented by Innova",
       "event_key": "5th-annual-stars-and-bars-classic-presented-by-i",
@@ -36054,6 +38142,22 @@
   ],
   "ryan-monn": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 59,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -36185,6 +38289,30 @@
   ],
   "ryan-mulder": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 83,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "44th Illinois State Disc Golf Championships",
+      "event_key": "44th-illinois-state-disc-golf-championships",
+      "month": "Jul",
+      "place": 9,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "IOS #140 Forsyth Open presented by Discraft",
+      "event_key": "ios-140-forsyth-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
       "month": "Jun",
@@ -36258,6 +38386,14 @@
     }
   ],
   "sadie-shattuck": [
+    {
+      "event": "Dips Discs 2026 South Sound Classic Presented By Dynamic Discs -",
+      "event_key": "dips-discs-2026-south-sound-classic-presented-by",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "The Olympic Discs 2026 Shelton Springs Open Presented by Innova",
       "event_key": "the-olympic-discs-2026-shelton-springs-open-pres",
@@ -36700,6 +38836,14 @@
     }
   ],
   "sarah-hokom": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 37,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
       "event_key": "jomezpro-discraft-cascade-challenge",
@@ -37613,6 +39757,14 @@
   ],
   "silas-schultz": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 26,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -37735,6 +39887,14 @@
     }
   ],
   "silva-saarinen": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -37896,6 +40056,14 @@
   ],
   "simon-lizotte": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -37986,6 +40154,14 @@
     }
   ],
   "sintija-klezberga": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -38606,6 +40782,30 @@
   ],
   "stephen-becker": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 130,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "16th Annual Seviren Lang Memorial Presented by Mister Hardware an",
+      "event_key": "16th-annual-seviren-lang-memorial-presented-by-m",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "16th Annual Seviren Lang Memorial Flex",
+      "event_key": "16th-annual-seviren-lang-memorial-flex",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Charlie Vettiner Open presented by Prodigy and Bomb Discs",
       "event_key": "charlie-vettiner-open-presented-by-prodigy-and-b",
       "month": "Jun",
@@ -38728,6 +40928,14 @@
   ],
   "stephen-mclaren": [],
   "sullivan-tipton": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -38910,6 +41118,30 @@
     }
   ],
   "tailey-rowley": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 39,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 GRO Warm-Up Flex @ Diavolo presented by CADL and Yeet Street",
+      "event_key": "2026-gro-warm-up-flex-diavolo-presented-by-cadl-",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -39129,6 +41361,14 @@
   ],
   "tanisha-platero": [],
   "taylor-chocek": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 22,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -40656,6 +42896,30 @@
   "tori-pasquin": [],
   "trevon-crowe": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 101,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "16th Annual Seviren Lang Memorial Presented by Mister Hardware an",
+      "event_key": "16th-annual-seviren-lang-memorial-presented-by-m",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Back in the Saddle VII a DGPT Q-Series event Presented by Bangin",
+      "event_key": "back-in-the-saddle-vii-a-dgpt-q-series-event-pre",
+      "month": "Jul",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Johnson Hills Open - Pros",
       "event_key": "johnson-hills-open-pros",
       "month": "Jun",
@@ -41119,6 +43383,14 @@
   ],
   "ty-love": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 20,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
       "month": "Jun",
@@ -41317,6 +43589,14 @@
     }
   ],
   "valerie-mandujano": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -41692,6 +43972,14 @@
   ],
   "violet-main": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -41783,6 +44071,22 @@
   ],
   "whit-stephenson": [],
   "will-goeringer": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 125,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Firefighter's Classic",
+      "event_key": "firefighter-s-classic",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
@@ -42198,6 +44502,30 @@
   ],
   "zach-arlinghaus": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "16th Annual Seviren Lang Memorial Presented by Mister Hardware an",
+      "event_key": "16th-annual-seviren-lang-memorial-presented-by-m",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Kanawha Valley Regional (DGPT Q Series)",
+      "event_key": "kanawha-valley-regional-dgpt-q-series",
+      "month": "Jul",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Charlie Vettiner Open presented by Prodigy and Bomb Discs",
       "event_key": "charlie-vettiner-open-presented-by-prodigy-and-b",
       "month": "Jun",
@@ -42361,6 +44689,22 @@
   ],
   "zach-melton": [
     {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 94,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Harmon Gold Standard (Flex Start)",
       "event_key": "harmon-gold-standard-flex-start",
       "month": "Jul",
@@ -42450,6 +44794,14 @@
     }
   ],
   "zachary-nash": [
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Dynamic Discs Glass Blown Open",
       "event_key": "dynamic-discs-glass-blown-open",
