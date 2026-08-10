@@ -2245,6 +2245,64 @@
       "tour": "DGPT"
     }
   ],
+  "anders-lind": [
+    {
+      "event": "Dynamic Discs Silver Cup XXVI Pro",
+      "event_key": "dynamic-discs-silver-cup-xxvi-pro",
+      "month": "Jul",
+      "place": 23,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Twin Cities Championships presented by Exclusive Buyer Agent Tom",
+      "event_key": "twin-cities-championships-presented-by-exclusive",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Power Disc Golf Academy Championship Series Qualifier - Sava",
+      "event_key": "2026-power-disc-golf-academy-championship-series",
+      "month": "May",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Earth Day at the Preserve - Pro",
+      "event_key": "earth-day-at-the-preserve-pro",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Tall Oak Open",
+      "event_key": "tall-oak-open",
+      "month": "Apr",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Leinenkugel's Throwdown",
+      "event_key": "leinenkugel-s-throwdown",
+      "month": "Apr",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "andrea-cammack": [
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
@@ -2323,6 +2381,48 @@
     }
   ],
   "andrew-cogley": [],
+  "andrew-fish": [
+    {
+      "event": "Sapwood Showdown 2026",
+      "event_key": "sapwood-showdown-2026",
+      "month": "Jun",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Prodigy presents the Lake Marshall Open- Pro",
+      "event_key": "prodigy-presents-the-lake-marshall-open-pro",
+      "month": "May",
+      "place": 46,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The 23rd Annual FDR Fools Fest, Presented by Innova - MPO",
+      "event_key": "the-23rd-annual-fdr-fools-fest-presented-by-inno",
+      "month": "Mar",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Central Jersey Open presented by Innova and HyzerMedia",
+      "event_key": "central-jersey-open-presented-by-innova-and-hyze",
+      "month": "Mar",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "ODDS #1 - Loriella Challenge Pro - MPO/FPO",
+      "event_key": "odds-1-loriella-challenge-pro-mpo-fpo",
+      "month": "Mar",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "andrew-marwede": [
     {
       "event": "DGPT+ Ledgestone Open",
@@ -10001,6 +10101,80 @@
       "tour": "DGPT"
     }
   ],
+  "david-konoplev": [
+    {
+      "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
+      "event_key": "british-columbia-open-pro-raptors-knoll-presente",
+      "month": "Jun",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 110,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Crooked Lines Classic - 2026",
+      "event_key": "crooked-lines-classic-2026",
+      "month": "May",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Beaver State Fling presented by Innova Champion Discs",
+      "event_key": "2026-beaver-state-fling-presented-by-innova-cham",
+      "month": "May",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT Q-Series - Discraft Resistance Discs Open presented by Climo",
+      "event_key": "q-series-discraft-resistance-discs-open-presente",
+      "month": "Apr",
+      "place": 21,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Beaverberate Open",
+      "event_key": "the-beaverberate-open",
+      "month": "Apr",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "All Day Disc Golf Presents the McNulty Creek Open",
+      "event_key": "all-day-disc-golf-presents-the-mcnulty-creek-ope",
+      "month": "Mar",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2025-26 Stumptown Slosh Series Finale @ Milo McIver",
+      "event_key": "2025-26-stumptown-slosh-series-finale-milo-mcive",
+      "month": "Mar",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "All Day Disc Golf Presents Tossing at Taloali",
+      "event_key": "all-day-disc-golf-presents-tossing-at-taloali",
+      "month": "Mar",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
   "dawson-snelling": [
     {
       "event": "DGPT+ Ledgestone Open",
@@ -10349,6 +10523,80 @@
       "event_key": "riverbottom-new-year-s-flex",
       "month": "Jan",
       "place": 2,
+      "tier": "C",
+      "tour": ""
+    }
+  ],
+  "donovan-stein": [
+    {
+      "event": "Dynamic Discs Silver Cup XXVI Pro",
+      "event_key": "dynamic-discs-silver-cup-xxvi-pro",
+      "month": "Jul",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Preserve Doubles",
+      "event_key": "preserve-doubles",
+      "month": "Jun",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Becker Brawl presented by Exclusive Buyer Agent Tom Marcus",
+      "event_key": "becker-brawl-presented-by-exclusive-buyer-agent-",
+      "month": "May",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Spring Smackdown (WI DG Tour B-Tier) - MPO, FPO, MA1, FA",
+      "event_key": "the-2026-spring-smackdown-wi-dg-tour-b-tier-mpo-",
+      "month": "May",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Earth Day at the Preserve - Pro",
+      "event_key": "earth-day-at-the-preserve-pro",
+      "month": "May",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Tall Oak Open",
+      "event_key": "tall-oak-open",
+      "month": "Apr",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Leinenkugel's Throwdown",
+      "event_key": "leinenkugel-s-throwdown",
+      "month": "Apr",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Minnesota Spring Opener",
+      "event_key": "minnesota-spring-opener",
+      "month": "Mar",
+      "place": 1,
       "tier": "C",
       "tour": ""
     }
@@ -15391,6 +15639,7 @@
       "tour": ""
     }
   ],
+  "gage-johnson": [],
   "gannon-buhr": [
     {
       "event": "DGPT+ Ledgestone Open",
@@ -19880,6 +20129,88 @@
       "tour": "DGPT"
     }
   ],
+  "jake-lauber": [
+    {
+      "event": "Big Creek Flex Start Saturday 2",
+      "event_key": "big-creek-flex-start-saturday-2",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Dynamic Discs Glass Blown Open",
+      "event_key": "dynamic-discs-glass-blown-open",
+      "month": "Jun",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Discmania Challenge Ewing Flex Start Wednesday 2026",
+      "event_key": "discmania-challenge-ewing-flex-start-wednesday-2",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 35,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT Q-Series - 2026 Star City Classic Presented by DGA",
+      "event_key": "q-series-2026-star-city-classic-presented-by-dga",
+      "month": "Jun",
+      "place": 21,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Peninsula Showdown 2026",
+      "event_key": "peninsula-showdown-2026",
+      "month": "Apr",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Spring Fever Fling #37",
+      "event_key": "spring-fever-fling-37",
+      "month": "Apr",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "FDGTS Flex Start @ Ewing Park",
+      "event_key": "fdgts-flex-start-ewing-park",
+      "month": "Apr",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Dynamic Discs Monkey Island Open (Pro & Intermediate Divisio",
+      "event_key": "2026-dynamic-discs-monkey-island-open-pro-interm",
+      "month": "Mar",
+      "place": 13,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Rosedale Cup presented by Discraft - Pro, MA1, FA1",
+      "event_key": "2026-rosedale-cup-presented-by-discraft-pro-ma1-",
+      "month": "Mar",
+      "place": 9,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "jake-monn": [
     {
       "event": "DGPT+ Ledgestone Open",
@@ -20399,6 +20730,7 @@
     }
   ],
   "james-corder": [],
+  "james-stephenson": [],
   "jami-kuhanen": [
     {
       "event": "DGPT - Heinola Open presented by MVP",
@@ -20624,6 +20956,88 @@
       "month": "Jan",
       "place": 21,
       "tier": "A",
+      "tour": ""
+    }
+  ],
+  "jamison-monroe": [
+    {
+      "event": "Colfax Open Powered by Prodigy Discs",
+      "event_key": "colfax-open-powered-by-prodigy-discs",
+      "month": "Jun",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 79,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT Q-Series - 2026 Star City Classic Presented by DGA",
+      "event_key": "q-series-2026-star-city-classic-presented-by-dga",
+      "month": "Jun",
+      "place": 55,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Earth Day at the Preserve - Pro",
+      "event_key": "earth-day-at-the-preserve-pro",
+      "month": "May",
+      "place": 24,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Shaver Showdown 2026",
+      "event_key": "shaver-showdown-2026",
+      "month": "Apr",
+      "place": 8,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Big Woods Open",
+      "event_key": "big-woods-open",
+      "month": "Apr",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Big Creek Flex Start Saturday",
+      "event_key": "big-creek-flex-start-saturday",
+      "month": "Mar",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "A Warm Welcome @ Pickard Park (Flex Start)",
+      "event_key": "a-warm-welcome-pickard-park-flex-start",
+      "month": "Mar",
+      "place": 10,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Rosedale Cup presented by Discraft - Pro, MA1, FA1",
+      "event_key": "2026-rosedale-cup-presented-by-discraft-pro-ma1-",
+      "month": "Mar",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Shawnee Mission Frostbreaker Sponsored by Dynamic Discs - Pr",
+      "event_key": "2026-shawnee-mission-frostbreaker-sponsored-by-d",
+      "month": "Feb",
+      "place": 20,
+      "tier": "B",
       "tour": ""
     }
   ],
@@ -21023,6 +21437,7 @@
       "tour": ""
     }
   ],
+  "jasper-wirth": [],
   "jay-minton": [],
   "jayden-torres": [],
   "jedd-berger": [
@@ -21608,6 +22023,7 @@
       "tour": "DGPT"
     }
   ],
+  "jesse-henderson": [],
   "jesse-longenecker": [
     {
       "event": "DGPT+ Ledgestone Open",
@@ -23430,6 +23846,7 @@
     }
   ],
   "joshua-laronge": [],
+  "joshua-miller": [],
   "joshua-miller-3": [],
   "joshua-patin": [
     {
@@ -23972,6 +24389,7 @@
       "tour": ""
     }
   ],
+  "kaden-goodyear-275526": [],
   "kaidi-allsalu": [
     {
       "event": "DGPT - Heinola Open presented by MVP",
@@ -24783,6 +25201,7 @@
     }
   ],
   "kayleb-gillmore": [],
+  "keith-friestad": [],
   "keiti-ttte": [
     {
       "event": "DGPT - Heinola Open presented by MVP",
@@ -37731,6 +38150,96 @@
       "tour": "DGPT"
     }
   ],
+  "robert-johnson": [
+    {
+      "event": "Big Creek Flex Start Saturday 2",
+      "event_key": "big-creek-flex-start-saturday-2",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Colfax Open Powered by Prodigy Discs",
+      "event_key": "colfax-open-powered-by-prodigy-discs",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Earth Day at the Preserve - Pro",
+      "event_key": "earth-day-at-the-preserve-pro",
+      "month": "May",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Earth Day at the Preserve - Am",
+      "event_key": "earth-day-at-the-preserve-am",
+      "month": "May",
+      "place": 10,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "March into Maytag 2026",
+      "event_key": "march-into-maytag-2026",
+      "month": "Apr",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Big Creek Flex Start Saturday",
+      "event_key": "big-creek-flex-start-saturday",
+      "month": "Mar",
+      "place": 9,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "A Warm Welcome @ Pickard Park (Flex Start)",
+      "event_key": "a-warm-welcome-pickard-park-flex-start",
+      "month": "Mar",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Rosedale Cup presented by Discraft - Pro, MA1, FA1",
+      "event_key": "2026-rosedale-cup-presented-by-discraft-pro-ma1-",
+      "month": "Mar",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Osprey Opener (Flex Start)",
+      "event_key": "the-osprey-opener-flex-start",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Shawnee Mission Frostbreaker Sponsored by Dynamic Discs - Pr",
+      "event_key": "2026-shawnee-mission-frostbreaker-sponsored-by-d",
+      "month": "Feb",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "roland-kur": [
     {
       "event": "DGPT - Heinola Open presented by MVP",
@@ -38918,6 +39427,7 @@
     }
   ],
   "sarah-may": [],
+  "sarah-wadsworth": [],
   "sawyer-barlow": [],
   "scott-adams": [
     {
@@ -42468,6 +42978,7 @@
       "tour": ""
     }
   ],
+  "toby-mergen": [],
   "toke-kyed": [
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
