@@ -1,13 +1,13 @@
 {
   "division": "MPO",
   "week": "2026-33",
-  "saved_at": "2026-08-10T17:49:28.730930+00:00",
+  "saved_at": "2026-08-11T14:15:48.368315+00:00",
   "players": [
     {
       "slug": "gannon-buhr",
       "name": "Gannon Buhr",
       "tour_rank": 1,
-      "tour_weighted_points": 3150.0,
+      "tour_weighted_points": 3337.5,
       "dgpt_rank": 1,
       "wins": 11
     },
@@ -15,7 +15,7 @@
       "slug": "calvin-heimburg",
       "name": "Calvin Heimburg",
       "tour_rank": 2,
-      "tour_weighted_points": 1757.8,
+      "tour_weighted_points": 1807.8,
       "dgpt_rank": 3,
       "wins": 2
     },
@@ -23,7 +23,7 @@
       "slug": "richard-wysocki",
       "name": "Richard Wysocki",
       "tour_rank": 3,
-      "tour_weighted_points": 1652.5,
+      "tour_weighted_points": 1672.5,
       "dgpt_rank": 2,
       "wins": 2
     },
@@ -31,7 +31,7 @@
       "slug": "isaac-robinson",
       "name": "Isaac Robinson",
       "tour_rank": 4,
-      "tour_weighted_points": 1156.2,
+      "tour_weighted_points": 1176.2,
       "dgpt_rank": 4,
       "wins": 0
     },
@@ -39,7 +39,7 @@
       "slug": "adam-hammes",
       "name": "Adam Hammes",
       "tour_rank": 5,
-      "tour_weighted_points": 964.3,
+      "tour_weighted_points": 984.3,
       "dgpt_rank": 5,
       "wins": 0
     },
@@ -47,56 +47,56 @@
       "slug": "jaden-rye",
       "name": "Jaden Rye",
       "tour_rank": 6,
-      "tour_weighted_points": 802.8,
+      "tour_weighted_points": 822.8,
       "dgpt_rank": 18,
       "wins": 1
     },
     {
-      "slug": "eagle-mcmahon",
-      "name": "Eagle McMahon",
+      "slug": "niklas-anttila",
+      "name": "Niklas Anttila",
       "tour_rank": 7,
-      "tour_weighted_points": 771.2,
-      "dgpt_rank": 11,
-      "wins": 2
+      "tour_weighted_points": 782.9,
+      "dgpt_rank": 8,
+      "wins": 1
     },
     {
       "slug": "anthony-barela",
       "name": "Anthony Barela",
       "tour_rank": 8,
-      "tour_weighted_points": 769.8,
+      "tour_weighted_points": 777.3,
       "dgpt_rank": 6,
       "wins": 0
     },
     {
+      "slug": "eagle-mcmahon",
+      "name": "Eagle McMahon",
+      "tour_rank": 9,
+      "tour_weighted_points": 771.2,
+      "dgpt_rank": 11,
+      "wins": 2
+    },
+    {
       "slug": "gavin-babcock",
       "name": "Gavin Babcock",
-      "tour_rank": 9,
-      "tour_weighted_points": 743.5,
+      "tour_rank": 10,
+      "tour_weighted_points": 763.5,
       "dgpt_rank": 10,
       "wins": 0
     },
     {
-      "slug": "niklas-anttila",
-      "name": "Niklas Anttila",
-      "tour_rank": 10,
-      "tour_weighted_points": 732.9,
-      "dgpt_rank": 8,
-      "wins": 1
+      "slug": "evan-smith",
+      "name": "Evan Smith",
+      "tour_rank": 11,
+      "tour_weighted_points": 755.6,
+      "dgpt_rank": 30,
+      "wins": 3
     },
     {
       "slug": "luke-taylor",
       "name": "Luke Taylor",
-      "tour_rank": 11,
-      "tour_weighted_points": 649.5,
-      "dgpt_rank": 9,
-      "wins": 1
-    },
-    {
-      "slug": "cole-redalen",
-      "name": "Cole Redalen",
       "tour_rank": 12,
-      "tour_weighted_points": 611.4,
-      "dgpt_rank": 17,
+      "tour_weighted_points": 699.5,
+      "dgpt_rank": 9,
       "wins": 1
     }
   ]

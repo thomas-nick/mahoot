@@ -157,6 +157,14 @@
   ],
   "aaron-gossage": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -469,6 +477,14 @@
   ],
   "adam-hammes": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -599,6 +615,14 @@
     }
   ],
   "addison-woodard": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 14,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -1285,6 +1309,14 @@
   "alan-vazquez": [],
   "albert-tamm": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 41,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -1532,6 +1564,14 @@
   ],
   "alecia-hinkson": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -1640,6 +1680,30 @@
     }
   ],
   "alex-berg": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 107,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Ledgestone Flex - Wildlife Prairie Park (CEP Charity - Rated)",
+      "event_key": "ledgestone-flex-wildlife-prairie-park-cep-charit",
+      "month": "Jul",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Lake Eureka Preview Event & DGPT Qualifier (Flex Start)",
+      "event_key": "lake-eureka-preview-event-dgpt-qualifier-flex-st",
+      "month": "Jul",
+      "place": 16,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Dynamic Discs Silver Cup XXVI Pro",
       "event_key": "dynamic-discs-silver-cup-xxvi-pro",
@@ -1889,6 +1953,14 @@
   "alexander-karanzas": [],
   "alexis-kerman": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 24,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -2026,6 +2098,14 @@
     }
   ],
   "alexis-mandujano": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -2247,6 +2327,38 @@
   ],
   "anders-lind": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 88,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Highbridge Hills Open",
+      "event_key": "highbridge-hills-open",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Iron Range Classic - Singles",
+      "event_key": "iron-range-classic-singles",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Titan Open 2026 presented by Discraft",
+      "event_key": "titan-open-2026-presented-by-discraft",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Dynamic Discs Silver Cup XXVI Pro",
       "event_key": "dynamic-discs-silver-cup-xxvi-pro",
       "month": "Jul",
@@ -2383,6 +2495,38 @@
   "andrew-cogley": [],
   "andrew-fish": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 91,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "The Appalachia Open",
+      "event_key": "the-appalachia-open",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Safe Harbor Retirement Planners Presents: The County Home Classic",
+      "event_key": "safe-harbor-retirement-planners-presents-the-cou",
+      "month": "Jul",
+      "place": 10,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Warwick Disc Golf Championships",
+      "event_key": "warwick-disc-golf-championships",
+      "month": "Jul",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Sapwood Showdown 2026",
       "event_key": "sapwood-showdown-2026",
       "month": "Jun",
@@ -2424,6 +2568,14 @@
     }
   ],
   "andrew-marwede": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 41,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -2580,6 +2732,14 @@
   ],
   "andrew-miranda": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 67,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -2718,6 +2878,14 @@
     }
   ],
   "andrew-presnell": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 62,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -3095,6 +3263,14 @@
   ],
   "anneli-tugjas-mnniste": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -3437,6 +3613,14 @@
     }
   ],
   "anthony-barela": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 32,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -4045,6 +4229,14 @@
   ],
   "austen-bates": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -4230,6 +4422,14 @@
     }
   ],
   "austin-turner": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -4710,6 +4910,22 @@
   ],
   "benjamin-callaway": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 58,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Titan Open 2026 presented by Discraft",
+      "event_key": "titan-open-2026-presented-by-discraft",
+      "month": "Jul",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Greater Peoria Open",
       "event_key": "greater-peoria-open",
       "month": "Jun",
@@ -5163,6 +5379,14 @@
   ],
   "bo-mclaughlin": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 67,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -5389,6 +5613,14 @@
   ],
   "bradley-baumgardner": [],
   "bradley-williams": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 112,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -5626,6 +5858,14 @@
     }
   ],
   "braeden-sides": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 102,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -5922,6 +6162,14 @@
   "bryson-little": [],
   "cadence-burge": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - Queen City Classic presented by Another Round",
       "event_key": "queen-city-classic-presented-by-another-round",
       "month": "Mar",
@@ -6069,6 +6317,14 @@
     }
   ],
   "caleb-bruce": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 82,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -6298,6 +6554,14 @@
   ],
   "calvin-delamere": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 87,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -6347,6 +6611,14 @@
     }
   ],
   "calvin-heimburg": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -6494,6 +6766,14 @@
     }
   ],
   "calvin-lonnquist": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 74,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -6723,6 +7003,14 @@
     }
   ],
   "cam-rico": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 84,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -7046,6 +7334,14 @@
   ],
   "casey-white": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -7266,6 +7562,14 @@
     }
   ],
   "catrina-allen": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -7503,6 +7807,14 @@
     }
   ],
   "chandler-kramer": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 64,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -7914,6 +8226,14 @@
   "chelsea-sutton": [],
   "chris-clemons": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -8043,6 +8363,14 @@
     }
   ],
   "chris-dickerson": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -8195,6 +8523,14 @@
     }
   ],
   "clay-edwards": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 62,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -8430,6 +8766,22 @@
   "colby-jones": [],
   "colby-schefers": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 96,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 57,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGVTour #6 - Brewster Ridge Open Driven by Innova - DGPT Q-Series",
       "event_key": "dgvtour-6-brewster-ridge-open-driven-by-innova-d",
       "month": "Jun",
@@ -8519,6 +8871,14 @@
     }
   ],
   "cole-redalen": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -8659,6 +9019,14 @@
   ],
   "colin-bryant": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -8774,6 +9142,14 @@
     }
   ],
   "colten-montgomery": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 96,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -9029,6 +9405,14 @@
   "connor-king": [],
   "connor-oreilly": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -9283,6 +9667,14 @@
   ],
   "corey-ellis": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 51,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -9453,6 +9845,14 @@
     }
   ],
   "cynthia-ricciotti": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -9913,6 +10313,14 @@
   ],
   "danik-hart": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -10103,6 +10511,14 @@
   ],
   "david-konoplev": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 100,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
       "event_key": "british-columbia-open-pro-raptors-knoll-presente",
       "month": "Jun",
@@ -10176,6 +10592,14 @@
     }
   ],
   "dawson-snelling": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -10528,6 +10952,22 @@
     }
   ],
   "donovan-stein": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 104,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Twin Town Throwdown",
+      "event_key": "twin-town-throwdown",
+      "month": "Jul",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Dynamic Discs Silver Cup XXVI Pro",
       "event_key": "dynamic-discs-silver-cup-xxvi-pro",
@@ -11115,6 +11555,14 @@
   ],
   "eden-fornoff": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 37,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -11457,6 +11905,22 @@
   ],
   "eli-swansen": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 74,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Highbridge Hills Open",
+      "event_key": "highbridge-hills-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -11785,6 +12249,14 @@
   "elias-nordberg": [],
   "eliezra-midtlyng": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -11964,6 +12436,14 @@
   ],
   "elijah-bickel": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 58,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -12118,6 +12598,14 @@
     }
   ],
   "elijah-riderbrandt": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -12469,6 +12957,14 @@
   ],
   "ella-hansen": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -12682,6 +13178,14 @@
   ],
   "ellie-bryant": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 47,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -12748,6 +13252,14 @@
   ],
   "elmeri-laaksonen": [],
   "elva-kate-preston": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -13174,6 +13686,14 @@
   ],
   "emily-weatherman": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -13320,6 +13840,14 @@
     }
   ],
   "emily-yale": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 46,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -13685,6 +14213,14 @@
   ],
   "erika-apple": [],
   "erika-stinchcomb": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -14224,6 +14760,14 @@
   ],
   "evan-scott": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -14378,6 +14922,30 @@
     }
   ],
   "evan-smith": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Crom Transmission & Automotive Specialist Presents The 6th Annual",
+      "event_key": "crom-transmission-automotive-specialist-presents",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Discraft Presents: Spike Hyzer's Fifth Annual Piedmont Disc Golf",
       "event_key": "discraft-presents-spike-hyzer-s-fifth-annual-pie",
@@ -14559,6 +15127,14 @@
     }
   ],
   "ezra-aderhold": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 26,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -14821,6 +15397,14 @@
     }
   ],
   "ezra-robinson": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 26,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -15642,6 +16226,14 @@
   "gage-johnson": [],
   "gannon-buhr": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -15813,6 +16405,14 @@
   ],
   "garrett-dknox": [],
   "garrett-gurthie": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 67,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -16028,6 +16628,14 @@
   "gaute-hauge": [],
   "gavin-babcock": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -16158,6 +16766,14 @@
     }
   ],
   "gavin-bos": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 74,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -16306,6 +16922,14 @@
   ],
   "gavin-king": [],
   "gavin-phillips": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 29,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -16497,6 +17121,14 @@
   ],
   "gillis-macdougall": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 91,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -16620,6 +17252,14 @@
   "gracen-lomelino": [],
   "graham-fuller": [],
   "gregg-barsby": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 89,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -16970,6 +17610,14 @@
   "halvard-solberg": [],
   "hanna-huynh": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -17219,6 +17867,14 @@
   ],
   "harper-thompson": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 41,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -17404,6 +18060,14 @@
     }
   ],
   "harry-chace": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 51,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -17673,6 +18337,14 @@
     }
   ],
   "heidi-laine": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -18534,6 +19206,14 @@
   ],
   "holyn-handley": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -18804,6 +19484,14 @@
   "ida-kennmark": [],
   "idaemilie-nesse": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -19019,6 +19707,14 @@
     }
   ],
   "isaac-robinson": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 14,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -19741,6 +20437,14 @@
   ],
   "jaden-rye": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 11,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -19976,6 +20680,14 @@
   ],
   "jake-hebenheimer": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -20131,6 +20843,14 @@
   ],
   "jake-lauber": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 79,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Big Creek Flex Start Saturday 2",
       "event_key": "big-creek-flex-start-saturday-2",
       "month": "Jul",
@@ -20212,6 +20932,14 @@
     }
   ],
   "jake-monn": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 85,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -20616,6 +21344,14 @@
   "james-collier": [],
   "james-conrad": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 73,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -20961,6 +21697,14 @@
   ],
   "jamison-monroe": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 111,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Colfax Open Powered by Prodigy Discs",
       "event_key": "colfax-open-powered-by-prodigy-discs",
       "month": "Jun",
@@ -21117,6 +21861,14 @@
   ],
   "jannicke-hjemli": [],
   "jared-stoll": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 91,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -21703,6 +22455,14 @@
   ],
   "jennifer-smiley": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 43,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -22026,6 +22786,14 @@
   "jesse-henderson": [],
   "jesse-longenecker": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 26,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -22083,6 +22851,14 @@
     }
   ],
   "jesse-nieminen": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 29,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -22200,6 +22976,14 @@
     }
   ],
   "jessica-gurthie": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -22579,6 +23363,14 @@
   ],
   "joel-freeman": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 64,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -22716,6 +23508,14 @@
     }
   ],
   "joey-temali": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -23649,6 +24449,14 @@
     }
   ],
   "joseph-anderson": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -24954,6 +25762,14 @@
   ],
   "kat-mertsch": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -25293,6 +26109,14 @@
     }
   ],
   "kelley-foster": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 20,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -25662,6 +26486,14 @@
   ],
   "kevin-jones": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 81,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -25958,6 +26790,14 @@
   ],
   "konastar-montgomery": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -26189,6 +27029,14 @@
   ],
   "kyle-klein": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 112,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -26279,6 +27127,14 @@
   ],
   "kyle-krieckhaus": [],
   "kylie-kohut": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 11,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -26675,6 +27531,14 @@
   "laura-tatiananiocarranza": [],
   "lauren-butler": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -26894,6 +27758,14 @@
     }
   ],
   "leah-tsinajinnie": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -27130,6 +28002,14 @@
     }
   ],
   "levi-stout": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 82,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -27605,6 +28485,14 @@
   ],
   "lisa-fajkus": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 29,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -27927,6 +28815,14 @@
   "luca-nieminen": [],
   "lucas-carmichael": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 51,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -28082,6 +28978,14 @@
   ],
   "lucas-oberholtzerhess": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -28171,6 +29075,14 @@
     }
   ],
   "luke-humphries": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 74,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -28318,6 +29230,14 @@
     }
   ],
   "luke-samson": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -28497,6 +29417,14 @@
     }
   ],
   "luke-taylor": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -29419,6 +30347,14 @@
   ],
   "maria-oliva": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -29982,6 +30918,14 @@
     }
   ],
   "mason-ford": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 29,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -31260,6 +32204,14 @@
   ],
   "matthew-orum": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 74,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -32285,6 +33237,14 @@
   ],
   "miles-sayer": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 58,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -32433,6 +33393,14 @@
     }
   ],
   "missy-gannon": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -32757,6 +33725,14 @@
   "natalie-berg-268900": [],
   "nate-corder": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 114,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -33021,6 +33997,14 @@
   ],
   "nathan-queen": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 91,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -33198,6 +34182,14 @@
     }
   ],
   "nathan-sexton-1": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 51,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "The Canadian National Championships - Supported by Innova",
       "event_key": "the-canadian-national-championships-supported-by",
@@ -34004,6 +34996,14 @@
   ],
   "niklas-anttila": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -34762,6 +35762,14 @@
   ],
   "ohn-scoggins": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -35477,6 +36485,14 @@
   ],
   "paige-pierce": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -35608,6 +36624,14 @@
   ],
   "parker-austin": [],
   "parker-welck": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 41,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -35789,6 +36813,14 @@
   "patrick-yu": [],
   "paul-davidson": [],
   "paul-krans": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -36084,6 +37116,14 @@
     }
   ],
   "paul-ulibarri": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 32,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -36602,6 +37642,14 @@
   ],
   "rasmus-saukkoriipi": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -36873,6 +37921,14 @@
   ],
   "raven-klein": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 39,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -36987,6 +38043,14 @@
     }
   ],
   "raven-newsom": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 32,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -37143,6 +38207,14 @@
   ],
   "rebecca-cox": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -37256,6 +38328,14 @@
     }
   ],
   "rebecca-don": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -37666,6 +38746,14 @@
   ],
   "richard-wysocki": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 14,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -37981,6 +39069,14 @@
   "riku-grhn": [],
   "robert-burridge": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 67,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -38151,6 +39247,38 @@
     }
   ],
   "robert-johnson": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 109,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Discraft's Ledgestone Open presented by Z\u00fcca",
+      "event_key": "discraft-s-ledgestone-open-presented-by-z-ca",
+      "month": "Jul",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Grandview Rendezvous 2026",
+      "event_key": "grandview-rendezvous-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Hoot'n and Shoot'n in Newton 2026",
+      "event_key": "hoot-n-and-shoot-n-in-newton-2026",
+      "month": "Jul",
+      "place": 11,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Big Creek Flex Start Saturday 2",
       "event_key": "big-creek-flex-start-saturday-2",
@@ -38651,6 +39779,14 @@
   ],
   "ryan-monn": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -38797,6 +39933,14 @@
     }
   ],
   "ryan-mulder": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -39345,6 +40489,14 @@
     }
   ],
   "sarah-hokom": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 24,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -40267,6 +41419,14 @@
   ],
   "silas-schultz": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -40664,6 +41824,14 @@
     }
   ],
   "sintija-klezberga": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -41439,6 +42607,14 @@
   "stephen-mclaren": [],
   "sullivan-tipton": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -41628,6 +42804,14 @@
     }
   ],
   "tailey-rowley": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -41871,6 +43055,14 @@
   ],
   "tanisha-platero": [],
   "taylor-chocek": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 24,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -43407,6 +44599,14 @@
   "tori-pasquin": [],
   "trevon-crowe": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 102,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -43445,6 +44645,14 @@
       "place": 93,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "Cannonball Sanctioned Summer 26",
+      "event_key": "cannonball-sanctioned-summer-26",
+      "month": "Jun",
+      "place": 2,
+      "tier": "L",
+      "tour": ""
     },
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
@@ -43894,6 +45102,14 @@
   ],
   "ty-love": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -44100,6 +45316,14 @@
     }
   ],
   "valerie-mandujano": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -44367,6 +45591,14 @@
   ],
   "ville-vonhertzen": [],
   "vin-mkel": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 58,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -44657,6 +45889,22 @@
   ],
   "woods-mccue": [],
   "wyatt-mahoney": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Warwick Disc Golf Championships",
+      "event_key": "warwick-disc-golf-championships",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Brewport Open",
       "event_key": "brewport-open",
@@ -45013,6 +46261,14 @@
   ],
   "zach-arlinghaus": [
     {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -45305,6 +46561,14 @@
     }
   ],
   "zachary-nash": [
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",

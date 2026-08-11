@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T17:50:06.379779+00:00",
+  "updated_at": "2026-08-11T14:16:22.264498+00:00",
   "divisions": {
     "MPO": {
       "weeks": [
@@ -1386,49 +1386,49 @@
               {
                 "id": "gannon-buhr",
                 "label": "Gannon Buhr",
-                "points": 3150.0,
+                "points": 3337.5,
                 "rank": 1
               },
               {
                 "id": "calvin-heimburg",
                 "label": "Calvin Heimburg",
-                "points": 1757.8,
+                "points": 1807.8,
                 "rank": 2
               },
               {
                 "id": "richard-wysocki",
                 "label": "Richard Wysocki",
-                "points": 1652.5,
+                "points": 1672.5,
                 "rank": 3
               },
               {
                 "id": "isaac-robinson",
                 "label": "Isaac Robinson",
-                "points": 1156.2,
+                "points": 1176.2,
                 "rank": 4
               },
               {
                 "id": "adam-hammes",
                 "label": "Adam Hammes",
-                "points": 964.3,
+                "points": 984.3,
                 "rank": 5
               },
               {
                 "id": "jaden-rye",
                 "label": "Jaden Rye",
-                "points": 802.8,
+                "points": 822.8,
                 "rank": 6
               },
               {
-                "id": "eagle-mcmahon",
-                "label": "Eagle McMahon",
-                "points": 771.2,
+                "id": "niklas-anttila",
+                "label": "Niklas Anttila",
+                "points": 782.9,
                 "rank": 7
               },
               {
                 "id": "anthony-barela",
                 "label": "Anthony Barela",
-                "points": 769.8,
+                "points": 777.3,
                 "rank": 8
               }
             ]
@@ -1492,7 +1492,7 @@
               },
               {
                 "week": "2026-33",
-                "value": 3150.0,
+                "value": 3337.5,
                 "rank": 1
               }
             ]
@@ -1554,7 +1554,7 @@
               },
               {
                 "week": "2026-33",
-                "value": 1757.8,
+                "value": 1807.8,
                 "rank": 2
               }
             ]
@@ -1616,7 +1616,7 @@
               },
               {
                 "week": "2026-33",
-                "value": 1652.5,
+                "value": 1672.5,
                 "rank": 3
               }
             ]
@@ -1678,7 +1678,7 @@
               },
               {
                 "week": "2026-33",
-                "value": 1156.2,
+                "value": 1176.2,
                 "rank": 4
               }
             ]
@@ -1740,7 +1740,7 @@
               },
               {
                 "week": "2026-33",
-                "value": 964.3,
+                "value": 984.3,
                 "rank": 5
               }
             ]
@@ -3041,7 +3041,7 @@
               {
                 "id": "holyn-handley",
                 "label": "Holyn Handley",
-                "points": 2300.0,
+                "points": 2350.0,
                 "rank": 1
               },
               {
@@ -3053,7 +3053,7 @@
               {
                 "id": "ohn-scoggins",
                 "label": "Ohn Scoggins",
-                "points": 2106.2,
+                "points": 2156.2,
                 "rank": 3
               },
               {
@@ -3063,15 +3063,15 @@
                 "rank": 4
               },
               {
-                "id": "missy-gannon",
-                "label": "Missy Gannon",
-                "points": 1177.5,
+                "id": "ella-hansen",
+                "label": "Ella Hansen",
+                "points": 1352.0,
                 "rank": 5
               },
               {
-                "id": "ella-hansen",
-                "label": "Ella Hansen",
-                "points": 1102.0,
+                "id": "missy-gannon",
+                "label": "Missy Gannon",
+                "points": 1265.0,
                 "rank": 6
               },
               {
@@ -3083,7 +3083,7 @@
               {
                 "id": "lisa-fajkus",
                 "label": "Lisa Fajkus",
-                "points": 970.2,
+                "points": 977.7,
                 "rank": 8
               }
             ]
@@ -3147,7 +3147,7 @@
               },
               {
                 "week": "2026-33",
-                "value": 2300.0,
+                "value": 2350.0,
                 "rank": 1
               }
             ]
@@ -3271,7 +3271,7 @@
               },
               {
                 "week": "2026-33",
-                "value": 2106.2,
+                "value": 2156.2,
                 "rank": 3
               }
             ]
@@ -3339,8 +3339,8 @@
             ]
           },
           {
-            "id": "missy-gannon",
-            "label": "Missy Gannon",
+            "id": "ella-hansen",
+            "label": "Ella Hansen",
             "color": "#d97706",
             "points": [
               {
@@ -3350,33 +3350,33 @@
               },
               {
                 "week": "2026-22",
-                "value": 542.5,
-                "rank": 5
+                "value": null,
+                "rank": null
               },
               {
                 "week": "2026-23",
-                "value": 542.5,
-                "rank": 7
+                "value": null,
+                "rank": null
               },
               {
                 "week": "2026-24",
-                "value": 630.0,
-                "rank": 5
+                "value": null,
+                "rank": null
               },
               {
                 "week": "2026-26",
-                "value": 770.0,
-                "rank": 6
+                "value": 674.5,
+                "rank": 7
               },
               {
                 "week": "2026-27",
-                "value": 820.0,
-                "rank": 6
+                "value": 724.5,
+                "rank": 7
               },
               {
                 "week": "2026-28",
-                "value": 820.0,
-                "rank": 6
+                "value": 724.5,
+                "rank": 7
               },
               {
                 "week": "2026-29",
@@ -3385,17 +3385,17 @@
               },
               {
                 "week": "2026-31",
-                "value": 1127.5,
-                "rank": 5
+                "value": 914.5,
+                "rank": 7
               },
               {
                 "week": "2026-32",
-                "value": 1177.5,
-                "rank": 5
+                "value": 1102.0,
+                "rank": 6
               },
               {
                 "week": "2026-33",
-                "value": 1177.5,
+                "value": 1352.0,
                 "rank": 5
               }
             ]
