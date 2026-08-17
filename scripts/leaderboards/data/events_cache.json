@@ -4966,6 +4966,7 @@
       "tour": ""
     }
   ],
+  "benjamin-marolf": [],
   "bennett-doemland": [
     {
       "event": "DGPT+ Ledgestone Open",
@@ -6155,10 +6156,21 @@
   ],
   "brenden-koontz": [],
   "brennan-voss": [],
+  "brent-schilling": [],
   "brit-hamburg": [],
   "brittney-armentrout-45407": [],
   "brock-tennyson": [],
   "brook-johnson": [],
+  "bryce-harvey": [
+    {
+      "event": "Earth Day at the Preserve - Pro",
+      "event_key": "earth-day-at-the-preserve-pro",
+      "month": "May",
+      "place": 88,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "bryson-little": [],
   "cadence-burge": [
     {
@@ -7274,6 +7286,48 @@
     }
   ],
   "carson-fowler": [],
+  "carter-ahrens": [
+    {
+      "event": "Ink Me Flex @ Sanders Ferry",
+      "event_key": "ink-me-flex-sanders-ferry",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 College Disc Golf National Championships - Singles MC1",
+      "event_key": "2026-college-disc-golf-national-championships-si",
+      "month": "Apr",
+      "place": 6,
+      "tier": "M",
+      "tour": ""
+    },
+    {
+      "event": "The Jayhawk Boom at Bloom Conference Event - Singles",
+      "event_key": "the-jayhawk-boom-at-bloom-conference-event-singl",
+      "month": "Feb",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "ESU Conference Event - Team",
+      "event_key": "esu-conference-event-team",
+      "month": "Feb",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "ESU Conference Event - Singles",
+      "event_key": "esu-conference-event-singles",
+      "month": "Feb",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    }
+  ],
   "casey-pennington": [
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
@@ -8468,6 +8522,7 @@
       "tour": "DGPT"
     }
   ],
+  "chris-kelley": [],
   "chris-reliford": [],
   "christian-byars": [],
   "christian-dietrich": [
@@ -10301,6 +10356,80 @@
       "tour": "DGPT"
     }
   ],
+  "daniel-polk": [
+    {
+      "event": "Maiden Shade Open",
+      "event_key": "maiden-shade-open",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Tim Selinske United States Masters Disc Golf Championships",
+      "event_key": "2026-tim-selinske-united-states-masters-disc-gol",
+      "month": "May",
+      "place": 15,
+      "tier": "M",
+      "tour": ""
+    },
+    {
+      "event": "Earth Day at the Preserve - Pro",
+      "event_key": "earth-day-at-the-preserve-pro",
+      "month": "May",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Leinenkugel's Throwdown",
+      "event_key": "leinenkugel-s-throwdown",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Throw Harder Spring Fling",
+      "event_key": "throw-harder-spring-fling",
+      "month": "Apr",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Oakwood Meltdown",
+      "event_key": "oakwood-meltdown",
+      "month": "Mar",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Minnesota Spring Opener",
+      "event_key": "minnesota-spring-opener",
+      "month": "Mar",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Memorial Championship presented by Discraft",
+      "event_key": "the-memorial-championship-presented-by-discraft",
+      "month": "Feb",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
   "danielle-weigandt": [
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
@@ -10424,6 +10553,129 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "danny-beck": [],
+  "david-fleck": [
+    {
+      "event": "Clement Classic 2026",
+      "event_key": "clement-classic-2026",
+      "month": "Jul",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Brewport Open",
+      "event_key": "brewport-open",
+      "month": "Jul",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "East Coast Metal Roofing presents The Massachusetts State Champio",
+      "event_key": "east-coast-metal-roofing-presents-the-massachuse",
+      "month": "Jun",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGVTour #6 - Brewster Ridge Open Driven by Innova - DGPT Q-Series",
+      "event_key": "dgvtour-6-brewster-ridge-open-driven-by-innova-d",
+      "month": "Jun",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DisCap presents the 2026 Mine Kill Disc Golf Championship sponsor",
+      "event_key": "discap-presents-the-2026-mine-kill-disc-golf-cha",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Discmania Presents Sunshine Open at 501 and Mile Marker 63 - Powe",
+      "event_key": "discmania-presents-sunshine-open-at-501-and-mile",
+      "month": "May",
+      "place": 21,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "4th Annual Rhode Island Disc Golf Championships Presented By UPS",
+      "event_key": "4th-annual-rhode-island-disc-golf-championships-",
+      "month": "May",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGVT PDGA Flex League",
+      "event_key": "dgvt-pdga-flex-league",
+      "month": "May",
+      "place": 5,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "Prodigy presents the Lake Marshall Open- Pro",
+      "event_key": "prodigy-presents-the-lake-marshall-open-pro",
+      "month": "May",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Oakholm Open",
+      "event_key": "the-oakholm-open",
+      "month": "May",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Apple Blossom at Meadowbrook Orchards - Pro day",
+      "event_key": "apple-blossom-at-meadowbrook-orchards-pro-day",
+      "month": "May",
+      "place": 19,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2nd Annual Greystone Woods Disc Golf Club Championship - Pros",
+      "event_key": "2nd-annual-greystone-woods-disc-golf-club-champi",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Blue Ridge Championship Generated By Grit Discs",
+      "event_key": "the-blue-ridge-championship-generated-by-grit-di",
+      "month": "Apr",
+      "place": 30,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The 23rd Annual FDR Fools Fest, Presented by Innova - MPO",
+      "event_key": "the-23rd-annual-fdr-fools-fest-presented-by-inno",
+      "month": "Mar",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
     }
   ],
   "david-hurley": [
@@ -18772,6 +19024,7 @@
       "tour": ""
     }
   ],
+  "henry-myos": [],
   "henry-schlabach": [],
   "henry-thoma": [
     {
@@ -23104,6 +23357,64 @@
       "source": "pdga:96409",
       "tier": "NT",
       "tour": "DGPT"
+    }
+  ],
+  "jessica-kinard": [
+    {
+      "event": "Millbrook Metamorphosis",
+      "event_key": "millbrook-metamorphosis",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Gifford Pinchot Classic Presented by Central Pa Disc Golf",
+      "event_key": "gifford-pinchot-classic-presented-by-central-pa-",
+      "month": "Jun",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "TreeMagnets: The Fir Frenzy",
+      "event_key": "treemagnets-the-fir-frenzy",
+      "month": "May",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Blue Ridge Championship Generated By Grit Discs",
+      "event_key": "the-blue-ridge-championship-generated-by-grit-di",
+      "month": "Apr",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Mill Brook Spring League",
+      "event_key": "mill-brook-spring-league",
+      "month": "Mar",
+      "place": 10,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "Battle at the Hills",
+      "event_key": "battle-at-the-hills",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "9th Annual Winter of DISContent",
+      "event_key": "9th-annual-winter-of-discontent",
+      "month": "Feb",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
     }
   ],
   "jessica-zilch": [],
@@ -33523,6 +33834,40 @@
       "tour": "DGPT"
     }
   ],
+  "mitchell-privette": [
+    {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Becker Brawl presented by Exclusive Buyer Agent Tom Marcus",
+      "event_key": "becker-brawl-presented-by-exclusive-buyer-agent-",
+      "month": "May",
+      "place": 9,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Earth Day at the Preserve - Pro",
+      "event_key": "earth-day-at-the-preserve-pro",
+      "month": "May",
+      "place": 17,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Leinenkugel's Throwdown",
+      "event_key": "leinenkugel-s-throwdown",
+      "month": "Apr",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "mj-gager": [],
   "morgan-lynds": [
     {
@@ -37400,6 +37745,7 @@
   ],
   "peyton-kohut": [],
   "peyton-mansell": [],
+  "pj-lenz": [],
   "rainers-balodis": [
     {
       "event": "DGPT - Heinola Open presented by MVP",
@@ -39368,6 +39714,7 @@
       "tour": ""
     }
   ],
+  "robert-munoz": [],
   "roland-kur": [
     {
       "event": "DGPT - Heinola Open presented by MVP",
@@ -40038,6 +40385,24 @@
       "tour": ""
     }
   ],
+  "ryan-sheldon": [
+    {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Earth Day at the Preserve - Pro",
+      "event_key": "earth-day-at-the-preserve-pro",
+      "month": "May",
+      "place": 40,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "sadie-shattuck": [
     {
       "event": "Dips Discs 2026 South Sound Classic Presented By Dynamic Discs -",
@@ -40396,6 +40761,7 @@
       "tour": ""
     }
   ],
+  "samuel-nicholson": [],
   "samuel-snider": [],
   "sanne-dalseth": [],
   "sarah-duran": [
@@ -40727,6 +41093,7 @@
       "tour": ""
     }
   ],
+  "scott-stokely": [],
   "scott-withers": [
     {
       "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
@@ -40999,6 +41366,7 @@
     }
   ],
   "shane-anderson-1": [],
+  "shane-oleary": [],
   "shelby-cowen": [],
   "sheliemae-lai": [
     {
@@ -41823,6 +42191,7 @@
       "tour": "DGPT"
     }
   ],
+  "simon-solin": [],
   "sintija-klezberga": [
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
@@ -42605,6 +42974,88 @@
     }
   ],
   "stephen-mclaren": [],
+  "stevie-frisch": [
+    {
+      "event": "Clement Classic 2026",
+      "event_key": "clement-classic-2026",
+      "month": "Jul",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Clash at the Cliffs",
+      "event_key": "clash-at-the-cliffs",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
+      "event_key": "q-series-discraft-s-oakland-county-championship",
+      "month": "Jun",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc Golf",
+      "event_key": "the-challenge-reidy-creek-2026-presented-by-inno",
+      "month": "Jun",
+      "place": 38,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Cosmic Open at Maple Hill x MVP (Q-Series)",
+      "event_key": "cosmic-open-at-maple-hill-x-mvp-q-series",
+      "month": "Jun",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Discmania Presents Sunshine Open at 501 and Mile Marker 63 - Powe",
+      "event_key": "discmania-presents-sunshine-open-at-501-and-mile",
+      "month": "May",
+      "place": 29,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGVT PDGA Flex League",
+      "event_key": "dgvt-pdga-flex-league",
+      "month": "May",
+      "place": 4,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "Prodigy presents the Lake Marshall Open- Pro",
+      "event_key": "prodigy-presents-the-lake-marshall-open-pro",
+      "month": "May",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Oakholm Open",
+      "event_key": "the-oakholm-open",
+      "month": "May",
+      "place": 19,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2nd Annual Greystone Woods Disc Golf Club Championship - Pros",
+      "event_key": "2nd-annual-greystone-woods-disc-golf-club-champi",
+      "month": "Apr",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "sullivan-tipton": [
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
@@ -43054,6 +43505,7 @@
     }
   ],
   "tanisha-platero": [],
+  "tanner-boggs": [],
   "taylor-chocek": [
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
@@ -43662,6 +44114,64 @@
       "tour": ""
     }
   ],
+  "thomas-gilbert": [
+    {
+      "event": "The Canadian National Championships - Supported by Innova",
+      "event_key": "the-canadian-national-championships-supported-by",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
+      "event_key": "british-columbia-open-pro-raptors-knoll-presente",
+      "month": "Jun",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Dreamaker Open VI",
+      "event_key": "dreamaker-open-vi",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Greenfoot Energy Dieppe Open 2026 - Elevated by Thought Space Ath",
+      "event_key": "greenfoot-energy-dieppe-open-2026-elevated-by-th",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Heights Slopeside Sling",
+      "event_key": "the-heights-slopeside-sling",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Explore Waterloo Region Foxwood Open 2026 - Driven by Innova",
+      "event_key": "the-explore-waterloo-region-foxwood-open-2026-dr",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Muskoka Open",
+      "event_key": "2026-muskoka-open",
+      "month": "May",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "thomas-helgesen": [
     {
       "event": "Norgesmesterskapet i Diskgolf 2026",
@@ -44082,6 +44592,40 @@
       "tour": "DGPT"
     }
   ],
+  "timothy-tjjohnsonjr": [
+    {
+      "event": "Maiden Shade Open",
+      "event_key": "maiden-shade-open",
+      "month": "Jun",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Majestic",
+      "event_key": "the-majestic",
+      "month": "Jun",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Becker Brawl presented by Exclusive Buyer Agent Tom Marcus",
+      "event_key": "becker-brawl-presented-by-exclusive-buyer-agent-",
+      "month": "May",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Earth Day at the Preserve - Pro",
+      "event_key": "earth-day-at-the-preserve-pro",
+      "month": "May",
+      "place": 28,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "tj-reel": [
     {
       "event": "DGPT JomezPro - Discraft Cascade Challenge",
@@ -44450,6 +44994,16 @@
     }
   ],
   "tomas-jeronimo": [],
+  "tony-candyarmscahill": [
+    {
+      "event": "Dips Discs 2026 South Sound Classic Presented By Dynamic Discs -",
+      "event_key": "dips-discs-2026-south-sound-classic-presented-by",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
   "tony-moereiss": [
     {
       "event": "Charlie Vettiner Open presented by Prodigy and Bomb Discs",
@@ -46560,6 +47114,7 @@
       "tour": "DGPT"
     }
   ],
+  "zach-trotto": [],
   "zachary-nash": [
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
