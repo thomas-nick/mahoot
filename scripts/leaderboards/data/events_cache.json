@@ -9975,11 +9975,34 @@
   ],
   "dallas-garber": [
     {
-      "event": "DGPT+ OTB Open by MVP Disc Sports",
-      "event_key": "otb-open-by-mvp-disc-sports",
-      "month": "May",
-      "place": 23,
-      "source": "pdga:96409",
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 32,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
+      "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 61,
       "tier": "NT",
       "tour": "DGPT"
     },
@@ -9988,8 +10011,144 @@
       "event_key": "jomezpro-discraft-cascade-challenge",
       "month": "May",
       "place": 29,
-      "source": "pdga:98193",
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
+      "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
+      "month": "May",
+      "place": 77,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro - Innova presents WACO powered by Legit Disc Golf",
+      "event_key": "jomezpro-innova-presents-waco-powered-by-legit-d",
+      "month": "May",
+      "place": 54,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
+      "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
+      "month": "Apr",
+      "place": 61,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "2026 PDGA Champions Cup Presented by Vessi",
+      "event_key": "2026-pdga-champions-cup-presented-by-vessi",
+      "month": "Apr",
+      "place": 51,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "43rd Annual Dogwood Crosstown Classic",
+      "event_key": "43rd-annual-dogwood-crosstown-classic",
+      "month": "Apr",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Queen City Classic presented by Another Round",
+      "event_key": "queen-city-classic-presented-by-another-round",
+      "month": "Mar",
+      "place": 66,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Discraft Presents: Spike Hyzer\u2019s North Carolina Disc Golf Champ",
+      "event_key": "discraft-presents-spike-hyzer-s-north-carolina-d",
+      "month": "Mar",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - MVP Big Easy Open presented by Flight Factory",
+      "event_key": "mvp-big-easy-open-presented-by-flight-factory",
+      "month": "Mar",
+      "place": 52,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Discraft presents Throw Down the Mountain XIV - Weekend 1",
+      "event_key": "discraft-presents-throw-down-the-mountain-xiv-we",
+      "month": "Mar",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Discraft\u2019s Supreme Flight Open Presented by Florida\u2019s",
+      "event_key": "discraft-s-supreme-flight-open-presented-by-flor",
+      "month": "Feb",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Frostbite Open 2026",
+      "event_key": "frostbite-open-2026",
+      "month": "Feb",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "48th Annual Wintertime Open (Pro Weekend)",
+      "event_key": "48th-annual-wintertime-open-pro-weekend",
+      "month": "Feb",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "9th Annual Lake Havasu City Open Sponsored by Color Your Game",
+      "event_key": "9th-annual-lake-havasu-city-open-sponsored-by-co",
+      "month": "Jan",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Santiam Open Presented by Innova",
+      "event_key": "2026-santiam-open-presented-by-innova",
+      "month": "Jan",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Arctic Rose Rumble!",
+      "event_key": "the-arctic-rose-rumble",
+      "month": "Jan",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "DGPT+ OTB Open by MVP Disc Sports",
+      "event_key": "otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 23,
+      "source": "pdga:96409",
+      "tier": "NT",
       "tour": "DGPT"
     }
   ],
@@ -38805,6 +38964,30 @@
     }
   ],
   "rebecca-minnick": [
+    {
+      "event": "2026 PDGA Amateur Disc Golf World Championships",
+      "event_key": "2026-pdga-amateur-disc-golf-world-championships",
+      "month": "Aug",
+      "place": 27,
+      "tier": "M",
+      "tour": ""
+    },
+    {
+      "event": "Discraft's Ledgestone Open presented by Z\u00fcca",
+      "event_key": "discraft-s-ledgestone-open-presented-by-z-ca",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
