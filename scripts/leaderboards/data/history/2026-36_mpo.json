@@ -1,0 +1,201 @@
+{
+  "division": "MPO",
+  "week": "2026-36",
+  "saved_at": "2026-08-31T21:44:46.730545+00:00",
+  "top4": [
+    {
+      "manufacturer": "Discraft",
+      "points": 5248.22,
+      "points_gain": 40.0,
+      "rank": 1
+    },
+    {
+      "manufacturer": "Discmania",
+      "points": 5155.1,
+      "points_gain": 86.0,
+      "rank": 2
+    },
+    {
+      "manufacturer": "MVP",
+      "points": 3727.18,
+      "points_gain": 270.0,
+      "rank": 3
+    },
+    {
+      "manufacturer": "DGA",
+      "points": 3464.37,
+      "points_gain": 314.93,
+      "rank": 4
+    },
+    {
+      "manufacturer": "Innova",
+      "points": 3241.26,
+      "points_gain": 129.0,
+      "rank": 5
+    },
+    {
+      "manufacturer": "Latitude 64",
+      "points": 2938.95,
+      "points_gain": 153.0,
+      "rank": 6
+    },
+    {
+      "manufacturer": "Prodigy",
+      "points": 1643.33,
+      "points_gain": 143.6,
+      "rank": 7
+    },
+    {
+      "manufacturer": "DD",
+      "points": 1382.66,
+      "points_gain": 6.0,
+      "rank": 8
+    },
+    {
+      "manufacturer": "Kastaplast",
+      "points": 1184.4,
+      "points_gain": 0.0,
+      "rank": 9
+    },
+    {
+      "manufacturer": "Infinite",
+      "points": 719.73,
+      "points_gain": 7.2,
+      "rank": 10
+    },
+    {
+      "manufacturer": "Westside",
+      "points": 478.27,
+      "points_gain": 25.0,
+      "rank": 11
+    },
+    {
+      "manufacturer": "Mint",
+      "points": 409.33,
+      "points_gain": 33.0,
+      "rank": 12
+    },
+    {
+      "manufacturer": "OTB",
+      "points": 223.22,
+      "points_gain": 0.0,
+      "rank": 13
+    },
+    {
+      "manufacturer": "ThoughtSpace",
+      "points": 145.55,
+      "points_gain": 2.0,
+      "rank": 14
+    },
+    {
+      "manufacturer": "Clash",
+      "points": 30.86,
+      "points_gain": 5.2,
+      "rank": 15
+    },
+    {
+      "manufacturer": "Lonestar",
+      "points": 8.5,
+      "points_gain": 0.0,
+      "rank": 16
+    }
+  ],
+  "full": [
+    {
+      "manufacturer": "Discraft",
+      "points": 10518.85,
+      "points_gain": 542.93,
+      "rank": 1
+    },
+    {
+      "manufacturer": "Discmania",
+      "points": 6555.41,
+      "points_gain": 127.0,
+      "rank": 2
+    },
+    {
+      "manufacturer": "MVP",
+      "points": 6491.21,
+      "points_gain": 336.0,
+      "rank": 3
+    },
+    {
+      "manufacturer": "Innova",
+      "points": 4543.08,
+      "points_gain": 240.87,
+      "rank": 4
+    },
+    {
+      "manufacturer": "DGA",
+      "points": 4129.37,
+      "points_gain": 344.93,
+      "rank": 5
+    },
+    {
+      "manufacturer": "Latitude 64",
+      "points": 3986.47,
+      "points_gain": 291.0,
+      "rank": 6
+    },
+    {
+      "manufacturer": "Prodigy",
+      "points": 2231.05,
+      "points_gain": 226.2,
+      "rank": 7
+    },
+    {
+      "manufacturer": "DD",
+      "points": 1389.66,
+      "points_gain": 6.0,
+      "rank": 8
+    },
+    {
+      "manufacturer": "Kastaplast",
+      "points": 1184.4,
+      "points_gain": 0.0,
+      "rank": 9
+    },
+    {
+      "manufacturer": "Infinite",
+      "points": 719.73,
+      "points_gain": 7.2,
+      "rank": 10
+    },
+    {
+      "manufacturer": "Westside",
+      "points": 478.27,
+      "points_gain": 25.0,
+      "rank": 11
+    },
+    {
+      "manufacturer": "Mint",
+      "points": 409.33,
+      "points_gain": 33.0,
+      "rank": 12
+    },
+    {
+      "manufacturer": "OTB",
+      "points": 223.22,
+      "points_gain": 0.0,
+      "rank": 13
+    },
+    {
+      "manufacturer": "ThoughtSpace",
+      "points": 145.55,
+      "points_gain": 2.0,
+      "rank": 14
+    },
+    {
+      "manufacturer": "Clash",
+      "points": 30.86,
+      "points_gain": 5.2,
+      "rank": 15
+    },
+    {
+      "manufacturer": "Lonestar",
+      "points": 8.5,
+      "points_gain": 0.0,
+      "rank": 16
+    }
+  ]
+}
