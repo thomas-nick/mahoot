@@ -157,6 +157,14 @@
   ],
   "aaron-gossage": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 10,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -485,6 +493,14 @@
   ],
   "adam-hammes": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 17,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -632,6 +648,14 @@
   ],
   "addison-woodard": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 16,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -730,6 +754,38 @@
   ],
   "adrian-chevalier": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 190,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "21st Annual Mayhem Open A Tier Wisconsin Tour Stop Presented by I",
+      "event_key": "21st-annual-mayhem-open-a-tier-wisconsin-tour-st",
+      "month": "Aug",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "17th Annual Brown Deer Open",
+      "event_key": "17th-annual-brown-deer-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "IOS #141 Oswego Open - MPO/MA2/MA4/FA2/FA4/MA40",
+      "event_key": "ios-141-oswego-open-mpo-ma2-ma4-fa2-fa4-ma40",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Ledgestone Flex - Kennel Lake (CEP Charity - Rated)",
       "event_key": "ledgestone-flex-kennel-lake-cep-charity-rated",
       "month": "Jul",
@@ -775,6 +831,14 @@
       "month": "Jul",
       "place": 5,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Sanctioned Saturday (Flex Start)",
+      "event_key": "sanctioned-saturday-flex-start",
+      "month": "Jul",
+      "place": 1,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -1066,6 +1130,38 @@
   "aidan-hosler": [],
   "aidan-scott": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 83,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 ChattaMini Finale (Sinks/Narrows) Orbited by Gravity Disc Go",
+      "event_key": "2026-chattamini-finale-sinks-narrows-orbited-by-",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Beauty and the Beast 2026",
+      "event_key": "beauty-and-the-beast-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Rocky Top Rumble",
+      "event_key": "2026-rocky-top-rumble",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Ledgestone Flex - Kennel Lake (CEP Charity - Rated)",
       "event_key": "ledgestone-flex-kennel-lake-cep-charity-rated",
       "month": "Jul",
@@ -1127,6 +1223,14 @@
       "month": "Jun",
       "place": 1,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "CJ League - Hosted by the CFDC",
+      "event_key": "cj-league-hosted-by-the-cfdc",
+      "month": "Jun",
+      "place": 1,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -1341,6 +1445,22 @@
   "alan-vazquez": [],
   "albert-tamm": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 59,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 5,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -1506,6 +1626,14 @@
   ],
   "alden-harris": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 79,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -1603,6 +1731,22 @@
     }
   ],
   "alecia-hinkson": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 68,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 8,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -1720,6 +1864,14 @@
     }
   ],
   "alex-berg": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 202,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -1993,6 +2145,22 @@
   "alexander-karanzas": [],
   "alexander-krause": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 111,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Huck Face BrOpen VI: The Righteous Huck Bros",
+      "event_key": "huck-face-bropen-vi-the-righteous-huck-bros",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "The Bloom",
       "event_key": "the-bloom",
       "month": "Jul",
@@ -2082,6 +2250,14 @@
     }
   ],
   "alexis-kerman": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 59,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -2236,6 +2412,14 @@
     }
   ],
   "alexis-mandujano": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 51,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -2651,6 +2835,14 @@
   "andrew-cogley": [],
   "andrew-fish": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 178,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
@@ -2725,6 +2917,38 @@
   ],
   "andrew-martin": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 85,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "The Beauty and The Beast 2026",
+      "event_key": "the-beauty-and-the-beast-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Findley's Lost Island Adventure VIII - Driven by Innova",
+      "event_key": "findley-s-lost-island-adventure-viii-driven-by-i",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "WNY Point Series #4 (Flex Start)",
+      "event_key": "wny-point-series-4-flex-start",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
       "month": "Jun",
@@ -2746,6 +2970,14 @@
       "month": "Jun",
       "place": 1,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Punderson Sanctioned Summer League (Flex Start)",
+      "event_key": "punderson-sanctioned-summer-league-flex-start",
+      "month": "Jun",
+      "place": 2,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -2894,6 +3126,22 @@
     }
   ],
   "andrew-marwede": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 55,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -3066,6 +3314,22 @@
   ],
   "andrew-miranda": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 153,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -3220,6 +3484,22 @@
     }
   ],
   "andrew-presnell": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 29,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Pro JCO",
+      "event_key": "pro-jco",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -3448,11 +3728,35 @@
   "andrew-zinck": [],
   "ann-deputy": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 38,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Chicken Coop Classic Generated By Grit Discs",
       "event_key": "chicken-coop-classic-generated-by-grit-discs",
       "month": "Jun",
       "place": 2,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "\"Something to do on a Saturday\" League",
+      "event_key": "something-to-do-on-a-saturday-league",
+      "month": "Jun",
+      "place": 9,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -3606,6 +3910,14 @@
   ],
   "anneli-tugjas-mnniste": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 9,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
@@ -3711,6 +4023,14 @@
     }
   ],
   "annikenkristiansen-steen": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 13,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "Norgesmesterskapet i Diskgolf 2026",
       "event_key": "norgesmesterskapet-i-diskgolf-2026",
@@ -3956,6 +4276,30 @@
     }
   ],
   "anthony-barela": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 7,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 11,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -4484,6 +4828,54 @@
   ],
   "arvid-hkansson": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 65,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships - Junior Divisions 2026",
+      "event_key": "swedish-championships-junior-divisions-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #3 Pite\u00e5",
+      "event_key": "nationella-touren-3-pite",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -4572,6 +4964,14 @@
   ],
   "audrey-wicklander": [],
   "austen-bates": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 90,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -4783,6 +5183,14 @@
   ],
   "austin-turner": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 8,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -4914,6 +5322,14 @@
   ],
   "avery-jenkins": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 163,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
@@ -4950,6 +5366,30 @@
     }
   ],
   "axel-olson": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 79,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Mountain View Championship 3 presented by Emerald City Discs",
+      "event_key": "mountain-view-championship-3-presented-by-emeral",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Stumptown Presents The 18th Annual Rose City Open Sponsored by In",
+      "event_key": "stumptown-presents-the-18th-annual-rose-city-ope",
+      "month": "Aug",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -5066,6 +5506,22 @@
     }
   ],
   "ben-holding": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 119,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "32nd Quarry Park Open",
+      "event_key": "32nd-quarry-park-open",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -5304,6 +5760,14 @@
   ],
   "benjamin-callaway": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 99,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
@@ -5362,6 +5826,14 @@
   ],
   "benjamin-marolf": [],
   "benjamin-vansumeren": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 172,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "Sometimes Summer Solstice presented by Discraft",
       "event_key": "sometimes-summer-solstice-presented-by-discraft",
@@ -5452,6 +5924,14 @@
     }
   ],
   "bennett-doemland": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 106,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -5774,6 +6254,30 @@
   ],
   "blaz-petrovic": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 181,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Slovenia open doubles championship 2026",
+      "event_key": "slovenia-open-doubles-championship-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Raki\u010dan Open 2026",
+      "event_key": "raki-an-open-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "GC Enzesfeld Sunset Experience",
       "event_key": "gc-enzesfeld-sunset-experience",
       "month": "Jul",
@@ -5969,6 +6473,38 @@
     }
   ],
   "bo-mclaughlin": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 115,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 26,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Encompass Home Renovations presents The 2026 Ottawa Park Summer F",
+      "event_key": "encompass-home-renovations-presents-the-2026-ott",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Dragon Heating Up",
+      "event_key": "dragon-heating-up",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -6204,6 +6740,14 @@
   ],
   "bradley-baumgardner": [],
   "bradley-williams": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 79,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -6457,6 +7001,14 @@
     }
   ],
   "braeden-sides": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 34,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -6812,6 +7364,22 @@
   "bryson-little": [],
   "cadence-burge": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 30,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -6877,6 +7445,22 @@
     }
   ],
   "cale-leiviska": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 31,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Cedar Creek Open",
+      "event_key": "cedar-creek-open",
+      "month": "Aug",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -7007,6 +7591,22 @@
     }
   ],
   "caleb-bruce": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 99,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 24,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -7244,6 +7844,14 @@
   ],
   "calvin-delamere": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 153,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
@@ -7301,6 +7909,14 @@
     }
   ],
   "calvin-heimburg": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 11,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -7464,6 +8080,14 @@
     }
   ],
   "calvin-lonnquist": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 119,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -7709,6 +8333,14 @@
     }
   ],
   "cam-rico": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 76,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -7982,6 +8614,46 @@
   "carson-fowler": [],
   "carson-ham": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 58,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "North Cove Classic - Presented by GMT",
+      "event_key": "north-cove-classic-presented-by-gmt",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Appalachia Open",
+      "event_key": "the-appalachia-open",
+      "month": "Jul",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Crom Transmission & Automotive Specialist Presents The 6th Annual",
+      "event_key": "crom-transmission-automotive-specialist-presents",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "High Country Throwdown presented by Innova and Disc Golf Family S",
       "event_key": "high-country-throwdown-presented-by-innova-and-d",
       "month": "Jul",
@@ -8162,6 +8834,62 @@
   ],
   "caryn-ballou": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 86,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Discraft's Great Lakes Open",
+      "event_key": "discraft-s-great-lakes-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Discraft's Ledgestone Open presented by Z\u00fcca",
+      "event_key": "discraft-s-ledgestone-open-presented-by-z-ca",
+      "month": "Jul",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Ledgestone Flex - Sunset Hills (CEP Charity - Rated)",
+      "event_key": "ledgestone-flex-sunset-hills-cep-charity-rated",
+      "month": "Jul",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Massasauga Open",
+      "event_key": "massasauga-open",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Vienna Park Open 2026",
+      "event_key": "vienna-park-open-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "! 2026 Pug Life Disc Golf Summer Sanctioned Singles",
+      "event_key": "2026-pug-life-disc-golf-summer-sanctioned-single",
+      "month": "Jun",
+      "place": 1,
+      "tier": "L",
+      "tour": ""
+    },
+    {
       "event": "Survive the Solstice 2026 presented by Pug Life Disc Golf",
       "event_key": "survive-the-solstice-2026-presented-by-pug-life-",
       "month": "Jun",
@@ -8261,6 +8989,14 @@
     }
   ],
   "casey-white": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 24,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -8498,6 +9234,14 @@
     }
   ],
   "catrina-allen": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 6,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -8753,6 +9497,14 @@
   ],
   "chandler-fry": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 85,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
       "month": "Jun",
@@ -8778,6 +9530,22 @@
     }
   ],
   "chandler-kramer": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 65,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "21st Annual Mayhem Open A Tier Wisconsin Tour Stop Presented by I",
+      "event_key": "21st-annual-mayhem-open-a-tier-wisconsin-tour-st",
+      "month": "Aug",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -8974,6 +9742,206 @@
   ],
   "chandler-reigh": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 30,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 8,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
+      "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
+      "month": "Aug",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT+ Ledgestone Open",
+      "event_key": "ledgestone-open",
+      "month": "Jul",
+      "place": 31,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
+      "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 31,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 29,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
+      "event_key": "northwest-championship-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
+      "event_key": "wge-otb-open-by-mvp-disc-sports",
+      "month": "May",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Santa Cruz Masters Cup (Pro) DGPT Q-Series + OTB Open Qualifier +",
+      "event_key": "santa-cruz-masters-cup-pro-dgpt-q-series-otb-ope",
+      "month": "May",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
+      "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
+      "month": "May",
+      "place": 37,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "The Blue Ridge Championship Generated By Grit Discs",
+      "event_key": "the-blue-ridge-championship-generated-by-grit-di",
+      "month": "Apr",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Queen City Classic presented by Another Round",
+      "event_key": "queen-city-classic-presented-by-another-round",
+      "month": "Mar",
+      "place": 37,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Kayak Point DGR 2026 Spring League (Flex Start)",
+      "event_key": "kayak-point-dgr-2026-spring-league-flex-start",
+      "month": "Mar",
+      "place": 13,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - MVP Big Easy Open presented by Flight Factory",
+      "event_key": "mvp-big-easy-open-presented-by-flight-factory",
+      "month": "Mar",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "33rd Annual City of Mobile Championships Presented by Saraland Ph",
+      "event_key": "33rd-annual-city-of-mobile-championships-present",
+      "month": "Mar",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "COM Flex Thursday - The Admiral",
+      "event_key": "com-flex-thursday-the-admiral",
+      "month": "Mar",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Discraft\u2019s Supreme Flight Open Presented by Florida\u2019s",
+      "event_key": "discraft-s-supreme-flight-open-presented-by-flor",
+      "month": "Feb",
+      "place": 13,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "TDU - 2026 MVP Discs Bottle Lake Open",
+      "event_key": "tdu-2026-mvp-discs-bottle-lake-open",
+      "month": "Feb",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "TDU - 2026 New Zealand Disc Golf Open, presented by RPM Discs",
+      "event_key": "tdu-2026-new-zealand-disc-golf-open-presented-by",
+      "month": "Jan",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "TDU - 2026 Discraft Australasian Open presented by OTB",
+      "event_key": "tdu-2026-discraft-australasian-open-presented-by",
+      "month": "Jan",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "TDU - 2026 Taranaki Disc Golf Open, presented by MVP Discs",
+      "event_key": "tdu-2026-taranaki-disc-golf-open-presented-by-mv",
+      "month": "Jan",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
       "event_key": "otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -8985,6 +9953,14 @@
   ],
   "chandler-whisenand": [],
   "chantel-budinsky": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 35,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -9081,6 +10057,38 @@
     }
   ],
   "charlie-moore": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 149,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Briscoe Open",
+      "event_key": "briscoe-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "5th Benbrook Summer Smash, fueled by Subaru of Georgetown and ref",
+      "event_key": "5th-benbrook-summer-smash-fueled-by-subaru-of-ge",
+      "month": "Aug",
+      "place": 15,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Meridian 5th st challenge",
+      "event_key": "meridian-5th-st-challenge",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "6th Annual Tiger Open presented by Innova",
       "event_key": "6th-annual-tiger-open-presented-by-innova",
@@ -9319,6 +10327,14 @@
   "chelsea-sutton": [],
   "chris-clemons": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 94,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -9464,6 +10480,14 @@
     }
   ],
   "chris-dickerson": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 24,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -9633,6 +10657,30 @@
     }
   ],
   "clay-edwards": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 78,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 11,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 8,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -9990,6 +11038,14 @@
   ],
   "cole-redalen": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 12,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -10145,6 +11201,22 @@
   ],
   "colin-bryant": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 47,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -10227,6 +11299,22 @@
   ],
   "collin-thompson": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 167,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "7th Battle of the Camdens",
+      "event_key": "7th-battle-of-the-camdens",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -10276,6 +11364,14 @@
     }
   ],
   "colten-montgomery": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 133,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -10472,6 +11568,38 @@
   ],
   "colton-lawless": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 85,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 26,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Throwing Down the Gauntlet at Roy G (GOLD), Sponsored by MVP Disc",
+      "event_key": "throwing-down-the-gauntlet-at-roy-g-gold-sponsor",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "5th Benbrook Summer Smash, fueled by Subaru of Georgetown and ref",
+      "event_key": "5th-benbrook-summer-smash-fueled-by-subaru-of-ge",
+      "month": "Aug",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -10554,6 +11682,14 @@
   ],
   "connor-king": [],
   "connor-oreilly": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 119,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -10825,6 +11961,14 @@
   ],
   "corey-ellis": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 59,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -11012,6 +12156,22 @@
   ],
   "cynthia-ricciotti": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 48,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -11093,6 +12253,38 @@
     }
   ],
   "dallas-garber": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 205,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 16,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 11,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -11339,6 +12531,38 @@
   ],
   "damien-biegert": [],
   "daniel-davidsson": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 26,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 17,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 60,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -11753,6 +12977,14 @@
   ],
   "danik-hart": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 16,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -11876,6 +13108,14 @@
   ],
   "danny-beck": [],
   "david-fleck": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 133,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -12336,6 +13576,38 @@
   "dayne-zimmerman": [],
   "dennis-augustsson": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 127,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -12646,6 +13918,22 @@
     }
   ],
   "drew-gibson": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 140,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Stumptown Presents The 18th Annual Rose City Open Sponsored by In",
+      "event_key": "stumptown-presents-the-18th-annual-rose-city-ope",
+      "month": "Aug",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -13000,6 +14288,30 @@
   ],
   "dylan-dietrich": [],
   "eagle-mcmahon": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 12,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 14,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -13526,6 +14838,30 @@
   ],
   "elaine-king": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 90,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "CADL Inc & Another Round Raleigh Presents: Huck Be A Lady - Power",
+      "event_key": "cadl-inc-another-round-raleigh-presents-huck-be-",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -13968,6 +15304,30 @@
   "elias-nordberg": [],
   "eliezra-midtlyng": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 30,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -14163,6 +15523,22 @@
   ],
   "elijah-bickel": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 65,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 19,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -14333,6 +15709,22 @@
     }
   ],
   "elijah-riderbrandt": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 42,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "The 2026 Brent Hambrick Memorial Open",
+      "event_key": "the-2026-brent-hambrick-memorial-open",
+      "month": "Aug",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -14610,20 +16002,44 @@
   ],
   "elizabete-peksena": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 16,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Latvijas \u010cempion\u0101ts sadarb\u012bb\u0101 ar Innova Europe 2026",
+      "event_key": "latvijas-empion-ts-sadarb-b-ar-innova-europe-202",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas Kauss 3.posms - Ventspils",
+      "event_key": "latvijas-kauss-3-posms-ventspils",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
       "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
       "month": "Jul",
       "place": 9,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 9,
-      "tier": "NT",
-      "tour": "DGPT"
     },
     {
       "event": "DGPT - Ale Open presented by Discraft",
@@ -14699,6 +16115,38 @@
     }
   ],
   "ella-hansen": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 21,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 13,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -14929,6 +16377,102 @@
   ],
   "ellert-georgsson": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 127,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 15,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Jafnd\u00e6gurdeild - 18. \u00e1g\u00fast",
+      "event_key": "bikarkeppni-fgr-jafnd-gurdeild-18-g-st",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Gullm\u00f3t FGR 2026",
+      "event_key": "gullm-t-fgr-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Jafnd\u00e6gurdeild - 11. \u00e1g\u00fast",
+      "event_key": "bikarkeppni-fgr-jafnd-gurdeild-11-g-st",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "\u00cdFS - \u00cdslandsm\u00f3t 2026",
+      "event_key": "fs-slandsm-t-2026",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Jafnd\u00e6gurdeild - 4. \u00e1g\u00fast",
+      "event_key": "bikarkeppni-fgr-jafnd-gurdeild-4-g-st",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Jafnd\u00e6gurdeild - 28. j\u00fal\u00ed",
+      "event_key": "bikarkeppni-fgr-jafnd-gurdeild-28-j-l",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Reykjav\u00edk Open Presented by Innova Europe",
+      "event_key": "reykjav-k-open-presented-by-innova-europe",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Sumardeild - 14. j\u00fal\u00ed",
+      "event_key": "bikarkeppni-fgr-sumardeild-14-j-l",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Nor\u00f0urlandsm\u00f3ti\u00f0 2026 \u00ed bo\u00f0i Forest Lagoon",
+      "event_key": "nor-urlandsm-ti-2026-bo-i-forest-lagoon",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Sumardeild - 7. j\u00fal\u00ed",
+      "event_key": "bikarkeppni-fgr-sumardeild-7-j-l",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Bikarkeppni FGR - Sumardeild - 30. j\u00fan\u00ed",
       "event_key": "bikarkeppni-fgr-sumardeild-30-j-n",
       "month": "Jun",
@@ -15118,6 +16662,14 @@
   "elmeri-laaksonen": [],
   "elva-kate-preston": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 60,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
@@ -15225,6 +16777,46 @@
   ],
   "ember-simonis": [],
   "emerson-keith": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 47,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Dynamic Discs Presents the Trophy Club Open",
+      "event_key": "dynamic-discs-presents-the-trophy-club-open",
+      "month": "Aug",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Throwing Down the Gauntlet at Harry Myers (Platinum), Sponsored b",
+      "event_key": "throwing-down-the-gauntlet-at-harry-myers-platin",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "DL Jackson Flex - Presented by Slow and Steady DG",
+      "event_key": "dl-jackson-flex-presented-by-slow-and-steady-dg",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Dynamic Discs Flex Start Friday @ Jimmy Porter",
+      "event_key": "dynamic-discs-flex-start-friday-jimmy-porter",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "6th Annual Tiger Open presented by Innova",
       "event_key": "6th-annual-tiger-open-presented-by-innova",
@@ -15552,6 +17144,22 @@
   ],
   "emily-weatherman": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 39,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 8,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -15714,6 +17322,14 @@
     }
   ],
   "emily-yale": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 74,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -15936,6 +17552,22 @@
   ],
   "emmanuel-torres": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 94,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Santa Maria Open - Pro Weekend 2026 Sponsored by OTB Discs",
+      "event_key": "santa-maria-open-pro-weekend-2026-sponsored-by-o",
+      "month": "Aug",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc Golf",
       "event_key": "the-challenge-reidy-creek-2026-presented-by-inno",
       "month": "Jun",
@@ -16095,6 +17727,14 @@
   ],
   "erika-apple": [],
   "erika-stinchcomb": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 57,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -16358,6 +17998,54 @@
   "ethan-bishop": [],
   "ethan-hine": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 194,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Tecumseh Takeover 2026 - MPO,MP40,MP50,FPO,FP40,FP50",
+      "event_key": "tecumseh-takeover-2026-mpo-mp40-mp50-fpo-fp40-fp",
+      "month": "Aug",
+      "place": 13,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Glass Broken Open IV - Open, MA1, MA2, FA1",
+      "event_key": "glass-broken-open-iv-open-ma1-ma2-fa1",
+      "month": "Aug",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "TreeMagnets: The Hickory Huckin",
+      "event_key": "treemagnets-the-hickory-huckin",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Safe Harbor Retirement Planners Presents: The County Home Classic",
+      "event_key": "safe-harbor-retirement-planners-presents-the-cou",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Sellersville Disc Golf 13th Annual FISH Bowl w/ Support from OTB",
+      "event_key": "sellersville-disc-golf-13th-annual-fish-bowl-w-s",
+      "month": "Jul",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "The Firecracker",
       "event_key": "the-firecracker",
       "month": "Jul",
@@ -16395,6 +18083,14 @@
       "month": "Apr",
       "place": 3,
       "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Hump Days at Herr",
+      "event_key": "2026-hump-days-at-herr",
+      "month": "Apr",
+      "place": 2,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -16716,6 +18412,14 @@
   ],
   "evan-scott": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 42,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -16887,6 +18591,22 @@
   ],
   "evan-smith": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 47,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 20,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
@@ -17002,6 +18722,14 @@
   "evan-walker": [],
   "eveliina-salonen": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 1,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -17091,6 +18819,22 @@
     }
   ],
   "ezra-aderhold": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 42,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 20,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -17370,6 +19114,22 @@
   ],
   "ezra-robinson": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 51,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 9,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -17607,6 +19367,30 @@
     }
   ],
   "frank-smith": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 90,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Capital City Open",
+      "event_key": "2026-capital-city-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Tatonka Open",
+      "event_key": "tatonka-open",
+      "month": "Aug",
+      "place": 9,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -18116,6 +19900,46 @@
   ],
   "fritiof-fagergren": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 47,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 11,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 8,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 23,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -18206,6 +20030,30 @@
   ],
   "gage-johnson": [],
   "gannon-buhr": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 8,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -18394,6 +20242,46 @@
   ],
   "garett-everson": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 149,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Cedar Creek Open",
+      "event_key": "cedar-creek-open",
+      "month": "Aug",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 South Dakota State Disc Golf Championship Supported by Innov",
+      "event_key": "2026-south-dakota-state-disc-golf-championship-s",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Jackrabbit Throwdown 7",
+      "event_key": "the-jackrabbit-throwdown-7",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Lewis & Clark Open",
+      "event_key": "2026-lewis-clark-open",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Sioux Falls Open",
       "event_key": "sioux-falls-open",
       "month": "Jun",
@@ -18444,6 +20332,14 @@
   ],
   "garrett-dknox": [],
   "garrett-gurthie": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 63,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -18674,6 +20570,38 @@
   ],
   "gaute-hauge": [],
   "gavin-babcock": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 70,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 11,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 23,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 13,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -18978,6 +20906,14 @@
   "gavin-king": [],
   "gavin-phillips": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 99,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -19126,6 +21062,14 @@
   ],
   "george-beno": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 185,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
       "month": "Jun",
@@ -19241,6 +21185,14 @@
     }
   ],
   "gillis-macdougall": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 72,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -19434,6 +21386,46 @@
   ],
   "gry-nagel-279466": [],
   "gt-hancock": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 119,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 9,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Dynamic Discs Flex Start Friday @ North Park",
+      "event_key": "dynamic-discs-flex-start-friday-north-park",
+      "month": "Aug",
+      "place": 9,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Dynamic Discs Presents the Trophy Club Open",
+      "event_key": "dynamic-discs-presents-the-trophy-club-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The 26th Annual Hideway Pizza Stillwater Classic, Presented By In",
+      "event_key": "the-26th-annual-hideway-pizza-stillwater-classic",
+      "month": "Aug",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -19719,6 +21711,46 @@
   ],
   "guthrie-collins": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 169,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Robert Burridge Fundraiser Flex Start",
+      "event_key": "robert-burridge-fundraiser-flex-start",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Camp Smash Flex",
+      "event_key": "camp-smash-flex",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "GRDGU Summer Sanctioned League @ Brewer (Golds) (Flex Start)",
+      "event_key": "grdgu-summer-sanctioned-league-brewer-golds-flex",
+      "month": "Jun",
+      "place": 1,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "2026 Beer City Disc Golf Summer Sanctioned League - Grand Rapids",
+      "event_key": "2026-beer-city-disc-golf-summer-sanctioned-leagu",
+      "month": "Jun",
+      "place": 1,
+      "tier": "L",
+      "tour": ""
+    },
+    {
       "event": "Legend of Littlejohn",
       "event_key": "legend-of-littlejohn",
       "month": "May",
@@ -19782,6 +21814,22 @@
   "hailey-huber": [],
   "halvard-solberg": [],
   "hanna-huynh": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 25,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -20048,6 +22096,14 @@
   ],
   "harper-thompson": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 99,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -20249,6 +22305,30 @@
     }
   ],
   "harry-chace": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 37,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -20535,6 +22615,38 @@
   ],
   "heidi-laine": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 21,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 5,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -20697,6 +22809,14 @@
     }
   ],
   "henna-blomroos": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 25,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -21039,6 +23159,70 @@
   ],
   "herbert-grnsteidl": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 191,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 26,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 21,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Castlehill Open 2026",
+      "event_key": "castlehill-open-2026",
+      "month": "Aug",
+      "place": 11,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "M\u00fcnchener Campustreffen 2026",
+      "event_key": "m-nchener-campustreffen-2026",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Unicorn Open 2026",
+      "event_key": "unicorn-open-2026",
+      "month": "Jul",
+      "place": 12,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "GC Enzesfeld Sunset Experience",
+      "event_key": "gc-enzesfeld-sunset-experience",
+      "month": "Jul",
+      "place": 11,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "STP Summertime Open",
+      "event_key": "stp-summertime-open",
+      "month": "Jun",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "The AmTour by Innova Champion Discs - Valmiera Open 2026",
       "event_key": "the-amtour-by-innova-champion-discs-valmiera-ope",
       "month": "May",
@@ -21115,6 +23299,38 @@
     }
   ],
   "hjalmar-fredriksson": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 90,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 15,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -21348,6 +23564,14 @@
   ],
   "holly-finley": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 54,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -21437,6 +23661,14 @@
     }
   ],
   "holyn-handley": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 4,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -21671,6 +23903,38 @@
   "hunter-embler": [],
   "ian-burchett": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 142,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "The Appalachia Open",
+      "event_key": "the-appalachia-open",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Kanawha Valley Regional (DGPT Q Series)",
+      "event_key": "kanawha-valley-regional-dgpt-q-series",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Dynamic Discs Silver Cup XXVI Pro",
       "event_key": "dynamic-discs-silver-cup-xxvi-pro",
       "month": "Jul",
@@ -21838,6 +24102,14 @@
   "ida-kennmark": [],
   "idaemilie-nesse": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 35,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -21968,6 +24240,14 @@
   ],
   "iida-lehtomki": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 8,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -22069,6 +24349,22 @@
     }
   ],
   "isaac-robinson": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 3,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -22537,6 +24833,14 @@
   ],
   "jacky-chen": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 94,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 Kunshan-Taiwan Disc Golf Invitational Tournament (Open & Ama",
       "event_key": "2026-kunshan-taiwan-disc-golf-invitational-tourn",
       "month": "May",
@@ -22842,6 +25146,14 @@
   "jacquelyn-delude": [],
   "jaden-rye": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 36,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -23093,6 +25405,22 @@
   ],
   "jaime-velasquez": [],
   "jake-hebenheimer": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 15,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -23371,6 +25699,14 @@
   ],
   "jake-monn": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 3,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -23543,6 +25879,22 @@
   "jakob-grv": [],
   "jakub-knpek": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 119,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 30,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -23600,6 +25952,22 @@
     }
   ],
   "jakub-semerd": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 55,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 15,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -23812,6 +26180,14 @@
   ],
   "james-bates": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 195,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "Wolf Pack Discs Monthly Flex - Part 1",
       "event_key": "wolf-pack-discs-monthly-flex-part-1",
       "month": "Jun",
@@ -23823,6 +26199,14 @@
   "james-bennett": [],
   "james-collier": [],
   "james-conrad": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 72,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -24063,6 +26447,30 @@
     }
   ],
   "jamie-kiep": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 145,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "1st Inaugural Speedway Children's Charities Pro/Am Powered by Mos",
+      "event_key": "1st-inaugural-speedway-children-s-charities-pro-",
+      "month": "Aug",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Crom Transmission & Automotive Specialist Presents The 6th Annual",
+      "event_key": "crom-transmission-automotive-specialist-presents",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 Gator Town Throwdown",
       "event_key": "2026-gator-town-throwdown",
@@ -24598,6 +27006,14 @@
   ],
   "jason-sosnowski": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 155,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
       "month": "Jun",
@@ -24805,6 +27221,22 @@
   ],
   "jennifer-allen": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 10,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "26th Top of the Pines presented by Discraft",
+      "event_key": "26th-top-of-the-pines-presented-by-discraft",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -24993,6 +27425,14 @@
     }
   ],
   "jennifer-smiley": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 57,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -25265,6 +27705,54 @@
   ],
   "jeremiah-kraus": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 199,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "The 2026 Brent Hambrick Memorial Open",
+      "event_key": "the-2026-brent-hambrick-memorial-open",
+      "month": "Aug",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Crossover 400",
+      "event_key": "the-crossover-400",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Hazy Shade Presents the 12th Annual Echo Valley Open",
+      "event_key": "hazy-shade-presents-the-12th-annual-echo-valley-",
+      "month": "Jul",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Best in Dayton #3 - presented by Christine Jennings | Street",
+      "event_key": "2026-best-in-dayton-3-presented-by-christine-jen",
+      "month": "Jul",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Cardinal Classic",
+      "event_key": "the-2026-cardinal-classic",
+      "month": "Jul",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Johnson Hills Open - Pros",
       "event_key": "johnson-hills-open-pros",
       "month": "Jun",
@@ -25479,6 +27967,14 @@
   "jesse-henderson": [],
   "jesse-longenecker": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 115,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -25552,6 +28048,14 @@
     }
   ],
   "jesse-nieminen": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 37,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -25685,6 +28189,14 @@
     }
   ],
   "jessica-gurthie": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 27,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -26490,6 +29002,14 @@
   ],
   "john-jones": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 191,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -26608,6 +29128,22 @@
     }
   ],
   "jonathan-borzick": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 70,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 8,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -26943,6 +29479,22 @@
   ],
   "joona-heinnen": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 20,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -27083,6 +29635,14 @@
   ],
   "jordan-lynds": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 46,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -27159,20 +29719,36 @@
   ],
   "josefine-johansson": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 44,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
       "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
       "month": "Jul",
       "place": 7,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 7,
-      "tier": "NT",
-      "tour": "DGPT"
     },
     {
       "event": "DGPT - Ale Open presented by Discraft",
@@ -27248,6 +29824,14 @@
     }
   ],
   "joseph-anderson": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 16,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -27582,20 +30166,52 @@
   ],
   "julia-fors": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 6,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 8,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
       "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
       "month": "Jul",
       "place": 2,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 2,
-      "tier": "NT",
-      "tour": "DGPT"
     },
     {
       "event": "DGPT - Ale Open presented by Discraft",
@@ -27819,6 +30435,38 @@
     }
   ],
   "justin-rosak": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 119,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Tecumseh Takeover 2026 - MPO,MP40,MP50,FPO,FP40,FP50",
+      "event_key": "tecumseh-takeover-2026-mpo-mp40-mp50-fpo-fp40-fp",
+      "month": "Aug",
+      "place": 13,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Dogs of Summer",
+      "event_key": "dogs-of-summer",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Kanawha Valley Regional (DGPT Q Series)",
+      "event_key": "kanawha-valley-regional-dgpt-q-series",
+      "month": "Jul",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGVTour #6 - Brewster Ridge Open Driven by Innova - DGPT Q-Series",
       "event_key": "dgvtour-6-brewster-ridge-open-driven-by-innova-d",
@@ -28242,6 +30890,30 @@
   ],
   "karen-martel": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 52,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "La Capture Du Monstre 2026 - Le Circuit DisQu\u00e9bec - 7/10 - Pr\u00e9s",
+      "event_key": "la-capture-du-monstre-2026-le-circuit-disqu-bec-",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Les Ducs Du Rocher 2026 - Le Circuit DisQu\u00e9bec - 6/10 - Pr\u00e9sent",
+      "event_key": "les-ducs-du-rocher-2026-le-circuit-disqu-bec-6-1",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Le Roi des Ch\u00eanes 2026 - Le Circuit DisQu\u00e9bec - 5/10 - Pr\u00e9sent",
       "event_key": "le-roi-des-ch-nes-2026-le-circuit-disqu-bec-5-10",
       "month": "Jul",
@@ -28315,6 +30987,22 @@
     }
   ],
   "karissa-dedmon": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 69,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Long Beach Classic 2026 (CDGS event #9 - Presented by Innova)",
+      "event_key": "long-beach-classic-2026-cdgs-event-9-presented-b",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
@@ -28571,6 +31259,38 @@
   ],
   "kat-johnson": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 70,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "The Wooden Sky",
+      "event_key": "the-wooden-sky",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Yeet in the Heat",
+      "event_key": "yeet-in-the-heat",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Guelph Royale Presented by Discraft",
+      "event_key": "2026-guelph-royale-presented-by-discraft",
+      "month": "Jul",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "White Spruce Open Presented by DGA - Sunday",
       "event_key": "white-spruce-open-presented-by-dga-sunday",
       "month": "Jul",
@@ -28660,6 +31380,30 @@
     }
   ],
   "kat-mertsch": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 27,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 11,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -28865,6 +31609,30 @@
   "katherine-aydelott-284553": [],
   "katheryn-maloney": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 76,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Cape Cod Open - Pro and MA1/FA1",
+      "event_key": "2026-cape-cod-open-pro-and-ma1-fa1",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Wyatt Works Presents The 2026 Daceyland Open Sponsored by Latitud",
+      "event_key": "wyatt-works-presents-the-2026-daceyland-open-spo",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Clement Classic 2026",
       "event_key": "clement-classic-2026",
       "month": "Jul",
@@ -29059,6 +31827,14 @@
   ],
   "kelley-foster": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 60,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -29233,6 +32009,14 @@
     }
   ],
   "kevin-fodrey": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 163,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -29468,6 +32252,22 @@
   ],
   "kevin-jones": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 37,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -29541,6 +32341,14 @@
     }
   ],
   "kevin-kieferiii": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 63,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -29870,6 +32678,14 @@
   ],
   "konastar-montgomery": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 16,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -30043,20 +32859,36 @@
   ],
   "kristna-jurkov": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 13,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 6,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
       "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
       "month": "Jul",
       "place": 4,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 4,
-      "tier": "NT",
-      "tour": "DGPT"
     },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
@@ -30117,6 +32949,22 @@
   ],
   "kyle-holt": [],
   "kyle-klein": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 59,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 8,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -30225,6 +33073,38 @@
   "kyle-krieckhaus": [],
   "kyle-williams": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 169,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Green Lake Open",
+      "event_key": "green-lake-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Baker Classic",
+      "event_key": "baker-classic",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Kingsley Open",
+      "event_key": "kingsley-open",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Tilley's Open (Sunday)",
       "event_key": "tilley-s-open-sunday",
       "month": "Jun",
@@ -30290,6 +33170,14 @@
     }
   ],
   "kylie-kohut": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 41,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -30702,6 +33590,14 @@
   "laura-tatiananiocarranza": [],
   "lauren-butler": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 76,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
@@ -30832,6 +33728,22 @@
   ],
   "lauri-lehtinen": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 37,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -30930,6 +33842,14 @@
   ],
   "lea-tomas": [],
   "leah-tsinajinnie": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 56,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -31183,6 +34103,14 @@
   ],
   "levi-stout": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 20,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -31430,6 +34358,14 @@
   ],
   "lindsey-maas": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 60,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -31673,6 +34609,14 @@
     }
   ],
   "lisa-fajkus": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 41,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -32004,6 +34948,22 @@
   "luca-nieminen": [],
   "lucas-carmichael": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 84,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -32174,6 +35134,30 @@
     }
   ],
   "lucas-oberholtzerhess": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 42,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -32445,6 +35429,14 @@
   ],
   "luke-samson": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 76,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -32639,6 +35631,14 @@
     }
   ],
   "luke-taylor": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 33,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -32969,6 +35969,22 @@
   ],
   "macie-velediaz": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 30,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Discraft Presents: Tennessee State Disc Golf Championships",
       "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
       "month": "Jun",
@@ -33174,6 +36190,14 @@
     }
   ],
   "madison-walker": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 24,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -33592,6 +36616,14 @@
     }
   ],
   "maria-oliva": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 83,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -34107,6 +37139,46 @@
   ],
   "martin-hendel": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 145,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Eastern Canadian Amateur National",
+      "event_key": "eastern-canadian-amateur-national",
+      "month": "Aug",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Flatts Classic XL supported by Innova",
+      "event_key": "flatts-classic-xl-supported-by-innova",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Guelph Royale Presented by Discraft",
+      "event_key": "2026-guelph-royale-presented-by-discraft",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Forest City Open (FCO) 2026 - All Pros, MA2, MA1",
+      "event_key": "forest-city-open-fco-2026-all-pros-ma2-ma1",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "White Spruce Open Presented by DGA - Sunday",
       "event_key": "white-spruce-open-presented-by-dga-sunday",
       "month": "Jul",
@@ -34246,6 +37318,14 @@
     }
   ],
   "mason-ford": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 51,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -34442,6 +37522,14 @@
     }
   ],
   "matias-kalaoja": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 106,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -34716,6 +37804,22 @@
     }
   ],
   "matt-bell": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 205,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 15,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -35044,6 +38148,38 @@
   ],
   "matthew-alexander": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 94,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 20,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "17th Annual Brown Deer Open",
+      "event_key": "17th-annual-brown-deer-open",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Fox Valley Open sponsored by RIDGE ROLLER CUSTOMS",
+      "event_key": "fox-valley-open-sponsored-by-ridge-roller-custom",
+      "month": "Aug",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -35369,6 +38505,14 @@
   ],
   "matthew-henderson": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 197,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -35567,6 +38711,14 @@
   ],
   "matthew-orum": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 59,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -35713,6 +38865,30 @@
     }
   ],
   "mauri-villmann": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 28,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rve",
+      "event_key": "edgl-pro-karikasari-2026-j-rve",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -36062,6 +39238,14 @@
   ],
   "megan-dophal": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 83,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
       "month": "Jul",
@@ -36262,7 +39446,16 @@
       "tour": "DGPT"
     }
   ],
-  "michael-babbitt": [],
+  "michael-babbitt": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 169,
+      "tier": "M",
+      "tour": "Major"
+    }
+  ],
   "michael-bueno": [
     {
       "event": "DGPT+ OTB Open by MVP Disc Sports",
@@ -36675,6 +39868,22 @@
   ],
   "miles-sayer": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 111,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 18,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
@@ -36831,6 +40040,14 @@
     }
   ],
   "missy-gannon": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 2,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -37019,8 +40236,121 @@
       "tour": ""
     }
   ],
-  "mj-gager": [],
+  "mj-gager": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 29,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Discmania Challenge presented by TruBank",
+      "event_key": "discmania-challenge-presented-by-trubank",
+      "month": "Aug",
+      "place": 24,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "United States Junior Disc Golf Championship (USJDGC)",
+      "event_key": "united-states-junior-disc-golf-championship-usjd",
+      "month": "Jul",
+      "place": 1,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
+      "event": "2026 PDGA United States Women's Disc Golf Championships",
+      "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
+      "month": "Jul",
+      "place": 4,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Discraft Presents: Tennessee State Disc Golf Championships",
+      "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
+      "month": "Jun",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Prodigy presents the Lake Marshall Open- Pro",
+      "event_key": "prodigy-presents-the-lake-marshall-open-pro",
+      "month": "May",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
+      "event_key": "play-it-again-sports-jonesboro-open-presented-by",
+      "month": "Apr",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "2026 PDGA Champions Cup Presented by Vessi",
+      "event_key": "2026-pdga-champions-cup-presented-by-vessi",
+      "month": "Apr",
+      "place": 24,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "DGPT - Queen City Classic presented by Another Round",
+      "event_key": "queen-city-classic-presented-by-another-round",
+      "month": "Mar",
+      "place": 47,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Discraft\u2019s Supreme Flight Open Presented by Florida\u2019s",
+      "event_key": "discraft-s-supreme-flight-open-presented-by-flor",
+      "month": "Feb",
+      "place": 27,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "21st Open at Tallahassee Sponsored by Visit Tallahassee/Dynamic D",
+      "event_key": "21st-open-at-tallahassee-sponsored-by-visit-tall",
+      "month": "Feb",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Visit Bainbridge Presents Reckoning on the River - DGMT/PRO Weeke",
+      "event_key": "visit-bainbridge-presents-reckoning-on-the-river",
+      "month": "Feb",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    }
+  ],
   "morgan-lynds": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 72,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -37221,6 +40551,14 @@
   "natalie-berg-268900": [],
   "nate-corder": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 155,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
@@ -37327,6 +40665,14 @@
   ],
   "nate-metzler": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 133,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -37348,6 +40694,14 @@
       "month": "Jun",
       "place": 28,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 LPDGC Summer League Session 2 - Pool A",
+      "event_key": "2026-lpdgc-summer-league-session-2-pool-a",
+      "month": "Jun",
+      "place": 5,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -37615,6 +40969,14 @@
   ],
   "nathan-miske": [],
   "nathan-queen": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 106,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -37919,6 +41281,30 @@
   ],
   "nathaniel-weaver": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 198,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Chocolatetown Classic",
+      "event_key": "chocolatetown-classic",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Firecracker",
+      "event_key": "the-firecracker",
+      "month": "Jul",
+      "place": 10,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Coleman Challenge",
       "event_key": "coleman-challenge",
       "month": "May",
@@ -37935,6 +41321,14 @@
       "tour": ""
     },
     {
+      "event": "LVDG League Spring Segment",
+      "event_key": "lvdg-league-spring-segment",
+      "month": "Apr",
+      "place": 9,
+      "tier": "L",
+      "tour": ""
+    },
+    {
       "event": "TreeMagnets: The Birch Battle",
       "event_key": "treemagnets-the-birch-battle",
       "month": "Apr",
@@ -37944,6 +41338,54 @@
     }
   ],
   "nestori-tuhkanen": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 19,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 9,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -38043,6 +41485,22 @@
   ],
   "netta-leppaho": [],
   "nicholas-gill": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 155,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Robert Burridge Fundraiser Flex Start",
+      "event_key": "robert-burridge-fundraiser-flex-start",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -38224,6 +41682,14 @@
   "nick-reliford": [],
   "nick-robertson-1": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 204,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
       "month": "Jul",
@@ -38285,6 +41751,14 @@
       "month": "May",
       "place": 1,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Aloft Sunday Singles \u2014 Summer Session 1",
+      "event_key": "aloft-sunday-singles-summer-session-1",
+      "month": "May",
+      "place": 2,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -38492,6 +41966,46 @@
   ],
   "nick-schultz": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 182,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "The 35th Annual Hall of Chains Classic",
+      "event_key": "the-35th-annual-hall-of-chains-classic",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Findley's Lost Island Adventure VIII - Driven by Innova",
+      "event_key": "findley-s-lost-island-adventure-viii-driven-by-i",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Hazy Shade Presents the 12th Annual Echo Valley Open",
+      "event_key": "hazy-shade-presents-the-12th-annual-echo-valley-",
+      "month": "Jul",
+      "place": 27,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Echo Valley Open Friday Flex",
+      "event_key": "echo-valley-open-friday-flex",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "12th Annual Galion Pickle Run DG Tournament",
       "event_key": "12th-annual-galion-pickle-run-dg-tournament",
       "month": "Jul",
@@ -38597,6 +42111,14 @@
     }
   ],
   "nid-ovathanasin": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 74,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -38745,6 +42267,14 @@
   "niilo-hyry": [],
   "nikko-locastro": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 85,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -38786,6 +42316,14 @@
     }
   ],
   "niklas-anttila": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 20,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -39065,6 +42603,22 @@
   ],
   "nina-bennett": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 40,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "The Battle Of Jacks Creek",
+      "event_key": "the-battle-of-jacks-creek",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -39156,6 +42710,14 @@
   "noah-baker": [],
   "noah-feil": [],
   "noah-fiveash": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 99,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -39577,6 +43139,14 @@
   ],
   "ohn-scoggins": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 11,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -39862,6 +43432,38 @@
   ],
   "olivia-kindstedt": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 11,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -40092,6 +43694,22 @@
   ],
   "oskar-uchliski": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 176,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Krzyczki Open 2026",
+      "event_key": "krzyczki-open-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Mistrzostwa Polski w Disc Golfie 2026 powered by Ledgestone",
       "event_key": "mistrzostwa-polski-w-disc-golfie-2026-powered-by",
       "month": "Jul",
@@ -40126,6 +43744,38 @@
   ],
   "oskari-krintil": [],
   "otto-mkinen": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 74,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 26,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -40342,6 +43992,22 @@
   ],
   "paige-pierce": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 48,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -40489,6 +44155,14 @@
   ],
   "parker-austin": [],
   "parker-welck": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 111,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -40685,6 +44359,14 @@
   ],
   "patrick-burke": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 185,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "Monster Mash",
       "event_key": "monster-mash",
       "month": "Jan",
@@ -40696,6 +44378,14 @@
   "patrick-yu": [],
   "paul-davidson": [],
   "paul-krans": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 51,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -40884,6 +44574,14 @@
   ],
   "paul-mcbeth": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 17,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -41039,6 +44737,14 @@
     }
   ],
   "paul-ulibarri": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 65,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -41334,6 +45040,46 @@
   "pj-lenz": [],
   "rainers-balodis": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 2,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Latvijas \u010cempion\u0101ts sadarb\u012bb\u0101 ar Innova Europe 2026",
+      "event_key": "latvijas-empion-ts-sadarb-b-ar-innova-europe-202",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas Kauss 3.posms - Ventspils",
+      "event_key": "latvijas-kauss-3-posms-ventspils",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Tukuma Open 2026",
+      "event_key": "tukuma-open-2026",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -41399,6 +45145,14 @@
     }
   ],
   "randon-latta": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 133,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGVTour #6 - Brewster Ridge Open Driven by Innova - DGPT Q-Series",
       "event_key": "dgvtour-6-brewster-ridge-open-driven-by-innova-d",
@@ -41573,6 +45327,22 @@
     }
   ],
   "rasmus-saukkoriipi": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 12,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -41861,6 +45631,22 @@
   ],
   "raven-klein": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 35,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -41991,6 +45777,14 @@
     }
   ],
   "raven-newsom": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 26,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -42155,6 +45949,22 @@
   ],
   "rebecca-cox": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 13,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -42284,6 +46094,30 @@
     }
   ],
   "rebecca-don": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 3,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -42734,6 +46568,14 @@
   ],
   "richard-wysocki": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 6,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -43064,6 +46906,14 @@
   ],
   "riku-grhn": [],
   "robert-burridge": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 115,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -43786,6 +47636,14 @@
   ],
   "ryan-monn": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 42,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -44164,6 +48022,14 @@
   "saga-dahlstedt": [],
   "sai-ananda": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 20,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -44288,6 +48154,54 @@
   ],
   "sam-doebert": [],
   "sam-smigiel": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 160,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 15,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Robert Burridge Fundraiser Flex Start",
+      "event_key": "robert-burridge-fundraiser-flex-start",
+      "month": "Aug",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Baker Classic",
+      "event_key": "baker-classic",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Massasauga Open",
+      "event_key": "massasauga-open",
+      "month": "Jul",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Kensington Open",
+      "event_key": "2026-kensington-open",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Michigan Professional State Championship presented by Discraft",
       "event_key": "michigan-professional-state-championship-present",
@@ -44661,6 +48575,14 @@
     }
   ],
   "sarah-hokom": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 41,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -45405,6 +49327,30 @@
   ],
   "sias-elmore": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 145,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 26,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Mast Park Disc Golf Championship",
+      "event_key": "mast-park-disc-golf-championship",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Kit Carson Clash 2026 (CDGS event #8 - Presented by Innova)",
       "event_key": "kit-carson-clash-2026-cdgs-event-8-presented-by-",
       "month": "Jul",
@@ -45610,6 +49556,14 @@
   ],
   "silas-schultz": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 1,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -45756,6 +49710,22 @@
     }
   ],
   "silva-saarinen": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 5,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Mixed Doubles",
+      "event_key": "2026-professional-worlds-mixed-doubles",
+      "month": "Aug",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -45933,6 +49903,14 @@
   ],
   "simon-lizotte": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 57,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -46040,6 +50018,14 @@
   ],
   "simon-solin": [],
   "sintija-klezberga": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 21,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -46676,6 +50662,22 @@
   ],
   "stephen-becker": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 167,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "A Disc Golf Tournament at Iroquois Park 3 IS#6",
+      "event_key": "a-disc-golf-tournament-at-iroquois-park-3-is-6",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -46929,6 +50931,14 @@
   ],
   "sullivan-tipton": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 34,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -47134,6 +51144,14 @@
     }
   ],
   "tailey-rowley": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 65,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -47736,6 +51754,30 @@
   ],
   "tee-vetne": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 163,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "20. Ostpark Open sponsored by Latitude 64",
+      "event_key": "20-ostpark-open-sponsored-by-latitude-64",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Dutch Gyro Open 2026 - Sponsored by MVP Disc Sports",
+      "event_key": "dutch-gyro-open-2026-sponsored-by-mvp-disc-sport",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "The Pork Pie Classic 2026",
       "event_key": "the-pork-pie-classic-2026",
       "month": "Jul",
@@ -47761,6 +51803,38 @@
     }
   ],
   "teemu-lampainen": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 20,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 27,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -48029,6 +52103,30 @@
   ],
   "thomas-earhart": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 106,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "21st Annual Mayhem Open A Tier Wisconsin Tour Stop Presented by I",
+      "event_key": "21st-annual-mayhem-open-a-tier-wisconsin-tour-st",
+      "month": "Aug",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "44th Illinois State Disc Golf Championships",
+      "event_key": "44th-illinois-state-disc-golf-championships",
+      "month": "Jul",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Dynamic Discs Silver Cup XXVI Pro",
       "event_key": "dynamic-discs-silver-cup-xxvi-pro",
       "month": "Jul",
@@ -48094,6 +52192,22 @@
     }
   ],
   "thomas-gilbert": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 163,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Eastern Canadian Amateur National",
+      "event_key": "eastern-canadian-amateur-national",
+      "month": "Aug",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -48226,6 +52340,30 @@
     }
   ],
   "thomas-tomaselli": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 201,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 26,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Santa Maria Open - Pro Weekend 2026 Sponsored by OTB Discs",
+      "event_key": "santa-maria-open-pro-weekend-2026-sponsored-by-o",
+      "month": "Aug",
+      "place": 10,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc Golf",
       "event_key": "the-challenge-reidy-creek-2026-presented-by-inno",
@@ -48392,6 +52530,38 @@
   ],
   "tiger-borth": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 46,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Gateway Unveils La Belle Vie with the Pool Party Flex",
+      "event_key": "gateway-unveils-la-belle-vie-with-the-pool-party",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Deer Creek DGPT Watch Party Flex",
+      "event_key": "deer-creek-dgpt-watch-party-flex",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Knight\u2019s & Queen\u2019s Cup Sponsored by Dynamic Discs",
+      "event_key": "the-knight-s-queen-s-cup-sponsored-by-dynamic-di",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Deer Creek Big Buck Whites (Flex Start)",
       "event_key": "deer-creek-big-buck-whites-flex-start",
       "month": "Jun",
@@ -48490,6 +52660,14 @@
   ],
   "tim-alderson": [],
   "tim-barham": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 149,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
@@ -48845,6 +53023,14 @@
     }
   ],
   "tom-mozola": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 111,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -49216,6 +53402,14 @@
   "tori-pasquin": [],
   "trevon-crowe": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 182,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -49427,6 +53621,30 @@
   ],
   "trevor-dominy": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 182,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "ChattaMini #4 (Christian Heritage) Orbited by Gravity Disc Golf (",
+      "event_key": "chattamini-4-christian-heritage-orbited-by-gravi",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "CJ League - Hosted by the CFDC",
+      "event_key": "cj-league-hosted-by-the-cfdc",
+      "month": "Jun",
+      "place": 9,
+      "tier": "L",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
       "event_key": "play-it-again-sports-jonesboro-open-presented-by",
       "month": "Apr",
@@ -49468,6 +53686,14 @@
     }
   ],
   "trinity-bryant": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 66,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -49625,7 +53851,24 @@
       "tour": "DGPT"
     }
   ],
-  "tuomas-hyytiinen": [],
+  "tuomas-hyytiinen": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 155,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 6,
+      "tier": "XC",
+      "tour": ""
+    }
+  ],
   "tuomas-pkknen": [
     {
       "event": "DGPT - Heinola Open presented by MVP",
@@ -49735,6 +53978,14 @@
     }
   ],
   "ty-love": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 31,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -49960,6 +54211,14 @@
   ],
   "valerie-mandujano": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 30,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -50074,6 +54333,38 @@
   ],
   "victoria-christensen": [],
   "victoria-scott": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 60,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Discraft's Great Lakes Open",
+      "event_key": "discraft-s-great-lakes-open",
+      "month": "Aug",
+      "place": 24,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Massasauga Open",
+      "event_key": "massasauga-open",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT Q-Series Discraft\u2019s Oakland County Championship",
       "event_key": "q-series-discraft-s-oakland-county-championship",
@@ -50309,6 +54600,14 @@
   "ville-vonhertzen": [],
   "vin-mkel": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 29,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -50439,6 +54738,14 @@
     }
   ],
   "violet-main": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 44,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -50615,6 +54922,14 @@
   "woods-mccue": [],
   "wyatt-mahoney": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 37,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -50777,6 +55092,30 @@
   ],
   "wynn-coggin": [],
   "xaelen-nash": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 205,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Mast Park Disc Golf Championship",
+      "event_key": "mast-park-disc-golf-championship",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Long Beach Classic 2026 (CDGS event #9 - Presented by Innova)",
+      "event_key": "long-beach-classic-2026-cdgs-event-9-presented-b",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Kit Carson Clash 2026 (CDGS event #8 - Presented by Innova)",
       "event_key": "kit-carson-clash-2026-cdgs-event-8-presented-by-",
@@ -50995,6 +55334,14 @@
   ],
   "zach-arlinghaus": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 99,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -51198,6 +55545,14 @@
   ],
   "zach-melton": [
     {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 127,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -51313,6 +55668,30 @@
   "zach-peters": [],
   "zach-trotto": [],
   "zachary-nash": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 3,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
+      "month": "Aug",
+      "place": 13,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
+      "month": "Aug",
+      "place": 15,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",

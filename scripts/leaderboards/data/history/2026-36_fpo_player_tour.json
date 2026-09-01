@@ -1,13 +1,13 @@
 {
   "division": "FPO",
   "week": "2026-36",
-  "saved_at": "2026-08-31T21:45:17.909715+00:00",
+  "saved_at": "2026-09-01T17:08:01.396064+00:00",
   "players": [
     {
       "slug": "holyn-handley",
       "name": "Holyn Handley",
       "tour_rank": 1,
-      "tour_weighted_points": 2487.5,
+      "tour_weighted_points": 2627.5,
       "dgpt_rank": 3,
       "wins": 3
     },
@@ -15,7 +15,7 @@
       "slug": "silva-saarinen",
       "name": "Silva Saarinen",
       "tour_rank": 2,
-      "tour_weighted_points": 2449.2,
+      "tour_weighted_points": 2589.2,
       "dgpt_rank": 1,
       "wins": 6
     },
@@ -23,7 +23,7 @@
       "slug": "ohn-scoggins",
       "name": "Ohn Scoggins",
       "tour_rank": 3,
-      "tour_weighted_points": 2343.7,
+      "tour_weighted_points": 2375.7,
       "dgpt_rank": 2,
       "wins": 11
     },
@@ -31,31 +31,31 @@
       "slug": "eveliina-salonen",
       "name": "Eveliina Salonen",
       "tour_rank": 4,
-      "tour_weighted_points": 1607.0,
+      "tour_weighted_points": 2007.0,
       "dgpt_rank": 6,
-      "wins": 4
-    },
-    {
-      "slug": "ella-hansen",
-      "name": "Ella Hansen",
-      "tour_rank": 5,
-      "tour_weighted_points": 1439.5,
-      "dgpt_rank": 5,
-      "wins": 1
+      "wins": 5
     },
     {
       "slug": "missy-gannon",
       "name": "Missy Gannon",
-      "tour_rank": 6,
-      "tour_weighted_points": 1402.5,
+      "tour_rank": 5,
+      "tour_weighted_points": 1702.5,
       "dgpt_rank": 4,
       "wins": 0
+    },
+    {
+      "slug": "ella-hansen",
+      "name": "Ella Hansen",
+      "tour_rank": 6,
+      "tour_weighted_points": 1471.5,
+      "dgpt_rank": 5,
+      "wins": 1
     },
     {
       "slug": "catrina-allen",
       "name": "Catrina Allen",
       "tour_rank": 7,
-      "tour_weighted_points": 1132.9,
+      "tour_weighted_points": 1212.9,
       "dgpt_rank": 7,
       "wins": 1
     },
@@ -63,7 +63,7 @@
       "slug": "henna-blomroos",
       "name": "Henna Blomroos",
       "tour_rank": 8,
-      "tour_weighted_points": 1018.2,
+      "tour_weighted_points": 1050.2,
       "dgpt_rank": 12,
       "wins": 1
     },
@@ -71,7 +71,7 @@
       "slug": "lisa-fajkus",
       "name": "Lisa Fajkus",
       "tour_rank": 9,
-      "tour_weighted_points": 977.7,
+      "tour_weighted_points": 989.7,
       "dgpt_rank": 22,
       "wins": 4
     },
@@ -79,17 +79,17 @@
       "slug": "kat-mertsch",
       "name": "Kat Mertsch",
       "tour_rank": 10,
-      "tour_weighted_points": 961.1,
+      "tour_weighted_points": 973.1,
       "dgpt_rank": 9,
       "wins": 2
     },
     {
-      "slug": "julia-fors",
-      "name": "Julia Fors",
+      "slug": "rebecca-don",
+      "name": "Rebecca Don",
       "tour_rank": 11,
-      "tour_weighted_points": 836.6,
-      "dgpt_rank": 27,
-      "wins": 2
+      "tour_weighted_points": 846.2,
+      "dgpt_rank": 8,
+      "wins": 0
     },
     {
       "slug": "taylor-chocek",
