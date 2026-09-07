@@ -1,0 +1,153 @@
+{
+  "division": "FPO",
+  "week": "2026-37",
+  "saved_at": "2026-09-07T20:22:43.711267+00:00",
+  "top4": [
+    {
+      "manufacturer": "Innova",
+      "points": 5620.17,
+      "points_gain": 75.0,
+      "rank": 1
+    },
+    {
+      "manufacturer": "Discraft",
+      "points": 5334.84,
+      "points_gain": 108.75,
+      "rank": 2
+    },
+    {
+      "manufacturer": "MVP",
+      "points": 3287.75,
+      "points_gain": 15.0,
+      "rank": 3
+    },
+    {
+      "manufacturer": "DGA",
+      "points": 2238.08,
+      "points_gain": 20.25,
+      "rank": 4
+    },
+    {
+      "manufacturer": "Discmania",
+      "points": 2205.91,
+      "points_gain": 139.0,
+      "rank": 5
+    },
+    {
+      "manufacturer": "Latitude 64",
+      "points": 1338.13,
+      "points_gain": 87.5,
+      "rank": 6
+    },
+    {
+      "manufacturer": "Westside",
+      "points": 1161.5,
+      "points_gain": 0.0,
+      "rank": 7
+    },
+    {
+      "manufacturer": "OTB",
+      "points": 994.58,
+      "points_gain": 159.5,
+      "rank": 8
+    },
+    {
+      "manufacturer": "ThoughtSpace",
+      "points": 764.0,
+      "points_gain": 9.0,
+      "rank": 9
+    },
+    {
+      "manufacturer": "DD",
+      "points": 413.17,
+      "points_gain": 64.5,
+      "rank": 10
+    },
+    {
+      "manufacturer": "Infinite",
+      "points": 195.75,
+      "points_gain": 0.0,
+      "rank": 11
+    },
+    {
+      "manufacturer": "Mint",
+      "points": 28.0,
+      "points_gain": 0.0,
+      "rank": 12
+    }
+  ],
+  "full": [
+    {
+      "manufacturer": "Innova",
+      "points": 11534.92,
+      "points_gain": 276.75,
+      "rank": 1
+    },
+    {
+      "manufacturer": "Discraft",
+      "points": 8086.89,
+      "points_gain": 248.25,
+      "rank": 2
+    },
+    {
+      "manufacturer": "MVP",
+      "points": 3289.75,
+      "points_gain": 15.0,
+      "rank": 3
+    },
+    {
+      "manufacturer": "Discmania",
+      "points": 2245.41,
+      "points_gain": 139.0,
+      "rank": 4
+    },
+    {
+      "manufacturer": "DGA",
+      "points": 2238.08,
+      "points_gain": 20.25,
+      "rank": 5
+    },
+    {
+      "manufacturer": "Latitude 64",
+      "points": 1338.13,
+      "points_gain": 87.5,
+      "rank": 6
+    },
+    {
+      "manufacturer": "Westside",
+      "points": 1161.5,
+      "points_gain": 0.0,
+      "rank": 7
+    },
+    {
+      "manufacturer": "OTB",
+      "points": 994.58,
+      "points_gain": 159.5,
+      "rank": 8
+    },
+    {
+      "manufacturer": "ThoughtSpace",
+      "points": 764.0,
+      "points_gain": 9.0,
+      "rank": 9
+    },
+    {
+      "manufacturer": "DD",
+      "points": 413.17,
+      "points_gain": 64.5,
+      "rank": 10
+    },
+    {
+      "manufacturer": "Infinite",
+      "points": 195.75,
+      "points_gain": 0.0,
+      "rank": 11
+    },
+    {
+      "manufacturer": "Mint",
+      "points": 28.0,
+      "points_gain": 0.0,
+      "rank": 12
+    }
+  ]
+}
