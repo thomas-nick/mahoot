@@ -1,15 +1,15 @@
 {
   "division": "MPO",
   "week": "2026-37",
-  "saved_at": "2026-09-07T20:22:03.794652+00:00",
+  "saved_at": "2026-09-08T17:00:05.981672+00:00",
   "players": [
     {
       "slug": "gannon-buhr",
       "name": "Gannon Buhr",
       "tour_rank": 1,
-      "tour_weighted_points": 3505.0,
+      "tour_weighted_points": 3755.0,
       "dgpt_rank": 1,
-      "wins": 11
+      "wins": 12
     },
     {
       "slug": "richard-wysocki",
@@ -23,7 +23,7 @@
       "slug": "calvin-heimburg",
       "name": "Calvin Heimburg",
       "tour_rank": 3,
-      "tour_weighted_points": 1927.3,
+      "tour_weighted_points": 1977.3,
       "dgpt_rank": 3,
       "wins": 2
     },
@@ -31,7 +31,7 @@
       "slug": "isaac-robinson",
       "name": "Isaac Robinson",
       "tour_rank": 4,
-      "tour_weighted_points": 1533.7,
+      "tour_weighted_points": 1541.2,
       "dgpt_rank": 4,
       "wins": 0
     },
@@ -39,7 +39,7 @@
       "slug": "adam-hammes",
       "name": "Adam Hammes",
       "tour_rank": 5,
-      "tour_weighted_points": 1266.3,
+      "tour_weighted_points": 1286.3,
       "dgpt_rank": 5,
       "wins": 1
     },
@@ -55,7 +55,7 @@
       "slug": "gavin-babcock",
       "name": "Gavin Babcock",
       "tour_rank": 7,
-      "tour_weighted_points": 963.0,
+      "tour_weighted_points": 970.5,
       "dgpt_rank": 12,
       "wins": 0
     },
@@ -68,36 +68,36 @@
       "wins": 2
     },
     {
-      "slug": "anthony-barela",
-      "name": "Anthony Barela",
+      "slug": "sullivan-tipton",
+      "name": "Sullivan Tipton",
       "tour_rank": 9,
-      "tour_weighted_points": 857.3,
-      "dgpt_rank": 6,
+      "tour_weighted_points": 873.8,
+      "dgpt_rank": 7,
       "wins": 0
     },
     {
-      "slug": "silas-schultz",
-      "name": "Silas Schultz",
+      "slug": "anthony-barela",
+      "name": "Anthony Barela",
       "tour_rank": 10,
-      "tour_weighted_points": 844.5,
-      "dgpt_rank": 10,
-      "wins": 2
+      "tour_weighted_points": 864.8,
+      "dgpt_rank": 6,
+      "wins": 0
     },
     {
       "slug": "jaden-rye",
       "name": "Jaden Rye",
       "tour_rank": 11,
-      "tour_weighted_points": 842.3,
+      "tour_weighted_points": 849.8,
       "dgpt_rank": 19,
       "wins": 1
     },
     {
-      "slug": "evan-smith",
-      "name": "Evan Smith",
+      "slug": "silas-schultz",
+      "name": "Silas Schultz",
       "tour_rank": 12,
-      "tour_weighted_points": 767.6,
-      "dgpt_rank": 35,
-      "wins": 3
+      "tour_weighted_points": 844.5,
+      "dgpt_rank": 10,
+      "wins": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T20:22:43.806807+00:00",
+  "updated_at": "2026-09-08T17:00:49.539900+00:00",
   "divisions": {
     "MPO": {
       "weeks": [
@@ -1764,7 +1764,7 @@
               {
                 "id": "gannon-buhr",
                 "label": "Gannon Buhr",
-                "points": 3505.0,
+                "points": 3755.0,
                 "rank": 1
               },
               {
@@ -1776,19 +1776,19 @@
               {
                 "id": "calvin-heimburg",
                 "label": "Calvin Heimburg",
-                "points": 1927.3,
+                "points": 1977.3,
                 "rank": 3
               },
               {
                 "id": "isaac-robinson",
                 "label": "Isaac Robinson",
-                "points": 1533.7,
+                "points": 1541.2,
                 "rank": 4
               },
               {
                 "id": "adam-hammes",
                 "label": "Adam Hammes",
-                "points": 1266.3,
+                "points": 1286.3,
                 "rank": 5
               },
               {
@@ -1800,7 +1800,7 @@
               {
                 "id": "gavin-babcock",
                 "label": "Gavin Babcock",
-                "points": 963.0,
+                "points": 970.5,
                 "rank": 7
               },
               {
@@ -1885,7 +1885,7 @@
               },
               {
                 "week": "2026-37",
-                "value": 3505.0,
+                "value": 3755.0,
                 "rank": 1
               }
             ]
@@ -2039,7 +2039,7 @@
               },
               {
                 "week": "2026-37",
-                "value": 1927.3,
+                "value": 1977.3,
                 "rank": 3
               }
             ]
@@ -2116,7 +2116,7 @@
               },
               {
                 "week": "2026-37",
-                "value": 1533.7,
+                "value": 1541.2,
                 "rank": 4
               }
             ]
@@ -2193,7 +2193,7 @@
               },
               {
                 "week": "2026-37",
-                "value": 1266.3,
+                "value": 1286.3,
                 "rank": 5
               }
             ]
@@ -3876,15 +3876,15 @@
                 "rank": 1
               },
               {
-                "id": "silva-saarinen",
-                "label": "Silva Saarinen",
-                "points": 2589.2,
+                "id": "ohn-scoggins",
+                "label": "Ohn Scoggins",
+                "points": 2625.7,
                 "rank": 2
               },
               {
-                "id": "ohn-scoggins",
-                "label": "Ohn Scoggins",
-                "points": 2375.7,
+                "id": "silva-saarinen",
+                "label": "Silva Saarinen",
+                "points": 2589.2,
                 "rank": 3
               },
               {
@@ -3908,13 +3908,13 @@
               {
                 "id": "catrina-allen",
                 "label": "Catrina Allen",
-                "points": 1212.9,
+                "points": 1262.9,
                 "rank": 7
               },
               {
-                "id": "henna-blomroos",
-                "label": "Henna Blomroos",
-                "points": 1050.2,
+                "id": "lisa-fajkus",
+                "label": "Lisa Fajkus",
+                "points": 1177.2,
                 "rank": 8
               }
             ]
@@ -3999,9 +3999,86 @@
             ]
           },
           {
+            "id": "ohn-scoggins",
+            "label": "Ohn Scoggins",
+            "color": "#dc2626",
+            "points": [
+              {
+                "week": "2026-20",
+                "value": 1297.5,
+                "rank": 1
+              },
+              {
+                "week": "2026-22",
+                "value": 1572.5,
+                "rank": 2
+              },
+              {
+                "week": "2026-23",
+                "value": 1598.7,
+                "rank": 1
+              },
+              {
+                "week": "2026-24",
+                "value": 1686.2,
+                "rank": 2
+              },
+              {
+                "week": "2026-26",
+                "value": 1686.2,
+                "rank": 2
+              },
+              {
+                "week": "2026-27",
+                "value": 1721.2,
+                "rank": 3
+              },
+              {
+                "week": "2026-28",
+                "value": 1721.2,
+                "rank": 3
+              },
+              {
+                "week": "2026-29",
+                "value": null,
+                "rank": null
+              },
+              {
+                "week": "2026-31",
+                "value": 2021.2,
+                "rank": 3
+              },
+              {
+                "week": "2026-32",
+                "value": 2106.2,
+                "rank": 3
+              },
+              {
+                "week": "2026-33",
+                "value": 2156.2,
+                "rank": 3
+              },
+              {
+                "week": "2026-34",
+                "value": 2343.7,
+                "rank": 3
+              },
+              {
+                "week": "2026-36",
+                "value": 2375.7,
+                "rank": 3
+              },
+              {
+                "week": "2026-37",
+                "value": 2625.7,
+                "rank": 2
+              }
+            ]
+          },
+          {
             "id": "silva-saarinen",
             "label": "Silva Saarinen",
-            "color": "#dc2626",
+            "color": "#059669",
             "points": [
               {
                 "week": "2026-20",
@@ -4071,83 +4148,6 @@
               {
                 "week": "2026-37",
                 "value": 2589.2,
-                "rank": 2
-              }
-            ]
-          },
-          {
-            "id": "ohn-scoggins",
-            "label": "Ohn Scoggins",
-            "color": "#059669",
-            "points": [
-              {
-                "week": "2026-20",
-                "value": 1297.5,
-                "rank": 1
-              },
-              {
-                "week": "2026-22",
-                "value": 1572.5,
-                "rank": 2
-              },
-              {
-                "week": "2026-23",
-                "value": 1598.7,
-                "rank": 1
-              },
-              {
-                "week": "2026-24",
-                "value": 1686.2,
-                "rank": 2
-              },
-              {
-                "week": "2026-26",
-                "value": 1686.2,
-                "rank": 2
-              },
-              {
-                "week": "2026-27",
-                "value": 1721.2,
-                "rank": 3
-              },
-              {
-                "week": "2026-28",
-                "value": 1721.2,
-                "rank": 3
-              },
-              {
-                "week": "2026-29",
-                "value": null,
-                "rank": null
-              },
-              {
-                "week": "2026-31",
-                "value": 2021.2,
-                "rank": 3
-              },
-              {
-                "week": "2026-32",
-                "value": 2106.2,
-                "rank": 3
-              },
-              {
-                "week": "2026-33",
-                "value": 2156.2,
-                "rank": 3
-              },
-              {
-                "week": "2026-34",
-                "value": 2343.7,
-                "rank": 3
-              },
-              {
-                "week": "2026-36",
-                "value": 2375.7,
-                "rank": 3
-              },
-              {
-                "week": "2026-37",
-                "value": 2375.7,
                 "rank": 3
               }
             ]

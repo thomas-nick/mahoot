@@ -1,7 +1,7 @@
 {
   "division": "FPO",
   "week": "2026-37",
-  "saved_at": "2026-09-07T20:22:43.726282+00:00",
+  "saved_at": "2026-09-08T17:00:49.469186+00:00",
   "players": [
     {
       "slug": "holyn-handley",
@@ -12,20 +12,20 @@
       "wins": 3
     },
     {
+      "slug": "ohn-scoggins",
+      "name": "Ohn Scoggins",
+      "tour_rank": 2,
+      "tour_weighted_points": 2625.7,
+      "dgpt_rank": 1,
+      "wins": 12
+    },
+    {
       "slug": "silva-saarinen",
       "name": "Silva Saarinen",
-      "tour_rank": 2,
+      "tour_rank": 3,
       "tour_weighted_points": 2589.2,
       "dgpt_rank": 2,
       "wins": 6
-    },
-    {
-      "slug": "ohn-scoggins",
-      "name": "Ohn Scoggins",
-      "tour_rank": 3,
-      "tour_weighted_points": 2375.7,
-      "dgpt_rank": 1,
-      "wins": 11
     },
     {
       "slug": "eveliina-salonen",
@@ -55,31 +55,31 @@
       "slug": "catrina-allen",
       "name": "Catrina Allen",
       "tour_rank": 7,
-      "tour_weighted_points": 1212.9,
+      "tour_weighted_points": 1262.9,
       "dgpt_rank": 7,
-      "wins": 1
-    },
-    {
-      "slug": "henna-blomroos",
-      "name": "Henna Blomroos",
-      "tour_rank": 8,
-      "tour_weighted_points": 1050.2,
-      "dgpt_rank": 12,
       "wins": 1
     },
     {
       "slug": "lisa-fajkus",
       "name": "Lisa Fajkus",
-      "tour_rank": 9,
-      "tour_weighted_points": 989.7,
+      "tour_rank": 8,
+      "tour_weighted_points": 1177.2,
       "dgpt_rank": 20,
       "wins": 4
+    },
+    {
+      "slug": "henna-blomroos",
+      "name": "Henna Blomroos",
+      "tour_rank": 9,
+      "tour_weighted_points": 1050.2,
+      "dgpt_rank": 12,
+      "wins": 1
     },
     {
       "slug": "kat-mertsch",
       "name": "Kat Mertsch",
       "tour_rank": 10,
-      "tour_weighted_points": 973.1,
+      "tour_weighted_points": 980.6,
       "dgpt_rank": 10,
       "wins": 2
     },
@@ -92,12 +92,12 @@
       "wins": 0
     },
     {
-      "slug": "taylor-chocek",
-      "name": "Taylor Chocek",
+      "slug": "valerie-mandujano",
+      "name": "Valerie Mandujano",
       "tour_rank": 12,
-      "tour_weighted_points": 809.6,
-      "dgpt_rank": 18,
-      "wins": 0
+      "tour_weighted_points": 822.2,
+      "dgpt_rank": 9,
+      "wins": 3
     }
   ]
 }
