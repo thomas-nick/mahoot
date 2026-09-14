@@ -1,7 +1,7 @@
 {
   "division": "MPO",
   "week": "2026-37",
-  "saved_at": "2026-09-08T17:00:05.981672+00:00",
+  "saved_at": "2026-09-14T20:44:36.598514+00:00",
   "players": [
     {
       "slug": "gannon-buhr",
@@ -87,7 +87,7 @@
       "slug": "jaden-rye",
       "name": "Jaden Rye",
       "tour_rank": 11,
-      "tour_weighted_points": 849.8,
+      "tour_weighted_points": 856.8,
       "dgpt_rank": 19,
       "wins": 1
     },

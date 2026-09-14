@@ -1052,6 +1052,14 @@
   ],
   "adrian-zapata": [
     {
+      "event": "The 9th Annual Swordstone Social sponsored by Mint Discs & Prodig",
+      "event_key": "the-9th-annual-swordstone-social-sponsored-by-mi",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -1886,6 +1894,30 @@
   ],
   "alex-anderson": [],
   "alex-banning": [
+    {
+      "event": "Pro JCO",
+      "event_key": "pro-jco",
+      "month": "Aug",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "MVP Kansas City Flying Disc Challenge fueled by Raising Cane's",
+      "event_key": "mvp-kansas-city-flying-disc-challenge-fueled-by-",
+      "month": "Jul",
+      "place": 39,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Psycho WYCO",
+      "event_key": "psycho-wyco",
+      "month": "Jul",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
       "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
@@ -3980,6 +4012,22 @@
   ],
   "anna-pinter": [
     {
+      "event": "The Birdie and The Beast X Sponsored by Kastaplast & Daviston and",
+      "event_key": "the-birdie-and-the-beast-x-sponsored-by-kastapla",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Islands of the Calerrabean 2026 (CEP not rated)",
+      "event_key": "islands-of-the-calerrabean-2026-cep-not-rated",
+      "month": "Jul",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
       "event_key": "play-it-again-sports-jonesboro-open-presented-by",
       "month": "Apr",
@@ -5944,6 +5992,22 @@
   ],
   "benjamin-appel": [
     {
+      "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
+      "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
+      "month": "Sep",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Legends of Lebanon Crosstown",
+      "event_key": "legends-of-lebanon-crosstown",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -5973,6 +6037,14 @@
       "month": "Jul",
       "place": 2,
       "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "LVDG League Summer Segment",
+      "event_key": "lvdg-league-summer-segment",
+      "month": "Jul",
+      "place": 1,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -6336,6 +6408,22 @@
     }
   ],
   "bill-kirk": [
+    {
+      "event": "Harvey Penick Summer Classic",
+      "event_key": "harvey-penick-summer-classic",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "HOTT Summer League at Sprinkle Valley (Flex Start)",
+      "event_key": "hott-summer-league-at-sprinkle-valley-flex-start",
+      "month": "Jun",
+      "place": 13,
+      "tier": "L",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
@@ -7453,6 +7541,14 @@
     }
   ],
   "braeden-sides": [
+    {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -9776,6 +9872,46 @@
   ],
   "cassandra-lioi": [
     {
+      "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
+      "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
+      "month": "Sep",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Dragonfly Garden Open - Queen of the NorthEast Series #5",
+      "event_key": "dragonfly-garden-open-queen-of-the-northeast-ser",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "New Hampshire Women's Disc Golf Championship",
+      "event_key": "new-hampshire-women-s-disc-golf-championship",
+      "month": "Aug",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Wyatt Works Presents The 2026 Daceyland Open Sponsored by Latitud",
+      "event_key": "wyatt-works-presents-the-2026-daceyland-open-spo",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Warwick Disc Golf Championships",
+      "event_key": "warwick-disc-golf-championships",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Brewport Open",
       "event_key": "brewport-open",
       "month": "Jul",
@@ -9889,6 +10025,14 @@
     }
   ],
   "catrina-allen": [
+    {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -10413,6 +10557,14 @@
   ],
   "chandler-reigh": [
     {
+      "event": "Falcon\u2019s Flight 17",
+      "event_key": "falcon-s-flight-17",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -10624,6 +10776,14 @@
   ],
   "chandler-whisenand": [],
   "chantel-budinsky": [
+    {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -11353,6 +11513,14 @@
   ],
   "clay-edwards": [
     {
+      "event": "Falcon\u2019s Flight 17",
+      "event_key": "falcon-s-flight-17",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -12075,6 +12243,14 @@
     }
   ],
   "colten-montgomery": [
+    {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -14975,6 +15151,86 @@
   ],
   "dylan-capaccioli": [
     {
+      "event": "Hollows Fall Classic Sponsored by Kastaplast",
+      "event_key": "hollows-fall-classic-sponsored-by-kastaplast",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SNEDGO Points Series #6 @ Willow Valley (Flex Start)",
+      "event_key": "snedgo-points-series-6-willow-valley-flex-start",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "22nd Annual Greater Hartford Disc Golf Open weighed by Marshall S",
+      "event_key": "22nd-annual-greater-hartford-disc-golf-open-weig",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Friday Flex Tournament at Meadowbrook 6 of 6",
+      "event_key": "2026-friday-flex-tournament-at-meadowbrook-6-of-",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "DGVTour #9 - Kingdom Open",
+      "event_key": "dgvtour-9-kingdom-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Hillside Friday Flex Series #5",
+      "event_key": "2026-hillside-friday-flex-series-5",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Clement Farm Flex Series #3",
+      "event_key": "2026-clement-farm-flex-series-3",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Amoskeag Open",
+      "event_key": "amoskeag-open",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Wyatt Works Presents The 2026 Daceyland Open Sponsored by Latitud",
+      "event_key": "wyatt-works-presents-the-2026-daceyland-open-spo",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Circle 1 Maine Classic",
+      "event_key": "circle-1-maine-classic",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Clement Classic 2026",
       "event_key": "clement-classic-2026",
       "month": "Jul",
@@ -15295,6 +15551,14 @@
     }
   ],
   "eden-fornoff": [
+    {
+      "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
+      "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
+      "month": "Sep",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -16850,6 +17114,120 @@
     }
   ],
   "elizabete-peksena": [
+    {
+      "event": "2026 PDGA Professional Disc Golf World Championships presented by",
+      "event_key": "2026-pdga-professional-disc-golf-world-champions",
+      "month": "Aug",
+      "place": 16,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "Latvijas \u010cempion\u0101ts sadarb\u012bb\u0101 ar Innova Europe 2026",
+      "event_key": "latvijas-empion-ts-sadarb-b-ar-innova-europe-202",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas Kauss 3.posms - Ventspils",
+      "event_key": "latvijas-kauss-3-posms-ventspils",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
+      "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
+      "month": "Jul",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "2026 PDGA European Open",
+      "event_key": "2026-pdga-european-open",
+      "month": "Jun",
+      "place": 15,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
+      "event": "DGPT EuroTour - P\u00e4rnu Open presented by Latitude 64",
+      "event_key": "eurotour-p-rnu-open-presented-by-latitude-64",
+      "month": "Jun",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas Kauss 2.posms - Zibe\u0146i",
+      "event_key": "latvijas-kauss-2-posms-zibe-i",
+      "month": "Jun",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas Kauss 1.posms - 9hill",
+      "event_key": "latvijas-kauss-1-posms-9hill",
+      "month": "Apr",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Balodis izlido Tukum\u0101",
+      "event_key": "balodis-izlido-tukum",
+      "month": "Apr",
+      "place": 22,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Balodis izlido Ventspil\u012b",
+      "event_key": "balodis-izlido-ventspil",
+      "month": "Apr",
+      "place": 12,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Lietuvos diskgolfo \u017eiemos \u010dempionatas 2026 su DiscCity.eu",
+      "event_key": "lietuvos-diskgolfo-iemos-empionatas-2026-su-disc",
+      "month": "Feb",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
+  "elizabete-pkena": [
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -18871,6 +19249,22 @@
   "ethan-bishop": [],
   "ethan-hine": [
     {
+      "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
+      "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
+      "month": "Sep",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Broken Chains Bangarang",
+      "event_key": "broken-chains-bangarang",
+      "month": "Sep",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -19700,6 +20094,14 @@
     }
   ],
   "ezra-aderhold": [
+    {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -23307,6 +23709,14 @@
   ],
   "harry-chace": [
     {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -26203,6 +26613,14 @@
   "jacquelyn-delude": [],
   "jaden-rye": [
     {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -28161,6 +28579,30 @@
   ],
   "jasper-tyll": [
     {
+      "event": "Oak Hollow Open 2026",
+      "event_key": "oak-hollow-open-2026",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Triangle Friday Flex 2026 #17 presented by Yeet Street Discs",
+      "event_key": "triangle-friday-flex-2026-17-presented-by-yeet-s",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Crom Transmission & Automotive Specialist Presents The 6th Annual",
+      "event_key": "crom-transmission-automotive-specialist-presents",
+      "month": "Jul",
+      "place": 25,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 College Disc Golf National Championships - Singles MC1",
       "event_key": "2026-college-disc-golf-national-championships-si",
       "month": "Apr",
@@ -29071,6 +29513,22 @@
   ],
   "jesse-henderson": [],
   "jesse-longenecker": [
+    {
+      "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
+      "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Staunton Space Invader",
+      "event_key": "staunton-space-invader",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -30097,6 +30555,14 @@
   "john-armmonsterryaniii": [],
   "john-fowler": [
     {
+      "event": "Pity Park",
+      "event_key": "pity-park",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Crossroads Challenge presented by Innova",
       "event_key": "crossroads-challenge-presented-by-innova",
       "month": "Apr",
@@ -30239,6 +30705,22 @@
     }
   ],
   "jon-lynn": [
+    {
+      "event": "2026 MVP Music City Open - All Divisions plus DGPT Q-Series",
+      "event_key": "2026-mvp-music-city-open-all-divisions-plus-dgpt",
+      "month": "Sep",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "5th Annual Dickson Disc Golf Classic 4th Stop in The MidWest Tenn",
+      "event_key": "5th-annual-dickson-disc-golf-classic-4th-stop-in",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT - Play it Again Sports Jonesboro Open presented by Westside",
       "event_key": "play-it-again-sports-jonesboro-open-presented-by",
@@ -32438,6 +32920,14 @@
   ],
   "kat-johnson": [
     {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -33021,6 +33511,14 @@
     }
   ],
   "kelley-foster": [
+    {
+      "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
+      "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -34400,6 +34898,14 @@
   ],
   "kylie-kohut": [
     {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -35347,6 +35853,14 @@
     }
   ],
   "levi-stout": [
+    {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -36404,6 +36918,14 @@
   ],
   "lucas-oberholtzerhess": [
     {
+      "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
+      "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
+      "month": "Sep",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -36713,6 +37235,14 @@
     }
   ],
   "luke-samson": [
+    {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -38296,6 +38826,22 @@
   ],
   "marshall-blanks": [
     {
+      "event": "The 2026 Junction Summer Classic (A HOTT Points Event) - Presente",
+      "event_key": "the-2026-junction-summer-classic-a-hott-points-e",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Zilker | Austin Summer League Championships presented by Disc Nat",
+      "event_key": "zilker-austin-summer-league-championships-presen",
+      "month": "Jun",
+      "place": 13,
+      "tier": "L",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
       "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
       "month": "May",
@@ -38463,6 +39009,22 @@
     }
   ],
   "martin-hendel": [
+    {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The Nickel City Open",
+      "event_key": "the-nickel-city-open",
+      "month": "Sep",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -39292,6 +39854,62 @@
   ],
   "matt-doughten": [],
   "matt-hammersten": [
+    {
+      "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
+      "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
+      "month": "Sep",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "I81DGS - 19th Maurertown FLY",
+      "event_key": "i81dgs-19th-maurertown-fly",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 True Timber Open - Pro Divisions, MA1, MA2, MA40",
+      "event_key": "2026-true-timber-open-pro-divisions-ma1-ma2-ma40",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Appalachia Open",
+      "event_key": "the-appalachia-open",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Limestone Ledges Open",
+      "event_key": "limestone-ledges-open",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Dawn Patrol #28",
+      "event_key": "dawn-patrol-28",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Warwick Disc Golf Championships",
+      "event_key": "warwick-disc-golf-championships",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Tour de Richmond",
       "event_key": "tour-de-richmond",
@@ -42910,6 +43528,14 @@
   ],
   "nathaniel-johnson": [
     {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Queen City Classic presented by Another Round",
       "event_key": "queen-city-classic-presented-by-another-round",
       "month": "Mar",
@@ -42936,6 +43562,14 @@
   ],
   "nathaniel-weaver": [
     {
+      "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
+      "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
+      "month": "Sep",
+      "place": 29,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -42949,6 +43583,14 @@
       "month": "Jul",
       "place": 3,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "LVDG League Summer Segment",
+      "event_key": "lvdg-league-summer-segment",
+      "month": "Jul",
+      "place": 5,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -45671,6 +46313,14 @@
   ],
   "paige-pierce": [
     {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -45834,6 +46484,14 @@
   ],
   "parker-austin": [],
   "parker-welck": [
+    {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -48626,6 +49284,14 @@
   "riku-grhn": [],
   "robert-burridge": [
     {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -49134,6 +49800,14 @@
   "ryan-clark-1": [],
   "ryan-hahn": [
     {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 22,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -49187,6 +49861,14 @@
       "month": "Jun",
       "place": 1,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Acorn Hill Summer Singles  (Flex Start)",
+      "event_key": "acorn-hill-summer-singles-flex-start",
+      "month": "Jun",
+      "place": 1,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -49362,6 +50044,14 @@
     }
   ],
   "ryan-monn": [
+    {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -50310,6 +51000,14 @@
     }
   ],
   "sarah-hokom": [
+    {
+      "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
+      "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+      "month": "Sep",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
