@@ -32,7 +32,7 @@
       "major_win": 400.0
     }
   },
-  "updated_at": "2026-09-14T20:43:14.868931+00:00",
+  "updated_at": "2026-09-15T17:25:05.146320+00:00",
   "divisions": {
     "MPO": {
       "division": "MPO",
@@ -24070,6 +24070,69 @@
           "tour_rank": 322
         },
         {
+          "slug": "anthony-bodanza",
+          "name": "Anthony Bodanza",
+          "dgpt_rank": 319,
+          "manufacturer": "Unknown",
+          "dgpt_points": 7.67,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 13.1,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 0,
+          "tour_starts": 3,
+          "by_level": {
+            "major": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "elite": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 7.5
+            },
+            "a_tier": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 5.6
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+              "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & ",
+              "month": "Jul",
+              "place": 14,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "yeet-street-discs-presents-the-25th-annual-tar-h",
+              "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
+              "month": "May",
+              "place": 20,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "queen-city-classic-presented-by-another-round",
+              "event": "Queen City Classic presented by Another Round",
+              "month": "Mar",
+              "place": 73,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 323
+        },
+        {
           "slug": "nathaniel-johnson",
           "name": "Nathaniel Johnson",
           "dgpt_rank": 363,
@@ -24130,7 +24193,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 323
+          "tour_rank": 324
         },
         {
           "slug": "nick-robinson",
@@ -24193,7 +24256,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 324
+          "tour_rank": 325
         },
         {
           "slug": "renrs-strazdi",
@@ -24248,7 +24311,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 325
+          "tour_rank": 326
         },
         {
           "slug": "tnis-soppe",
@@ -24303,7 +24366,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 326
+          "tour_rank": 327
         },
         {
           "slug": "mikk-mts",
@@ -24358,7 +24421,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 327
+          "tour_rank": 328
         },
         {
           "slug": "matias-kalaoja",
@@ -24413,7 +24476,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 328
+          "tour_rank": 329
         },
         {
           "slug": "nathaniel-weaver",
@@ -24468,7 +24531,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 329
+          "tour_rank": 330
         },
         {
           "slug": "jan-mikael-lampela",
@@ -24539,7 +24602,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 330
+          "tour_rank": 331
         },
         {
           "slug": "taylor-coulam",
@@ -24610,7 +24673,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 331
+          "tour_rank": 332
         },
         {
           "slug": "arek-robinson",
@@ -24681,7 +24744,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 332
+          "tour_rank": 333
         },
         {
           "slug": "stanislaus-amann",
@@ -24728,7 +24791,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 333
+          "tour_rank": 334
         },
         {
           "slug": "markus-saarepuu",
@@ -24775,7 +24838,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 334
+          "tour_rank": 335
         },
         {
           "slug": "patrick-burke",
@@ -24822,7 +24885,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 335
+          "tour_rank": 336
         },
         {
           "slug": "james-bates",
@@ -24869,7 +24932,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 336
+          "tour_rank": 337
         },
         {
           "slug": "kyle-williams",
@@ -24916,7 +24979,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 337
+          "tour_rank": 338
         },
         {
           "slug": "tee-vetne",
@@ -24963,7 +25026,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 338
+          "tour_rank": 339
         },
         {
           "slug": "tuomas-hyytiinen",
@@ -25010,7 +25073,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 339
+          "tour_rank": 340
         },
         {
           "slug": "michael-babbitt",
@@ -25057,7 +25120,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 340
+          "tour_rank": 341
         },
         {
           "slug": "benjamin-vansumeren",
@@ -25104,7 +25167,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 341
+          "tour_rank": 342
         },
         {
           "slug": "guthrie-collins",
@@ -25151,7 +25214,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 342
+          "tour_rank": 343
         },
         {
           "slug": "blaz-petrovic",
@@ -25198,7 +25261,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 343
+          "tour_rank": 344
         },
         {
           "slug": "herbert-grnsteidl",
@@ -25245,7 +25308,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 344
+          "tour_rank": 345
         },
         {
           "slug": "oskar-uchliski",
@@ -25292,7 +25355,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 345
+          "tour_rank": 346
         },
         {
           "slug": "chase-farler",
@@ -25371,7 +25434,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 346
+          "tour_rank": 347
         },
         {
           "slug": "marshall-blanks",
@@ -25434,7 +25497,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 347
+          "tour_rank": 348
         },
         {
           "slug": "calvin-pettigrew",
@@ -25497,7 +25560,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 348
+          "tour_rank": 349
         },
         {
           "slug": "mark-jones",
@@ -25560,7 +25623,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 349
+          "tour_rank": 350
         },
         {
           "slug": "tobias-sderqvist",
@@ -25631,7 +25694,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 350
+          "tour_rank": 351
         },
         {
           "slug": "albin-widman",
@@ -25702,7 +25765,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 351
+          "tour_rank": 352
         },
         {
           "slug": "dallas-wrinkle",
@@ -25771,61 +25834,6 @@
               "place": 28,
               "level": "a_tier",
               "weighted_points": 1.0
-            }
-          ],
-          "tour_rank": 352
-        },
-        {
-          "slug": "anthony-bodanza",
-          "name": "Anthony Bodanza",
-          "dgpt_rank": 319,
-          "manufacturer": "Unknown",
-          "dgpt_points": 7.67,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 10.3,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 2,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 7.5
-            },
-            "a_tier": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 2.8
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "yeet-street-discs-presents-the-25th-annual-tar-h",
-              "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
-              "month": "May",
-              "place": 20,
-              "level": "a_tier",
-              "weighted_points": 2.8
-            },
-            {
-              "event_key": "queen-city-classic-presented-by-another-round",
-              "event": "Queen City Classic presented by Another Round",
-              "month": "Mar",
-              "place": 73,
-              "level": "elite",
-              "weighted_points": 7.5
             }
           ],
           "tour_rank": 353
@@ -30131,7 +30139,7 @@
           "month": "Jul",
           "level": "a_tier",
           "multiplier": 0.35,
-          "entries": 10,
+          "entries": 11,
           "winner": {
             "slug": "evan-smith",
             "name": "Evan Smith",

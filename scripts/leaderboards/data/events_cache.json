@@ -4616,6 +4616,62 @@
   ],
   "anthony-bodanza": [
     {
+      "event": "Burlington Friday Flex 2026 #22 presented by Yeet Street Discs",
+      "event_key": "burlington-friday-flex-2026-22-presented-by-yeet",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Friday Flex Xll (Chimney Hills)",
+      "event_key": "friday-flex-xll-chimney-hills",
+      "month": "Sep",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Burlington Friday Flex 2026 #16 presented by Yeet Street Discs",
+      "event_key": "burlington-friday-flex-2026-16-presented-by-yeet",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 GRO Warm-Up Flex @ Diavolo presented by CADL and Yeet Street",
+      "event_key": "2026-gro-warm-up-flex-diavolo-presented-by-cadl-",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "CADL INC. Presents: 2026 Summer quarterly (flex start)",
+      "event_key": "cadl-inc-presents-2026-summer-quarterly-flex-sta",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Triangle Friday Flex 2026 #14 presented by Yeet Street Discs",
+      "event_key": "triangle-friday-flex-2026-14-presented-by-yeet-s",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Valley Springs Flex XX",
       "event_key": "valley-springs-flex-xx",
       "month": "Jun",
@@ -36623,6 +36679,46 @@
     }
   ],
   "logan-weiss": [
+    {
+      "event": "Bayou Teche Open",
+      "event_key": "bayou-teche-open",
+      "month": "Sep",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "SummerSlang (CEP Charity - Rated)",
+      "event_key": "summerslang-cep-charity-rated",
+      "month": "Aug",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Pity Park",
+      "event_key": "pity-park",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Fort Buhlow Open",
+      "event_key": "fort-buhlow-open",
+      "month": "Aug",
+      "place": 9,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Southern Oaks Title Company Presents: 2026 Solomon Center Open",
+      "event_key": "southern-oaks-title-company-presents-2026-solomo",
+      "month": "Jul",
+      "place": 9,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "2026 Midsummer Meltdown in Metaire",
       "event_key": "2026-midsummer-meltdown-in-metaire",
