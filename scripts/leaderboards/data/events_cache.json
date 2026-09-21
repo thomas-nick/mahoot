@@ -1,6 +1,38 @@
 {
   "aapo-halmeenmki": [
     {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 58,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Jyv\u00e4skyl\u00e4 Open 2026 + PGPT Status",
+      "event_key": "jyv-skyl-open-2026-pgpt-status",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Rock Valley Open 2026",
+      "event_key": "rock-valley-open-2026",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 55,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -74,6 +106,30 @@
     }
   ],
   "aapo-karhi": [
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 25,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 37,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 26,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -354,6 +410,30 @@
     }
   ],
   "abrahan-bahena": [
+    {
+      "event": "4th Annual Cackleberry Pie Classic presented by Innova",
+      "event_key": "4th-annual-cackleberry-pie-classic-presented-by-",
+      "month": "Sep",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "4th Annual Hogwild Huck presented by The Disc Golf Dojo & Innova",
+      "event_key": "4th-annual-hogwild-huck-presented-by-the-disc-go",
+      "month": "Aug",
+      "place": 10,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Discraft's Ledgestone Open presented by Z\u00fcca",
+      "event_key": "discraft-s-ledgestone-open-presented-by-z-ca",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "The 4th Annual Olde Glory Days Open sponsored by: Prodigy",
       "event_key": "the-4th-annual-olde-glory-days-open-sponsored-by",
@@ -1640,6 +1720,14 @@
   ],
   "albin-widman": [
     {
+      "event": "#7 Spelartouren 2026 - Ymer powered by Nordic Discgolf",
+      "event_key": "7-spelartouren-2026-ymer-powered-by-nordic-discg",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -2115,6 +2203,46 @@
   ],
   "alex-vonstade": [
     {
+      "event": "Micke Grove Mayhem 2026 - Lodi CenCal Series",
+      "event_key": "micke-grove-mayhem-2026-lodi-cencal-series",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "High Sierra Cup",
+      "event_key": "high-sierra-cup",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "King Of The Lake",
+      "event_key": "king-of-the-lake",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "LCC Hot Summer",
+      "event_key": "lcc-hot-summer",
+      "month": "Jul",
+      "place": 18,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "Modesto Freedom Classic",
+      "event_key": "modesto-freedom-classic",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ / WGE - OTB Open by MVP Disc Sports",
       "event_key": "wge-otb-open-by-mvp-disc-sports",
       "month": "May",
@@ -2149,6 +2277,22 @@
     }
   ],
   "alexander-borgersrud": [
+    {
+      "event": "Karidalen Open Presented by Trash Panda",
+      "event_key": "karidalen-open-presented-by-trash-panda",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Drammen Open Warm-Up Doubles",
+      "event_key": "drammen-open-warm-up-doubles",
+      "month": "Aug",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "Norgesmesterskapet i Diskgolf 2026",
       "event_key": "norgesmesterskapet-i-diskgolf-2026",
@@ -2675,20 +2819,36 @@
   "amanda-kaestner": [],
   "amanda-lennartsson": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
       "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
       "month": "Jul",
       "place": 10,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 10,
-      "tier": "NT",
-      "tour": "DGPT"
     },
     {
       "event": "DGPT - Ale Open presented by Discraft",
@@ -2869,6 +3029,30 @@
   ],
   "andrea-cammack": [
     {
+      "event": "2026 TVDG Tour Series #5",
+      "event_key": "2026-tvdg-tour-series-5",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 TVDG Tour Series #4",
+      "event_key": "2026-tvdg-tour-series-4",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Idaho State Championship presented by innova",
+      "event_key": "idaho-state-championship-presented-by-innova",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -2882,6 +3066,14 @@
       "month": "May",
       "place": 2,
       "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "GSDGC Thursday League",
+      "event_key": "gsdgc-thursday-league",
+      "month": "May",
+      "place": 1,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -3954,6 +4146,54 @@
   ],
   "anna-damberga": [
     {
+      "event": "Latvijas Kauss #4 2026 - Valmiera",
+      "event_key": "latvijas-kauss-4-2026-valmiera",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Elwa Challenge 2026",
+      "event_key": "elwa-challenge-2026",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas \u010cempion\u0101ts sadarb\u012bb\u0101 ar Innova Europe 2026",
+      "event_key": "latvijas-empion-ts-sadarb-b-ar-innova-europe-202",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Talsu OPEN 2026",
+      "event_key": "talsu-open-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas Kauss 3.posms - Ventspils",
+      "event_key": "latvijas-kauss-3-posms-ventspils",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "HANZAS KAUSS 2026 \u2192 #3 PRIEKU\u013bI",
+      "event_key": "hanzas-kauss-2026-3-prieku-i",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -4298,6 +4538,30 @@
     }
   ],
   "anthony-anselmo": [
+    {
+      "event": "2026 East Carolina Collegiate Classic - Team",
+      "event_key": "2026-east-carolina-collegiate-classic-team",
+      "month": "Aug",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 East Carolina Collegiate Classic - Singles",
+      "event_key": "2026-east-carolina-collegiate-classic-singles",
+      "month": "Aug",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Oak Hollow Open 2026",
+      "event_key": "oak-hollow-open-2026",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -4920,6 +5184,46 @@
   "ariel-walker": [],
   "arttu-aaltonen": [
     {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 31,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Kierros Teiskossa",
+      "event_key": "kierros-teiskossa",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -5003,6 +5307,70 @@
   "arttu-kurlin": [],
   "arttu-rossi": [],
   "arvid-hansson": [
+    {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 24,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Sk\u00f6vde Open 2026",
+      "event_key": "sk-vde-open-2026",
+      "month": "Aug",
+      "place": 8,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "\u00d6rebrotouren #17",
+      "event_key": "rebrotouren-17",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "GT #11 \u00c5keslund Open - MPO, MA2",
+      "event_key": "gt-11-keslund-open-mpo-ma2",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Sommarserien i \u00d6stra Ryd, sponsrad av rocketdiscs.com",
+      "event_key": "sommarserien-i-stra-ryd-sponsrad-av-rocketdiscs-",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "#10 Uspastorp - Revolution Race Tour 2026",
+      "event_key": "10-uspastorp-revolution-race-tour-2026",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 23,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #3 Pite\u00e5",
+      "event_key": "nationella-touren-3-pite",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -5803,6 +6171,62 @@
   ],
   "axel-wernborg": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #4 Nyk\u00f6ping",
+      "event_key": "nationella-touren-4-nyk-ping",
+      "month": "Aug",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships - Junior Divisions 2026",
+      "event_key": "swedish-championships-junior-divisions-2026",
+      "month": "Jul",
+      "place": 2,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Vetlanda Open - Sm\u00e5landstouren #5",
+      "event_key": "vetlanda-open-sm-landstouren-5",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Storebro Open - Sm\u00e5landstouren #4",
+      "event_key": "storebro-open-sm-landstouren-4",
+      "month": "Jul",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -6491,6 +6915,38 @@
   ],
   "bjrn-marrandi": [
     {
+      "event": "J\u00e4rva-Jaani Open 2026 - Open classes",
+      "event_key": "j-rva-jaani-open-2026-open-classes",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Elwa Challenge 2026",
+      "event_key": "elwa-challenge-2026",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -6573,6 +7029,54 @@
   ],
   "blake-houston": [],
   "blake-poland": [
+    {
+      "event": "CADL Inc. and BCDC Present: The Inaugural NC Disc Golf Hall of Fa",
+      "event_key": "cadl-inc-and-bcdc-present-the-inaugural-nc-disc-",
+      "month": "Sep",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "North Cove Classic - Presented by GMT",
+      "event_key": "north-cove-classic-presented-by-gmt",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Growers Club Classic III (CEP Charity - Rated)",
+      "event_key": "growers-club-classic-iii-cep-charity-rated",
+      "month": "Aug",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Crom Transmission & Automotive Specialist Presents The 6th Annual",
+      "event_key": "crom-transmission-automotive-specialist-presents",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Yard Gnomes Open presented by Play it Again Sports",
+      "event_key": "yard-gnomes-open-presented-by-play-it-again-spor",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "The CDGC Summer Sling 2026 Presented by DGA",
       "event_key": "the-cdgc-summer-sling-2026-presented-by-dga",
@@ -6793,6 +7297,38 @@
     }
   ],
   "blrrn-sgeirsson": [
+    {
+      "event": "Gullm\u00f3t FGR 2026",
+      "event_key": "gullm-t-fgr-2026",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "\u00cdFS - \u00cdslandsm\u00f3t 2026",
+      "event_key": "fs-slandsm-t-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Reykjav\u00edk Open Presented by Innova Europe",
+      "event_key": "reykjav-k-open-presented-by-innova-europe",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nor\u00f0urlandsm\u00f3ti\u00f0 2026 \u00ed bo\u00f0i Forest Lagoon",
+      "event_key": "nor-urlandsm-ti-2026-bo-i-forest-lagoon",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -7539,6 +8075,22 @@
     }
   ],
   "brady-harbinson": [
+    {
+      "event": "Cedar Creek Open",
+      "event_key": "cedar-creek-open",
+      "month": "Aug",
+      "place": 43,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Battle of the Black Bear 2026",
+      "event_key": "battle-of-the-black-bear-2026",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -8310,6 +8862,22 @@
   ],
   "caleb-joiner": [
     {
+      "event": "51st Annual Washington State Championships - Doug Newland Memoria",
+      "event_key": "51st-annual-washington-state-championships-doug-",
+      "month": "Sep",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Mountain View Championship 3 presented by Emerald City Discs",
+      "event_key": "mountain-view-championship-3-presented-by-emeral",
+      "month": "Aug",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Dips Discs 2026 South Sound Classic Presented By Dynamic Discs -",
       "event_key": "dips-discs-2026-south-sound-classic-presented-by",
       "month": "Jul",
@@ -9026,6 +9594,14 @@
   ],
   "calvin-pettigrew": [
     {
+      "event": "5th Annual Dickson Disc Golf Classic 4th Stop in The MidWest Tenn",
+      "event_key": "5th-annual-dickson-disc-golf-classic-4th-stop-in",
+      "month": "Aug",
+      "place": 16,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Discraft Presents: Tennessee State Disc Golf Championships",
       "event_key": "discraft-presents-tennessee-state-disc-golf-cham",
       "month": "Jun",
@@ -9353,6 +9929,38 @@
     }
   ],
   "candyce-boyce": [
+    {
+      "event": "2026 Oregon Women\u2019s Disc Golf Championship presented by All Day",
+      "event_key": "2026-oregon-women-s-disc-golf-championship-prese",
+      "month": "Sep",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "All Day Disc Golf Presents the Summer's End Fling",
+      "event_key": "all-day-disc-golf-presents-the-summer-s-end-flin",
+      "month": "Sep",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Queens of Taloali",
+      "event_key": "queens-of-taloali",
+      "month": "Aug",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Discraft North Umpqua Invitational Presented by the Nune",
+      "event_key": "the-2026-discraft-north-umpqua-invitational-pres",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "OWS #6: Palindrome Day on the Fairway presented by All Day Disc G",
       "event_key": "ows-6-palindrome-day-on-the-fairway-presented-by",
@@ -10278,6 +10886,46 @@
   "ceci-vollbrecht": [],
   "chad-sherbert": [
     {
+      "event": "Shadow Lake Open",
+      "event_key": "shadow-lake-open",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Dawg Daze Open 2026 Presented By Chick-fil-a :Starkville",
+      "event_key": "dawg-daze-open-2026-presented-by-chick-fil-a-sta",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "13th Annual Reservoir Dawgs Open Presented by 74 SUNS* Sponsored",
+      "event_key": "13th-annual-reservoir-dawgs-open-presented-by-74",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "27th Annual Ouachita River Open Presented By Big C's Auto Body",
+      "event_key": "27th-annual-ouachita-river-open-presented-by-big",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "3rd Annual Double Dawg Dare presented by Starkville: Mississippi\ufffd",
+      "event_key": "3rd-annual-double-dawg-dare-presented-by-starkvi",
+      "month": "Jul",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "State Games of MS Singles",
       "event_key": "state-games-of-ms-singles",
       "month": "Jun",
@@ -10935,6 +11583,14 @@
   ],
   "charles-peters": [
     {
+      "event": "MVP Kansas City Flying Disc Challenge fueled by Raising Cane's",
+      "event_key": "mvp-kansas-city-flying-disc-challenge-fueled-by-",
+      "month": "Jul",
+      "place": 29,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series - 2026 Star City Classic Presented by DGA",
       "event_key": "q-series-2026-star-city-classic-presented-by-dga",
       "month": "Jun",
@@ -11098,6 +11754,22 @@
     }
   ],
   "chase-farler": [
+    {
+      "event": "Appalachian Summer Send-off, presented by Visit Kingsport",
+      "event_key": "appalachian-summer-send-off-presented-by-visit-k",
+      "month": "Sep",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Throwmore 2026: Meet The Mountains",
+      "event_key": "throwmore-2026-meet-the-mountains",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -11517,6 +12189,14 @@
   "christian-byars": [],
   "christian-dietrich": [
     {
+      "event": "Rocky Mountain Championships - Sward Ranch",
+      "event_key": "rocky-mountain-championships-sward-ranch",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
       "month": "Jun",
@@ -11851,12 +12531,28 @@
   "colby-jones": [],
   "colby-schefers": [
     {
+      "event": "2026 Dry Creek Cthulhu Championship",
+      "event_key": "2026-dry-creek-cthulhu-championship",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
       "place": 96,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "Discmania Challenge presented by TruBank Monday Qualifier",
+      "event_key": "discmania-challenge-presented-by-trubank-monday-",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
     },
     {
       "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
@@ -12764,6 +13460,22 @@
   ],
   "corbin-milchesky": [
     {
+      "event": "Red Hawk Friday Flex, Presented by Innova",
+      "event_key": "red-hawk-friday-flex-presented-by-innova",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "10th Annual Return of the Little Big Show",
+      "event_key": "10th-annual-return-of-the-little-big-show",
+      "month": "Jul",
+      "place": 10,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "7th Annual Magnolia Open Powered by Discraft",
       "event_key": "7th-annual-magnolia-open-powered-by-discraft",
       "month": "May",
@@ -12877,6 +13589,22 @@
     }
   ],
   "corey-dryden": [
+    {
+      "event": "2026 TVDG Tour Series #5",
+      "event_key": "2026-tvdg-tour-series-5",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Idaho State Championship presented by innova",
+      "event_key": "idaho-state-championship-presented-by-innova",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -13629,6 +14357,14 @@
   ],
   "daniel-kokunja": [
     {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 113,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -13666,6 +14402,14 @@
       "month": "Jun",
       "place": 14,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Etel\u00e4n PDGA-liiga",
+      "event_key": "etel-n-pdga-liiga",
+      "month": "Jun",
+      "place": 44,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -14312,6 +15056,54 @@
   ],
   "david-hurley": [
     {
+      "event": "Rocklin Pro-Am hosted by Final 9 Sports",
+      "event_key": "rocklin-pro-am-hosted-by-final-9-sports",
+      "month": "Aug",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "King Of The Lake",
+      "event_key": "king-of-the-lake",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "32nd Annual Frying Pan 2026 sponsored by Visit Stockton and DGA--",
+      "event_key": "32nd-annual-frying-pan-2026-sponsored-by-visit-s",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Rocklin Summer Tags",
+      "event_key": "rocklin-summer-tags",
+      "month": "Jul",
+      "place": 8,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "Denio Summer League",
+      "event_key": "denio-summer-league",
+      "month": "Jul",
+      "place": 2,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "The Stampede 2026",
+      "event_key": "the-stampede-2026",
+      "month": "Jun",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "2026 Power Disc Golf Academy Championship Series Qualifier - Rock",
       "event_key": "2026-power-disc-golf-academy-championship-series",
       "month": "Jun",
@@ -14394,6 +15186,30 @@
     }
   ],
   "david-konoplev": [
+    {
+      "event": "51st Annual Washington State Championships - Doug Newland Memoria",
+      "event_key": "51st-annual-washington-state-championships-doug-",
+      "month": "Sep",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Calapooia Classic presented by Wyatt\u2019s Tire Co",
+      "event_key": "2026-calapooia-classic-presented-by-wyatt-s-tire",
+      "month": "Aug",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Resistance Discs Reservoir Round Up",
+      "event_key": "resistance-discs-reservoir-round-up",
+      "month": "Aug",
+      "place": 11,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -14478,12 +15294,36 @@
   "david-perry-1": [],
   "dawson-snelling": [
     {
+      "event": "IOS #142 Northwood Open - MPO/MA2/MA4/FA2/FA4/MA40",
+      "event_key": "ios-142-northwood-open-mpo-ma2-ma4-fa2-fa4-ma40",
+      "month": "Sep",
+      "place": 13,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2nd Annual Muscatine Open",
+      "event_key": "2nd-annual-muscatine-open",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
       "place": 45,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "Iron Lion's Mulligan Monday League (Flex Start)",
+      "event_key": "iron-lion-s-mulligan-monday-league-flex-start",
+      "month": "Aug",
+      "place": 1,
+      "tier": "L",
+      "tour": ""
     },
     {
       "event": "DGPT+ Ledgestone Open",
@@ -14740,6 +15580,38 @@
   "destyne-martinez": [],
   "dillon-spellman": [
     {
+      "event": "42nd Annual Frontier Open",
+      "event_key": "42nd-annual-frontier-open",
+      "month": "Sep",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Keeper of the Chains - Presented by: Innova Disc Golf",
+      "event_key": "the-keeper-of-the-chains-presented-by-innova-dis",
+      "month": "Aug",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Wild Bill's Aces and Eights Presented by Amanda West State Farm",
+      "event_key": "wild-bill-s-aces-and-eights-presented-by-amanda-",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Warner Park Hillside Slide",
+      "event_key": "warner-park-hillside-slide",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -14753,6 +15625,14 @@
       "month": "Jul",
       "place": 13,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Flying Bison Tuesday PDGA Singles 2026 - Session 3",
+      "event_key": "flying-bison-tuesday-pdga-singles-2026-session-3",
+      "month": "Jul",
+      "place": 5,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -14869,6 +15749,22 @@
     }
   ],
   "donovan-stein": [
+    {
+      "event": "King of the North",
+      "event_key": "king-of-the-north",
+      "month": "Sep",
+      "place": 16,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Cedar Creek Open",
+      "event_key": "cedar-creek-open",
+      "month": "Aug",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -15140,6 +16036,46 @@
     }
   ],
   "dustin-klein": [
+    {
+      "event": "2026 Old Settlers Open",
+      "event_key": "2026-old-settlers-open",
+      "month": "Sep",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Pro JCO",
+      "event_key": "pro-jco",
+      "month": "Aug",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Maverick DG: Kanza Krush Sponsored by Latitude 64",
+      "event_key": "maverick-dg-kanza-krush-sponsored-by-latitude-64",
+      "month": "Aug",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "MVP Kansas City Flying Disc Challenge fueled by Raising Cane's",
+      "event_key": "mvp-kansas-city-flying-disc-challenge-fueled-by-",
+      "month": "Jul",
+      "place": 41,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Psycho WYCO",
+      "event_key": "psycho-wyco",
+      "month": "Jul",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Nexus Flexus at Paradise Pointe - Woodhenge",
       "event_key": "nexus-flexus-at-paradise-pointe-woodhenge",
@@ -15708,6 +16644,14 @@
   "edvard-espesethjemdal": [],
   "eeka-klhi": [
     {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 76,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -15718,6 +16662,30 @@
   ],
   "eelis-immonen-278808": [],
   "eemil-lampela": [
+    {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 18,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 57,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -15835,6 +16803,38 @@
   ],
   "eetu-tuominen": [
     {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -15892,6 +16892,30 @@
     }
   ],
   "egert-htt": [
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 PDGA Europa Cup",
+      "event_key": "2026-pdga-europa-cup",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Rakvere Sn\u00e4kkpro Eesti Juunioride, Seenioride, Harrastajate Eest",
+      "event_key": "rakvere-sn-kkpro-eesti-juunioride-seenioride-har",
+      "month": "Jul",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -16260,6 +17284,54 @@
   ],
   "elias-gripler": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #4 Nyk\u00f6ping",
+      "event_key": "nationella-touren-4-nyk-ping",
+      "month": "Aug",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #3 Pite\u00e5",
+      "event_key": "nationella-touren-3-pite",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -16365,6 +17437,54 @@
     }
   ],
   "elias-luukkonen": [
+    {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 24,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 29,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "RPM Open 2026",
+      "event_key": "rpm-open-2026",
+      "month": "Aug",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 26,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Raaseporin Helmi sponsored by Innova Europe",
+      "event_key": "raaseporin-helmi-sponsored-by-innova-europe",
+      "month": "Jul",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -17105,20 +18225,28 @@
   ],
   "elina-rydberg": [
     {
+      "event": "Nationella Touren #4 Nyk\u00f6ping",
+      "event_key": "nationella-touren-4-nyk-ping",
+      "month": "Aug",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
       "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
       "month": "Jul",
       "place": 17,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 17,
-      "tier": "NT",
-      "tour": "DGPT"
     },
     {
       "event": "DGPT - Ale Open presented by Discraft",
@@ -17578,20 +18706,36 @@
   ],
   "ella-tejler": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
       "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
       "month": "Jul",
       "place": 23,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 23,
-      "tier": "NT",
-      "tour": "DGPT"
     },
     {
       "event": "DGPT - Ale Open presented by Discraft",
@@ -17869,6 +19013,30 @@
     }
   ],
   "ellie-bryant": [
+    {
+      "event": "Cedar Creek Open",
+      "event_key": "cedar-creek-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "FDGC State Fair Flex Start Sunday @ BZ Shorts",
+      "event_key": "fdgc-state-fair-flex-start-sunday-bz-shorts",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "FDGC State Fair Saturday Flex Start Saturday @ Grandview Park Sho",
+      "event_key": "fdgc-state-fair-saturday-flex-start-saturday-gra",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
@@ -18263,6 +19431,38 @@
   ],
   "emil-karlsson": [
     {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 45,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 36,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #3 Pite\u00e5",
+      "event_key": "nationella-touren-3-pite",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -18360,6 +19560,22 @@
     }
   ],
   "emile-barbe": [
+    {
+      "event": "Swiss Disc Golf Championships Samnaun",
+      "event_key": "swiss-disc-golf-championships-samnaun",
+      "month": "Aug",
+      "place": 5,
+      "tier": "XB",
+      "tour": ""
+    },
+    {
+      "event": "2. Golf Meggen Trophy 2026",
+      "event_key": "2-golf-meggen-trophy-2026",
+      "month": "Jul",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Zurich Disc Golf Open (ZDGO) 2026",
       "event_key": "zurich-disc-golf-open-zdgo-2026",
@@ -18729,6 +19945,30 @@
   ],
   "emma-arp": [
     {
+      "event": "The Keeper of the Chains - Presented by: Innova Disc Golf",
+      "event_key": "the-keeper-of-the-chains-presented-by-innova-dis",
+      "month": "Aug",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "A Call to Arms #33 - Presented by Rainwood Development Partners",
+      "event_key": "a-call-to-arms-33-presented-by-rainwood-developm",
+      "month": "Aug",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Big Blue Shindig #8",
+      "event_key": "big-blue-shindig-8",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -18949,6 +20189,14 @@
     }
   ],
   "eric-downing": [
+    {
+      "event": "MVP Kansas City Flying Disc Challenge fueled by Raising Cane's",
+      "event_key": "mvp-kansas-city-flying-disc-challenge-fueled-by-",
+      "month": "Jul",
+      "place": 32,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Maverick DG: Black Hoof Shootout 3 presented by Innova",
       "event_key": "maverick-dg-black-hoof-shootout-3-presented-by-i",
@@ -19173,6 +20421,46 @@
     }
   ],
   "espen-normannpaulsen": [
+    {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 30,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "NC 5 Open Kodal",
+      "event_key": "nc-5-open-kodal",
+      "month": "Sep",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "RPM Open 2026",
+      "event_key": "rpm-open-2026",
+      "month": "Aug",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Arvika Open 2026 - Presented by Kastaplast",
+      "event_key": "arvika-open-2026-presented-by-kastaplast",
+      "month": "Aug",
+      "place": 14,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NC 4 Open Gl\u00e5mos",
+      "event_key": "nc-4-open-gl-mos",
+      "month": "Jul",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Norgesmesterskapet i Diskgolf 2026",
       "event_key": "norgesmesterskapet-i-diskgolf-2026",
@@ -19443,6 +20731,22 @@
   ],
   "eva-lutsenko": [
     {
+      "event": "Hub City AM Championship Presented by MVP Disc Sports",
+      "event_key": "hub-city-am-championship-presented-by-mvp-disc-s",
+      "month": "Sep",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The 2nd Century Sizzle",
+      "event_key": "the-2nd-century-sizzle",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -19472,6 +20776,14 @@
       "month": "Jul",
       "place": 2,
       "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "The W Disc Golf League @ Century Park",
+      "event_key": "the-w-disc-golf-league-century-park",
+      "month": "Jun",
+      "place": 4,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -19645,6 +20957,38 @@
   ],
   "evald-sandermoenwre": [
     {
+      "event": "NC 5 Open Kodal",
+      "event_key": "nc-5-open-kodal",
+      "month": "Sep",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Skogen Rundt 2026",
+      "event_key": "skogen-rundt-2026",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Trondheim Open 2026 Presentert av Frisbeebutikken",
+      "event_key": "trondheim-open-2026-presentert-av-frisbeebutikke",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Arvika Open 2026 - Presented by Kastaplast",
+      "event_key": "arvika-open-2026-presented-by-kastaplast",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Norgesmesterskapet i Diskgolf 2026",
       "event_key": "norgesmesterskapet-i-diskgolf-2026",
       "month": "Jul",
@@ -19722,6 +21066,14 @@
       "month": "Apr",
       "place": 1,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Klemetsrud Grand Prix Doubles 2026",
+      "event_key": "klemetsrud-grand-prix-doubles-2026",
+      "month": "Apr",
+      "place": 14,
+      "tier": "XC",
       "tour": ""
     },
     {
@@ -20665,6 +22017,62 @@
   "fleur-verberk": [],
   "florian-lingenhel": [
     {
+      "event": "Franconia Open presented by Latitude 64",
+      "event_key": "franconia-open-presented-by-latitude-64",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Swiss Disc Golf Championships Samnaun",
+      "event_key": "swiss-disc-golf-championships-samnaun",
+      "month": "Aug",
+      "place": 2,
+      "tier": "XB",
+      "tour": ""
+    },
+    {
+      "event": "Rossh\u00fctte Opening (Flex Start)",
+      "event_key": "rossh-tte-opening-flex-start",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "TT Glungezer",
+      "event_key": "tt-glungezer",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "M\u00fcnchener Campustreffen 2026",
+      "event_key": "m-nchener-campustreffen-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "8. Kneipp Open",
+      "event_key": "8-kneipp-open",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Unicorn Open 2026",
+      "event_key": "unicorn-open-2026",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -20948,6 +22356,62 @@
     }
   ],
   "fredy-meza": [
+    {
+      "event": "Dynamic Discs Presents the Lewisville Open in Memory of Tom \"Old",
+      "event_key": "dynamic-discs-presents-the-lewisville-open-in-me",
+      "month": "Sep",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Lone Star Disc Presents Stonebridge 9-10 (Flex Start)",
+      "event_key": "lone-star-disc-presents-stonebridge-9-10-flex-st",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2nd Annual Blanchard Open",
+      "event_key": "2nd-annual-blanchard-open",
+      "month": "Sep",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "TDTG 1 Round Shotgun at Little Egypt (SILVER+) Sponsored by MVP D",
+      "event_key": "tdtg-1-round-shotgun-at-little-egypt-silver-spon",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Lone Star Disc Presents Zube Park (Flex Start)",
+      "event_key": "lone-star-disc-presents-zube-park-flex-start",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Dynamic Discs Presents the Trophy Club Open",
+      "event_key": "dynamic-discs-presents-the-trophy-club-open",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Lone Star Disc Presents Stonebridge 8/6 (Flex Start)",
+      "event_key": "lone-star-disc-presents-stonebridge-8-6-flex-sta",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -21867,6 +23331,22 @@
   ],
   "garry-patton": [
     {
+      "event": "IOS #142 Northwood Open - MPO/MA2/MA4/FA2/FA4/MA40",
+      "event_key": "ios-142-northwood-open-mpo-ma2-ma4-fa2-fa4-ma40",
+      "month": "Sep",
+      "place": 35,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Northwood Open Flex (CEP Charity - Rated)",
+      "event_key": "northwood-open-flex-cep-charity-rated",
+      "month": "Sep",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -22161,6 +23641,14 @@
       "tour": "DGPT"
     },
     {
+      "event": "Discmania Challenge presented by TruBank Monday Qualifier",
+      "event_key": "discmania-challenge-presented-by-trubank-monday-",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -22214,6 +23702,14 @@
       "month": "Jun",
       "place": 16,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Huntington Beach Summer Series (All-day Flex Start - Thursda",
+      "event_key": "2026-huntington-beach-summer-series-all-day-flex",
+      "month": "Jun",
+      "place": 14,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -23080,6 +24576,54 @@
   ],
   "gustav-dahln": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 25,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #4 Nyk\u00f6ping",
+      "event_key": "nationella-touren-4-nyk-ping",
+      "month": "Aug",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #3 Pite\u00e5",
+      "event_key": "nationella-touren-3-pite",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Storebro Open - Sm\u00e5landstouren #4",
+      "event_key": "storebro-open-sm-landstouren-4",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -23419,6 +24963,22 @@
     }
   ],
   "hanna-jansson": [
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -23968,6 +25528,14 @@
   "hayden-carroll": [],
   "hayden-frederiksen": [
     {
+      "event": "4th annual Altered Images Open presented by Ace's Disc Golf Suppl",
+      "event_key": "4th-annual-altered-images-open-presented-by-ace-",
+      "month": "Aug",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Lester Lorch Flex - Beaver",
       "event_key": "lester-lorch-flex-beaver",
       "month": "Jul",
@@ -24391,6 +25959,14 @@
   ],
   "henric-hagman": [
     {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 27,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -24416,6 +25992,22 @@
     }
   ],
   "henrik-haaland": [
+    {
+      "event": "Drammen Open Warm-Up Doubles",
+      "event_key": "drammen-open-warm-up-doubles",
+      "month": "Aug",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "NC 4 Open Gl\u00e5mos",
+      "event_key": "nc-4-open-gl-mos",
+      "month": "Jul",
+      "place": 103,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Norgesmesterskapet i Diskgolf 2026",
       "event_key": "norgesmesterskapet-i-diskgolf-2026",
@@ -24459,6 +26051,22 @@
   ],
   "henrik-punkari": [],
   "henry-bente": [
+    {
+      "event": "The 6th Ever Rumble at the Ranch (A HOTT Points Event) - Presente",
+      "event_key": "the-6th-ever-rumble-at-the-ranch-a-hott-points-e",
+      "month": "Sep",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Throwing Down the Gauntlet at Research Park (GOLD), Sponsored by",
+      "event_key": "throwing-down-the-gauntlet-at-research-park-gold",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "6th Annual Tiger Open presented by Innova",
       "event_key": "6th-annual-tiger-open-presented-by-innova",
@@ -24725,6 +26333,30 @@
   "herman-bentzenhinkel": [],
   "herman-hatlo": [
     {
+      "event": "NC 5 Open Kodal",
+      "event_key": "nc-5-open-kodal",
+      "month": "Sep",
+      "place": 10,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "RPM Open 2026",
+      "event_key": "rpm-open-2026",
+      "month": "Aug",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Arvika Open 2026 - Presented by Kastaplast",
+      "event_key": "arvika-open-2026-presented-by-kastaplast",
+      "month": "Aug",
+      "place": 18,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Norgesmesterskapet i Diskgolf 2026",
       "event_key": "norgesmesterskapet-i-diskgolf-2026",
       "month": "Jul",
@@ -24889,6 +26521,46 @@
   ],
   "hjalte-jensen": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DFSU DT #6 \u2013 Esbjerg Open Presented By Disc Tree",
+      "event_key": "dfsu-dt-6-esbjerg-open-presented-by-disc-tree",
+      "month": "Sep",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DFSU DT #5 Aalborg Open presented by Disc Tree",
+      "event_key": "dfsu-dt-5-aalborg-open-presented-by-disc-tree",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "NC 4 Open Gl\u00e5mos",
+      "event_key": "nc-4-open-gl-mos",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -24996,6 +26668,22 @@
     }
   ],
   "holger-hkansson": [
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 30,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #3 Pite\u00e5",
+      "event_key": "nationella-touren-3-pite",
+      "month": "Jul",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -25319,6 +27007,38 @@
   ],
   "hugo-frjdlund": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "GT #12 Bulltofta Open",
+      "event_key": "gt-12-bulltofta-open",
+      "month": "Sep",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -25539,6 +27259,38 @@
     }
   ],
   "ian-fredrickson": [
+    {
+      "event": "The Flight of the Vultures (Flex Start)",
+      "event_key": "the-flight-of-the-vultures-flex-start",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The East Metro Cup (Shotgun Start)",
+      "event_key": "the-east-metro-cup-shotgun-start",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The 9th Annual Swordstone Social sponsored by Mint Discs & Prodig",
+      "event_key": "the-9th-annual-swordstone-social-sponsored-by-mi",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "5th Benbrook Summer Smash, fueled by Subaru of Georgetown and ref",
+      "event_key": "5th-benbrook-summer-smash-fueled-by-subaru-of-ge",
+      "month": "Aug",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "The 35th Annual Capital of Texas Open",
       "event_key": "the-35th-annual-capital-of-texas-open",
@@ -25823,6 +27575,14 @@
   "isaac-ghareeb": [],
   "isaac-heinen": [
     {
+      "event": "MVP Kansas City Flying Disc Challenge fueled by Raising Cane's",
+      "event_key": "mvp-kansas-city-flying-disc-challenge-fueled-by-",
+      "month": "Jul",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Maverick DG: Black Hoof Shootout 3 presented by Innova",
       "event_key": "maverick-dg-black-hoof-shootout-3-presented-by-i",
       "month": "Jun",
@@ -26028,6 +27788,78 @@
   ],
   "isabella-parker": [
     {
+      "event": "The Collegiate Presented by Innova Discs",
+      "event_key": "the-collegiate-presented-by-innova-discs",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Keeper of the Chains - Presented by: Innova Disc Golf",
+      "event_key": "the-keeper-of-the-chains-presented-by-innova-dis",
+      "month": "Aug",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Maverick DG: Shawnee Mission:Impossible presented by Raising Cane",
+      "event_key": "maverick-dg-shawnee-mission-impossible-presented",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "TDTG Flex at Jones Park West (SILVER) Sponsored by MVP Disc Sport",
+      "event_key": "tdtg-flex-at-jones-park-west-silver-sponsored-by",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2nd Annual Champs Challenge at Champions Landing",
+      "event_key": "2nd-annual-champs-challenge-at-champions-landing",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Throwing Down the Gauntlet at Harry Myers (Platinum), Sponsored b",
+      "event_key": "throwing-down-the-gauntlet-at-harry-myers-platin",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "TDTG Flex at Harry Myers - 4 (SILVER) Sponsored by MVP Disc Sport",
+      "event_key": "tdtg-flex-at-harry-myers-4-silver-sponsored-by-m",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Dynamic Discs Flex Start Friday @ Greenbelt",
+      "event_key": "dynamic-discs-flex-start-friday-greenbelt",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "TDTG Flex at Missouri City, (SILVER) Sponsored by MVP Disc Sports",
+      "event_key": "tdtg-flex-at-missouri-city-silver-sponsored-by-m",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "6th Annual Tiger Open presented by Innova",
       "event_key": "6th-annual-tiger-open-presented-by-innova",
       "month": "Jun",
@@ -26049,6 +27881,14 @@
       "month": "Jun",
       "place": 1,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Pelican City Flex",
+      "event_key": "pelican-city-flex",
+      "month": "Jun",
+      "place": 1,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -26273,6 +28113,62 @@
     }
   ],
   "isak-andersson": [
+    {
+      "event": "S\u00f6dra Norrlandstouren 2026 presented by Westside discs & Discexp",
+      "event_key": "s-dra-norrlandstouren-2026-presented-by-westside",
+      "month": "Sep",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "V\u00e4sterbottenstouren 2026 sponsored by Mickes Discgolf #9 Lycksel",
+      "event_key": "v-sterbottenstouren-2026-sponsored-by-mickes-dis",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #4 Nyk\u00f6ping",
+      "event_key": "nationella-touren-4-nyk-ping",
+      "month": "Aug",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "S\u00f6dra Norrlandstouren 2026 presented by Westside discs & Discexp",
+      "event_key": "s-dra-norrlandstouren-2026-presented-by-westside",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Timr\u00e5 Discgolf H\u00f6sttour",
+      "event_key": "timr-discgolf-h-sttour",
+      "month": "Aug",
+      "place": 5,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "S\u00f6dra Norrlandstouren 2026 presented by Westside discs & Discexp",
+      "event_key": "s-dra-norrlandstouren-2026-presented-by-westside",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 23,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -27156,6 +29052,22 @@
   ],
   "jake-lauber": [
     {
+      "event": "FDGTS #12 Pickard Silvers/Gold",
+      "event_key": "fdgts-12-pickard-silvers-gold",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Cedar Creek Open",
+      "event_key": "cedar-creek-open",
+      "month": "Aug",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
@@ -27913,6 +29825,70 @@
   "jami-gust": [],
   "jami-kuhanen": [
     {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 51,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "NBDG Amateurs\u2122 Mukkula Park",
+      "event_key": "nbdg-amateurs-mukkula-park",
+      "month": "Sep",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 93,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 113,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 28,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 68,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Raaseporin Helmi sponsored by Innova Europe",
+      "event_key": "raaseporin-helmi-sponsored-by-innova-europe",
+      "month": "Jul",
+      "place": 70,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 102,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -28165,6 +30141,30 @@
   ],
   "jamison-monroe": [
     {
+      "event": "Get 'Er Done at Stable Run 2026",
+      "event_key": "get-er-done-at-stable-run-2026",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "FDGTS #12 Pickard Silvers/Gold",
+      "event_key": "fdgts-12-pickard-silvers-gold",
+      "month": "Aug",
+      "place": 29,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Cedar Creek Open",
+      "event_key": "cedar-creek-open",
+      "month": "Aug",
+      "place": 30,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
@@ -28254,6 +30254,14 @@
     }
   ],
   "jan-mikael-lampela": [
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 40,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -28396,6 +30404,30 @@
   ],
   "jarod-obrien": [
     {
+      "event": "Alaska State Disc Golf Championship presented by Matthew Raymond",
+      "event_key": "alaska-state-disc-golf-championship-presented-by",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Anchortown Open",
+      "event_key": "2026-anchortown-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Jailhouse Roc presented by Innova and Phillips Cruises and T",
+      "event_key": "2026-jailhouse-roc-presented-by-innova-and-phill",
+      "month": "Aug",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -28461,6 +30493,14 @@
     }
   ],
   "jason-lawson": [
+    {
+      "event": "The 2026 Discraft North Umpqua Invitational Presented by the Nune",
+      "event_key": "the-2026-discraft-north-umpqua-invitational-pres",
+      "month": "Jul",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -28755,6 +30795,38 @@
   ],
   "jeffrey-mccormick": [
     {
+      "event": "Merced Meltdown 2026 Presented by Sierra Disc Golf Co.",
+      "event_key": "merced-meltdown-2026-presented-by-sierra-disc-go",
+      "month": "Aug",
+      "place": 10,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Sierra Jungle Shootout Sponsored By Innova,1849 Brewing Co.,",
+      "event_key": "2026-sierra-jungle-shootout-sponsored-by-innova-",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Flying Monkey Open 2026",
+      "event_key": "flying-monkey-open-2026",
+      "month": "Jul",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Modesto Freedom Classic",
+      "event_key": "modesto-freedom-classic",
+      "month": "Jun",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Hard Pan Classic presented by Legacy Discs, Visit Fresno County a",
       "event_key": "hard-pan-classic-presented-by-legacy-discs-visit",
       "month": "Jun",
@@ -28914,6 +30986,30 @@
     }
   ],
   "jennifer-rice": [
+    {
+      "event": "Huckin' The Harbor",
+      "event_key": "huckin-the-harbor",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "51st Annual Washington State Championships - Doug Newland Memoria",
+      "event_key": "51st-annual-washington-state-championships-doug-",
+      "month": "Sep",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Summertime Fling in the Evergreens",
+      "event_key": "summertime-fling-in-the-evergreens",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Dips Discs 2026 South Sound Classic Presented By Dynamic Discs -",
       "event_key": "dips-discs-2026-south-sound-classic-presented-by",
@@ -29200,6 +31296,30 @@
   ],
   "jenny-larsson": [
     {
+      "event": "Nationella Touren #4 Nyk\u00f6ping",
+      "event_key": "nationella-touren-4-nyk-ping",
+      "month": "Aug",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -29257,6 +31377,54 @@
     }
   ],
   "jere-kukkurainen": [
+    {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 84,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Tammisaari Open 2026",
+      "event_key": "tammisaari-open-2026",
+      "month": "Sep",
+      "place": 10,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 61,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 28,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Raaseporin Helmi sponsored by Innova Europe",
+      "event_key": "raaseporin-helmi-sponsored-by-innova-europe",
+      "month": "Jul",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -30039,6 +32207,54 @@
   "jessica-zilch": [],
   "jimi-tapanila": [
     {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 63,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 23,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Susiraja Open 2026",
+      "event_key": "susiraja-open-2026",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Puijon Kingi",
+      "event_key": "puijon-kingi",
+      "month": "Aug",
+      "place": 9,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Citymarket Open 2026",
+      "event_key": "citymarket-open-2026",
+      "month": "Aug",
+      "place": 37,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -30162,6 +32378,30 @@
   "jimmy-martinez": [],
   "jj-campbell": [],
   "joe-carey": [
+    {
+      "event": "PDGA Professional World Championships - Saturday Qualifier",
+      "event_key": "pdga-professional-world-championships-saturday-q",
+      "month": "Aug",
+      "place": 14,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "4th Annual Hogwild Huck presented by The Disc Golf Dojo & Innova",
+      "event_key": "4th-annual-hogwild-huck-presented-by-the-disc-go",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The 26th Annual Hideway Pizza Stillwater Classic, Presented By In",
+      "event_key": "the-26th-annual-hideway-pizza-stillwater-classic",
+      "month": "Aug",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
@@ -30999,6 +33239,38 @@
   ],
   "joni-luumi": [
     {
+      "event": "Prodiscus Skogby Open 2026",
+      "event_key": "prodiscus-skogby-open-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "SFL MASTERS TOUR ESPOO BY LATITUDE 64 (PREMIER)",
+      "event_key": "sfl-masters-tour-espoo-by-latitude-64-premier",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "SFL MASTERS TOUR KUOPIO BY SUBARU & POWERGRIP & DISCMANIA",
+      "event_key": "sfl-masters-tour-kuopio-by-subaru-powergrip-disc",
+      "month": "Jul",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL MASTERS TOUR RAASEPORIN HELMI BY SUBARU & CLIMO DISC GOLF",
+      "event_key": "sfl-masters-tour-raaseporin-helmi-by-subaru-clim",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -31104,6 +33376,46 @@
     }
   ],
   "joni-peltonen": [
+    {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Citymarket Open 2026",
+      "event_key": "citymarket-open-2026",
+      "month": "Aug",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -31400,6 +33712,14 @@
     }
   ],
   "josef-berg": [
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 42,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -31758,6 +34078,46 @@
   "joshua-miller-3": [],
   "joshua-patin": [
     {
+      "event": "Bayou Teche Open",
+      "event_key": "bayou-teche-open",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2nd Annual Blanchard Open",
+      "event_key": "2nd-annual-blanchard-open",
+      "month": "Sep",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Late Summer Fest",
+      "event_key": "the-late-summer-fest",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Fort Buhlow Open",
+      "event_key": "fort-buhlow-open",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "27th Annual Ouachita River Open Presented By Big C's Auto Body",
+      "event_key": "27th-annual-ouachita-river-open-presented-by-big",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Lake Bistineau Open",
       "event_key": "lake-bistineau-open",
       "month": "Jun",
@@ -31840,6 +34200,22 @@
   ],
   "judah-berman": [],
   "jukka-tyni": [
+    {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 123,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 97,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -31998,6 +34374,38 @@
   "julia-hauch": [],
   "julius-mlgaard": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DFSU DT #6 \u2013 Esbjerg Open Presented By Disc Tree",
+      "event_key": "dfsu-dt-6-esbjerg-open-presented-by-disc-tree",
+      "month": "Sep",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DFSU DT #5 Aalborg Open presented by Disc Tree",
+      "event_key": "dfsu-dt-5-aalborg-open-presented-by-disc-tree",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 43,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -32047,6 +34455,30 @@
     }
   ],
   "justin-bougher": [
+    {
+      "event": "Rocklin Pro-Am hosted by Final 9 Sports",
+      "event_key": "rocklin-pro-am-hosted-by-final-9-sports",
+      "month": "Aug",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Rocklin Summer Tags",
+      "event_key": "rocklin-summer-tags",
+      "month": "Jul",
+      "place": 1,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "Denio Summer League",
+      "event_key": "denio-summer-league",
+      "month": "Jul",
+      "place": 1,
+      "tier": "L",
+      "tour": ""
+    },
     {
       "event": "2026 Power Disc Golf Academy Championship Series Qualifier - Rock",
       "event_key": "2026-power-disc-golf-academy-championship-series",
@@ -32299,6 +34731,38 @@
   ],
   "justus-sarvi": [
     {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 24,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -32374,12 +34838,20 @@
   "kaden-goodyear-275526": [],
   "kaidi-allsalu": [
     {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 10,
-      "tier": "NT",
-      "tour": "DGPT"
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rve",
+      "event_key": "edgl-pro-karikasari-2026-j-rve",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
     },
     {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
@@ -32538,6 +35010,22 @@
   ],
   "kajsa-wahl": [
     {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -32580,6 +35068,22 @@
   ],
   "kalle-kela": [],
   "kalle-ojala": [
+    {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 42,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -32812,6 +35316,30 @@
   ],
   "kaspar-kukk": [
     {
+      "event": "J\u00e4rva-Jaani Open 2026 - Open classes",
+      "event_key": "j-rva-jaani-open-2026-open-classes",
+      "month": "Sep",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Elwa Challenge 2026",
+      "event_key": "elwa-challenge-2026",
+      "month": "Aug",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "EDGL PRO KARIKASARI 2026 - Mammaste",
       "event_key": "edgl-pro-karikasari-2026-mammaste",
       "month": "Jul",
@@ -32893,6 +35421,30 @@
     }
   ],
   "kassandra-fogwichmann": [
+    {
+      "event": "DFSU DT #6 \u2013 Esbjerg Open Presented By Disc Tree",
+      "event_key": "dfsu-dt-6-esbjerg-open-presented-by-disc-tree",
+      "month": "Sep",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DFSU DT #5 Aalborg Open presented by Disc Tree",
+      "event_key": "dfsu-dt-5-aalborg-open-presented-by-disc-tree",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Danish Disc Golf Experience/AM DM 2026",
+      "event_key": "danish-disc-golf-experience-am-dm-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -33418,6 +35970,30 @@
   "katie-kahrs": [],
   "katka-bodov": [
     {
+      "event": "Agama Ko\u0161 Open",
+      "event_key": "agama-ko-open",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "\u0160urany Airport",
+      "event_key": "urany-airport",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Majstrovstv\u00e1 Slovenskej republiky v discgolfe 2026 \u2013 Smolenice",
+      "event_key": "majstrovstv-slovenskej-republiky-v-discgolfe-202",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -33478,12 +36054,28 @@
   "keith-friestad": [],
   "keiti-ttte": [
     {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 3,
-      "tier": "NT",
-      "tour": "DGPT"
+      "event": "Elwa Challenge 2026",
+      "event_key": "elwa-challenge-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rve",
+      "event_key": "edgl-pro-karikasari-2026-j-rve",
+      "month": "Aug",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
     },
     {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
@@ -33732,6 +36324,22 @@
   "kelsey-martin": [],
   "kendyl-sullivan": [],
   "kersti-miller": [
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rve",
+      "event_key": "edgl-pro-karikasari-2026-j-rve",
+      "month": "Aug",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -34206,6 +36814,30 @@
   "kieran-atkinson": [],
   "kirby-snyder": [
     {
+      "event": "Chinook Challenge 3 presented by Emerald City Discs",
+      "event_key": "chinook-challenge-3-presented-by-emerald-city-di",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "51st Annual Washington State Championships - Doug Newland Memoria",
+      "event_key": "51st-annual-washington-state-championships-doug-",
+      "month": "Sep",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Mountain View Championship 3 presented by Emerald City Discs",
+      "event_key": "mountain-view-championship-3-presented-by-emeral",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Dips Discs 2026 South Sound Classic Presented By Dynamic Discs -",
       "event_key": "dips-discs-2026-south-sound-classic-presented-by",
       "month": "Jul",
@@ -34368,6 +37000,14 @@
     }
   ],
   "knut-valenhland": [
+    {
+      "event": "Trondheim Open 2026 Presentert av Frisbeebutikken",
+      "event_key": "trondheim-open-2026-presentert-av-frisbeebutikke",
+      "month": "Aug",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Norgesmesterskapet i Diskgolf 2026",
       "event_key": "norgesmesterskapet-i-diskgolf-2026",
@@ -35182,6 +37822,46 @@
   "landis-nelson": [],
   "landon-brooks": [
     {
+      "event": "DGVTour #9 - Kingdom Open",
+      "event_key": "dgvtour-9-kingdom-open",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Wyatt Works Presents The 2026 Daceyland Open Sponsored by Latitud",
+      "event_key": "wyatt-works-presents-the-2026-daceyland-open-spo",
+      "month": "Jul",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Circle 1 Maine Classic",
+      "event_key": "circle-1-maine-classic",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGVTour #7 - Black Falls Open",
+      "event_key": "dgvtour-7-black-falls-open",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Circle 1 Flex @ Devil's Grove",
+      "event_key": "circle-1-flex-devil-s-grove",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGVTour #6 - Brewster Ridge Open Driven by Innova - DGPT Q-Series",
       "event_key": "dgvtour-6-brewster-ridge-open-driven-by-innova-d",
       "month": "Jun",
@@ -35321,6 +38001,46 @@
     }
   ],
   "lassi-khri": [
+    {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 63,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 55,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 42,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 39,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 60,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -35828,6 +38548,46 @@
   ],
   "leevi-lhdesmki": [
     {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 63,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 25,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 61,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Frisbeegolfin SM 2026 - juniorit",
+      "event_key": "frisbeegolfin-sm-2026-juniorit",
+      "month": "Aug",
+      "place": 62,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 40,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -36107,6 +38867,54 @@
   "lincoln-lloyd": [],
   "lindsay-fish": [
     {
+      "event": "32nd Northwoods Open at Sandy Point Disc Golf Ranch - Supported b",
+      "event_key": "32nd-northwoods-open-at-sandy-point-disc-golf-ra",
+      "month": "Sep",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "17th Annual Brown Deer Open",
+      "event_key": "17th-annual-brown-deer-open",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Fox Valley Open sponsored by RIDGE ROLLER CUSTOMS",
+      "event_key": "fox-valley-open-sponsored-by-ridge-roller-custom",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "28th Annual Tower Ridge Open - Presented by the Elbow Room and Di",
+      "event_key": "28th-annual-tower-ridge-open-presented-by-the-el",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Highbridge Hills Open",
+      "event_key": "highbridge-hills-open",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Riverside Summer Open Wisconsin Tour Stop Sponsored by Riverside",
+      "event_key": "riverside-summer-open-wisconsin-tour-stop-sponso",
+      "month": "Jul",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA United States Women's Disc Golf Championships",
       "event_key": "2026-pdga-united-states-women-s-disc-golf-champi",
       "month": "Jul",
@@ -36375,6 +39183,30 @@
   ],
   "linus-carlsson": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -36589,6 +39421,22 @@
   "logan-plake": [],
   "logan-riding": [
     {
+      "event": "Merced Meltdown 2026 Presented by Sierra Disc Golf Co.",
+      "event_key": "merced-meltdown-2026-presented-by-sierra-disc-go",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Santa Maria Open - Pro Weekend 2026 Sponsored by OTB Discs",
+      "event_key": "santa-maria-open-pro-weekend-2026-sponsored-by-o",
+      "month": "Aug",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "The Challenge @ Reidy Creek (2026), Presented by Innova Disc Golf",
       "event_key": "the-challenge-reidy-creek-2026-presented-by-inno",
       "month": "Jun",
@@ -36611,6 +39459,14 @@
       "place": 42,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "LCC Summer League 2026",
+      "event_key": "lcc-summer-league-2026",
+      "month": "May",
+      "place": 15,
+      "tier": "L",
+      "tour": ""
     },
     {
       "event": "The First Responders Open 6.0",
@@ -37722,6 +40578,30 @@
   ],
   "luukas-rokkanen": [
     {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 22,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 21,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -37804,11 +40684,35 @@
   ],
   "lykke-lorentzen": [
     {
+      "event": "Harvey Penick Summer Classic",
+      "event_key": "harvey-penick-summer-classic",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
       "place": 9,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Roy G | Austin Summer League Championships presented by Disc Nati",
+      "event_key": "roy-g-austin-summer-league-championships-present",
+      "month": "Jun",
+      "place": 1,
+      "tier": "L",
+      "tour": ""
+    },
+    {
+      "event": "HOTT Summer League at Sprinkle Valley (Flex Start)",
+      "event_key": "hott-summer-league-at-sprinkle-valley-flex-start",
+      "month": "Jun",
+      "place": 1,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -37854,20 +40758,20 @@
   ],
   "maarja-soasepp": [
     {
+      "event": "J\u00e4rva-Jaani Open 2026 - Open classes",
+      "event_key": "j-rva-jaani-open-2026-open-classes",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
       "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
       "month": "Jul",
       "place": 15,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 15,
-      "tier": "NT",
-      "tour": "DGPT"
     },
     {
       "event": "2026 PDGA European Open",
@@ -38265,6 +41169,22 @@
   ],
   "maico-rimmel": [
     {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 32,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -38371,20 +41291,108 @@
   ],
   "mara-eldeykristnardttir": [
     {
+      "event": "Bikarkeppni FGR - Jafnd\u00e6gurdeild - 13. september",
+      "event_key": "bikarkeppni-fgr-jafnd-gurdeild-13-september",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Jafnd\u00e6gurdeild - 30. \u00e1g\u00fast",
+      "event_key": "bikarkeppni-fgr-jafnd-gurdeild-30-g-st",
+      "month": "Aug",
+      "place": 9,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Jafnd\u00e6gurdeild - 25. \u00e1g\u00fast",
+      "event_key": "bikarkeppni-fgr-jafnd-gurdeild-25-g-st",
+      "month": "Aug",
+      "place": 9,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Jafnd\u00e6gurdeild - 18. \u00e1g\u00fast",
+      "event_key": "bikarkeppni-fgr-jafnd-gurdeild-18-g-st",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Gullm\u00f3t FGR 2026",
+      "event_key": "gullm-t-fgr-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Jafnd\u00e6gurdeild - 11. \u00e1g\u00fast",
+      "event_key": "bikarkeppni-fgr-jafnd-gurdeild-11-g-st",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "\u00cdFS - \u00cdslandsm\u00f3t 2026",
+      "event_key": "fs-slandsm-t-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Jafnd\u00e6gurdeild - 4. \u00e1g\u00fast",
+      "event_key": "bikarkeppni-fgr-jafnd-gurdeild-4-g-st",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Jafnd\u00e6gurdeild - 28. j\u00fal\u00ed",
+      "event_key": "bikarkeppni-fgr-jafnd-gurdeild-28-j-l",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Sumardeild - 21. j\u00fal\u00ed",
+      "event_key": "bikarkeppni-fgr-sumardeild-21-j-l",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Reykjav\u00edk Open Presented by Innova Europe",
+      "event_key": "reykjav-k-open-presented-by-innova-europe",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Bikarkeppni FGR - Sumardeild - 14. j\u00fal\u00ed",
+      "event_key": "bikarkeppni-fgr-sumardeild-14-j-l",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
       "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
       "month": "Jul",
       "place": 25,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 25,
-      "tier": "NT",
-      "tour": "DGPT"
     },
     {
       "event": "DGPT - Ale Open presented by Discraft",
@@ -38731,6 +41739,30 @@
   ],
   "marie-kielas": [
     {
+      "event": "J\u00e4rva-Jaani Open 2026 - Open classes",
+      "event_key": "j-rva-jaani-open-2026-open-classes",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rve",
+      "event_key": "edgl-pro-karikasari-2026-j-rve",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "EDGL PRO KARIKASARI 2026 - Mammaste",
       "event_key": "edgl-pro-karikasari-2026-mammaste",
       "month": "Jul",
@@ -38805,6 +41837,14 @@
   ],
   "marion-mattsson": [],
   "mark-jones": [
+    {
+      "event": "2026 St. Louis Open",
+      "event_key": "2026-st-louis-open",
+      "month": "Sep",
+      "place": 31,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
@@ -38912,6 +41952,14 @@
   ],
   "markus-saarepuu": [
     {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -38988,6 +42036,22 @@
   ],
   "marta-villa": [],
   "martin-cronacher": [
+    {
+      "event": "ChainChoppers Open Vol. VI",
+      "event_key": "chainchoppers-open-vol-vi",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Poolimate Open 2026 supported by Disc Wolf",
+      "event_key": "poolimate-open-2026-supported-by-disc-wolf",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -39071,6 +42135,54 @@
   ],
   "martin-evans": [
     {
+      "event": "Micke Grove Mayhem 2026 - Lodi CenCal Series",
+      "event_key": "micke-grove-mayhem-2026-lodi-cencal-series",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "High Sierra Cup",
+      "event_key": "high-sierra-cup",
+      "month": "Aug",
+      "place": 15,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Merced Meltdown 2026 Presented by Sierra Disc Golf Co.",
+      "event_key": "merced-meltdown-2026-presented-by-sierra-disc-go",
+      "month": "Aug",
+      "place": 8,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "King Of The Lake",
+      "event_key": "king-of-the-lake",
+      "month": "Aug",
+      "place": 33,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "32nd Annual Frying Pan 2026 sponsored by Visit Stockton and DGA--",
+      "event_key": "32nd-annual-frying-pan-2026-sponsored-by-visit-s",
+      "month": "Jul",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Modesto Freedom Classic",
+      "event_key": "modesto-freedom-classic",
+      "month": "Jun",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Hard Pan Classic presented by Legacy Discs, Visit Fresno County a",
       "event_key": "hard-pan-classic-presented-by-legacy-discs-visit",
       "month": "Jun",
@@ -39092,6 +42204,14 @@
       "month": "May",
       "place": 5,
       "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "LCC Summer League 2026",
+      "event_key": "lcc-summer-league-2026",
+      "month": "May",
+      "place": 14,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -39236,20 +42356,20 @@
   ],
   "martje-sumowski": [
     {
+      "event": "Franconia Open presented by Latitude 64",
+      "event_key": "franconia-open-presented-by-latitude-64",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
       "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
       "month": "Jul",
       "place": 21,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 21,
-      "tier": "NT",
-      "tour": "DGPT"
     },
     {
       "event": "DGPT - Ale Open presented by Discraft",
@@ -39432,6 +42552,30 @@
   ],
   "mathias-villota": [
     {
+      "event": "Elwa Challenge 2026",
+      "event_key": "elwa-challenge-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rve",
+      "event_key": "edgl-pro-karikasari-2026-j-rve",
+      "month": "Aug",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -39548,6 +42692,30 @@
   ],
   "matias-kanniainen": [
     {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 37,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 97,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 80,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -39590,6 +42758,38 @@
   ],
   "matias-mntysaari": [
     {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 29,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Tammisaari Open 2026",
+      "event_key": "tammisaari-open-2026",
+      "month": "Sep",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 34,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Raaseporin Helmi sponsored by Innova Europe",
+      "event_key": "raaseporin-helmi-sponsored-by-innova-europe",
+      "month": "Jul",
+      "place": 41,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -39611,6 +42811,14 @@
       "month": "Jun",
       "place": 33,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Etel\u00e4n PDGA-liiga",
+      "event_key": "etel-n-pdga-liiga",
+      "month": "Jun",
+      "place": 21,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -39672,20 +42880,44 @@
   ],
   "matilda-ringbom": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Heinola Open 2026 presented by MVP",
       "event_key": "eurotour-heinola-open-2026-presented-by-mvp",
       "month": "Jul",
       "place": 5,
       "tier": "A",
       "tour": ""
-    },
-    {
-      "event": "DGPT - Heinola Open presented by MVP",
-      "event_key": "heinola-open-presented-by-mvp",
-      "month": "Jul",
-      "place": 5,
-      "tier": "NT",
-      "tour": "DGPT"
     },
     {
       "event": "DGPT - Ale Open presented by Discraft",
@@ -39737,6 +42969,22 @@
     }
   ],
   "mats-eerik-thk": [
+    {
+      "event": "Elwa Challenge 2026",
+      "event_key": "elwa-challenge-2026",
+      "month": "Aug",
+      "place": 45,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -40113,11 +43361,51 @@
   ],
   "matt-thompson": [
     {
+      "event": "Hickory Classic",
+      "event_key": "hickory-classic",
+      "month": "Sep",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "A Labor of Love",
+      "event_key": "a-labor-of-love",
+      "month": "Sep",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Oak Hollow Open 2026",
+      "event_key": "oak-hollow-open-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Wilkesboro Summer Bash",
+      "event_key": "wilkesboro-summer-bash",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "High Country Throwdown presented by Innova and Disc Golf Family S",
       "event_key": "high-country-throwdown-presented-by-innova-and-d",
       "month": "Jul",
       "place": 2,
       "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "BADG Summer League June/July",
+      "event_key": "badg-summer-league-june-july",
+      "month": "Jun",
+      "place": 5,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -41293,6 +44581,14 @@
   ],
   "max-anderson": [
     {
+      "event": "2026 St. Louis Open",
+      "event_key": "2026-st-louis-open",
+      "month": "Sep",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -41359,6 +44655,46 @@
   ],
   "max-forsman": [],
   "max-ringbom": [
+    {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #3 Pite\u00e5",
+      "event_key": "nationella-touren-3-pite",
+      "month": "Jul",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -41467,6 +44803,14 @@
     }
   ],
   "maximus-meyer": [
+    {
+      "event": "King Of The Lake",
+      "event_key": "king-of-the-lake",
+      "month": "Aug",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -41584,6 +44928,46 @@
     }
   ],
   "melker-molin": [
+    {
+      "event": "#10 Spelartouren 2026 - Vinberg powered by Nordic Discgolf",
+      "event_key": "10-spelartouren-2026-vinberg-powered-by-nordic-d",
+      "month": "Sep",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "#9 Spelartouren 2026 - Ale Vit powered by Ugglans Discgolf",
+      "event_key": "9-spelartouren-2026-ale-vit-powered-by-ugglans-d",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "#8 Spelartouren 2026 - Alings\u00e5s Open powered by Nordic Discgolf",
+      "event_key": "8-spelartouren-2026-alings-s-open-powered-by-nor",
+      "month": "Aug",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 47,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "#5 Spelartouren 2026 - Falk\u00f6ping powered by Nordic Discgolf",
+      "event_key": "5-spelartouren-2026-falk-ping-powered-by-nordic-",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -41811,6 +45195,14 @@
   "mick-walter": [],
   "mickey-welsh": [
     {
+      "event": "Dynamic Discs Presents the Trophy Club Open",
+      "event_key": "dynamic-discs-presents-the-trophy-club-open",
+      "month": "Aug",
+      "place": 10,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Lester Lorch Flex - Beaver",
       "event_key": "lester-lorch-flex-beaver",
       "month": "Jul",
@@ -41892,6 +45284,70 @@
     }
   ],
   "miio-hmlinen": [
+    {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 17,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Raaseporin Helmi sponsored by Innova Europe",
+      "event_key": "raaseporin-helmi-sponsored-by-innova-europe",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -41983,6 +45439,22 @@
   ],
   "mika-laikko": [
     {
+      "event": "SFL MASTERS TOUR SIERAVUORI BY INNNOVA & POWERGRIP (PREMIER)",
+      "event_key": "sfl-masters-tour-sieravuori-by-innnova-powergrip",
+      "month": "Aug",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -42065,6 +45537,22 @@
   ],
   "mikael-hautala": [
     {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 57,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -42130,6 +45618,14 @@
     }
   ],
   "mikk-mts": [
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 44,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -42327,6 +45823,54 @@
   ],
   "mina-alme": [],
   "miro-ryhnen": [
+    {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 57,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Raaseporin Helmi sponsored by Innova Europe",
+      "event_key": "raaseporin-helmi-sponsored-by-innova-europe",
+      "month": "Jul",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -42739,6 +46283,22 @@
   ],
   "morten-brenna": [
     {
+      "event": "NC 5 Open Kodal",
+      "event_key": "nc-5-open-kodal",
+      "month": "Sep",
+      "place": 10,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "RPM Open 2026",
+      "event_key": "rpm-open-2026",
+      "month": "Aug",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Norgesmesterskapet i Diskgolf 2026",
       "event_key": "norgesmesterskapet-i-diskgolf-2026",
       "month": "Jul",
@@ -42788,6 +46348,38 @@
     }
   ],
   "morten-kristiansen": [
+    {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "NC 5 Open Kodal",
+      "event_key": "nc-5-open-kodal",
+      "month": "Sep",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 50,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Norgesmesterskapet i Diskgolf 2026",
       "event_key": "norgesmesterskapet-i-diskgolf-2026",
@@ -44293,6 +47885,38 @@
   ],
   "nick-robinson": [
     {
+      "event": "IOS #142 Northwood Open - MPO/MA2/MA4/FA2/FA4/MA40",
+      "event_key": "ios-142-northwood-open-mpo-ma2-ma4-fa2-fa4-ma40",
+      "month": "Sep",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Grey Fox Flex (Classic Layout)",
+      "event_key": "grey-fox-flex-classic-layout",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Discontinuum Club Challenge Invitational (Club Members Only)",
+      "event_key": "discontinuum-club-challenge-invitational-club-me",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "17th Annual Brown Deer Open",
+      "event_key": "17th-annual-brown-deer-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -44840,6 +48464,38 @@
   ],
   "niko-rtty": [
     {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 38,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 15,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 92,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Puijon Kingi",
+      "event_key": "puijon-kingi",
+      "month": "Aug",
+      "place": 14,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -44897,6 +48553,54 @@
     }
   ],
   "nikola-arkko": [
+    {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 18,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 47,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 36,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -45344,6 +49048,30 @@
   ],
   "nolan-ramser": [
     {
+      "event": "42nd Annual Frontier Open",
+      "event_key": "42nd-annual-frontier-open",
+      "month": "Sep",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Keeper of the Chains - Presented by: Innova Disc Golf",
+      "event_key": "the-keeper-of-the-chains-presented-by-innova-dis",
+      "month": "Aug",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "4th annual Altered Images Open presented by Ace's Disc Golf Suppl",
+      "event_key": "4th-annual-altered-images-open-presented-by-ace-",
+      "month": "Aug",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT JomezPro Champions Landing Open presented by Dynamic Discs",
       "event_key": "jomezpro-champions-landing-open-presented-by-dyn",
       "month": "Jul",
@@ -45473,6 +49201,38 @@
     }
   ],
   "nooa-hmlinen": [
+    {
+      "event": "Syysmyrsky PRO XVII 26",
+      "event_key": "syysmyrsky-pro-xvii-26",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 16,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 32,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -45751,6 +49511,54 @@
   ],
   "oiva-pivnsalo": [
     {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 51,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "RPM Open 2026",
+      "event_key": "rpm-open-2026",
+      "month": "Aug",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 23,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Raaseporin Helmi sponsored by Innova Europe",
+      "event_key": "raaseporin-helmi-sponsored-by-innova-europe",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 97,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -45796,6 +49604,14 @@
       "month": "Jun",
       "place": 1,
       "tier": "XA",
+      "tour": ""
+    },
+    {
+      "event": "Etel\u00e4n PDGA-liiga",
+      "event_key": "etel-n-pdga-liiga",
+      "month": "Jun",
+      "place": 25,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -46003,6 +49819,46 @@
   ],
   "olle-frjdlund": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 34,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "033-Tour 2026 #4 - Svenljunga",
+      "event_key": "033-tour-2026-4-svenljunga",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Klubbm\u00e4sterskap 2026 - Ymer Frisbee",
+      "event_key": "klubbm-sterskap-2026-ymer-frisbee",
+      "month": "Sep",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 52,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 37,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -46044,6 +49900,46 @@
     }
   ],
   "onni-ruusunen": [
+    {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -46334,6 +50230,30 @@
     }
   ],
   "owen-mccall": [
+    {
+      "event": "8th Annual Airborne Invitational presented by Hector Tobar l PCS",
+      "event_key": "8th-annual-airborne-invitational-presented-by-he",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Crom Transmission & Automotive Specialist Presents The 6th Annual",
+      "event_key": "crom-transmission-automotive-specialist-presents",
+      "month": "Jul",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Pancake Willy Presents: The Pancake Parley V",
       "event_key": "pancake-willy-presents-the-pancake-parley-v",
@@ -47399,6 +51319,46 @@
   "payton-mergen": [],
   "pekka-hyvnen": [
     {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 15,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 23,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 23,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -47653,6 +51613,30 @@
   ],
   "rasmus-koski": [
     {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 26,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 97,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -47718,6 +51702,14 @@
     }
   ],
   "rasmus-lampela": [
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 13,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
@@ -47915,6 +51907,22 @@
   ],
   "rasmus-tuominen": [
     {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -47957,6 +51965,14 @@
   ],
   "ratana-mcmahon": [
     {
+      "event": "PDGA Professional World Championships - Saturday Qualifier",
+      "event_key": "pdga-professional-world-championships-saturday-q",
+      "month": "Aug",
+      "place": 6,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -47997,18 +52013,18 @@
       "tour": "DGPT"
     },
     {
-      "event": "J719 Post Safari Flex - Widefield",
-      "event_key": "j719-post-safari-flex-widefield",
-      "month": "May",
-      "place": 1,
-      "tier": "C",
-      "tour": ""
-    },
-    {
       "event": "J719 Safari Series - Widefield",
       "event_key": "j719-safari-series-widefield",
       "month": "May",
       "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "J719 Post Safari Flex - Widefield",
+      "event_key": "j719-post-safari-flex-widefield",
+      "month": "May",
+      "place": 1,
       "tier": "C",
       "tour": ""
     },
@@ -48731,6 +52747,14 @@
   ],
   "rebecca-minnick": [
     {
+      "event": "2026 MVP Music City Open - All Divisions plus DGPT Q-Series",
+      "event_key": "2026-mvp-music-city-open-all-divisions-plus-dgpt",
+      "month": "Sep",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA Amateur Disc Golf World Championships",
       "event_key": "2026-pdga-amateur-disc-golf-world-championships",
       "month": "Aug",
@@ -48983,6 +53007,70 @@
   "reese-petersen": [],
   "renrs-strazdi": [
     {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 30,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas Kauss #4 2026 - Valmiera",
+      "event_key": "latvijas-kauss-4-2026-valmiera",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Elwa Challenge 2026",
+      "event_key": "elwa-challenge-2026",
+      "month": "Aug",
+      "place": 18,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas \u010cempion\u0101ts sadarb\u012bb\u0101 ar Innova Europe 2026",
+      "event_key": "latvijas-empion-ts-sadarb-b-ar-innova-europe-202",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Talsu OPEN 2026",
+      "event_key": "talsu-open-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Latvijas Kauss 3.posms - Ventspils",
+      "event_key": "latvijas-kauss-3-posms-ventspils",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "HANZAS KAUSS 2026 \u2192 #3 PRIEKU\u013bI",
+      "event_key": "hanzas-kauss-2026-3-prieku-i",
+      "month": "Jul",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Tukuma Open 2026",
+      "event_key": "tukuma-open-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -49188,6 +53276,38 @@
   ],
   "ricko-kokko": [
     {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Jyv\u00e4skyl\u00e4 Open 2026 + PGPT Status",
+      "event_key": "jyv-skyl-open-2026-pgpt-status",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 37,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 26,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -49270,6 +53390,22 @@
   ],
   "rico-garcia": [],
   "rico-suigusaar": [
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 85,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 93,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "EDGL PRO KARIKASARI 2026 - Mammaste",
       "event_key": "edgl-pro-karikasari-2026-mammaste",
@@ -49591,6 +53727,30 @@
   ],
   "robert-johnson": [
     {
+      "event": "42nd Annual Black Hawk Metro Disc Golf Open",
+      "event_key": "42nd-annual-black-hawk-metro-disc-golf-open",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "FDGTS #12 Pickard Silvers/Gold",
+      "event_key": "fdgts-12-pickard-silvers-gold",
+      "month": "Aug",
+      "place": 24,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Cedar Creek Open",
+      "event_key": "cedar-creek-open",
+      "month": "Aug",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Discmania Challenge presented by TruBank",
       "event_key": "discmania-challenge-presented-by-trubank",
       "month": "Aug",
@@ -49713,6 +53873,30 @@
   ],
   "robert-munoz": [],
   "roland-kur": [
+    {
+      "event": "Elwa Challenge 2026",
+      "event_key": "elwa-challenge-2026",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 45,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -49876,6 +54060,14 @@
     }
   ],
   "ryan-chesla": [
+    {
+      "event": "38th Annual Eugene Celebration presented by Clean Juice",
+      "event_key": "38th-annual-eugene-celebration-presented-by-clea",
+      "month": "Sep",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT+ Northwest Championship Presented by Latitude 64\u00b0",
       "event_key": "northwest-championship-presented-by-latitude-64",
@@ -50460,6 +54652,14 @@
   ],
   "sadie-shattuck": [
     {
+      "event": "51st Annual Washington State Championships - Doug Newland Memoria",
+      "event_key": "51st-annual-washington-state-championships-doug-",
+      "month": "Sep",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Dips Discs 2026 South Sound Classic Presented By Dynamic Discs -",
       "event_key": "dips-discs-2026-south-sound-classic-presented-by",
       "month": "Jul",
@@ -50592,6 +54792,38 @@
     }
   ],
   "sam-dicarlo": [
+    {
+      "event": "The 6th Ever Rumble at the Ranch (A HOTT Points Event) - Presente",
+      "event_key": "the-6th-ever-rumble-at-the-ranch-a-hott-points-e",
+      "month": "Sep",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Harvey Penick Summer Classic",
+      "event_key": "harvey-penick-summer-classic",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Throwing Down the Gauntlet at Roy G (GOLD), Sponsored by MVP Disc",
+      "event_key": "throwing-down-the-gauntlet-at-roy-g-gold-sponsor",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "5th Benbrook Summer Smash, fueled by Subaru of Georgetown and ref",
+      "event_key": "5th-benbrook-summer-smash-fueled-by-subaru-of-ge",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "The 35th Annual Capital of Texas Open",
       "event_key": "the-35th-annual-capital-of-texas-open",
@@ -50855,6 +55087,38 @@
   "samantha-bonacci": [],
   "samuel-aldrich": [
     {
+      "event": "Merced Meltdown 2026 Presented by Sierra Disc Golf Co.",
+      "event_key": "merced-meltdown-2026-presented-by-sierra-disc-go",
+      "month": "Aug",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "King Of The Lake",
+      "event_key": "king-of-the-lake",
+      "month": "Aug",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "32nd Annual Frying Pan 2026 sponsored by Visit Stockton and DGA--",
+      "event_key": "32nd-annual-frying-pan-2026-sponsored-by-visit-s",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Modesto Freedom Classic",
+      "event_key": "modesto-freedom-classic",
+      "month": "Jun",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Hard Pan Classic presented by Legacy Discs, Visit Fresno County a",
       "event_key": "hard-pan-classic-presented-by-legacy-discs-visit",
       "month": "Jun",
@@ -50897,6 +55161,46 @@
     }
   ],
   "samuel-hnninen": [
+    {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 44,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 22,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Citymarket Open 2026",
+      "event_key": "citymarket-open-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -50954,6 +55258,14 @@
       "tour": ""
     },
     {
+      "event": "Etel\u00e4n PDGA-liiga",
+      "event_key": "etel-n-pdga-liiga",
+      "month": "Jun",
+      "place": 24,
+      "tier": "L",
+      "tour": ""
+    },
+    {
       "event": "SFL Powergrip Pro Tour - #1 Tampere",
       "event_key": "sfl-powergrip-pro-tour-1-tampere",
       "month": "May",
@@ -51006,6 +55318,14 @@
   "samuel-snider": [],
   "sanne-dalseth": [],
   "sarah-duran": [
+    {
+      "event": "2026 Utah State Championships presented by MVP Disc Sports",
+      "event_key": "2026-utah-state-championships-presented-by-mvp-d",
+      "month": "Aug",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 Chapel Hill Invitational - sponsored by Team Potato (a WGE e",
       "event_key": "2026-chapel-hill-invitational-sponsored-by-team-",
@@ -51214,6 +55534,78 @@
   "sawyer-barlow": [],
   "scott-adams": [
     {
+      "event": "Siege of the Cities II (Crosstown Throwdown Warmup)",
+      "event_key": "siege-of-the-cities-ii-crosstown-throwdown-warmu",
+      "month": "Sep",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Idle Hour Open",
+      "event_key": "2026-idle-hour-open",
+      "month": "Sep",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Keeper of the Chains - Presented by: Innova Disc Golf",
+      "event_key": "the-keeper-of-the-chains-presented-by-innova-dis",
+      "month": "Aug",
+      "place": 39,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Elephant & Castle presents: 6th Annual Breaking Chains Open",
+      "event_key": "elephant-castle-presents-6th-annual-breaking-cha",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "35th Annual Okie Doubles Presented by Innova (CEP Charity - Not R",
+      "event_key": "35th-annual-okie-doubles-presented-by-innova-cep",
+      "month": "Aug",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "5th Benbrook Summer Smash, fueled by Subaru of Georgetown and ref",
+      "event_key": "5th-benbrook-summer-smash-fueled-by-subaru-of-ge",
+      "month": "Aug",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Meridian Lions Flex",
+      "event_key": "meridian-lions-flex",
+      "month": "Jul",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "10th Annual Return of the Little Big Show",
+      "event_key": "10th-annual-return-of-the-little-big-show",
+      "month": "Jul",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Patriots Gold & Silver presents: The 17th Annual Monkey Trap Open",
+      "event_key": "patriots-gold-silver-presents-the-17th-annual-mo",
+      "month": "Jul",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Dynamic Discs Glass Blown Open",
       "event_key": "dynamic-discs-glass-blown-open",
       "month": "Jun",
@@ -51370,6 +55762,54 @@
   ],
   "scott-withers": [
     {
+      "event": "38th Annual Eugene Celebration presented by Clean Juice",
+      "event_key": "38th-annual-eugene-celebration-presented-by-clea",
+      "month": "Sep",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "TD Academy- Tiger Disc Open 2026",
+      "event_key": "td-academy-tiger-disc-open-2026",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Battle @ Bachelor 2026 \u2014 Sponsored by Westside Discs",
+      "event_key": "battle-bachelor-2026-sponsored-by-westside-discs",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "All Day Disc Golf Presents the 2026 Oak Grove Open Sponsored by K",
+      "event_key": "all-day-disc-golf-presents-the-2026-oak-grove-op",
+      "month": "Jul",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Discraft North Umpqua Invitational Presented by the Nune",
+      "event_key": "the-2026-discraft-north-umpqua-invitational-pres",
+      "month": "Jul",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "All Day Disc Golf Presents Wild Ride at Waterloo",
+      "event_key": "all-day-disc-golf-presents-wild-ride-at-waterloo",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "British Columbia Open Pro @ Raptors Knoll presented by Innova",
       "event_key": "british-columbia-open-pro-raptors-knoll-presente",
       "month": "Jun",
@@ -51500,6 +55940,22 @@
   ],
   "sean-martin": [
     {
+      "event": "All Day Disc Golf Presents the 2026 Oak Grove Open Sponsored by K",
+      "event_key": "all-day-disc-golf-presents-the-2026-oak-grove-op",
+      "month": "Jul",
+      "place": 18,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Discraft North Umpqua Invitational Presented by the Nune",
+      "event_key": "the-2026-discraft-north-umpqua-invitational-pres",
+      "month": "Jul",
+      "place": 34,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "The Tragedy at Trojan",
       "event_key": "the-tragedy-at-trojan",
       "month": "Jun",
@@ -51582,6 +56038,54 @@
   ],
   "sean-sullivan-1": [],
   "severi-saviniemi": [
+    {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 31,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 14,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 26,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
@@ -52019,6 +56523,22 @@
   ],
   "silas-evaldwiwe": [
     {
+      "event": "DFSU DT #6 \u2013 Esbjerg Open Presented By Disc Tree",
+      "event_key": "dfsu-dt-6-esbjerg-open-presented-by-disc-tree",
+      "month": "Sep",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DFSU DT #5 Aalborg Open presented by Disc Tree",
+      "event_key": "dfsu-dt-5-aalborg-open-presented-by-disc-tree",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -52387,6 +56907,30 @@
   ],
   "simo-luoma": [
     {
+      "event": "KotkaOpen 2026",
+      "event_key": "kotkaopen-2026",
+      "month": "Sep",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 86,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 100,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -52686,6 +57230,14 @@
   ],
   "sofia-donnecke": [
     {
+      "event": "PDGA Professional World Championships - Saturday Qualifier",
+      "event_key": "pdga-professional-world-championships-saturday-q",
+      "month": "Aug",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "The Canadian National Championships - Supported by Innova",
       "event_key": "the-canadian-national-championships-supported-by",
       "month": "Jul",
@@ -52809,6 +57361,70 @@
   ],
   "sofie-bjrlycke": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "#10 Spelartouren 2026 - Vinberg powered by Nordic Discgolf",
+      "event_key": "10-spelartouren-2026-vinberg-powered-by-nordic-d",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "#9 Spelartouren 2026 - Ale Vit powered by Ugglans Discgolf",
+      "event_key": "9-spelartouren-2026-ale-vit-powered-by-ugglans-d",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "#10 Uspastorp - Revolution Race Tour 2026",
+      "event_key": "10-uspastorp-revolution-race-tour-2026",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "#7 Spelartouren 2026 - Ymer powered by Nordic Discgolf",
+      "event_key": "7-spelartouren-2026-ymer-powered-by-nordic-discg",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "#5 Spelartouren 2026 - Falk\u00f6ping powered by Nordic Discgolf",
+      "event_key": "5-spelartouren-2026-falk-ping-powered-by-nordic-",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "\u00c5g\u00e5rdens Sanktionerade Sommarliga",
+      "event_key": "g-rdens-sanktionerade-sommarliga",
+      "month": "Jul",
+      "place": 1,
+      "tier": "L",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
       "month": "Jul",
@@ -52931,6 +57547,30 @@
   ],
   "sonja-laine": [
     {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Jyv\u00e4skyl\u00e4 Open 2026 + PGPT Status",
+      "event_key": "jyv-skyl-open-2026-pgpt-status",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -52991,6 +57631,62 @@
     }
   ],
   "stanislaus-amann": [
+    {
+      "event": "Danube Trophy 2026 (& O\u00d6 LMS)",
+      "event_key": "danube-trophy-2026-o-lms",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #4 Nyk\u00f6ping",
+      "event_key": "nationella-touren-4-nyk-ping",
+      "month": "Aug",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "RPM Open 2026",
+      "event_key": "rpm-open-2026",
+      "month": "Aug",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Arvika Open 2026 - Presented by Kastaplast",
+      "event_key": "arvika-open-2026-presented-by-kastaplast",
+      "month": "Aug",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2. Golf Meggen Trophy 2026",
+      "event_key": "2-golf-meggen-trophy-2026",
+      "month": "Jul",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Unicorn Open 2026",
+      "event_key": "unicorn-open-2026",
+      "month": "Jul",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "ADGK Veckotour 11-20",
+      "event_key": "adgk-veckotour-11-20",
+      "month": "Jul",
+      "place": 14,
+      "tier": "L",
+      "tour": ""
+    },
     {
       "event": "14th Croatian Disc Golf Championships",
       "event_key": "14th-croatian-disc-golf-championships",
@@ -53608,6 +58304,46 @@
   "taaniel-mehine": [],
   "taavi-suutari": [
     {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 47,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 14,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -54153,6 +58889,86 @@
   ],
   "taylor-coulam": [
     {
+      "event": "38th Annual Eugene Celebration presented by Clean Juice",
+      "event_key": "38th-annual-eugene-celebration-presented-by-clea",
+      "month": "Sep",
+      "place": 23,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "51st Annual Washington State Championships - Doug Newland Memoria",
+      "event_key": "51st-annual-washington-state-championships-doug-",
+      "month": "Sep",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Calapooia Classic presented by Wyatt\u2019s Tire Co",
+      "event_key": "2026-calapooia-classic-presented-by-wyatt-s-tire",
+      "month": "Aug",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2nd Annual Treetop Open",
+      "event_key": "2nd-annual-treetop-open",
+      "month": "Aug",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Resistance Discs Reservoir Round Up",
+      "event_key": "resistance-discs-reservoir-round-up",
+      "month": "Aug",
+      "place": 16,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Stumptown Presents The 18th Annual Rose City Open Sponsored by In",
+      "event_key": "stumptown-presents-the-18th-annual-rose-city-ope",
+      "month": "Aug",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Battle @ Bachelor 2026 \u2014 Sponsored by Westside Discs",
+      "event_key": "battle-bachelor-2026-sponsored-by-westside-discs",
+      "month": "Aug",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "All Day Disc Golf Presents the 2026 Oak Grove Open Sponsored by K",
+      "event_key": "all-day-disc-golf-presents-the-2026-oak-grove-op",
+      "month": "Jul",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Discraft North Umpqua Invitational Presented by the Nune",
+      "event_key": "the-2026-discraft-north-umpqua-invitational-pres",
+      "month": "Jul",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "I5 Classic",
+      "event_key": "i5-classic",
+      "month": "Jul",
+      "place": 13,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "14th Annual Patriot Classic",
       "event_key": "14th-annual-patriot-classic",
       "month": "Jul",
@@ -54471,6 +59287,62 @@
   ],
   "teemu-talikainen": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 16,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 15,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 22,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 23,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 57,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -54597,6 +59469,30 @@
     }
   ],
   "thomas-canfield": [
+    {
+      "event": "Oak Hollow Open 2026",
+      "event_key": "oak-hollow-open-2026",
+      "month": "Aug",
+      "place": 14,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
+      "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+      "month": "Jul",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Titan Open 2026 presented by Discraft",
+      "event_key": "titan-open-2026-presented-by-discraft",
+      "month": "Jul",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Discraft Presents: Spike Hyzer's Fifth Annual Piedmont Disc Golf",
       "event_key": "discraft-presents-spike-hyzer-s-fifth-annual-pie",
@@ -54993,6 +59889,46 @@
   ],
   "thunder-schultz": [
     {
+      "event": "Bayou Teche Open",
+      "event_key": "bayou-teche-open",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2nd Annual Blanchard Open",
+      "event_key": "2nd-annual-blanchard-open",
+      "month": "Sep",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Pity Park",
+      "event_key": "pity-park",
+      "month": "Aug",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Fort Buhlow Open",
+      "event_key": "fort-buhlow-open",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Southern Oaks Title Company Presents: 2026 Solomon Center Open",
+      "event_key": "southern-oaks-title-company-presents-2026-solomo",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "2026 Midsummer Meltdown in Metaire",
       "event_key": "2026-midsummer-meltdown-in-metaire",
       "month": "Jun",
@@ -55280,6 +60216,38 @@
   ],
   "tim-denna": [
     {
+      "event": "High Sierra Cup",
+      "event_key": "high-sierra-cup",
+      "month": "Aug",
+      "place": 10,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Santa Maria Open - Pro Weekend 2026 Sponsored by OTB Discs",
+      "event_key": "santa-maria-open-pro-weekend-2026-sponsored-by-o",
+      "month": "Aug",
+      "place": 17,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "32nd Annual Frying Pan 2026 sponsored by Visit Stockton and DGA--",
+      "event_key": "32nd-annual-frying-pan-2026-sponsored-by-visit-s",
+      "month": "Jul",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Flying Monkey Open 2026",
+      "event_key": "flying-monkey-open-2026",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "America: HUCK YEAH! presented by 1000 Rated Productions (Flex Sta",
       "event_key": "america-huck-yeah-presented-by-1000-rated-produc",
       "month": "Jul",
@@ -55441,6 +60409,30 @@
   ],
   "tnis-soppe": [
     {
+      "event": "Elwa Challenge 2026",
+      "event_key": "elwa-challenge-2026",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 23,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Rakvere Sn\u00e4kkpro Eesti Juunioride, Seenioride, Harrastajate Eest",
+      "event_key": "rakvere-sn-kkpro-eesti-juunioride-seenioride-har",
+      "month": "Jul",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA European Open",
       "event_key": "2026-pdga-european-open",
       "month": "Jun",
@@ -55475,6 +60467,22 @@
   ],
   "tobias-hjortelandschjlberg": [],
   "tobias-sderqvist": [
+    {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Varberg Open 2026",
+      "event_key": "varberg-open-2026",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -55518,6 +60526,38 @@
   ],
   "toby-mergen": [],
   "toke-kyed": [
+    {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 28,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DFSU DT #5 Aalborg Open presented by Disc Tree",
+      "event_key": "dfsu-dt-5-aalborg-open-presented-by-disc-tree",
+      "month": "Aug",
+      "place": 9,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 34,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 63,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
@@ -55682,6 +60722,54 @@
     }
   ],
   "tom-shanley": [
+    {
+      "event": "2026 Dry Creek Cthulhu Championship",
+      "event_key": "2026-dry-creek-cthulhu-championship",
+      "month": "Aug",
+      "place": 24,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Chain Reactions Summer Series #6 (Y5) @Hornets Nest",
+      "event_key": "chain-reactions-summer-series-6-y5-hornets-nest",
+      "month": "Aug",
+      "place": 17,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "4th Annual ARDG Open Presented By Another Round Disc Golf Support",
+      "event_key": "4th-annual-ardg-open-presented-by-another-round-",
+      "month": "Aug",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "North Cove Classic - Presented by GMT",
+      "event_key": "north-cove-classic-presented-by-gmt",
+      "month": "Aug",
+      "place": 22,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Chain Reactions Summer Series #4 (Y5) @Angry Beaver - Driven by I",
+      "event_key": "chain-reactions-summer-series-4-y5-angry-beaver-",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Crom Transmission & Automotive Specialist Presents The 6th Annual",
+      "event_key": "crom-transmission-automotive-specialist-presents",
+      "month": "Jul",
+      "place": 20,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Chain Reactions Summer Series #1 (Y5) @Bradford - Driven by INNOV",
       "event_key": "chain-reactions-summer-series-1-y5-bradford-driv",
@@ -56544,6 +61632,54 @@
   ],
   "tuomas-pkknen": [
     {
+      "event": "Puula Open 2026",
+      "event_key": "puula-open-2026",
+      "month": "Sep",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 33,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 64,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Kouvola Open 2026",
+      "event_key": "kouvola-open-2026",
+      "month": "Aug",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Frisbeegolfin SM 2026 - juniorit",
+      "event_key": "frisbeegolfin-sm-2026-juniorit",
+      "month": "Aug",
+      "place": 31,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "NBDG Extra\u2122 Kukonkoivu",
+      "event_key": "nbdg-extra-kukonkoivu",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
       "month": "Jul",
@@ -56601,6 +61737,46 @@
     }
   ],
   "ture-valtonen": [
+    {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 18,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #4 Nyk\u00f6ping",
+      "event_key": "nationella-touren-4-nyk-ping",
+      "month": "Aug",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 27,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nationella Touren #3 Pite\u00e5",
+      "event_key": "nationella-touren-3-pite",
+      "month": "Jul",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -56849,6 +62025,46 @@
   "tyler-peterson": [],
   "una-lokmane": [],
   "urho-nuutinen": [
+    {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 122,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Disc Golf Park Riga Cup",
+      "event_key": "disc-golf-park-riga-cup",
+      "month": "Sep",
+      "place": 22,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Jyv\u00e4skyl\u00e4 Open 2026 + PGPT Status",
+      "event_key": "jyv-skyl-open-2026-pgpt-status",
+      "month": "Aug",
+      "place": 12,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 66,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #3 Turku",
+      "event_key": "sfl-powergrip-pro-tour-3-turku",
+      "month": "Jul",
+      "place": 42,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -57122,6 +62338,46 @@
   "vilho-lamponen-284527": [],
   "ville-ahokas": [
     {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 29,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Nokia Open",
+      "event_key": "nokia-open",
+      "month": "Aug",
+      "place": 27,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #4 Helsinki",
+      "event_key": "sfl-powergrip-pro-tour-4-helsinki",
+      "month": "Aug",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Luolavuori Open +PGPT Status",
+      "event_key": "luolavuori-open-pgpt-status",
+      "month": "Aug",
+      "place": 26,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGPT EuroTour - Sieravuori Challenge 2026",
+      "event_key": "eurotour-sieravuori-challenge-2026",
+      "month": "Jul",
+      "place": 32,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Championships",
       "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
       "month": "Jul",
@@ -57163,6 +62419,38 @@
     }
   ],
   "ville-kivisilla": [
+    {
+      "event": "Epicbet esitleb Eesti Meistriv\u00f5istlused Discgolfis 2026",
+      "event_key": "epicbet-esitleb-eesti-meistriv-istlused-discgolf",
+      "month": "Aug",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Kiiu Open 2026 PDGA SUVELIIGA 4.etapp",
+      "event_key": "kiiu-open-2026-pdga-suveliiga-4-etapp",
+      "month": "Aug",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "EDGL PRO KARIKASARI 2026 - J\u00e4rve",
+      "event_key": "edgl-pro-karikasari-2026-j-rve",
+      "month": "Aug",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Kiiu Open 2026 PDGA SUVELIIGA 3.etapp",
+      "event_key": "kiiu-open-2026-pdga-suveliiga-3-etapp",
+      "month": "Jul",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "EDGL PRO KARIKASARI 2026 - Mammaste",
       "event_key": "edgl-pro-karikasari-2026-mammaste",
@@ -57237,6 +62525,22 @@
     }
   ],
   "ville-parpala": [
+    {
+      "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
+      "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
+      "month": "Aug",
+      "place": 36,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Swedish Championships 2026",
+      "event_key": "swedish-championships-2026",
+      "month": "Jul",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - Heinola Open presented by MVP",
       "event_key": "heinola-open-presented-by-mvp",
@@ -57552,6 +62856,22 @@
   "whit-stephenson": [],
   "will-goeringer": [
     {
+      "event": "2026 Michigan State Doubles Championships - MPO, FPO, MA1, AM Wom",
+      "event_key": "2026-michigan-state-doubles-championships-mpo-fp",
+      "month": "Sep",
+      "place": 4,
+      "tier": "XB",
+      "tour": ""
+    },
+    {
+      "event": "PDGA Professional World Championships - Saturday Qualifier",
+      "event_key": "pdga-professional-world-championships-saturday-q",
+      "month": "Aug",
+      "place": 20,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT+ Ledgestone Open",
       "event_key": "ledgestone-open",
       "month": "Jul",
@@ -57581,6 +62901,14 @@
       "month": "Jun",
       "place": 22,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Huron Valley Summer Singles",
+      "event_key": "huron-valley-summer-singles",
+      "month": "Jun",
+      "place": 16,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -57980,6 +63308,22 @@
   ],
   "yehuda-shenvald": [],
   "yvind-jarnes": [
+    {
+      "event": "Trondheim Open 2026 Presentert av Frisbeebutikken",
+      "event_key": "trondheim-open-2026-presentert-av-frisbeebutikke",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Arvika Open 2026 - Presented by Kastaplast",
+      "event_key": "arvika-open-2026-presented-by-kastaplast",
+      "month": "Aug",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Norgesmesterskapet i Diskgolf 2026",
       "event_key": "norgesmesterskapet-i-diskgolf-2026",
@@ -58555,6 +63899,14 @@
     }
   ],
   "zane-letts": [
+    {
+      "event": "House of Flight DFW Flex #7",
+      "event_key": "house-of-flight-dfw-flex-7",
+      "month": "Jul",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Palmer's Flex @Fritz!! With Ideal Discs doing payout!",
       "event_key": "palmer-s-flex-fritz-with-ideal-discs-doing-payou",
