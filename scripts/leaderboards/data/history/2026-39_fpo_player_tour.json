@@ -1,7 +1,7 @@
 {
   "division": "FPO",
   "week": "2026-39",
-  "saved_at": "2026-09-21T20:47:06.792465+00:00",
+  "saved_at": "2026-09-22T17:30:57.486102+00:00",
   "players": [
     {
       "slug": "holyn-handley",
@@ -92,12 +92,12 @@
       "wins": 0
     },
     {
-      "slug": "valerie-mandujano",
-      "name": "Valerie Mandujano",
+      "slug": "julia-fors",
+      "name": "Julia Fors",
       "tour_rank": 12,
-      "tour_weighted_points": 822.2,
-      "dgpt_rank": 9,
-      "wins": 3
+      "tour_weighted_points": 837.5,
+      "dgpt_rank": 31,
+      "wins": 4
     }
   ]
 }
