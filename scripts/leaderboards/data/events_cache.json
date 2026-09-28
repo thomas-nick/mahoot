@@ -213,6 +213,22 @@
   ],
   "aaron-gossage": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 66,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -581,6 +597,22 @@
   ],
   "adam-hammes": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -743,6 +775,22 @@
     }
   ],
   "addison-woodard": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 14,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -1314,6 +1362,22 @@
   "aidan-hosler": [],
   "aidan-scott": [
     {
+      "event": "52nd Annual Alabama State Flying Disc Championship",
+      "event_key": "52nd-annual-alabama-state-flying-disc-championsh",
+      "month": "Sep",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 MVP Music City Open - All Divisions plus DGPT Q-Series",
+      "event_key": "2026-mvp-music-city-open-all-divisions-plus-dgpt",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -1637,6 +1701,22 @@
   "alan-vazquez": [],
   "albert-tamm": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 37,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -1833,6 +1913,22 @@
     }
   ],
   "alden-harris": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 54,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 37,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -2578,6 +2674,14 @@
     }
   ],
   "alexis-kerman": [
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 31,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -3567,6 +3671,30 @@
   ],
   "andrew-marwede": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "14th Annual Hamilton County Open",
+      "event_key": "14th-annual-hamilton-county-open",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -3762,6 +3890,22 @@
   ],
   "andrew-miranda": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 48,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -3940,6 +4084,14 @@
     }
   ],
   "andrew-presnell": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 54,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 Power Disc Golf Academy Championship Series Finale",
       "event_key": "2026-power-disc-golf-academy-championship-series",
@@ -4462,6 +4614,22 @@
   ],
   "anneli-tugjas-mnniste": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -4583,6 +4751,22 @@
     }
   ],
   "annikenkristiansen-steen": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 24,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -4860,6 +5044,22 @@
     }
   ],
   "anthony-barela": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -5839,6 +6039,22 @@
   "audrey-wicklander": [],
   "austen-bates": [
     {
+      "event": "Lower Peninsula Open - Presented by Innova",
+      "event_key": "lower-peninsula-open-presented-by-innova",
+      "month": "Sep",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "14th Annual Hamilton County Open",
+      "event_key": "14th-annual-hamilton-county-open",
+      "month": "Sep",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -6064,6 +6280,22 @@
     }
   ],
   "austin-turner": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 39,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -7652,6 +7884,14 @@
   ],
   "bo-mclaughlin": [
     {
+      "event": "52nd Annual Alabama State Flying Disc Championship",
+      "event_key": "52nd-annual-alabama-state-flying-disc-championsh",
+      "month": "Sep",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -7706,6 +7946,14 @@
       "place": 63,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "GDG SANCTIONED LEAGUE SUMMER 2026 (UAH) (Flex Start)",
+      "event_key": "gdg-sanctioned-league-summer-2026-uah-flex-start",
+      "month": "Jul",
+      "place": 3,
+      "tier": "L",
+      "tour": ""
     },
     {
       "event": "GDG SPRING/SUMMER 2026 FLEX SERIES STOP SIX! (NH)",
@@ -7926,6 +8174,14 @@
   ],
   "brad-schick": [
     {
+      "event": "Seth Burton Memorial",
+      "event_key": "seth-burton-memorial",
+      "month": "Sep",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -8096,6 +8352,14 @@
   ],
   "bradley-baumgardner": [],
   "bradley-williams": [
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -8381,6 +8645,22 @@
     }
   ],
   "braeden-sides": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 58,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 37,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
@@ -9304,6 +9584,14 @@
   ],
   "calvin-caldwell": [
     {
+      "event": "14th Annual Hamilton County Open",
+      "event_key": "14th-annual-hamilton-county-open",
+      "month": "Sep",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -9548,6 +9836,22 @@
   ],
   "calvin-heimburg": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -9726,6 +10030,22 @@
     }
   ],
   "calvin-lonnquist": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 51,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -10749,6 +11069,22 @@
   ],
   "casey-white": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -11041,6 +11377,22 @@
     }
   ],
   "catrina-allen": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
@@ -11394,6 +11746,30 @@
   ],
   "chandler-kramer": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 72,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Seth Burton Memorial",
+      "event_key": "seth-burton-memorial",
+      "month": "Sep",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -11612,6 +11988,22 @@
     }
   ],
   "chandler-reigh": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 32,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Falcon\u2019s Flight 17",
       "event_key": "falcon-s-flight-17",
@@ -12254,6 +12646,22 @@
   "chelsea-sutton": [],
   "chris-clemons": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 64,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 59,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -12415,6 +12823,22 @@
     }
   ],
   "chris-dickerson": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 27,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -12608,6 +13032,22 @@
     }
   ],
   "clay-edwards": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 51,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Falcon\u2019s Flight 17",
       "event_key": "falcon-s-flight-17",
@@ -13013,6 +13453,22 @@
   ],
   "cole-redalen": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -13183,6 +13639,22 @@
     }
   ],
   "colin-bryant": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 58,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -13363,6 +13835,22 @@
     }
   ],
   "colten-montgomery": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 67,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 71,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
@@ -13698,6 +14186,22 @@
   "connor-king": [],
   "connor-oreilly": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 71,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 61,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -14016,6 +14520,22 @@
   ],
   "corey-ellis": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -14218,6 +14738,14 @@
     }
   ],
   "cynthia-ricciotti": [
+    {
+      "event": "Discraft Presents: Spike Hyzer's 41st Sneeky Pete Classic",
+      "event_key": "discraft-presents-spike-hyzer-s-41st-sneeky-pete",
+      "month": "Sep",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -14610,6 +15138,14 @@
   ],
   "damien-biegert": [],
   "daniel-davidsson": [
+    {
+      "event": "DGPT EuroTour - Moravian Open 2026",
+      "event_key": "eurotour-moravian-open-2026",
+      "month": "Sep",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -15093,6 +15629,14 @@
       "tour": "DGPT"
     },
     {
+      "event": "NKY Disc Golf - Monday League Session 3 2026",
+      "event_key": "nky-disc-golf-monday-league-session-3-2026",
+      "month": "Jul",
+      "place": 3,
+      "tier": "L",
+      "tour": ""
+    },
+    {
       "event": "NKY Disc Golf - Monday League Session 2 2026",
       "event_key": "nky-disc-golf-monday-league-session-2-2026",
       "month": "May",
@@ -15145,6 +15689,22 @@
     }
   ],
   "danik-hart": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 20,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -16363,6 +16923,14 @@
   ],
   "dustin-keegan": [
     {
+      "event": "38th Annual Eugene Celebration presented by Clean Juice",
+      "event_key": "38th-annual-eugene-celebration-presented-by-clea",
+      "month": "Sep",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series: The San Francisco Safari driven by Innova",
       "event_key": "q-series-the-san-francisco-safari-driven-by-inno",
       "month": "Sep",
@@ -16551,11 +17119,35 @@
   ],
   "dylan-capaccioli": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 72,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Eastern Massachusetts Championship XVII",
+      "event_key": "eastern-massachusetts-championship-xvii",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Hollows Fall Classic Sponsored by Kastaplast",
       "event_key": "hollows-fall-classic-sponsored-by-kastaplast",
       "month": "Sep",
       "place": 1,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Hillside Friday Flex Series #6",
+      "event_key": "2026-hillside-friday-flex-series-6",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
       "tour": ""
     },
     {
@@ -16761,6 +17353,22 @@
   ],
   "dylan-dietrich": [],
   "eagle-mcmahon": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 65,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -17521,12 +18129,28 @@
   ],
   "eli-swansen": [
     {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 75,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
       "place": 92,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "PDGA Professional World Championships - Saturday Qualifier",
+      "event_key": "pdga-professional-world-championships-saturday-q",
+      "month": "Aug",
+      "place": 20,
+      "tier": "XC",
+      "tour": ""
     },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
@@ -17977,6 +18601,30 @@
   "elias-nordberg": [],
   "eliezra-midtlyng": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 23,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Seth Burton Memorial",
+      "event_key": "seth-burton-memorial",
+      "month": "Sep",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -17993,16 +18641,16 @@
       "tour": "Major"
     },
     {
-      "event": "2026 Professional Worlds Putting Competition",
-      "event_key": "2026-professional-worlds-putting-competition",
+      "event": "2026 Professional Worlds Long Drive Competition",
+      "event_key": "2026-professional-worlds-long-drive-competition",
       "month": "Aug",
       "place": 3,
       "tier": "XC",
       "tour": ""
     },
     {
-      "event": "2026 Professional Worlds Long Drive Competition",
-      "event_key": "2026-professional-worlds-long-drive-competition",
+      "event": "2026 Professional Worlds Putting Competition",
+      "event_key": "2026-professional-worlds-putting-competition",
       "month": "Aug",
       "place": 3,
       "tier": "XC",
@@ -18204,6 +18852,30 @@
   ],
   "elijah-bickel": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 60,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 47,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "14th Annual Hamilton County Open",
+      "event_key": "14th-annual-hamilton-county-open",
+      "month": "Sep",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -18398,6 +19070,22 @@
     }
   ],
   "elijah-riderbrandt": [
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 76,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "14th Annual Hamilton County Open",
+      "event_key": "14th-annual-hamilton-county-open",
+      "month": "Sep",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -18934,6 +19622,22 @@
     }
   ],
   "ella-hansen": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -20075,6 +20779,22 @@
   ],
   "emily-weatherman": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -20261,6 +20981,14 @@
     }
   ],
   "emily-yale": [
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 35,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Queens in Bloom II - Salty Queens #5 2026 - Presented by Innova D",
       "event_key": "queens-in-bloom-ii-salty-queens-5-2026-presented",
@@ -20523,6 +21251,22 @@
   ],
   "emmanuel-torres": [
     {
+      "event": "2026 Faultline Classic Presented by Innova",
+      "event_key": "2026-faultline-classic-presented-by-innova",
+      "month": "Sep",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Protopipe Presents The Brooktrails Open Supported by Innova",
+      "event_key": "protopipe-presents-the-brooktrails-open-supporte",
+      "month": "Sep",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series: The San Francisco Safari driven by Innova",
       "event_key": "q-series-the-san-francisco-safari-driven-by-inno",
       "month": "Sep",
@@ -20714,6 +21458,22 @@
   ],
   "erika-apple": [],
   "erika-stinchcomb": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 35,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 41,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -21527,6 +22287,22 @@
   ],
   "evan-scott": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 56,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -21714,6 +22490,22 @@
   ],
   "evan-smith": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -21845,6 +22637,22 @@
   "evan-walker": [],
   "eveliina-salonen": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -21942,6 +22750,22 @@
     }
   ],
   "ezra-aderhold": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
@@ -22114,6 +22938,22 @@
   ],
   "ezra-hapner": [
     {
+      "event": "2026 Faultline Classic Presented by Innova",
+      "event_key": "2026-faultline-classic-presented-by-innova",
+      "month": "Sep",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Protopipe Presents The Brooktrails Open Supported by Innova",
+      "event_key": "protopipe-presents-the-brooktrails-open-supporte",
+      "month": "Sep",
+      "place": 12,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series: The San Francisco Safari driven by Innova",
       "event_key": "q-series-the-san-francisco-safari-driven-by-inno",
       "month": "Sep",
@@ -22268,6 +23108,30 @@
     }
   ],
   "ezra-robinson": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Green Mountain Championship Flex Start C-Tier - Fox Run Meadows",
+      "event_key": "green-mountain-championship-flex-start-c-tier-fo",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -23191,6 +24055,22 @@
   ],
   "fritiof-fagergren": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -23329,6 +24209,22 @@
   ],
   "gage-johnson": [],
   "gannon-buhr": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -23664,6 +24560,30 @@
   "garrett-dknox": [],
   "garrett-gurthie": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 72,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Seth Burton Memorial",
+      "event_key": "seth-burton-memorial",
+      "month": "Sep",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -23925,6 +24845,22 @@
   ],
   "gaute-hauge": [],
   "gavin-babcock": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -24285,6 +25221,22 @@
   "gavin-king": [],
   "gavin-phillips": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 72,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 59,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -24580,6 +25532,14 @@
     }
   ],
   "gillis-macdougall": [
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 77,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -25290,6 +26250,22 @@
   "halvard-solberg": [],
   "hanna-huynh": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 27,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -25619,6 +26595,30 @@
   ],
   "harper-thompson": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 60,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 47,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "2026 MVP Music City Open - All Divisions plus DGPT Q-Series",
+      "event_key": "2026-mvp-music-city-open-all-divisions-plus-dgpt",
+      "month": "Sep",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -25836,6 +26836,22 @@
     }
   ],
   "harry-chace": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
@@ -26170,6 +27186,22 @@
   ],
   "heidi-laine": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 21,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -26364,6 +27396,22 @@
     }
   ],
   "henna-blomroos": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 18,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -26919,6 +27967,14 @@
   ],
   "hjalmar-fredriksson": [
     {
+      "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
+      "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
+      "month": "Sep",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -27352,6 +28408,22 @@
     }
   ],
   "holyn-handley": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -27865,6 +28937,22 @@
   "ida-kennmark": [],
   "idaemilie-nesse": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 29,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -28120,6 +29208,30 @@
     }
   ],
   "isaac-robinson": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 72,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Green Mountain Championship Flex Start C-Tier - Fox Run Meadows",
+      "event_key": "green-mountain-championship-flex-start-c-tier-fo",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -29085,6 +30197,22 @@
   "jacquelyn-delude": [],
   "jaden-rye": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
       "month": "Sep",
@@ -29360,6 +30488,22 @@
   ],
   "jaime-velasquez": [],
   "jake-hebenheimer": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 22,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 37,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -29678,6 +30822,22 @@
   ],
   "jake-monn": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 37,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -29956,6 +31116,22 @@
   ],
   "jakub-semerd": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 61,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -30218,6 +31394,22 @@
   "james-bennett": [],
   "james-collier": [],
   "james-conrad": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -31677,6 +32869,22 @@
   ],
   "jennifer-smiley": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -32222,6 +33430,22 @@
   ],
   "jeremy-koling": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 39,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 68,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
       "month": "Aug",
@@ -32404,6 +33628,22 @@
   ],
   "jesse-nieminen": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -32552,6 +33792,30 @@
     }
   ],
   "jessica-gurthie": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Seth Burton Memorial",
+      "event_key": "seth-burton-memorial",
+      "month": "Sep",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -33101,6 +34365,14 @@
   ],
   "joel-freeman": [
     {
+      "event": "Top Shelf Disc Supply & Bird Dawg Disc Golf presents King of the",
+      "event_key": "top-shelf-disc-supply-bird-dawg-disc-golf-presen",
+      "month": "Sep",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -33271,12 +34543,36 @@
   ],
   "joey-temali": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 66,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 55,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
       "place": 49,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "PDGA Professional World Championships - Saturday Qualifier",
+      "event_key": "pdga-professional-world-championships-saturday-q",
+      "month": "Aug",
+      "place": 14,
+      "tier": "XC",
+      "tour": ""
     },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
@@ -33620,6 +34916,22 @@
   ],
   "jonas-zupanic": [],
   "jonathan-borzick": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 63,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 66,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -34445,6 +35757,22 @@
   ],
   "joseph-anderson": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 22,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -35185,6 +36513,14 @@
   ],
   "justin-rosak": [
     {
+      "event": "Independence Invitational",
+      "event_key": "independence-invitational",
+      "month": "Sep",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -35718,6 +37054,14 @@
     }
   ],
   "karen-martel": [
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -36274,6 +37618,22 @@
   ],
   "kat-mertsch": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 22,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -36768,6 +38128,22 @@
   ],
   "kelley-foster": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 26,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
       "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
       "month": "Sep",
@@ -36790,6 +38166,14 @@
       "place": 60,
       "tier": "M",
       "tour": "Major"
+    },
+    {
+      "event": "PDGA Professional World Championships - Saturday Qualifier",
+      "event_key": "pdga-professional-world-championships-saturday-q",
+      "month": "Aug",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
     },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
@@ -37256,6 +38640,22 @@
     }
   ],
   "kevin-jones": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 49,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 50,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -37740,6 +39140,22 @@
   "kolten-patterson": [],
   "konastar-montgomery": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 33,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 27,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -38036,6 +39452,22 @@
   "kyle-holt": [],
   "kyle-klein": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 72,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 29,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -38266,6 +39698,22 @@
   ],
   "kylie-kohut": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 28,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
       "month": "Sep",
@@ -38288,6 +39736,14 @@
       "place": 41,
       "tier": "M",
       "tour": "Major"
+    },
+    {
+      "event": "PDGA Professional World Championships - Saturday Qualifier",
+      "event_key": "pdga-professional-world-championships-saturday-q",
+      "month": "Aug",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
     },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
@@ -39050,6 +40506,22 @@
   "lea-tomas": [],
   "leah-tsinajinnie": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 32,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -39357,6 +40829,22 @@
     }
   ],
   "levi-stout": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 60,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
@@ -39677,6 +41165,14 @@
   ],
   "lindsey-maas": [
     {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 39,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -39952,6 +41448,14 @@
     }
   ],
   "lisa-fajkus": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 20,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -40363,6 +41867,22 @@
   "luca-nieminen": [],
   "lucas-carmichael": [
     {
+      "event": "Top Shelf Disc Supply & Bird Dawg Disc Golf presents King of the",
+      "event_key": "top-shelf-disc-supply-bird-dawg-disc-golf-presen",
+      "month": "Sep",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Mile High Classic - Pro",
+      "event_key": "2026-mile-high-classic-pro",
+      "month": "Sep",
+      "place": 4,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -40558,6 +42078,22 @@
   ],
   "lucas-oberholtzerhess": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 72,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
       "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
       "month": "Sep",
@@ -40704,6 +42240,22 @@
   ],
   "lucas-wright": [],
   "luke-humphries": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 64,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 52,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -40875,6 +42427,22 @@
     }
   ],
   "luke-samson": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 67,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 74,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
@@ -41094,6 +42662,22 @@
     }
   ],
   "luke-taylor": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 29,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 27,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -41571,6 +43155,14 @@
   "mackenzie-morris": [],
   "madison-tomaino": [
     {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 40,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 Oregon Women\u2019s Disc Golf Championship presented by All Day",
       "event_key": "2026-oregon-women-s-disc-golf-championship-prese",
       "month": "Sep",
@@ -41733,6 +43325,22 @@
     }
   ],
   "madison-walker": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 32,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -42271,6 +43879,14 @@
     }
   ],
   "maria-oliva": [
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 43,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -43126,6 +44742,22 @@
   ],
   "mason-ford": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -43584,6 +45216,22 @@
   ],
   "matilda-ringbom": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
       "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
       "month": "Sep",
@@ -43747,6 +45395,14 @@
     }
   ],
   "matt-bell": [
+    {
+      "event": "14th Annual Hamilton County Open",
+      "event_key": "14th-annual-hamilton-county-open",
+      "month": "Sep",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -44438,6 +46094,14 @@
   ],
   "matthew-blakely": [
     {
+      "event": "14th Annual Hamilton County Open",
+      "event_key": "14th-annual-hamilton-county-open",
+      "month": "Sep",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -44607,6 +46271,14 @@
     }
   ],
   "matthew-brown-1": [
+    {
+      "event": "The Global @ John V Savio DGC supporting the Paul McBeth Foundati",
+      "event_key": "the-global-john-v-savio-dgc-supporting-the-paul-",
+      "month": "Sep",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -44968,6 +46640,22 @@
   ],
   "matthew-orum": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 67,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 4,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -45130,6 +46818,22 @@
     }
   ],
   "mauri-villmann": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -46381,6 +48085,22 @@
   ],
   "miles-sayer": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 34,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -46610,6 +48330,22 @@
   ],
   "missy-gannon": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 11,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -46830,6 +48566,30 @@
     }
   ],
   "mj-gager": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 27,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Seth Burton Memorial",
+      "event_key": "seth-burton-memorial",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -47492,6 +49252,14 @@
   ],
   "nate-toutolmin": [
     {
+      "event": "The Legend of Lizard Peak XI Presented by Disc Giant and Supporte",
+      "event_key": "the-legend-of-lizard-peak-xi-presented-by-disc-g",
+      "month": "Sep",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series: The San Francisco Safari driven by Innova",
       "event_key": "q-series-the-san-francisco-safari-driven-by-inno",
       "month": "Sep",
@@ -47690,6 +49458,14 @@
   ],
   "nathan-miske": [],
   "nathan-queen": [
+    {
+      "event": "Discraft Presents: Spike Hyzer's 41st Sneeky Pete Classic",
+      "event_key": "discraft-presents-spike-hyzer-s-41st-sneeky-pete",
+      "month": "Sep",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -48467,6 +50243,14 @@
   "nick-reliford": [],
   "nick-robertson-1": [
     {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 68,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -49100,6 +50884,22 @@
   "niilo-hyry": [],
   "nikko-locastro": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 47,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 St. Louis Open",
       "event_key": "2026-st-louis-open",
       "month": "Sep",
@@ -49157,6 +50957,22 @@
     }
   ],
   "niklas-anttila": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 16,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -50139,6 +51955,22 @@
     }
   ],
   "ohn-scoggins": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -51193,6 +53025,22 @@
   ],
   "paige-pierce": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
       "month": "Sep",
@@ -51364,6 +53212,22 @@
   ],
   "parker-austin": [],
   "parker-welck": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 58,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 64,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
@@ -51620,6 +53484,22 @@
   "paul-davidson": [],
   "paul-krans": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 56,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 50,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -51823,6 +53703,22 @@
   ],
   "paul-mcbeth": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -51986,6 +53882,22 @@
     }
   ],
   "paul-ulibarri": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 39,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -52665,6 +54577,22 @@
   ],
   "rasmus-saukkoriipi": [
     {
+      "event": "DGPT EuroTour - Moravian Open 2026",
+      "event_key": "eurotour-moravian-open-2026",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+      "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+      "month": "Sep",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -52853,6 +54781,14 @@
   ],
   "ratana-mcmahon": [
     {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 45,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "PDGA Professional World Championships - Saturday Qualifier",
       "event_key": "pdga-professional-world-championships-saturday-q",
       "month": "Aug",
@@ -52991,6 +54927,14 @@
     }
   ],
   "raven-klein": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 39,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -53139,6 +55083,30 @@
   ],
   "raven-newsom": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 39,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Seth Burton Memorial",
+      "event_key": "seth-burton-memorial",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -53169,6 +55137,14 @@
       "place": 17,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "2026 DGA Foundation Leagues (Flex Start)",
+      "event_key": "2026-dga-foundation-leagues-flex-start",
+      "month": "Jul",
+      "place": 5,
+      "tier": "L",
+      "tour": ""
     },
     {
       "event": "DGPT - Ale Open presented by Discraft",
@@ -53317,6 +55293,22 @@
     }
   ],
   "rebecca-cox": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 37,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 14,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -53471,6 +55463,22 @@
     }
   ],
   "rebecca-don": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -54017,6 +56025,22 @@
   ],
   "richard-wysocki": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -54403,6 +56427,22 @@
   ],
   "riku-grhn": [],
   "robert-burridge": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 67,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 77,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
@@ -55220,6 +57260,22 @@
     }
   ],
   "ryan-monn": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 53,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 61,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
@@ -57541,6 +59597,22 @@
   ],
   "silas-schultz": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 25,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -57695,6 +59767,22 @@
     }
   ],
   "silva-saarinen": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 17,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -57912,6 +60000,14 @@
   ],
   "simon-lizotte": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 22,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
       "month": "Aug",
@@ -58027,6 +60123,22 @@
   ],
   "simon-solin": [],
   "sintija-klezberga": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 10,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -59108,6 +61220,22 @@
   ],
   "sullivan-tipton": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 19,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -59369,6 +61497,14 @@
     }
   ],
   "tailey-rowley": [
+    {
+      "event": "Discraft Presents: Spike Hyzer's 41st Sneeky Pete Classic",
+      "event_key": "discraft-presents-spike-hyzer-s-41st-sneeky-pete",
+      "month": "Sep",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -59637,6 +61773,22 @@
   "tanisha-platero": [],
   "tanner-boggs": [],
   "taylor-chocek": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 20,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 36,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "2026 DGPT Doubles Championship at The Preserve presented by Simon",
       "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
@@ -60774,6 +62926,14 @@
   ],
   "thomas-tomaselli": [
     {
+      "event": "2026 Faultline Classic Presented by Innova",
+      "event_key": "2026-faultline-classic-presented-by-innova",
+      "month": "Sep",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series: The San Francisco Safari driven by Innova",
       "event_key": "q-series-the-san-francisco-safari-driven-by-inno",
       "month": "Sep",
@@ -61010,6 +63170,14 @@
     }
   ],
   "tiger-borth": [
+    {
+      "event": "2026 St. Louis Open",
+      "event_key": "2026-st-louis-open",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -61936,6 +64104,14 @@
   ],
   "tony-moereiss": [
     {
+      "event": "Seth Burton Memorial",
+      "event_key": "seth-burton-memorial",
+      "month": "Sep",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -62456,6 +64632,14 @@
   ],
   "trinity-bryant": [
     {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 42,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -62570,6 +64754,14 @@
     }
   ],
   "tristan-cook": [
+    {
+      "event": "Protopipe Presents The Brooktrails Open Supported by Innova",
+      "event_key": "protopipe-presents-the-brooktrails-open-supporte",
+      "month": "Sep",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT Q-Series: The San Francisco Safari driven by Innova",
       "event_key": "q-series-the-san-francisco-safari-driven-by-inno",
@@ -62868,6 +65060,22 @@
   ],
   "ty-love": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 44,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 52,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -63147,6 +65355,22 @@
     }
   ],
   "valerie-mandujano": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -63641,6 +65865,22 @@
   "ville-vonhertzen": [],
   "vin-mkel": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 30,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 68,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -64002,6 +66242,22 @@
   ],
   "woods-mccue": [],
   "wyatt-mahoney": [
+    {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 49,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
     {
       "event": "22nd Annual Greater Hartford Disc Golf Open weighed by Marshall S",
       "event_key": "22nd-annual-greater-hartford-disc-golf-open-weig",
@@ -64447,6 +66703,30 @@
   ],
   "zach-arlinghaus": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 12,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "Seth Burton Memorial",
+      "event_key": "seth-burton-memorial",
+      "month": "Sep",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -64798,6 +67078,22 @@
   "zach-trotto": [],
   "zachary-nash": [
     {
+      "event": "DGPT Playoffs - MVP Open x OTB",
+      "event_key": "playoffs-mvp-open-x-otb",
+      "month": "Sep",
+      "place": 43,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
+      "event_key": "playoffs-green-mountain-championship-presented-b",
+      "month": "Sep",
+      "place": 52,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -65117,6 +67413,14 @@
     }
   ],
   "zoe-andyke": [
+    {
+      "event": "2026 Oregon Women\u2019s Disc Golf Championship presented by All Day",
+      "event_key": "2026-oregon-women-s-disc-golf-championship-prese",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT Q-Series: The San Francisco Safari driven by Innova",
       "event_key": "q-series-the-san-francisco-safari-driven-by-inno",
