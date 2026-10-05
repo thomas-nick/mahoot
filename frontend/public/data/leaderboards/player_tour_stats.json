@@ -32,7 +32,7 @@
       "major_win": 400.0
     }
   },
-  "updated_at": "2026-09-29T18:23:56.967416+00:00",
+  "updated_at": "2026-10-05T23:02:14.570215+00:00",
   "divisions": {
     "MPO": {
       "division": "MPO",
@@ -40,11 +40,11 @@
       "year": "2026",
       "player_count": 560,
       "tour_player_count": 414,
-      "event_count": 177,
+      "event_count": 181,
       "events_by_level": {
-        "major": 6,
+        "major": 7,
         "elite": 18,
-        "a_tier": 153
+        "a_tier": 156
       },
       "players": [
         {
@@ -8343,6 +8343,85 @@
           "tour_rank": 105
         },
         {
+          "slug": "martin-hendel",
+          "name": "Martin Hendel",
+          "dgpt_rank": 493,
+          "manufacturer": "Innova",
+          "dgpt_points": 2.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 152.4,
+          "wins": 0,
+          "podiums": 2,
+          "top10": 4,
+          "tour_starts": 6,
+          "by_level": {
+            "major": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 1,
+              "points": 92.0
+            },
+            "elite": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "a_tier": {
+              "starts": 4,
+              "wins": 0,
+              "podiums": 2,
+              "top10": 3,
+              "points": 60.4
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+              "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open spon",
+              "month": "Sep",
+              "place": 13,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "2026-pdga-masters-disc-golf-world-championships",
+              "event": "2026 PDGA Masters Disc Golf World Championships",
+              "month": "Sep",
+              "place": 8,
+              "level": "major",
+              "weighted_points": 80.0
+            },
+            {
+              "event_key": "eastern-canadian-amateur-national",
+              "event": "Eastern Canadian Amateur National",
+              "month": "Aug",
+              "place": 2,
+              "level": "a_tier",
+              "weighted_points": 26.2
+            },
+            {
+              "event_key": "2026-pdga-professional-disc-golf-world-champions",
+              "event": "2026 PDGA Professional Disc Golf World Championships present",
+              "month": "Aug",
+              "place": 145,
+              "level": "major",
+              "weighted_points": 12.0
+            },
+            {
+              "event_key": "the-explore-waterloo-region-foxwood-open-2026-dr",
+              "event": "The Explore Waterloo Region Foxwood Open 2026 - Driven by In",
+              "month": "May",
+              "place": 3,
+              "level": "a_tier",
+              "weighted_points": 19.2
+            }
+          ],
+          "tour_rank": 106
+        },
+        {
           "slug": "scott-withers",
           "name": "Scott Withers",
           "dgpt_rank": 193,
@@ -8419,7 +8498,7 @@
               "weighted_points": 12.2
             }
           ],
-          "tour_rank": 106
+          "tour_rank": 107
         },
         {
           "slug": "drew-gibson",
@@ -8498,7 +8577,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 107
+          "tour_rank": 108
         },
         {
           "slug": "nikola-arkko",
@@ -8577,7 +8656,7 @@
               "weighted_points": 35.0
             }
           ],
-          "tour_rank": 108
+          "tour_rank": 109
         },
         {
           "slug": "onni-ruusunen",
@@ -8656,7 +8735,7 @@
               "weighted_points": 50.0
             }
           ],
-          "tour_rank": 109
+          "tour_rank": 110
         },
         {
           "slug": "noah-meintsma",
@@ -8735,7 +8814,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 110
+          "tour_rank": 111
         },
         {
           "slug": "jacob-blair",
@@ -8814,7 +8893,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 111
+          "tour_rank": 112
         },
         {
           "slug": "nicholas-gill",
@@ -8893,7 +8972,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 112
+          "tour_rank": 113
         },
         {
           "slug": "colin-bryant",
@@ -8972,7 +9051,7 @@
               "weighted_points": 20.0
             }
           ],
-          "tour_rank": 113
+          "tour_rank": 114
         },
         {
           "slug": "alden-harris",
@@ -9051,7 +9130,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 114
+          "tour_rank": 115
         },
         {
           "slug": "trevon-crowe",
@@ -9130,7 +9209,7 @@
               "weighted_points": 12.2
             }
           ],
-          "tour_rank": 115
+          "tour_rank": 116
         },
         {
           "slug": "brad-schick",
@@ -9209,7 +9288,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 116
+          "tour_rank": 117
         },
         {
           "slug": "matthew-alexander",
@@ -9288,7 +9367,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 117
+          "tour_rank": 118
         },
         {
           "slug": "george-beno",
@@ -9351,7 +9430,7 @@
               "weighted_points": 35.0
             }
           ],
-          "tour_rank": 118
+          "tour_rank": 119
         },
         {
           "slug": "nathan-sexton-1",
@@ -9430,7 +9509,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 119
+          "tour_rank": 120
         },
         {
           "slug": "cam-rico",
@@ -9509,7 +9588,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 120
+          "tour_rank": 121
         },
         {
           "slug": "jeremy-koling",
@@ -9588,7 +9667,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 121
+          "tour_rank": 122
         },
         {
           "slug": "linus-carlsson",
@@ -9667,7 +9746,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 122
+          "tour_rank": 123
         },
         {
           "slug": "emerson-keith",
@@ -9746,7 +9825,7 @@
               "weighted_points": 35.0
             }
           ],
-          "tour_rank": 123
+          "tour_rank": 124
         },
         {
           "slug": "justus-sarvi",
@@ -9825,7 +9904,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 124
+          "tour_rank": 125
         },
         {
           "slug": "hjalmar-fredriksson",
@@ -9904,7 +9983,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 125
+          "tour_rank": 126
         },
         {
           "slug": "matt-bell",
@@ -9983,7 +10062,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 126
+          "tour_rank": 127
         },
         {
           "slug": "gavin-bos",
@@ -10062,7 +10141,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 127
+          "tour_rank": 128
         },
         {
           "slug": "blake-poland",
@@ -10141,7 +10220,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 128
+          "tour_rank": 129
         },
         {
           "slug": "bo-mclaughlin",
@@ -10220,7 +10299,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 129
+          "tour_rank": 130
         },
         {
           "slug": "oiva-pivnsalo",
@@ -10299,7 +10378,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 130
+          "tour_rank": 131
         },
         {
           "slug": "jakub-knpek",
@@ -10378,7 +10457,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 131
+          "tour_rank": 132
         },
         {
           "slug": "emmanuel-torres",
@@ -10457,7 +10536,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 132
+          "tour_rank": 133
         },
         {
           "slug": "abrahan-bahena",
@@ -10536,7 +10615,7 @@
               "weighted_points": 12.2
             }
           ],
-          "tour_rank": 133
+          "tour_rank": 134
         },
         {
           "slug": "kevin-jones",
@@ -10615,7 +10694,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 134
+          "tour_rank": 135
         },
         {
           "slug": "elias-luukkonen",
@@ -10694,7 +10773,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 135
+          "tour_rank": 136
         },
         {
           "slug": "bjrn-marrandi",
@@ -10773,7 +10852,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 136
+          "tour_rank": 137
         },
         {
           "slug": "dustin-keegan",
@@ -10852,7 +10931,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 137
+          "tour_rank": 138
         },
         {
           "slug": "adrian-chevalier",
@@ -10931,7 +11010,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 138
+          "tour_rank": 139
         },
         {
           "slug": "jacob-courtis",
@@ -11010,7 +11089,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 139
+          "tour_rank": 140
         },
         {
           "slug": "teemu-talikainen",
@@ -11089,7 +11168,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 140
+          "tour_rank": 141
         },
         {
           "slug": "jamie-kiep",
@@ -11168,7 +11247,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 141
+          "tour_rank": 142
         },
         {
           "slug": "david-fleck",
@@ -11247,7 +11326,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 142
+          "tour_rank": 143
         },
         {
           "slug": "xaelen-nash",
@@ -11326,7 +11405,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 143
+          "tour_rank": 144
         },
         {
           "slug": "maico-rimmel",
@@ -11405,7 +11484,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 144
+          "tour_rank": 145
         },
         {
           "slug": "carson-ham",
@@ -11484,7 +11563,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 145
+          "tour_rank": 146
         },
         {
           "slug": "matthew-blakely",
@@ -11563,7 +11642,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 146
+          "tour_rank": 147
         },
         {
           "slug": "kevin-kieferiii",
@@ -11642,7 +11721,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 147
+          "tour_rank": 148
         },
         {
           "slug": "max-ringbom",
@@ -11721,7 +11800,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 148
+          "tour_rank": 149
         },
         {
           "slug": "nolan-ramser",
@@ -11800,7 +11879,7 @@
               "weighted_points": 12.2
             }
           ],
-          "tour_rank": 149
+          "tour_rank": 150
         },
         {
           "slug": "matt-hammersten",
@@ -11879,7 +11958,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 150
+          "tour_rank": 151
         },
         {
           "slug": "gillis-macdougall",
@@ -11958,7 +12037,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 151
+          "tour_rank": 152
         },
         {
           "slug": "carter-ahrens",
@@ -12021,7 +12100,7 @@
               "weighted_points": 80.0
             }
           ],
-          "tour_rank": 152
+          "tour_rank": 153
         },
         {
           "slug": "gregg-barsby",
@@ -12100,7 +12179,7 @@
               "weighted_points": 26.2
             }
           ],
-          "tour_rank": 153
+          "tour_rank": 154
         },
         {
           "slug": "nate-metzler",
@@ -12179,7 +12258,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 154
+          "tour_rank": 155
         },
         {
           "slug": "benjamin-callaway",
@@ -12258,7 +12337,7 @@
               "weighted_points": 26.2
             }
           ],
-          "tour_rank": 155
+          "tour_rank": 156
         },
         {
           "slug": "thomas-earhart",
@@ -12337,7 +12416,86 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 156
+          "tour_rank": 157
+        },
+        {
+          "slug": "ryan-hahn",
+          "name": "Ryan Hahn",
+          "dgpt_rank": 257,
+          "manufacturer": "Unknown",
+          "dgpt_points": 12.33,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 83.8,
+          "wins": 0,
+          "podiums": 1,
+          "top10": 4,
+          "tour_starts": 13,
+          "by_level": {
+            "major": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 12.0
+            },
+            "elite": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 15.0
+            },
+            "a_tier": {
+              "starts": 10,
+              "wins": 0,
+              "podiums": 1,
+              "top10": 4,
+              "points": 56.8
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "discraft-presents-spike-hyzer-s-41st-sneeky-pete",
+              "event": "Discraft Presents: Spike Hyzer's 41st Sneeky Pete Classic",
+              "month": "Sep",
+              "place": 31,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+              "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open spon",
+              "month": "Sep",
+              "place": 22,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+              "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & ",
+              "month": "Jul",
+              "place": 3,
+              "level": "a_tier",
+              "weighted_points": 19.2
+            },
+            {
+              "event_key": "crom-transmission-automotive-specialist-presents",
+              "event": "Crom Transmission & Automotive Specialist Presents The 6th A",
+              "month": "Jul",
+              "place": 9,
+              "level": "a_tier",
+              "weighted_points": 7.0
+            },
+            {
+              "event_key": "ledgestone-open",
+              "event": "Ledgestone Open",
+              "month": "Jul",
+              "place": 130,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 158
         },
         {
           "slug": "landon-brooks",
@@ -12416,7 +12574,7 @@
               "weighted_points": 35.0
             }
           ],
-          "tour_rank": 157
+          "tour_rank": 159
         },
         {
           "slug": "joe-carey",
@@ -12495,7 +12653,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 158
+          "tour_rank": 160
         },
         {
           "slug": "gustav-dahln",
@@ -12574,86 +12732,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 159
-        },
-        {
-          "slug": "ryan-hahn",
-          "name": "Ryan Hahn",
-          "dgpt_rank": 257,
-          "manufacturer": "Unknown",
-          "dgpt_points": 12.33,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 82.8,
-          "wins": 0,
-          "podiums": 1,
-          "top10": 4,
-          "tour_starts": 12,
-          "by_level": {
-            "major": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 12.0
-            },
-            "elite": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 15.0
-            },
-            "a_tier": {
-              "starts": 9,
-              "wins": 0,
-              "podiums": 1,
-              "top10": 4,
-              "points": 55.8
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
-              "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open spon",
-              "month": "Sep",
-              "place": 22,
-              "level": "a_tier",
-              "weighted_points": 2.8
-            },
-            {
-              "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
-              "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & ",
-              "month": "Jul",
-              "place": 3,
-              "level": "a_tier",
-              "weighted_points": 19.2
-            },
-            {
-              "event_key": "crom-transmission-automotive-specialist-presents",
-              "event": "Crom Transmission & Automotive Specialist Presents The 6th A",
-              "month": "Jul",
-              "place": 9,
-              "level": "a_tier",
-              "weighted_points": 7.0
-            },
-            {
-              "event_key": "ledgestone-open",
-              "event": "Ledgestone Open",
-              "month": "Jul",
-              "place": 130,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "yeet-street-discs-presents-the-25th-annual-tar-h",
-              "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
-              "month": "May",
-              "place": 5,
-              "level": "a_tier",
-              "weighted_points": 12.2
-            }
-          ],
-          "tour_rank": 160
+          "tour_rank": 161
         },
         {
           "slug": "nikko-locastro",
@@ -12732,7 +12811,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 161
+          "tour_rank": 162
         },
         {
           "slug": "brandon-brown",
@@ -12811,7 +12890,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 162
+          "tour_rank": 163
         },
         {
           "slug": "garett-everson",
@@ -12882,7 +12961,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 163
+          "tour_rank": 164
         },
         {
           "slug": "axel-wernborg",
@@ -12961,7 +13040,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 164
+          "tour_rank": 165
         },
         {
           "slug": "daniel-polk",
@@ -13032,7 +13111,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 165
+          "tour_rank": 166
         },
         {
           "slug": "henry-bente",
@@ -13111,7 +13190,7 @@
               "weighted_points": 12.2
             }
           ],
-          "tour_rank": 166
+          "tour_rank": 167
         },
         {
           "slug": "tony-moereiss",
@@ -13190,7 +13269,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 167
+          "tour_rank": 168
         },
         {
           "slug": "daniel-pfaff",
@@ -13269,7 +13348,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 168
+          "tour_rank": 169
         },
         {
           "slug": "axel-olson",
@@ -13346,85 +13425,6 @@
               "place": 2,
               "level": "a_tier",
               "weighted_points": 26.2
-            }
-          ],
-          "tour_rank": 169
-        },
-        {
-          "slug": "martin-hendel",
-          "name": "Martin Hendel",
-          "dgpt_rank": 493,
-          "manufacturer": "Innova",
-          "dgpt_points": 2.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 72.4,
-          "wins": 0,
-          "podiums": 2,
-          "top10": 3,
-          "tour_starts": 5,
-          "by_level": {
-            "major": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 12.0
-            },
-            "elite": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "a_tier": {
-              "starts": 4,
-              "wins": 0,
-              "podiums": 2,
-              "top10": 3,
-              "points": 60.4
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
-              "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open spon",
-              "month": "Sep",
-              "place": 13,
-              "level": "a_tier",
-              "weighted_points": 2.8
-            },
-            {
-              "event_key": "eastern-canadian-amateur-national",
-              "event": "Eastern Canadian Amateur National",
-              "month": "Aug",
-              "place": 2,
-              "level": "a_tier",
-              "weighted_points": 26.2
-            },
-            {
-              "event_key": "2026-pdga-professional-disc-golf-world-champions",
-              "event": "2026 PDGA Professional Disc Golf World Championships present",
-              "month": "Aug",
-              "place": 145,
-              "level": "major",
-              "weighted_points": 12.0
-            },
-            {
-              "event_key": "the-explore-waterloo-region-foxwood-open-2026-dr",
-              "event": "The Explore Waterloo Region Foxwood Open 2026 - Driven by In",
-              "month": "May",
-              "place": 3,
-              "level": "a_tier",
-              "weighted_points": 19.2
-            },
-            {
-              "event_key": "the-memorial-championship-presented-by-discraft",
-              "event": "The Memorial Championship presented by Discraft",
-              "month": "Feb",
-              "place": 4,
-              "level": "a_tier",
-              "weighted_points": 12.2
             }
           ],
           "tour_rank": 170
@@ -14536,6 +14536,85 @@
           "tour_rank": 184
         },
         {
+          "slug": "sam-dicarlo",
+          "name": "Sam DiCarlo",
+          "dgpt_rank": 208,
+          "manufacturer": "Unknown",
+          "dgpt_points": 22.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 62.7,
+          "wins": 0,
+          "podiums": 2,
+          "top10": 4,
+          "tour_starts": 6,
+          "by_level": {
+            "major": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "elite": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 7.5
+            },
+            "a_tier": {
+              "starts": 5,
+              "wins": 0,
+              "podiums": 2,
+              "top10": 4,
+              "points": 55.2
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "dynamic-discs-presents-the-mckinney-classic",
+              "event": "Dynamic Discs Presents the McKinney Classic",
+              "month": "Sep",
+              "place": 3,
+              "level": "a_tier",
+              "weighted_points": 19.2
+            },
+            {
+              "event_key": "the-35th-annual-capital-of-texas-open",
+              "event": "The 35th Annual Capital of Texas Open",
+              "month": "May",
+              "place": 7,
+              "level": "a_tier",
+              "weighted_points": 7.0
+            },
+            {
+              "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
+              "event": "Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
+              "month": "May",
+              "place": 51,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "23rd-annual-live-oak-summer-open",
+              "event": "23rd Annual Live Oak Summer Open",
+              "month": "Apr",
+              "place": 7,
+              "level": "a_tier",
+              "weighted_points": 7.0
+            },
+            {
+              "event_key": "the-6th-annual-mint-discs-open-a-hott-points-eve",
+              "event": "The 6th Annual Mint Discs Open (A HOTT Points Event)",
+              "month": "Apr",
+              "place": 3,
+              "level": "a_tier",
+              "weighted_points": 19.2
+            }
+          ],
+          "tour_rank": 185
+        },
+        {
           "slug": "ezra-hapner",
           "name": "Ezra Hapner",
           "dgpt_rank": 260,
@@ -14612,7 +14691,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 185
+          "tour_rank": 186
         },
         {
           "slug": "corey-dryden",
@@ -14675,7 +14754,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 186
+          "tour_rank": 187
         },
         {
           "slug": "joni-peltonen",
@@ -14754,7 +14833,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 187
+          "tour_rank": 188
         },
         {
           "slug": "randon-latta",
@@ -14833,7 +14912,7 @@
               "weighted_points": 35.0
             }
           ],
-          "tour_rank": 188
+          "tour_rank": 189
         },
         {
           "slug": "frank-smith",
@@ -14912,7 +14991,7 @@
               "weighted_points": 26.2
             }
           ],
-          "tour_rank": 189
+          "tour_rank": 190
         },
         {
           "slug": "bennett-doemland",
@@ -14991,7 +15070,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 190
+          "tour_rank": 191
         },
         {
           "slug": "luukas-rokkanen",
@@ -15070,7 +15149,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 191
+          "tour_rank": 192
         },
         {
           "slug": "andrew-martin",
@@ -15149,7 +15228,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 192
+          "tour_rank": 193
         },
         {
           "slug": "dawson-snelling",
@@ -15228,7 +15307,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 193
+          "tour_rank": 194
         },
         {
           "slug": "max-anderson",
@@ -15299,7 +15378,7 @@
               "weighted_points": 26.2
             }
           ],
-          "tour_rank": 194
+          "tour_rank": 195
         },
         {
           "slug": "emil-karlsson",
@@ -15378,7 +15457,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 195
+          "tour_rank": 196
         },
         {
           "slug": "calvin-caldwell",
@@ -15457,7 +15536,7 @@
               "weighted_points": 12.2
             }
           ],
-          "tour_rank": 196
+          "tour_rank": 197
         },
         {
           "slug": "egert-htt",
@@ -15536,7 +15615,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 197
+          "tour_rank": 198
         },
         {
           "slug": "calvin-delamere",
@@ -15615,7 +15694,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 198
+          "tour_rank": 199
         },
         {
           "slug": "robert-johnson",
@@ -15686,7 +15765,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 199
+          "tour_rank": 200
         },
         {
           "slug": "severi-saviniemi",
@@ -15765,7 +15844,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 200
+          "tour_rank": 201
         },
         {
           "slug": "nooa-hmlinen",
@@ -15844,7 +15923,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 201
+          "tour_rank": 202
         },
         {
           "slug": "henrik-haaland",
@@ -15907,7 +15986,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 202
+          "tour_rank": 203
         },
         {
           "slug": "caleb-joiner",
@@ -15986,7 +16065,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 203
+          "tour_rank": 204
         },
         {
           "slug": "ville-parpala",
@@ -16065,7 +16144,86 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 204
+          "tour_rank": 205
+        },
+        {
+          "slug": "owen-mccall",
+          "name": "Owen McCall",
+          "dgpt_rank": 442,
+          "manufacturer": "Unknown",
+          "dgpt_points": 3.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 47.7,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 3,
+          "tour_starts": 9,
+          "by_level": {
+            "major": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "elite": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 7.5
+            },
+            "a_tier": {
+              "starts": 8,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 3,
+              "points": 40.2
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "15th-annual-loco-open-pro",
+              "event": "15th Annual LoCo Open - Pro",
+              "month": "Oct",
+              "place": 5,
+              "level": "a_tier",
+              "weighted_points": 12.2
+            },
+            {
+              "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+              "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & ",
+              "month": "Jul",
+              "place": 17,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "crom-transmission-automotive-specialist-presents",
+              "event": "Crom Transmission & Automotive Specialist Presents The 6th A",
+              "month": "Jul",
+              "place": 9,
+              "level": "a_tier",
+              "weighted_points": 7.0
+            },
+            {
+              "event_key": "43rd-annual-dogwood-crosstown-classic",
+              "event": "43rd Annual Dogwood Crosstown Classic",
+              "month": "Apr",
+              "place": 15,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "queen-city-classic-presented-by-another-round",
+              "event": "Queen City Classic presented by Another Round",
+              "month": "Mar",
+              "place": 101,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 206
         },
         {
           "slug": "sias-elmore",
@@ -16144,7 +16302,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 205
+          "tour_rank": 207
         },
         {
           "slug": "mika-laikko",
@@ -16215,7 +16373,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 206
+          "tour_rank": 208
         },
         {
           "slug": "micah-groth",
@@ -16278,7 +16436,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 207
+          "tour_rank": 209
         },
         {
           "slug": "morten-brenna",
@@ -16349,7 +16507,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 208
+          "tour_rank": 210
         },
         {
           "slug": "john-jones",
@@ -16428,7 +16586,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 209
+          "tour_rank": 211
         },
         {
           "slug": "aidan-guthrie",
@@ -16507,7 +16665,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 210
+          "tour_rank": 212
         },
         {
           "slug": "joshua-anthon",
@@ -16586,7 +16744,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 211
+          "tour_rank": 213
         },
         {
           "slug": "stephen-becker",
@@ -16665,7 +16823,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 212
+          "tour_rank": 214
         },
         {
           "slug": "ryan-mulder",
@@ -16744,7 +16902,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 213
+          "tour_rank": 215
         },
         {
           "slug": "anders-lind",
@@ -16823,86 +16981,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 214
-        },
-        {
-          "slug": "sam-dicarlo",
-          "name": "Sam DiCarlo",
-          "dgpt_rank": 208,
-          "manufacturer": "Unknown",
-          "dgpt_points": 22.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 43.5,
-          "wins": 0,
-          "podiums": 1,
-          "top10": 3,
-          "tour_starts": 5,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 7.5
-            },
-            "a_tier": {
-              "starts": 4,
-              "wins": 0,
-              "podiums": 1,
-              "top10": 3,
-              "points": 36.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "the-35th-annual-capital-of-texas-open",
-              "event": "The 35th Annual Capital of Texas Open",
-              "month": "May",
-              "place": 7,
-              "level": "a_tier",
-              "weighted_points": 7.0
-            },
-            {
-              "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
-              "event": "Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
-              "month": "May",
-              "place": 51,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "23rd-annual-live-oak-summer-open",
-              "event": "23rd Annual Live Oak Summer Open",
-              "month": "Apr",
-              "place": 7,
-              "level": "a_tier",
-              "weighted_points": 7.0
-            },
-            {
-              "event_key": "the-6th-annual-mint-discs-open-a-hott-points-eve",
-              "event": "The 6th Annual Mint Discs Open (A HOTT Points Event)",
-              "month": "Apr",
-              "place": 3,
-              "level": "a_tier",
-              "weighted_points": 19.2
-            },
-            {
-              "event_key": "24th-annual-crush-on-the-concho-supported-by-inn",
-              "event": "24th Annual Crush on the Concho Supported By Innova",
-              "month": "Mar",
-              "place": 16,
-              "level": "a_tier",
-              "weighted_points": 2.8
-            }
-          ],
-          "tour_rank": 215
+          "tour_rank": 216
         },
         {
           "slug": "christian-dietrich",
@@ -16957,7 +17036,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 216
+          "tour_rank": 217
         },
         {
           "slug": "yvind-jarnes",
@@ -17036,7 +17115,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 217
+          "tour_rank": 218
         },
         {
           "slug": "will-goeringer",
@@ -17099,7 +17178,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 218
+          "tour_rank": 219
         },
         {
           "slug": "rasmus-lampela",
@@ -17178,7 +17257,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 219
+          "tour_rank": 220
         },
         {
           "slug": "collin-thompson",
@@ -17249,7 +17328,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 220
+          "tour_rank": 221
         },
         {
           "slug": "mathias-villota",
@@ -17328,7 +17407,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 221
+          "tour_rank": 222
         },
         {
           "slug": "jared-stoll",
@@ -17407,7 +17486,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 222
+          "tour_rank": 223
         },
         {
           "slug": "blrrn-sgeirsson",
@@ -17470,7 +17549,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 223
+          "tour_rank": 224
         },
         {
           "slug": "caleb-bruce",
@@ -17549,7 +17628,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 224
+          "tour_rank": 225
         },
         {
           "slug": "thomas-tomaselli",
@@ -17628,7 +17707,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 225
+          "tour_rank": 226
         },
         {
           "slug": "ellert-georgsson",
@@ -17699,7 +17778,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 226
+          "tour_rank": 227
         },
         {
           "slug": "colby-schefers",
@@ -17778,7 +17857,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 227
+          "tour_rank": 228
         },
         {
           "slug": "taylor-coulam",
@@ -17857,7 +17936,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 228
+          "tour_rank": 229
         },
         {
           "slug": "ville-ahokas",
@@ -17936,7 +18015,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 229
+          "tour_rank": 230
         },
         {
           "slug": "jason-sosnowski",
@@ -17991,7 +18070,7 @@
               "weighted_points": 26.2
             }
           ],
-          "tour_rank": 230
+          "tour_rank": 231
         },
         {
           "slug": "matthew-brown-1",
@@ -18070,7 +18149,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 231
+          "tour_rank": 232
         },
         {
           "slug": "andrew-fish",
@@ -18149,7 +18228,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 232
+          "tour_rank": 233
         },
         {
           "slug": "isak-andersson",
@@ -18228,7 +18307,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 233
+          "tour_rank": 234
         },
         {
           "slug": "holger-hkansson",
@@ -18307,7 +18386,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 234
+          "tour_rank": 235
         },
         {
           "slug": "ryan-sheldon",
@@ -18366,85 +18445,6 @@
               "event": "The Majestic",
               "month": "Jun",
               "place": 16,
-              "level": "a_tier",
-              "weighted_points": 2.8
-            }
-          ],
-          "tour_rank": 235
-        },
-        {
-          "slug": "owen-mccall",
-          "name": "Owen McCall",
-          "dgpt_rank": 442,
-          "manufacturer": "Unknown",
-          "dgpt_points": 3.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 35.5,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 2,
-          "tour_starts": 8,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 7.5
-            },
-            "a_tier": {
-              "starts": 7,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 2,
-              "points": 28.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
-              "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & ",
-              "month": "Jul",
-              "place": 17,
-              "level": "a_tier",
-              "weighted_points": 2.8
-            },
-            {
-              "event_key": "crom-transmission-automotive-specialist-presents",
-              "event": "Crom Transmission & Automotive Specialist Presents The 6th A",
-              "month": "Jul",
-              "place": 9,
-              "level": "a_tier",
-              "weighted_points": 7.0
-            },
-            {
-              "event_key": "43rd-annual-dogwood-crosstown-classic",
-              "event": "43rd Annual Dogwood Crosstown Classic",
-              "month": "Apr",
-              "place": 15,
-              "level": "a_tier",
-              "weighted_points": 2.8
-            },
-            {
-              "event_key": "queen-city-classic-presented-by-another-round",
-              "event": "Queen City Classic presented by Another Round",
-              "month": "Mar",
-              "place": 101,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "tdu-2026-mvp-discs-bottle-lake-open",
-              "event": "TDU - 2026 MVP Discs Bottle Lake Open",
-              "month": "Feb",
-              "place": 13,
               "level": "a_tier",
               "weighted_points": 2.8
             }
@@ -22279,6 +22279,77 @@
           "tour_rank": 289
         },
         {
+          "slug": "anthony-bodanza",
+          "name": "Anthony Bodanza",
+          "dgpt_rank": 319,
+          "manufacturer": "Unknown",
+          "dgpt_points": 7.67,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 20.1,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 1,
+          "tour_starts": 4,
+          "by_level": {
+            "major": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "elite": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 7.5
+            },
+            "a_tier": {
+              "starts": 3,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 1,
+              "points": 12.6
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "discraft-presents-spike-hyzer-s-41st-sneeky-pete",
+              "event": "Discraft Presents: Spike Hyzer's 41st Sneeky Pete Classic",
+              "month": "Sep",
+              "place": 10,
+              "level": "a_tier",
+              "weighted_points": 7.0
+            },
+            {
+              "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
+              "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & ",
+              "month": "Jul",
+              "place": 14,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "yeet-street-discs-presents-the-25th-annual-tar-h",
+              "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
+              "month": "May",
+              "place": 20,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "queen-city-classic-presented-by-another-round",
+              "event": "Queen City Classic presented by Another Round",
+              "month": "Mar",
+              "place": 73,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 290
+        },
+        {
           "slug": "olle-frjdlund",
           "name": "Olle Fr\u00f6jdlund",
           "dgpt_rank": 438,
@@ -22355,7 +22426,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 290
+          "tour_rank": 291
         },
         {
           "slug": "tom-shanley",
@@ -22434,7 +22505,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 291
+          "tour_rank": 292
         },
         {
           "slug": "trevor-dominy",
@@ -22489,7 +22560,62 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 292
+          "tour_rank": 293
+        },
+        {
+          "slug": "bill-kirk",
+          "name": "Bill Kirk",
+          "dgpt_rank": 385,
+          "manufacturer": "Unknown",
+          "dgpt_points": 4.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 19.5,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 0,
+          "tour_starts": 2,
+          "by_level": {
+            "major": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 12.0
+            },
+            "elite": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 7.5
+            },
+            "a_tier": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "2026-pdga-masters-disc-golf-world-championships",
+              "event": "2026 PDGA Masters Disc Golf World Championships",
+              "month": "Sep",
+              "place": 55,
+              "level": "major",
+              "weighted_points": 12.0
+            },
+            {
+              "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
+              "event": "Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
+              "month": "May",
+              "place": 107,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 294
         },
         {
           "slug": "avery-jenkins",
@@ -22544,7 +22670,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 293
+          "tour_rank": 295
         },
         {
           "slug": "chandler-fry",
@@ -22599,7 +22725,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 294
+          "tour_rank": 296
         },
         {
           "slug": "mats-eerik-thk",
@@ -22670,7 +22796,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 295
+          "tour_rank": 297
         },
         {
           "slug": "pekka-hyvnen",
@@ -22749,7 +22875,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 296
+          "tour_rank": 298
         },
         {
           "slug": "peter-lunde",
@@ -22812,7 +22938,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 297
+          "tour_rank": 299
         },
         {
           "slug": "owen-hamilton",
@@ -22875,7 +23001,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 298
+          "tour_rank": 300
         },
         {
           "slug": "sam-smigiel",
@@ -22938,7 +23064,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 299
+          "tour_rank": 301
         },
         {
           "slug": "nick-schultz",
@@ -23001,7 +23127,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 300
+          "tour_rank": 302
         },
         {
           "slug": "toke-kyed",
@@ -23080,7 +23206,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 301
+          "tour_rank": 303
         },
         {
           "slug": "thomas-canfield",
@@ -23143,7 +23269,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 302
+          "tour_rank": 304
         },
         {
           "slug": "lassi-khri",
@@ -23222,7 +23348,70 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 303
+          "tour_rank": 305
+        },
+        {
+          "slug": "landon-knight",
+          "name": "Landon Knight",
+          "dgpt_rank": 385,
+          "manufacturer": "Unknown",
+          "dgpt_points": 4.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 17.3,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 1,
+          "tour_starts": 3,
+          "by_level": {
+            "major": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "elite": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 7.5
+            },
+            "a_tier": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 1,
+              "points": 9.8
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "dynamic-discs-presents-the-mckinney-classic",
+              "event": "Dynamic Discs Presents the McKinney Classic",
+              "month": "Sep",
+              "place": 21,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
+              "event": "Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
+              "month": "May",
+              "place": 99,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "31st-annual-texas-state-disc-golf-championships-",
+              "event": "31st Annual Texas State Disc Golf Championships powered by O",
+              "month": "Mar",
+              "place": 9,
+              "level": "a_tier",
+              "weighted_points": 7.0
+            }
+          ],
+          "tour_rank": 306
         },
         {
           "slug": "timothy-tjjohnsonjr",
@@ -23285,7 +23474,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 304
+          "tour_rank": 307
         },
         {
           "slug": "henric-hagman",
@@ -23356,7 +23545,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 305
+          "tour_rank": 308
         },
         {
           "slug": "melker-molin",
@@ -23427,7 +23616,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 306
+          "tour_rank": 309
         },
         {
           "slug": "thunder-schultz",
@@ -23506,7 +23695,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 307
+          "tour_rank": 310
         },
         {
           "slug": "jake-lauber",
@@ -23585,7 +23774,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 308
+          "tour_rank": 311
         },
         {
           "slug": "zane-letts",
@@ -23656,7 +23845,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 309
+          "tour_rank": 312
         },
         {
           "slug": "kalle-ojala",
@@ -23727,7 +23916,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 310
+          "tour_rank": 313
         },
         {
           "slug": "silas-evaldwiwe",
@@ -23798,7 +23987,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 311
+          "tour_rank": 314
         },
         {
           "slug": "leevi-lhdesmki",
@@ -23877,7 +24066,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 312
+          "tour_rank": 315
         },
         {
           "slug": "maxime-tanghe",
@@ -23940,7 +24129,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 313
+          "tour_rank": 316
         },
         {
           "slug": "hayden-frederiksen",
@@ -24003,7 +24192,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 314
+          "tour_rank": 317
         },
         {
           "slug": "justin-bougher",
@@ -24066,7 +24255,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 315
+          "tour_rank": 318
         },
         {
           "slug": "samuel-aldrich",
@@ -24129,7 +24318,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 316
+          "tour_rank": 319
         },
         {
           "slug": "jeffrey-mccormick",
@@ -24192,7 +24381,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 317
+          "tour_rank": 320
         },
         {
           "slug": "rico-suigusaar",
@@ -24271,7 +24460,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 318
+          "tour_rank": 321
         },
         {
           "slug": "tnis-soppe",
@@ -24334,7 +24523,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 319
+          "tour_rank": 322
         },
         {
           "slug": "ian-fredrickson",
@@ -24397,7 +24586,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 320
+          "tour_rank": 323
         },
         {
           "slug": "rasmus-tuominen",
@@ -24460,7 +24649,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 321
+          "tour_rank": 324
         },
         {
           "slug": "ryan-begley",
@@ -24539,7 +24728,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 322
+          "tour_rank": 325
         },
         {
           "slug": "charles-peake-267928",
@@ -24594,7 +24783,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 323
+          "tour_rank": 326
         },
         {
           "slug": "guy-melms",
@@ -24649,7 +24838,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 324
+          "tour_rank": 327
         },
         {
           "slug": "rienk-kan",
@@ -24704,7 +24893,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 325
+          "tour_rank": 328
         },
         {
           "slug": "emile-barbe",
@@ -24759,7 +24948,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 326
+          "tour_rank": 329
         },
         {
           "slug": "martin-evans",
@@ -24814,7 +25003,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 327
+          "tour_rank": 330
         },
         {
           "slug": "cody-kirkland",
@@ -24869,7 +25058,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 328
+          "tour_rank": 331
         },
         {
           "slug": "matthew-lopez",
@@ -24924,7 +25113,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 329
+          "tour_rank": 332
         },
         {
           "slug": "markus-saarepuu",
@@ -24979,7 +25168,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 330
+          "tour_rank": 333
         },
         {
           "slug": "jacky-chen",
@@ -25034,7 +25223,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 331
+          "tour_rank": 334
         },
         {
           "slug": "tuomas-hyytiinen",
@@ -25089,7 +25278,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 332
+          "tour_rank": 335
         },
         {
           "slug": "gavin-rathbun",
@@ -25144,7 +25333,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 333
+          "tour_rank": 336
         },
         {
           "slug": "jon-lynn",
@@ -25199,62 +25388,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 334
-        },
-        {
-          "slug": "landon-knight",
-          "name": "Landon Knight",
-          "dgpt_rank": 385,
-          "manufacturer": "Unknown",
-          "dgpt_points": 4.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 14.5,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 1,
-          "tour_starts": 2,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 7.5
-            },
-            "a_tier": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 1,
-              "points": 7.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
-              "event": "Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
-              "month": "May",
-              "place": 99,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "31st-annual-texas-state-disc-golf-championships-",
-              "event": "31st Annual Texas State Disc Golf Championships powered by O",
-              "month": "Mar",
-              "place": 9,
-              "level": "a_tier",
-              "weighted_points": 7.0
-            }
-          ],
-          "tour_rank": 335
+          "tour_rank": 337
         },
         {
           "slug": "john-fowler",
@@ -25309,7 +25443,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 336
+          "tour_rank": 338
         },
         {
           "slug": "urho-nuutinen",
@@ -25388,7 +25522,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 337
+          "tour_rank": 339
         },
         {
           "slug": "logan-weiss",
@@ -25459,7 +25593,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 338
+          "tour_rank": 340
         },
         {
           "slug": "renrs-strazdi",
@@ -25522,7 +25656,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 339
+          "tour_rank": 341
         },
         {
           "slug": "mikk-mts",
@@ -25585,7 +25719,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 340
+          "tour_rank": 342
         },
         {
           "slug": "thomas-helgesen",
@@ -25648,7 +25782,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 341
+          "tour_rank": 343
         },
         {
           "slug": "jami-kuhanen",
@@ -25727,7 +25861,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 342
+          "tour_rank": 344
         },
         {
           "slug": "jan-mikael-lampela",
@@ -25806,7 +25940,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 343
+          "tour_rank": 345
         },
         {
           "slug": "jere-kukkurainen",
@@ -25885,7 +26019,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 344
+          "tour_rank": 346
         },
         {
           "slug": "tobias-sderqvist",
@@ -25964,70 +26098,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 345
-        },
-        {
-          "slug": "anthony-bodanza",
-          "name": "Anthony Bodanza",
-          "dgpt_rank": 319,
-          "manufacturer": "Unknown",
-          "dgpt_points": 7.67,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 13.1,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 3,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 7.5
-            },
-            "a_tier": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 5.6
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
-              "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & ",
-              "month": "Jul",
-              "place": 14,
-              "level": "a_tier",
-              "weighted_points": 2.8
-            },
-            {
-              "event_key": "yeet-street-discs-presents-the-25th-annual-tar-h",
-              "event": "Yeet Street Discs presents the 25th Annual Tar Heel Open",
-              "month": "May",
-              "place": 20,
-              "level": "a_tier",
-              "weighted_points": 2.8
-            },
-            {
-              "event_key": "queen-city-classic-presented-by-another-round",
-              "event": "Queen City Classic presented by Another Round",
-              "month": "Mar",
-              "place": 73,
-              "level": "elite",
-              "weighted_points": 7.5
-            }
-          ],
-          "tour_rank": 346
+          "tour_rank": 347
         },
         {
           "slug": "nathaniel-johnson",
@@ -26090,7 +26161,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 347
+          "tour_rank": 348
         },
         {
           "slug": "nick-robinson",
@@ -26153,7 +26224,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 348
+          "tour_rank": 349
         },
         {
           "slug": "matias-kalaoja",
@@ -26208,7 +26279,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 349
+          "tour_rank": 350
         },
         {
           "slug": "nathaniel-weaver",
@@ -26263,7 +26334,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 350
+          "tour_rank": 351
         },
         {
           "slug": "arek-robinson",
@@ -26334,7 +26405,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 351
+          "tour_rank": 352
         },
         {
           "slug": "mark-jones",
@@ -26405,7 +26476,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 352
+          "tour_rank": 353
         },
         {
           "slug": "kyle-williams",
@@ -26452,7 +26523,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 353
+          "tour_rank": 354
         },
         {
           "slug": "tee-vetne",
@@ -26499,7 +26570,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 354
+          "tour_rank": 355
         },
         {
           "slug": "michael-babbitt",
@@ -26546,7 +26617,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 355
+          "tour_rank": 356
         },
         {
           "slug": "benjamin-vansumeren",
@@ -26593,7 +26664,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 356
+          "tour_rank": 357
         },
         {
           "slug": "guthrie-collins",
@@ -26640,7 +26711,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 357
+          "tour_rank": 358
         },
         {
           "slug": "blaz-petrovic",
@@ -26687,7 +26758,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 358
+          "tour_rank": 359
         },
         {
           "slug": "herbert-grnsteidl",
@@ -26734,7 +26805,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 359
+          "tour_rank": 360
         },
         {
           "slug": "oskar-uchliski",
@@ -26781,7 +26852,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 360
+          "tour_rank": 361
         },
         {
           "slug": "jukka-tyni",
@@ -26860,7 +26931,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 361
+          "tour_rank": 362
         },
         {
           "slug": "chase-farler",
@@ -26939,7 +27010,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 362
+          "tour_rank": 363
         },
         {
           "slug": "charles-peters",
@@ -27002,7 +27073,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 363
+          "tour_rank": 364
         },
         {
           "slug": "marshall-blanks",
@@ -27065,7 +27136,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 364
+          "tour_rank": 365
         },
         {
           "slug": "eric-downing",
@@ -27128,7 +27199,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 365
+          "tour_rank": 366
         },
         {
           "slug": "calvin-pettigrew",
@@ -27191,7 +27262,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 366
+          "tour_rank": 367
         },
         {
           "slug": "matias-mntysaari",
@@ -27262,7 +27333,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 367
+          "tour_rank": 368
         },
         {
           "slug": "albin-widman",
@@ -27333,7 +27404,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 368
+          "tour_rank": 369
         },
         {
           "slug": "matias-kanniainen",
@@ -27404,7 +27475,78 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 369
+          "tour_rank": 370
+        },
+        {
+          "slug": "alex-banning",
+          "name": "Alex Banning",
+          "dgpt_rank": 442,
+          "manufacturer": "Unknown",
+          "dgpt_points": 3.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 10.5,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 0,
+          "tour_starts": 4,
+          "by_level": {
+            "major": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "elite": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 7.5
+            },
+            "a_tier": {
+              "starts": 3,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 3.0
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "21st-annual-four-states-open-sponsored-by-patrio",
+              "event": "21st Annual Four States Open Sponsored By Patriots Gold & Si",
+              "month": "Sep",
+              "place": 41,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "2026-st-louis-open",
+              "event": "2026 St. Louis Open",
+              "month": "Sep",
+              "place": 28,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "mvp-kansas-city-flying-disc-challenge-fueled-by-",
+              "event": "MVP Kansas City Flying Disc Challenge fueled by Raising Cane",
+              "month": "Jul",
+              "place": 39,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
+              "event": "GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
+              "month": "Apr",
+              "place": 103,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 371
         },
         {
           "slug": "jamison-monroe",
@@ -27475,7 +27617,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 370
+          "tour_rank": 372
         },
         {
           "slug": "dallas-wrinkle",
@@ -27546,7 +27688,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 371
+          "tour_rank": 373
         },
         {
           "slug": "isaac-heinen",
@@ -27601,7 +27743,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 372
+          "tour_rank": 374
         },
         {
           "slug": "mickey-welsh",
@@ -27656,7 +27798,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 373
+          "tour_rank": 375
         },
         {
           "slug": "benjamin-appel",
@@ -27711,7 +27853,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 374
+          "tour_rank": 376
         },
         {
           "slug": "simo-luoma",
@@ -27774,7 +27916,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 375
+          "tour_rank": 377
         },
         {
           "slug": "sean-martin",
@@ -27837,7 +27979,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 376
+          "tour_rank": 378
         },
         {
           "slug": "brady-harbinson",
@@ -27900,7 +28042,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 377
+          "tour_rank": 379
         },
         {
           "slug": "tuomas-pkknen",
@@ -27955,7 +28097,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 378
+          "tour_rank": 380
         },
         {
           "slug": "dustin-klein",
@@ -28010,7 +28152,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 379
+          "tour_rank": 381
         },
         {
           "slug": "josef-berg",
@@ -28065,7 +28207,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 380
+          "tour_rank": 382
         },
         {
           "slug": "eeka-klhi",
@@ -28120,62 +28262,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 381
-        },
-        {
-          "slug": "alex-banning",
-          "name": "Alex Banning",
-          "dgpt_rank": 442,
-          "manufacturer": "Unknown",
-          "dgpt_points": 3.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 8.5,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 2,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 7.5
-            },
-            "a_tier": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 1.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "mvp-kansas-city-flying-disc-challenge-fueled-by-",
-              "event": "MVP Kansas City Flying Disc Challenge fueled by Raising Cane",
-              "month": "Jul",
-              "place": 39,
-              "level": "a_tier",
-              "weighted_points": 1.0
-            },
-            {
-              "event_key": "gripeq-44th-kansas-city-wide-open-presented-by-n",
-              "event": "GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
-              "month": "Apr",
-              "place": 103,
-              "level": "elite",
-              "weighted_points": 7.5
-            }
-          ],
-          "tour_rank": 382
+          "tour_rank": 383
         },
         {
           "slug": "daniel-kokunja",
@@ -28230,7 +28317,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 383
+          "tour_rank": 384
         },
         {
           "slug": "hkon-kveseth",
@@ -28285,7 +28372,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 384
+          "tour_rank": 385
         },
         {
           "slug": "aviel-gomez",
@@ -28332,7 +28419,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 385
+          "tour_rank": 386
         },
         {
           "slug": "jedd-berger",
@@ -28379,7 +28466,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 386
+          "tour_rank": 387
         },
         {
           "slug": "zack-wysocki",
@@ -28426,7 +28513,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 387
+          "tour_rank": 388
         },
         {
           "slug": "tj-reel",
@@ -28473,7 +28560,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 388
+          "tour_rank": 389
         },
         {
           "slug": "isaiah-oliver",
@@ -28520,7 +28607,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 389
+          "tour_rank": 390
         },
         {
           "slug": "ryan-jewell",
@@ -28567,7 +28654,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 390
+          "tour_rank": 391
         },
         {
           "slug": "cola-ditullio",
@@ -28614,7 +28701,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 391
+          "tour_rank": 392
         },
         {
           "slug": "ryan-bain",
@@ -28661,7 +28748,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 392
+          "tour_rank": 393
         },
         {
           "slug": "houston-finch",
@@ -28708,7 +28795,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 393
+          "tour_rank": 394
         },
         {
           "slug": "simon-crosby",
@@ -28755,7 +28842,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 394
+          "tour_rank": 395
         },
         {
           "slug": "justin-mateo",
@@ -28802,7 +28889,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 395
+          "tour_rank": 396
         },
         {
           "slug": "scott-stokely",
@@ -28849,7 +28936,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 396
+          "tour_rank": 397
         },
         {
           "slug": "chad-sherbert",
@@ -28896,7 +28983,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 397
+          "tour_rank": 398
         },
         {
           "slug": "joshua-patin",
@@ -28943,7 +29030,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 398
+          "tour_rank": 399
         },
         {
           "slug": "nolan-johnson",
@@ -28990,7 +29077,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 399
+          "tour_rank": 400
         },
         {
           "slug": "abraham-johnson",
@@ -29037,7 +29124,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 400
+          "tour_rank": 401
         },
         {
           "slug": "ryan-chesla",
@@ -29084,7 +29171,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 401
+          "tour_rank": 402
         },
         {
           "slug": "andrew-bakken",
@@ -29131,7 +29218,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 402
+          "tour_rank": 403
         },
         {
           "slug": "gideon-drake",
@@ -29178,7 +29265,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 403
+          "tour_rank": 404
         },
         {
           "slug": "justin-j-rocliddell",
@@ -29225,7 +29312,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 404
+          "tour_rank": 405
         },
         {
           "slug": "bryce-harvey",
@@ -29272,7 +29359,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 405
+          "tour_rank": 406
         },
         {
           "slug": "adrian-zapata",
@@ -29319,7 +29406,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 406
+          "tour_rank": 407
         },
         {
           "slug": "daniel-umbarger",
@@ -29362,53 +29449,6 @@
               "event": "LWS Open at Idlewild",
               "month": "Sep",
               "place": 96,
-              "level": "elite",
-              "weighted_points": 7.5
-            }
-          ],
-          "tour_rank": 407
-        },
-        {
-          "slug": "bill-kirk",
-          "name": "Bill Kirk",
-          "dgpt_rank": 385,
-          "manufacturer": "Unknown",
-          "dgpt_points": 4.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 7.5,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 1,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 7.5
-            },
-            "a_tier": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
-              "event": "Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
-              "month": "May",
-              "place": 107,
               "level": "elite",
               "weighted_points": 7.5
             }
@@ -29699,6 +29739,32 @@
         }
       ],
       "events": [
+        {
+          "id": "15th-annual-loco-open-pro",
+          "name": "15th Annual LoCo Open - Pro",
+          "tier": "A",
+          "tour": "",
+          "month": "Oct",
+          "level": "a_tier",
+          "multiplier": 0.35,
+          "entries": 1,
+          "winner": {
+            "slug": "owen-mccall",
+            "name": "Owen McCall",
+            "manufacturer": "Unknown",
+            "place": 5,
+            "weighted_points": 12.2
+          },
+          "top_finishes": [
+            {
+              "slug": "owen-mccall",
+              "name": "Owen McCall",
+              "manufacturer": "Unknown",
+              "place": 5,
+              "weighted_points": 12.2
+            }
+          ]
+        },
         {
           "id": "seth-burton-memorial",
           "name": "Seth Burton Memorial",
@@ -30205,7 +30271,7 @@
           "month": "Sep",
           "level": "a_tier",
           "multiplier": 0.35,
-          "entries": 5,
+          "entries": 6,
           "winner": {
             "slug": "andrew-presnell",
             "name": "Andrew Presnell",
@@ -30243,10 +30309,10 @@
               "weighted_points": 7.0
             },
             {
-              "slug": "mark-jones",
-              "name": "Mark Jones",
+              "slug": "alex-banning",
+              "name": "Alex Banning",
               "manufacturer": "Unknown",
-              "place": 31,
+              "place": 28,
               "weighted_points": 1.0
             }
           ]
@@ -30393,7 +30459,7 @@
           "month": "Sep",
           "level": "a_tier",
           "multiplier": 0.35,
-          "entries": 2,
+          "entries": 4,
           "winner": {
             "slug": "nathan-queen",
             "name": "Nathan Queen",
@@ -30410,11 +30476,25 @@
               "weighted_points": 7.0
             },
             {
+              "slug": "anthony-bodanza",
+              "name": "Anthony Bodanza",
+              "manufacturer": "Unknown",
+              "place": 10,
+              "weighted_points": 7.0
+            },
+            {
               "slug": "carson-ham",
               "name": "Carson Ham",
               "manufacturer": "Unknown",
               "place": 23,
               "weighted_points": 2.8
+            },
+            {
+              "slug": "ryan-hahn",
+              "name": "Ryan Hahn",
+              "manufacturer": "Unknown",
+              "place": 31,
+              "weighted_points": 1.0
             }
           ]
         },
@@ -30495,6 +30575,39 @@
               "manufacturer": "Unknown",
               "place": 1,
               "weighted_points": 35.0
+            }
+          ]
+        },
+        {
+          "id": "dynamic-discs-presents-the-mckinney-classic",
+          "name": "Dynamic Discs Presents the McKinney Classic",
+          "tier": "A",
+          "tour": "",
+          "month": "Sep",
+          "level": "a_tier",
+          "multiplier": 0.35,
+          "entries": 2,
+          "winner": {
+            "slug": "sam-dicarlo",
+            "name": "Sam DiCarlo",
+            "manufacturer": "Unknown",
+            "place": 3,
+            "weighted_points": 19.2
+          },
+          "top_finishes": [
+            {
+              "slug": "sam-dicarlo",
+              "name": "Sam DiCarlo",
+              "manufacturer": "Unknown",
+              "place": 3,
+              "weighted_points": 19.2
+            },
+            {
+              "slug": "landon-knight",
+              "name": "Landon Knight",
+              "manufacturer": "Unknown",
+              "place": 21,
+              "weighted_points": 2.8
             }
           ]
         },
@@ -30608,6 +30721,32 @@
               "manufacturer": "Innova",
               "place": 1,
               "weighted_points": 35.0
+            }
+          ]
+        },
+        {
+          "id": "21st-annual-four-states-open-sponsored-by-patrio",
+          "name": "21st Annual Four States Open Sponsored By Patriots Gold & Si",
+          "tier": "A",
+          "tour": "",
+          "month": "Sep",
+          "level": "a_tier",
+          "multiplier": 0.35,
+          "entries": 1,
+          "winner": {
+            "slug": "alex-banning",
+            "name": "Alex Banning",
+            "manufacturer": "Unknown",
+            "place": 41,
+            "weighted_points": 1.0
+          },
+          "top_finishes": [
+            {
+              "slug": "alex-banning",
+              "name": "Alex Banning",
+              "manufacturer": "Unknown",
+              "place": 41,
+              "weighted_points": 1.0
             }
           ]
         },
@@ -30796,6 +30935,39 @@
               "manufacturer": "Kastaplast",
               "place": 5,
               "weighted_points": 87.5
+            }
+          ]
+        },
+        {
+          "id": "2026-pdga-masters-disc-golf-world-championships",
+          "name": "2026 PDGA Masters Disc Golf World Championships",
+          "tier": "M",
+          "tour": "",
+          "month": "Sep",
+          "level": "major",
+          "multiplier": 4.0,
+          "entries": 2,
+          "winner": {
+            "slug": "martin-hendel",
+            "name": "Martin Hendel",
+            "manufacturer": "Innova",
+            "place": 8,
+            "weighted_points": 80.0
+          },
+          "top_finishes": [
+            {
+              "slug": "martin-hendel",
+              "name": "Martin Hendel",
+              "manufacturer": "Innova",
+              "place": 8,
+              "weighted_points": 80.0
+            },
+            {
+              "slug": "bill-kirk",
+              "name": "Bill Kirk",
+              "manufacturer": "Unknown",
+              "place": 55,
+              "weighted_points": 12.0
             }
           ]
         },
@@ -38677,6 +38849,32 @@
         },
         "recent_events": [
           {
+            "id": "15th-annual-loco-open-pro",
+            "name": "15th Annual LoCo Open - Pro",
+            "tier": "A",
+            "tour": "",
+            "month": "Oct",
+            "level": "a_tier",
+            "multiplier": 0.35,
+            "entries": 1,
+            "winner": {
+              "slug": "owen-mccall",
+              "name": "Owen McCall",
+              "manufacturer": "Unknown",
+              "place": 5,
+              "weighted_points": 12.2
+            },
+            "top_finishes": [
+              {
+                "slug": "owen-mccall",
+                "name": "Owen McCall",
+                "manufacturer": "Unknown",
+                "place": 5,
+                "weighted_points": 12.2
+              }
+            ]
+          },
+          {
             "id": "seth-burton-memorial",
             "name": "Seth Burton Memorial",
             "tier": "A",
@@ -38837,32 +39035,6 @@
                 "weighted_points": 19.2
               }
             ]
-          },
-          {
-            "id": "falcon-s-flight-17",
-            "name": "Falcon\u2019s Flight 17",
-            "tier": "A",
-            "tour": "",
-            "month": "Sep",
-            "level": "a_tier",
-            "multiplier": 0.35,
-            "entries": 1,
-            "winner": {
-              "slug": "clay-edwards",
-              "name": "Clay Edwards",
-              "manufacturer": "Kastaplast",
-              "place": 1,
-              "weighted_points": 35.0
-            },
-            "top_finishes": [
-              {
-                "slug": "clay-edwards",
-                "name": "Clay Edwards",
-                "manufacturer": "Kastaplast",
-                "place": 1,
-                "weighted_points": 35.0
-              }
-            ]
           }
         ]
       }
@@ -38873,9 +39045,9 @@
       "year": "2026",
       "player_count": 195,
       "tour_player_count": 141,
-      "event_count": 145,
+      "event_count": 146,
       "events_by_level": {
-        "major": 9,
+        "major": 10,
         "elite": 17,
         "a_tier": 119
       },
@@ -41014,6 +41186,85 @@
           "tour_rank": 27
         },
         {
+          "slug": "sarah-hokom",
+          "name": "Sarah Hokom",
+          "dgpt_rank": 57,
+          "manufacturer": "MVP",
+          "dgpt_points": 229.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 521.1,
+          "wins": 1,
+          "podiums": 4,
+          "top10": 7,
+          "tour_starts": 14,
+          "by_level": {
+            "major": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 1,
+              "top10": 1,
+              "points": 312.0
+            },
+            "elite": {
+              "starts": 5,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 87.5
+            },
+            "a_tier": {
+              "starts": 7,
+              "wins": 1,
+              "podiums": 3,
+              "top10": 6,
+              "points": 121.6
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
+              "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open spon",
+              "month": "Sep",
+              "place": 2,
+              "level": "a_tier",
+              "weighted_points": 26.2
+            },
+            {
+              "event_key": "2026-pdga-masters-disc-golf-world-championships",
+              "event": "2026 PDGA Masters Disc Golf World Championships",
+              "month": "Sep",
+              "place": 2,
+              "level": "major",
+              "weighted_points": 300.0
+            },
+            {
+              "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
+              "event": "2026 DGPT Doubles Championship at The Preserve presented by ",
+              "month": "Aug",
+              "place": 11,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "discmania-challenge-presented-by-trubank",
+              "event": "Discmania Challenge presented by TruBank",
+              "month": "Aug",
+              "place": 24,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "2026-pdga-professional-disc-golf-world-champions",
+              "event": "2026 PDGA Professional Disc Golf World Championships present",
+              "month": "Aug",
+              "place": 41,
+              "level": "major",
+              "weighted_points": 12.0
+            }
+          ],
+          "tour_rank": 28
+        },
+        {
           "slug": "elaine-king",
           "name": "Elaine King",
           "dgpt_rank": 158,
@@ -41090,7 +41341,7 @@
               "weighted_points": 26.2
             }
           ],
-          "tour_rank": 28
+          "tour_rank": 29
         },
         {
           "slug": "addison-woodard",
@@ -41169,7 +41420,7 @@
               "weighted_points": 20.0
             }
           ],
-          "tour_rank": 29
+          "tour_rank": 30
         },
         {
           "slug": "anneli-tugjas-mnniste",
@@ -41248,7 +41499,7 @@
               "weighted_points": 80.0
             }
           ],
-          "tour_rank": 30
+          "tour_rank": 31
         },
         {
           "slug": "rebecca-cox",
@@ -41327,7 +41578,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 31
+          "tour_rank": 32
         },
         {
           "slug": "konastar-montgomery",
@@ -41406,7 +41657,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 32
+          "tour_rank": 33
         },
         {
           "slug": "madison-walker",
@@ -41485,7 +41736,7 @@
               "weighted_points": 32.0
             }
           ],
-          "tour_rank": 33
+          "tour_rank": 34
         },
         {
           "slug": "kristna-jurkov",
@@ -41564,7 +41815,7 @@
               "weighted_points": 87.5
             }
           ],
-          "tour_rank": 34
+          "tour_rank": 35
         },
         {
           "slug": "chandler-reigh",
@@ -41643,7 +41894,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 35
+          "tour_rank": 36
         },
         {
           "slug": "iida-lehtomki",
@@ -41722,7 +41973,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 36
+          "tour_rank": 37
         },
         {
           "slug": "matilda-ringbom",
@@ -41801,7 +42052,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 37
+          "tour_rank": 38
         },
         {
           "slug": "raven-klein",
@@ -41880,7 +42131,7 @@
               "weighted_points": 20.0
             }
           ],
-          "tour_rank": 38
+          "tour_rank": 39
         },
         {
           "slug": "isabella-parker",
@@ -41959,7 +42210,7 @@
               "weighted_points": 80.0
             }
           ],
-          "tour_rank": 39
+          "tour_rank": 40
         },
         {
           "slug": "alexis-mandujano",
@@ -42038,7 +42289,7 @@
               "weighted_points": 20.0
             }
           ],
-          "tour_rank": 40
+          "tour_rank": 41
         },
         {
           "slug": "mj-gager",
@@ -42117,7 +42368,7 @@
               "weighted_points": 20.0
             }
           ],
-          "tour_rank": 41
+          "tour_rank": 42
         },
         {
           "slug": "cadence-burge",
@@ -42196,7 +42447,7 @@
               "weighted_points": 35.0
             }
           ],
-          "tour_rank": 42
+          "tour_rank": 43
         },
         {
           "slug": "danik-hart",
@@ -42275,7 +42526,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 43
+          "tour_rank": 44
         },
         {
           "slug": "idaemilie-nesse",
@@ -42354,7 +42605,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 44
+          "tour_rank": 45
         },
         {
           "slug": "olivia-kindstedt",
@@ -42433,7 +42684,7 @@
               "weighted_points": 35.0
             }
           ],
-          "tour_rank": 45
+          "tour_rank": 46
         },
         {
           "slug": "rebecca-minnick",
@@ -42512,7 +42763,7 @@
               "weighted_points": 32.0
             }
           ],
-          "tour_rank": 46
+          "tour_rank": 47
         },
         {
           "slug": "leah-tsinajinnie",
@@ -42591,7 +42842,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 47
+          "tour_rank": 48
         },
         {
           "slug": "jennifer-smiley",
@@ -42670,7 +42921,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 48
+          "tour_rank": 49
         },
         {
           "slug": "stephanie-vincent",
@@ -42733,7 +42984,7 @@
               "weighted_points": 26.2
             }
           ],
-          "tour_rank": 49
+          "tour_rank": 50
         },
         {
           "slug": "macie-velediaz",
@@ -42812,7 +43063,7 @@
               "weighted_points": 20.0
             }
           ],
-          "tour_rank": 50
+          "tour_rank": 51
         },
         {
           "slug": "holly-finley",
@@ -42891,7 +43142,7 @@
               "weighted_points": 20.0
             }
           ],
-          "tour_rank": 51
+          "tour_rank": 52
         },
         {
           "slug": "maria-oliva",
@@ -42968,85 +43219,6 @@
               "place": 83,
               "level": "major",
               "weighted_points": 12.0
-            }
-          ],
-          "tour_rank": 52
-        },
-        {
-          "slug": "sarah-hokom",
-          "name": "Sarah Hokom",
-          "dgpt_rank": 57,
-          "manufacturer": "MVP",
-          "dgpt_points": 229.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 221.1,
-          "wins": 1,
-          "podiums": 3,
-          "top10": 6,
-          "tour_starts": 13,
-          "by_level": {
-            "major": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 12.0
-            },
-            "elite": {
-              "starts": 5,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 87.5
-            },
-            "a_tier": {
-              "starts": 7,
-              "wins": 1,
-              "podiums": 3,
-              "top10": 6,
-              "points": 121.6
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
-              "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open spon",
-              "month": "Sep",
-              "place": 2,
-              "level": "a_tier",
-              "weighted_points": 26.2
-            },
-            {
-              "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
-              "event": "2026 DGPT Doubles Championship at The Preserve presented by ",
-              "month": "Aug",
-              "place": 11,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "discmania-challenge-presented-by-trubank",
-              "event": "Discmania Challenge presented by TruBank",
-              "month": "Aug",
-              "place": 24,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "2026-pdga-professional-disc-golf-world-champions",
-              "event": "2026 PDGA Professional Disc Golf World Championships present",
-              "month": "Aug",
-              "place": 41,
-              "level": "major",
-              "weighted_points": 12.0
-            },
-            {
-              "event_key": "ledgestone-open",
-              "event": "Ledgestone Open",
-              "month": "Jul",
-              "place": 37,
-              "level": "elite",
-              "weighted_points": 7.5
             }
           ],
           "tour_rank": 53
@@ -49761,6 +49933,32 @@
               "manufacturer": "DGA",
               "place": 6,
               "weighted_points": 50.0
+            }
+          ]
+        },
+        {
+          "id": "2026-pdga-masters-disc-golf-world-championships",
+          "name": "2026 PDGA Masters Disc Golf World Championships",
+          "tier": "M",
+          "tour": "",
+          "month": "Sep",
+          "level": "major",
+          "multiplier": 4.0,
+          "entries": 1,
+          "winner": {
+            "slug": "sarah-hokom",
+            "name": "Sarah Hokom",
+            "manufacturer": "MVP",
+            "place": 2,
+            "weighted_points": 300.0
+          },
+          "top_finishes": [
+            {
+              "slug": "sarah-hokom",
+              "name": "Sarah Hokom",
+              "manufacturer": "MVP",
+              "place": 2,
+              "weighted_points": 300.0
             }
           ]
         },
