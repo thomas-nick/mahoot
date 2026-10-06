@@ -32,7 +32,7 @@
       "major_win": 400.0
     }
   },
-  "updated_at": "2026-10-05T23:02:14.570215+00:00",
+  "updated_at": "2026-10-06T18:42:58.534206+00:00",
   "divisions": {
     "MPO": {
       "division": "MPO",
@@ -23477,6 +23477,77 @@
           "tour_rank": 307
         },
         {
+          "slug": "hayden-frederiksen",
+          "name": "Hayden Frederiksen",
+          "dgpt_rank": 235,
+          "manufacturer": "Unknown",
+          "dgpt_points": 15.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 17.0,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 0,
+          "tour_starts": 4,
+          "by_level": {
+            "major": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "elite": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 15.0
+            },
+            "a_tier": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 2.0
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "dynamic-discs-presents-the-mckinney-classic",
+              "event": "Dynamic Discs Presents the McKinney Classic",
+              "month": "Sep",
+              "place": 30,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "jomezpro-innova-presents-waco-powered-by-legit-d",
+              "event": "JomezPro - Innova presents WACO powered by Legit Disc Golf",
+              "month": "May",
+              "place": 41,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
+              "event": "Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
+              "month": "May",
+              "place": 81,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "mvp-big-easy-open-presented-by-flight-factory",
+              "event": "MVP Big Easy Open presented by Flight Factory",
+              "month": "Mar",
+              "place": 79,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 308
+        },
+        {
           "slug": "henric-hagman",
           "name": "Henric Hagman",
           "dgpt_rank": 296,
@@ -23545,7 +23616,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 308
+          "tour_rank": 309
         },
         {
           "slug": "melker-molin",
@@ -23616,7 +23687,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 309
+          "tour_rank": 310
         },
         {
           "slug": "thunder-schultz",
@@ -23695,7 +23766,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 310
+          "tour_rank": 311
         },
         {
           "slug": "jake-lauber",
@@ -23774,7 +23845,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 311
+          "tour_rank": 312
         },
         {
           "slug": "zane-letts",
@@ -23845,7 +23916,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 312
+          "tour_rank": 313
         },
         {
           "slug": "kalle-ojala",
@@ -23916,7 +23987,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 313
+          "tour_rank": 314
         },
         {
           "slug": "silas-evaldwiwe",
@@ -23987,7 +24058,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 314
+          "tour_rank": 315
         },
         {
           "slug": "leevi-lhdesmki",
@@ -24066,7 +24137,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 315
+          "tour_rank": 316
         },
         {
           "slug": "maxime-tanghe",
@@ -24125,69 +24196,6 @@
               "event": "GRIPeq 44th Kansas City Wide Open presented by Nexus Disc",
               "month": "Apr",
               "place": 76,
-              "level": "elite",
-              "weighted_points": 7.5
-            }
-          ],
-          "tour_rank": 316
-        },
-        {
-          "slug": "hayden-frederiksen",
-          "name": "Hayden Frederiksen",
-          "dgpt_rank": 235,
-          "manufacturer": "Unknown",
-          "dgpt_points": 15.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 16.0,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 0,
-          "tour_starts": 3,
-          "by_level": {
-            "major": {
-              "starts": 0,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 0.0
-            },
-            "elite": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 15.0
-            },
-            "a_tier": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 1.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "jomezpro-innova-presents-waco-powered-by-legit-d",
-              "event": "JomezPro - Innova presents WACO powered by Legit Disc Golf",
-              "month": "May",
-              "place": 41,
-              "level": "a_tier",
-              "weighted_points": 1.0
-            },
-            {
-              "event_key": "barbasol-open-at-austin-presented-by-hampton-inn",
-              "event": "Barbasol Open at Austin presented by Hampton Inn/Home2 Suit",
-              "month": "May",
-              "place": 81,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "mvp-big-easy-open-presented-by-flight-factory",
-              "event": "MVP Big Easy Open presented by Flight Factory",
-              "month": "Mar",
-              "place": 79,
               "level": "elite",
               "weighted_points": 7.5
             }
@@ -30586,7 +30594,7 @@
           "month": "Sep",
           "level": "a_tier",
           "multiplier": 0.35,
-          "entries": 2,
+          "entries": 3,
           "winner": {
             "slug": "sam-dicarlo",
             "name": "Sam DiCarlo",
@@ -30608,6 +30616,13 @@
               "manufacturer": "Unknown",
               "place": 21,
               "weighted_points": 2.8
+            },
+            {
+              "slug": "hayden-frederiksen",
+              "name": "Hayden Frederiksen",
+              "manufacturer": "Unknown",
+              "place": 30,
+              "weighted_points": 1.0
             }
           ]
         },
