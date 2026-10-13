@@ -32,7 +32,7 @@
       "major_win": 400.0
     }
   },
-  "updated_at": "2026-10-12T23:26:06.929290+00:00",
+  "updated_at": "2026-10-13T19:40:59.963184+00:00",
   "divisions": {
     "MPO": {
       "division": "MPO",
@@ -601,6 +601,85 @@
           "tour_rank": 7
         },
         {
+          "slug": "bradley-williams",
+          "name": "Bradley Williams",
+          "dgpt_rank": 31,
+          "manufacturer": "Innova",
+          "dgpt_points": 753.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 952.3,
+          "wins": 2,
+          "podiums": 6,
+          "top10": 9,
+          "tour_starts": 28,
+          "by_level": {
+            "major": {
+              "starts": 4,
+              "wins": 1,
+              "podiums": 1,
+              "top10": 1,
+              "points": 456.0
+            },
+            "elite": {
+              "starts": 17,
+              "wins": 0,
+              "podiums": 1,
+              "top10": 2,
+              "points": 362.5
+            },
+            "a_tier": {
+              "starts": 7,
+              "wins": 1,
+              "podiums": 4,
+              "top10": 6,
+              "points": 133.8
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "playoffs-green-mountain-championship-presented-b",
+              "event": "Playoffs - Green Mountain Championship presented by Discmani",
+              "month": "Sep",
+              "place": 42,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "lws-open-at-idlewild",
+              "event": "LWS Open at Idlewild",
+              "month": "Sep",
+              "place": 35,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "2026-pdga-masters-disc-golf-world-championships",
+              "event": "2026 PDGA Masters Disc Golf World Championships",
+              "month": "Sep",
+              "place": 1,
+              "level": "major",
+              "weighted_points": 400.0
+            },
+            {
+              "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
+              "event": "2026 DGPT Doubles Championship at The Preserve presented by ",
+              "month": "Aug",
+              "place": 16,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "discmania-challenge-presented-by-trubank",
+              "event": "Discmania Challenge presented by TruBank",
+              "month": "Aug",
+              "place": 112,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 8
+        },
+        {
           "slug": "evan-smith",
           "name": "Evan Smith",
           "dgpt_rank": 26,
@@ -677,7 +756,7 @@
               "weighted_points": 35.0
             }
           ],
-          "tour_rank": 8
+          "tour_rank": 9
         },
         {
           "slug": "eagle-mcmahon",
@@ -756,7 +835,7 @@
               "weighted_points": 50.0
             }
           ],
-          "tour_rank": 9
+          "tour_rank": 10
         },
         {
           "slug": "silas-schultz",
@@ -835,7 +914,7 @@
               "weighted_points": 400.0
             }
           ],
-          "tour_rank": 10
+          "tour_rank": 11
         },
         {
           "slug": "sullivan-tipton",
@@ -914,7 +993,7 @@
               "weighted_points": 87.5
             }
           ],
-          "tour_rank": 11
+          "tour_rank": 12
         },
         {
           "slug": "anthony-barela",
@@ -993,7 +1072,7 @@
               "weighted_points": 80.0
             }
           ],
-          "tour_rank": 12
+          "tour_rank": 13
         },
         {
           "slug": "jaden-rye",
@@ -1072,7 +1151,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 13
+          "tour_rank": 14
         },
         {
           "slug": "ezra-robinson",
@@ -1151,7 +1230,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 14
+          "tour_rank": 15
         },
         {
           "slug": "raven-newsom",
@@ -1230,7 +1309,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 15
+          "tour_rank": 16
         },
         {
           "slug": "luke-taylor",
@@ -1309,7 +1388,7 @@
               "weighted_points": 50.0
             }
           ],
-          "tour_rank": 16
+          "tour_rank": 17
         },
         {
           "slug": "cole-redalen",
@@ -1388,7 +1467,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 17
+          "tour_rank": 18
         },
         {
           "slug": "zachary-nash",
@@ -1467,7 +1546,7 @@
               "weighted_points": 20.0
             }
           ],
-          "tour_rank": 18
+          "tour_rank": 19
         },
         {
           "slug": "jesse-nieminen",
@@ -1546,7 +1625,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 19
+          "tour_rank": 20
         },
         {
           "slug": "paul-ulibarri",
@@ -1625,7 +1704,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 20
+          "tour_rank": 21
         },
         {
           "slug": "aaron-gossage",
@@ -1704,7 +1783,7 @@
               "weighted_points": 20.0
             }
           ],
-          "tour_rank": 21
+          "tour_rank": 22
         },
         {
           "slug": "jake-monn",
@@ -1783,7 +1862,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 22
+          "tour_rank": 23
         },
         {
           "slug": "austin-turner",
@@ -1860,85 +1939,6 @@
               "place": 2,
               "level": "elite",
               "weighted_points": 187.5
-            }
-          ],
-          "tour_rank": 23
-        },
-        {
-          "slug": "bradley-williams",
-          "name": "Bradley Williams",
-          "dgpt_rank": 31,
-          "manufacturer": "Innova",
-          "dgpt_points": 753.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 552.3,
-          "wins": 1,
-          "podiums": 5,
-          "top10": 8,
-          "tour_starts": 27,
-          "by_level": {
-            "major": {
-              "starts": 3,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 56.0
-            },
-            "elite": {
-              "starts": 17,
-              "wins": 0,
-              "podiums": 1,
-              "top10": 2,
-              "points": 362.5
-            },
-            "a_tier": {
-              "starts": 7,
-              "wins": 1,
-              "podiums": 4,
-              "top10": 6,
-              "points": 133.8
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "playoffs-green-mountain-championship-presented-b",
-              "event": "Playoffs - Green Mountain Championship presented by Discmani",
-              "month": "Sep",
-              "place": 42,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "lws-open-at-idlewild",
-              "event": "LWS Open at Idlewild",
-              "month": "Sep",
-              "place": 35,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
-              "event": "2026 DGPT Doubles Championship at The Preserve presented by ",
-              "month": "Aug",
-              "place": 16,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "discmania-challenge-presented-by-trubank",
-              "event": "Discmania Challenge presented by TruBank",
-              "month": "Aug",
-              "place": 112,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "2026-pdga-professional-disc-golf-world-champions",
-              "event": "2026 PDGA Professional Disc Golf World Championships present",
-              "month": "Aug",
-              "place": 79,
-              "level": "major",
-              "weighted_points": 12.0
             }
           ],
           "tour_rank": 24
@@ -4235,6 +4235,85 @@
           "tour_rank": 53
         },
         {
+          "slug": "daniel-davidsson",
+          "name": "Daniel Davidsson",
+          "dgpt_rank": 66,
+          "manufacturer": "Unknown",
+          "dgpt_points": 364.67,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 333.1,
+          "wins": 1,
+          "podiums": 5,
+          "top10": 7,
+          "tour_starts": 13,
+          "by_level": {
+            "major": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 44.0
+            },
+            "elite": {
+              "starts": 3,
+              "wins": 0,
+              "podiums": 1,
+              "top10": 1,
+              "points": 152.5
+            },
+            "a_tier": {
+              "starts": 8,
+              "wins": 1,
+              "podiums": 4,
+              "top10": 6,
+              "points": 136.6
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "eurotour-silesia-open-2026-presented-by-latitude",
+              "event": "EuroTour - Silesia Open 2026 presented by Latitude64",
+              "month": "Sep",
+              "place": 2,
+              "level": "a_tier",
+              "weighted_points": 26.2
+            },
+            {
+              "event_key": "eurotour-moravian-open-2026",
+              "event": "EuroTour - Moravian Open 2026",
+              "month": "Sep",
+              "place": 2,
+              "level": "a_tier",
+              "weighted_points": 26.2
+            },
+            {
+              "event_key": "2026-pdga-professional-disc-golf-world-champions",
+              "event": "2026 PDGA Professional Disc Golf World Championships present",
+              "month": "Aug",
+              "place": 26,
+              "level": "major",
+              "weighted_points": 12.0
+            },
+            {
+              "event_key": "eurotour-sieravuori-challenge-2026",
+              "event": "EuroTour - Sieravuori Challenge 2026",
+              "month": "Jul",
+              "place": 60,
+              "level": "a_tier",
+              "weighted_points": 1.0
+            },
+            {
+              "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
+              "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Champions",
+              "month": "Jul",
+              "place": 2,
+              "level": "a_tier",
+              "weighted_points": 26.2
+            }
+          ],
+          "tour_rank": 54
+        },
+        {
           "slug": "jonathan-borzick",
           "name": "Jonathan Borzick",
           "dgpt_rank": 79,
@@ -4311,7 +4390,7 @@
               "weighted_points": 26.2
             }
           ],
-          "tour_rank": 54
+          "tour_rank": 55
         },
         {
           "slug": "mason-ford",
@@ -4388,85 +4467,6 @@
               "place": 29,
               "level": "elite",
               "weighted_points": 7.5
-            }
-          ],
-          "tour_rank": 55
-        },
-        {
-          "slug": "daniel-davidsson",
-          "name": "Daniel Davidsson",
-          "dgpt_rank": 66,
-          "manufacturer": "Unknown",
-          "dgpt_points": 364.67,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 306.9,
-          "wins": 1,
-          "podiums": 4,
-          "top10": 6,
-          "tour_starts": 12,
-          "by_level": {
-            "major": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 44.0
-            },
-            "elite": {
-              "starts": 3,
-              "wins": 0,
-              "podiums": 1,
-              "top10": 1,
-              "points": 152.5
-            },
-            "a_tier": {
-              "starts": 7,
-              "wins": 1,
-              "podiums": 3,
-              "top10": 5,
-              "points": 110.4
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "eurotour-moravian-open-2026",
-              "event": "EuroTour - Moravian Open 2026",
-              "month": "Sep",
-              "place": 2,
-              "level": "a_tier",
-              "weighted_points": 26.2
-            },
-            {
-              "event_key": "2026-pdga-professional-disc-golf-world-champions",
-              "event": "2026 PDGA Professional Disc Golf World Championships present",
-              "month": "Aug",
-              "place": 26,
-              "level": "major",
-              "weighted_points": 12.0
-            },
-            {
-              "event_key": "eurotour-sieravuori-challenge-2026",
-              "event": "EuroTour - Sieravuori Challenge 2026",
-              "month": "Jul",
-              "place": 60,
-              "level": "a_tier",
-              "weighted_points": 1.0
-            },
-            {
-              "event_key": "frisbeegolfin-sm-2026-finnish-national-disc-golf",
-              "event": "Frisbeegolfin SM 2026 - Finnish National Disc Golf Champions",
-              "month": "Jul",
-              "place": 2,
-              "level": "a_tier",
-              "weighted_points": 26.2
-            },
-            {
-              "event_key": "sfl-powergrip-pro-tour-3-turku",
-              "event": "SFL Powergrip Pro Tour - #3 Turku",
-              "month": "Jul",
-              "place": 1,
-              "level": "a_tier",
-              "weighted_points": 35.0
             }
           ],
           "tour_rank": 56
@@ -5578,6 +5578,85 @@
           "tour_rank": 70
         },
         {
+          "slug": "rasmus-saukkoriipi",
+          "name": "Rasmus Saukkoriipi",
+          "dgpt_rank": 57,
+          "manufacturer": "Innova",
+          "dgpt_points": 428.89,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 275.2,
+          "wins": 1,
+          "podiums": 1,
+          "top10": 4,
+          "tour_starts": 18,
+          "by_level": {
+            "major": {
+              "starts": 3,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 76.0
+            },
+            "elite": {
+              "starts": 8,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 2,
+              "points": 145.0
+            },
+            "a_tier": {
+              "starts": 7,
+              "wins": 1,
+              "podiums": 1,
+              "top10": 2,
+              "points": 54.2
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "eurotour-silesia-open-2026-presented-by-latitude",
+              "event": "EuroTour - Silesia Open 2026 presented by Latitude64",
+              "month": "Sep",
+              "place": 6,
+              "level": "a_tier",
+              "weighted_points": 7.0
+            },
+            {
+              "event_key": "eurotour-moravian-open-2026",
+              "event": "EuroTour - Moravian Open 2026",
+              "month": "Sep",
+              "place": 1,
+              "level": "a_tier",
+              "weighted_points": 35.0
+            },
+            {
+              "event_key": "sfl-powergrip-pro-tour-5-kuopio",
+              "event": "SFL Powergrip Pro Tour - #5 Kuopio",
+              "month": "Sep",
+              "place": 11,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
+              "event": "2026 DGPT Doubles Championship at The Preserve presented by ",
+              "month": "Aug",
+              "place": 10,
+              "level": "elite",
+              "weighted_points": 50.0
+            },
+            {
+              "event_key": "discmania-challenge-presented-by-trubank",
+              "event": "Discmania Challenge presented by TruBank",
+              "month": "Aug",
+              "place": 45,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 71
+        },
+        {
           "slug": "clay-edwards",
           "name": "Clay Edwards",
           "dgpt_rank": 48,
@@ -5654,7 +5733,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 71
+          "tour_rank": 72
         },
         {
           "slug": "wyatt-mahoney",
@@ -5731,85 +5810,6 @@
               "place": 55,
               "level": "elite",
               "weighted_points": 7.5
-            }
-          ],
-          "tour_rank": 72
-        },
-        {
-          "slug": "rasmus-saukkoriipi",
-          "name": "Rasmus Saukkoriipi",
-          "dgpt_rank": 57,
-          "manufacturer": "Innova",
-          "dgpt_points": 428.89,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 268.2,
-          "wins": 1,
-          "podiums": 1,
-          "top10": 3,
-          "tour_starts": 17,
-          "by_level": {
-            "major": {
-              "starts": 3,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 76.0
-            },
-            "elite": {
-              "starts": 8,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 2,
-              "points": 145.0
-            },
-            "a_tier": {
-              "starts": 6,
-              "wins": 1,
-              "podiums": 1,
-              "top10": 1,
-              "points": 47.2
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "eurotour-moravian-open-2026",
-              "event": "EuroTour - Moravian Open 2026",
-              "month": "Sep",
-              "place": 1,
-              "level": "a_tier",
-              "weighted_points": 35.0
-            },
-            {
-              "event_key": "sfl-powergrip-pro-tour-5-kuopio",
-              "event": "SFL Powergrip Pro Tour - #5 Kuopio",
-              "month": "Sep",
-              "place": 11,
-              "level": "a_tier",
-              "weighted_points": 2.8
-            },
-            {
-              "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
-              "event": "2026 DGPT Doubles Championship at The Preserve presented by ",
-              "month": "Aug",
-              "place": 10,
-              "level": "elite",
-              "weighted_points": 50.0
-            },
-            {
-              "event_key": "discmania-challenge-presented-by-trubank",
-              "event": "Discmania Challenge presented by TruBank",
-              "month": "Aug",
-              "place": 45,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "2026-pdga-professional-disc-golf-world-champions",
-              "event": "2026 PDGA Professional Disc Golf World Championships present",
-              "month": "Aug",
-              "place": 12,
-              "level": "major",
-              "weighted_points": 32.0
             }
           ],
           "tour_rank": 73
@@ -7164,11 +7164,11 @@
           "manufacturer": "Unknown",
           "dgpt_points": 193.9,
           "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 211.7,
+          "tour_weighted_points": 214.5,
           "wins": 0,
           "podiums": 2,
           "top10": 8,
-          "tour_starts": 27,
+          "tour_starts": 28,
           "by_level": {
             "major": {
               "starts": 1,
@@ -7185,14 +7185,22 @@
               "points": 82.5
             },
             "a_tier": {
-              "starts": 15,
+              "starts": 16,
               "wins": 0,
               "podiums": 2,
               "top10": 8,
-              "points": 117.2
+              "points": 120.0
             }
           },
           "recent_results": [
+            {
+              "event_key": "the-maine-state-championships-elevated-by-though",
+              "event": "The Maine State Championships Elevated by Thought Space Athl",
+              "month": "Oct",
+              "place": 21,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
             {
               "event_key": "14th-annual-hamilton-county-open",
               "event": "14th Annual Hamilton County Open",
@@ -7224,14 +7232,6 @@
               "place": 6,
               "level": "a_tier",
               "weighted_points": 7.0
-            },
-            {
-              "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
-              "event": "2026 DGPT Doubles Championship at The Preserve presented by ",
-              "month": "Aug",
-              "place": 32,
-              "level": "elite",
-              "weighted_points": 7.5
             }
           ],
           "tour_rank": 91
@@ -11803,6 +11803,85 @@
           "tour_rank": 149
         },
         {
+          "slug": "gillis-macdougall",
+          "name": "Gillis MacDougall",
+          "dgpt_rank": 130,
+          "manufacturer": "Unknown",
+          "dgpt_points": 69.67,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 97.5,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 3,
+          "tour_starts": 16,
+          "by_level": {
+            "major": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 24.0
+            },
+            "elite": {
+              "starts": 5,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 37.5
+            },
+            "a_tier": {
+              "starts": 9,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 3,
+              "points": 36.0
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "the-maine-state-championships-elevated-by-though",
+              "event": "The Maine State Championships Elevated by Thought Space Athl",
+              "month": "Oct",
+              "place": 7,
+              "level": "a_tier",
+              "weighted_points": 7.0
+            },
+            {
+              "event_key": "playoffs-green-mountain-championship-presented-b",
+              "event": "Playoffs - Green Mountain Championship presented by Discmani",
+              "month": "Sep",
+              "place": 77,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "lws-open-at-idlewild",
+              "event": "LWS Open at Idlewild",
+              "month": "Sep",
+              "place": 68,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "discmania-challenge-presented-by-trubank",
+              "event": "Discmania Challenge presented by TruBank",
+              "month": "Aug",
+              "place": 91,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "2026-pdga-professional-disc-golf-world-champions",
+              "event": "2026 PDGA Professional Disc Golf World Championships present",
+              "month": "Aug",
+              "place": 72,
+              "level": "major",
+              "weighted_points": 12.0
+            }
+          ],
+          "tour_rank": 150
+        },
+        {
           "slug": "david-fleck",
           "name": "David Fleck",
           "dgpt_rank": 375,
@@ -11879,7 +11958,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 150
+          "tour_rank": 151
         },
         {
           "slug": "xaelen-nash",
@@ -11958,7 +12037,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 151
+          "tour_rank": 152
         },
         {
           "slug": "carson-ham",
@@ -12037,7 +12116,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 152
+          "tour_rank": 153
         },
         {
           "slug": "matthew-blakely",
@@ -12116,7 +12195,7 @@
               "weighted_points": 19.2
             }
           ],
-          "tour_rank": 153
+          "tour_rank": 154
         },
         {
           "slug": "nolan-ramser",
@@ -12195,7 +12274,7 @@
               "weighted_points": 12.2
             }
           ],
-          "tour_rank": 154
+          "tour_rank": 155
         },
         {
           "slug": "matt-hammersten",
@@ -12272,85 +12351,6 @@
               "place": 78,
               "level": "major",
               "weighted_points": 12.0
-            }
-          ],
-          "tour_rank": 155
-        },
-        {
-          "slug": "gillis-macdougall",
-          "name": "Gillis MacDougall",
-          "dgpt_rank": 130,
-          "manufacturer": "Unknown",
-          "dgpt_points": 69.67,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 90.5,
-          "wins": 0,
-          "podiums": 0,
-          "top10": 2,
-          "tour_starts": 15,
-          "by_level": {
-            "major": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 24.0
-            },
-            "elite": {
-              "starts": 5,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 37.5
-            },
-            "a_tier": {
-              "starts": 8,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 2,
-              "points": 29.0
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "playoffs-green-mountain-championship-presented-b",
-              "event": "Playoffs - Green Mountain Championship presented by Discmani",
-              "month": "Sep",
-              "place": 77,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "lws-open-at-idlewild",
-              "event": "LWS Open at Idlewild",
-              "month": "Sep",
-              "place": 68,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "discmania-challenge-presented-by-trubank",
-              "event": "Discmania Challenge presented by TruBank",
-              "month": "Aug",
-              "place": 91,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "2026-pdga-professional-disc-golf-world-champions",
-              "event": "2026 PDGA Professional Disc Golf World Championships present",
-              "month": "Aug",
-              "place": 72,
-              "level": "major",
-              "weighted_points": 12.0
-            },
-            {
-              "event_key": "warwick-disc-golf-championships",
-              "event": "Warwick Disc Golf Championships",
-              "month": "Jul",
-              "place": 7,
-              "level": "a_tier",
-              "weighted_points": 7.0
             }
           ],
           "tour_rank": 156
@@ -29946,6 +29946,46 @@
           ]
         },
         {
+          "id": "the-maine-state-championships-elevated-by-though",
+          "name": "The Maine State Championships Elevated by Thought Space Athl",
+          "tier": "A",
+          "tour": "",
+          "month": "Oct",
+          "level": "a_tier",
+          "multiplier": 0.35,
+          "entries": 3,
+          "winner": {
+            "slug": "landon-brooks",
+            "name": "Landon Brooks",
+            "manufacturer": "Unknown",
+            "place": 3,
+            "weighted_points": 19.2
+          },
+          "top_finishes": [
+            {
+              "slug": "landon-brooks",
+              "name": "Landon Brooks",
+              "manufacturer": "Unknown",
+              "place": 3,
+              "weighted_points": 19.2
+            },
+            {
+              "slug": "gillis-macdougall",
+              "name": "Gillis MacDougall",
+              "manufacturer": "Unknown",
+              "place": 7,
+              "weighted_points": 7.0
+            },
+            {
+              "slug": "elijah-riderbrandt",
+              "name": "Elijah Rider Brandt",
+              "manufacturer": "Unknown",
+              "place": 21,
+              "weighted_points": 2.8
+            }
+          ]
+        },
+        {
           "id": "13th-annual-buffalo-run-powered-by-innova-prodig",
           "name": "13th Annual Buffalo Run Powered by Innova & Prodigy Disc Spo",
           "tier": "A",
@@ -30081,32 +30121,6 @@
               "manufacturer": "Unknown",
               "place": 5,
               "weighted_points": 12.2
-            }
-          ]
-        },
-        {
-          "id": "the-maine-state-championships-elevated-by-though",
-          "name": "The Maine State Championships Elevated by Thought Space Athl",
-          "tier": "A",
-          "tour": "",
-          "month": "Oct",
-          "level": "a_tier",
-          "multiplier": 0.35,
-          "entries": 1,
-          "winner": {
-            "slug": "landon-brooks",
-            "name": "Landon Brooks",
-            "manufacturer": "Unknown",
-            "place": 3,
-            "weighted_points": 19.2
-          },
-          "top_finishes": [
-            {
-              "slug": "landon-brooks",
-              "name": "Landon Brooks",
-              "manufacturer": "Unknown",
-              "place": 3,
-              "weighted_points": 19.2
             }
           ]
         },
@@ -30349,6 +30363,60 @@
               "manufacturer": "Unknown",
               "place": 6,
               "weighted_points": 7.0
+            }
+          ]
+        },
+        {
+          "id": "eurotour-silesia-open-2026-presented-by-latitude",
+          "name": "EuroTour - Silesia Open 2026 presented by Latitude64",
+          "tier": "A",
+          "tour": "",
+          "month": "Sep",
+          "level": "a_tier",
+          "multiplier": 0.35,
+          "entries": 14,
+          "winner": {
+            "slug": "nestori-tuhkanen",
+            "name": "Nestori Tuhkanen",
+            "manufacturer": "Latitude 64",
+            "place": 1,
+            "weighted_points": 35.0
+          },
+          "top_finishes": [
+            {
+              "slug": "nestori-tuhkanen",
+              "name": "Nestori Tuhkanen",
+              "manufacturer": "Latitude 64",
+              "place": 1,
+              "weighted_points": 35.0
+            },
+            {
+              "slug": "daniel-davidsson",
+              "name": "Daniel Davidsson",
+              "manufacturer": "Unknown",
+              "place": 2,
+              "weighted_points": 26.2
+            },
+            {
+              "slug": "dennis-augustsson",
+              "name": "Dennis Augustsson",
+              "manufacturer": "Innova",
+              "place": 3,
+              "weighted_points": 19.2
+            },
+            {
+              "slug": "lauri-lehtinen",
+              "name": "Lauri Lehtinen",
+              "manufacturer": "Latitude 64",
+              "place": 4,
+              "weighted_points": 12.2
+            },
+            {
+              "slug": "elias-gripler",
+              "name": "Elias Gripler",
+              "manufacturer": "Unknown",
+              "place": 4,
+              "weighted_points": 12.2
             }
           ]
         },
@@ -30605,60 +30673,6 @@
               "manufacturer": "Unknown",
               "place": 4,
               "weighted_points": 12.2
-            }
-          ]
-        },
-        {
-          "id": "eurotour-silesia-open-2026-presented-by-latitude",
-          "name": "EuroTour - Silesia Open 2026 presented by Latitude64",
-          "tier": "A",
-          "tour": "",
-          "month": "Sep",
-          "level": "a_tier",
-          "multiplier": 0.35,
-          "entries": 12,
-          "winner": {
-            "slug": "nestori-tuhkanen",
-            "name": "Nestori Tuhkanen",
-            "manufacturer": "Latitude 64",
-            "place": 1,
-            "weighted_points": 35.0
-          },
-          "top_finishes": [
-            {
-              "slug": "nestori-tuhkanen",
-              "name": "Nestori Tuhkanen",
-              "manufacturer": "Latitude 64",
-              "place": 1,
-              "weighted_points": 35.0
-            },
-            {
-              "slug": "dennis-augustsson",
-              "name": "Dennis Augustsson",
-              "manufacturer": "Innova",
-              "place": 3,
-              "weighted_points": 19.2
-            },
-            {
-              "slug": "lauri-lehtinen",
-              "name": "Lauri Lehtinen",
-              "manufacturer": "Latitude 64",
-              "place": 4,
-              "weighted_points": 12.2
-            },
-            {
-              "slug": "elias-gripler",
-              "name": "Elias Gripler",
-              "manufacturer": "Unknown",
-              "place": 4,
-              "weighted_points": 12.2
-            },
-            {
-              "slug": "eetu-tuominen",
-              "name": "Eetu Tuominen",
-              "manufacturer": "Unknown",
-              "place": 6,
-              "weighted_points": 7.0
             }
           ]
         },
@@ -31427,15 +31441,22 @@
           "month": "Sep",
           "level": "major",
           "multiplier": 4.0,
-          "entries": 13,
+          "entries": 14,
           "winner": {
-            "slug": "nathan-sexton-1",
-            "name": "Nathan Sexton",
+            "slug": "bradley-williams",
+            "name": "Bradley Williams",
             "manufacturer": "Innova",
-            "place": 2,
-            "weighted_points": 300.0
+            "place": 1,
+            "weighted_points": 400.0
           },
           "top_finishes": [
+            {
+              "slug": "bradley-williams",
+              "name": "Bradley Williams",
+              "manufacturer": "Innova",
+              "place": 1,
+              "weighted_points": 400.0
+            },
             {
               "slug": "nathan-sexton-1",
               "name": "Nathan Sexton",
@@ -31462,13 +31483,6 @@
               "name": "Martin Hendel",
               "manufacturer": "Innova",
               "place": 8,
-              "weighted_points": 80.0
-            },
-            {
-              "slug": "paul-oman",
-              "name": "Paul Oman",
-              "manufacturer": "Innova",
-              "place": 9,
               "weighted_points": 80.0
             }
           ]
@@ -39405,6 +39419,46 @@
             ]
           },
           {
+            "id": "the-maine-state-championships-elevated-by-though",
+            "name": "The Maine State Championships Elevated by Thought Space Athl",
+            "tier": "A",
+            "tour": "",
+            "month": "Oct",
+            "level": "a_tier",
+            "multiplier": 0.35,
+            "entries": 3,
+            "winner": {
+              "slug": "landon-brooks",
+              "name": "Landon Brooks",
+              "manufacturer": "Unknown",
+              "place": 3,
+              "weighted_points": 19.2
+            },
+            "top_finishes": [
+              {
+                "slug": "landon-brooks",
+                "name": "Landon Brooks",
+                "manufacturer": "Unknown",
+                "place": 3,
+                "weighted_points": 19.2
+              },
+              {
+                "slug": "gillis-macdougall",
+                "name": "Gillis MacDougall",
+                "manufacturer": "Unknown",
+                "place": 7,
+                "weighted_points": 7.0
+              },
+              {
+                "slug": "elijah-riderbrandt",
+                "name": "Elijah Rider Brandt",
+                "manufacturer": "Unknown",
+                "place": 21,
+                "weighted_points": 2.8
+              }
+            ]
+          },
+          {
             "id": "13th-annual-buffalo-run-powered-by-innova-prodig",
             "name": "13th Annual Buffalo Run Powered by Innova & Prodigy Disc Spo",
             "tier": "A",
@@ -39481,32 +39535,6 @@
                 "manufacturer": "Infinite",
                 "place": 7,
                 "weighted_points": 7.0
-              }
-            ]
-          },
-          {
-            "id": "18th-annual-kentucky-state-disc-golf-championshi",
-            "name": "18th Annual Kentucky State Disc Golf Championship Sponsored ",
-            "tier": "A",
-            "tour": "",
-            "month": "Oct",
-            "level": "a_tier",
-            "multiplier": 0.35,
-            "entries": 1,
-            "winner": {
-              "slug": "paul-oman",
-              "name": "Paul Oman",
-              "manufacturer": "Innova",
-              "place": 3,
-              "weighted_points": 19.2
-            },
-            "top_finishes": [
-              {
-                "slug": "paul-oman",
-                "name": "Paul Oman",
-                "manufacturer": "Innova",
-                "place": 3,
-                "weighted_points": 19.2
               }
             ]
           }
@@ -43540,6 +43568,85 @@
           "tour_rank": 51
         },
         {
+          "slug": "alexis-kerman",
+          "name": "Alexis Kerman",
+          "dgpt_rank": 47,
+          "manufacturer": "Unknown",
+          "dgpt_points": 359.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 253.2,
+          "wins": 1,
+          "podiums": 3,
+          "top10": 6,
+          "tour_starts": 19,
+          "by_level": {
+            "major": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 24.0
+            },
+            "elite": {
+              "starts": 10,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 125.0
+            },
+            "a_tier": {
+              "starts": 7,
+              "wins": 1,
+              "podiums": 3,
+              "top10": 6,
+              "points": 104.2
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "21st-annual-four-states-open-sponsored-by-patrio",
+              "event": "21st Annual Four States Open Sponsored By Patriots Gold & Si",
+              "month": "Sep",
+              "place": 1,
+              "level": "a_tier",
+              "weighted_points": 35.0
+            },
+            {
+              "event_key": "playoffs-green-mountain-championship-presented-b",
+              "event": "Playoffs - Green Mountain Championship presented by Discmani",
+              "month": "Sep",
+              "place": 31,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "lws-open-at-idlewild",
+              "event": "LWS Open at Idlewild",
+              "month": "Sep",
+              "place": 16,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
+              "event": "2026 DGPT Doubles Championship at The Preserve presented by ",
+              "month": "Aug",
+              "place": 19,
+              "level": "elite",
+              "weighted_points": 20.0
+            },
+            {
+              "event_key": "discmania-challenge-presented-by-trubank",
+              "event": "Discmania Challenge presented by TruBank",
+              "month": "Aug",
+              "place": 24,
+              "level": "elite",
+              "weighted_points": 20.0
+            }
+          ],
+          "tour_rank": 52
+        },
+        {
           "slug": "emma-arp",
           "name": "Emma Arp",
           "dgpt_rank": 156,
@@ -43616,7 +43723,7 @@
               "weighted_points": 35.0
             }
           ],
-          "tour_rank": 52
+          "tour_rank": 53
         },
         {
           "slug": "macie-velediaz",
@@ -43695,7 +43802,7 @@
               "weighted_points": 20.0
             }
           ],
-          "tour_rank": 53
+          "tour_rank": 54
         },
         {
           "slug": "maria-oliva",
@@ -43774,7 +43881,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 54
+          "tour_rank": 55
         },
         {
           "slug": "kaidi-allsalu",
@@ -43851,85 +43958,6 @@
               "place": 10,
               "level": "elite",
               "weighted_points": 50.0
-            }
-          ],
-          "tour_rank": 55
-        },
-        {
-          "slug": "alexis-kerman",
-          "name": "Alexis Kerman",
-          "dgpt_rank": 47,
-          "manufacturer": "Unknown",
-          "dgpt_points": 359.0,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 218.2,
-          "wins": 0,
-          "podiums": 2,
-          "top10": 5,
-          "tour_starts": 18,
-          "by_level": {
-            "major": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 24.0
-            },
-            "elite": {
-              "starts": 10,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 125.0
-            },
-            "a_tier": {
-              "starts": 6,
-              "wins": 0,
-              "podiums": 2,
-              "top10": 5,
-              "points": 69.2
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "playoffs-green-mountain-championship-presented-b",
-              "event": "Playoffs - Green Mountain Championship presented by Discmani",
-              "month": "Sep",
-              "place": 31,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "lws-open-at-idlewild",
-              "event": "LWS Open at Idlewild",
-              "month": "Sep",
-              "place": 16,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "2026-dgpt-doubles-championship-at-the-preserve-p",
-              "event": "2026 DGPT Doubles Championship at The Preserve presented by ",
-              "month": "Aug",
-              "place": 19,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "discmania-challenge-presented-by-trubank",
-              "event": "Discmania Challenge presented by TruBank",
-              "month": "Aug",
-              "place": 24,
-              "level": "elite",
-              "weighted_points": 20.0
-            },
-            {
-              "event_key": "2026-pdga-professional-disc-golf-world-champions",
-              "event": "2026 PDGA Professional Disc Golf World Championships present",
-              "month": "Aug",
-              "place": 59,
-              "level": "major",
-              "weighted_points": 12.0
             }
           ],
           "tour_rank": 56
@@ -46139,6 +46167,85 @@
           "tour_rank": 84
         },
         {
+          "slug": "karen-martel",
+          "name": "Karen Martel",
+          "dgpt_rank": 96,
+          "manufacturer": "Unknown",
+          "dgpt_points": 49.5,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 91.6,
+          "wins": 0,
+          "podiums": 2,
+          "top10": 3,
+          "tour_starts": 6,
+          "by_level": {
+            "major": {
+              "starts": 1,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 12.0
+            },
+            "elite": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 15.0
+            },
+            "a_tier": {
+              "starts": 3,
+              "wins": 0,
+              "podiums": 2,
+              "top10": 3,
+              "points": 64.6
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "the-maine-state-championships-elevated-by-though",
+              "event": "The Maine State Championships Elevated by Thought Space Athl",
+              "month": "Oct",
+              "place": 2,
+              "level": "a_tier",
+              "weighted_points": 26.2
+            },
+            {
+              "event_key": "playoffs-green-mountain-championship-presented-b",
+              "event": "Playoffs - Green Mountain Championship presented by Discmani",
+              "month": "Sep",
+              "place": 36,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "2026-pdga-professional-disc-golf-world-champions",
+              "event": "2026 PDGA Professional Disc Golf World Championships present",
+              "month": "Aug",
+              "place": 52,
+              "level": "major",
+              "weighted_points": 12.0
+            },
+            {
+              "event_key": "dgvtour-6-brewster-ridge-open-driven-by-innova-d",
+              "event": "DGVTour #6 - Brewster Ridge Open Driven by Innova - DGPT Q-S",
+              "month": "Jun",
+              "place": 4,
+              "level": "a_tier",
+              "weighted_points": 12.2
+            },
+            {
+              "event_key": "greenfoot-energy-dieppe-open-2026-elevated-by-th",
+              "event": "Greenfoot Energy Dieppe Open 2026 - Elevated by Thought Spac",
+              "month": "May",
+              "place": 2,
+              "level": "a_tier",
+              "weighted_points": 26.2
+            }
+          ],
+          "tour_rank": 85
+        },
+        {
           "slug": "ella-tejler",
           "name": "Ella Tejler",
           "dgpt_rank": 88,
@@ -46215,7 +46322,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 85
+          "tour_rank": 86
         },
         {
           "slug": "mara-eldeykristnardttir",
@@ -46294,7 +46401,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 86
+          "tour_rank": 87
         },
         {
           "slug": "nid-ovathanasin",
@@ -46373,7 +46480,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 87
+          "tour_rank": 88
         },
         {
           "slug": "elva-kate-preston",
@@ -46452,7 +46559,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 88
+          "tour_rank": 89
         },
         {
           "slug": "elina-rydberg",
@@ -46531,7 +46638,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 89
+          "tour_rank": 90
         },
         {
           "slug": "ellie-bryant",
@@ -46610,7 +46717,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 90
+          "tour_rank": 91
         },
         {
           "slug": "shiru-liu",
@@ -46689,7 +46796,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 91
+          "tour_rank": 92
         },
         {
           "slug": "nathalie-ortiz",
@@ -46768,7 +46875,7 @@
               "weighted_points": 12.2
             }
           ],
-          "tour_rank": 92
+          "tour_rank": 93
         },
         {
           "slug": "sarah-duran",
@@ -46839,7 +46946,7 @@
               "weighted_points": 35.0
             }
           ],
-          "tour_rank": 93
+          "tour_rank": 94
         },
         {
           "slug": "kaire-tekku",
@@ -46916,85 +47023,6 @@
               "place": 31,
               "level": "major",
               "weighted_points": 12.0
-            }
-          ],
-          "tour_rank": 94
-        },
-        {
-          "slug": "karen-martel",
-          "name": "Karen Martel",
-          "dgpt_rank": 96,
-          "manufacturer": "Unknown",
-          "dgpt_points": 49.5,
-          "dgpt_points_gain": 0.0,
-          "tour_weighted_points": 65.4,
-          "wins": 0,
-          "podiums": 1,
-          "top10": 2,
-          "tour_starts": 5,
-          "by_level": {
-            "major": {
-              "starts": 1,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 12.0
-            },
-            "elite": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 0,
-              "top10": 0,
-              "points": 15.0
-            },
-            "a_tier": {
-              "starts": 2,
-              "wins": 0,
-              "podiums": 1,
-              "top10": 2,
-              "points": 38.4
-            }
-          },
-          "recent_results": [
-            {
-              "event_key": "playoffs-green-mountain-championship-presented-b",
-              "event": "Playoffs - Green Mountain Championship presented by Discmani",
-              "month": "Sep",
-              "place": 36,
-              "level": "elite",
-              "weighted_points": 7.5
-            },
-            {
-              "event_key": "2026-pdga-professional-disc-golf-world-champions",
-              "event": "2026 PDGA Professional Disc Golf World Championships present",
-              "month": "Aug",
-              "place": 52,
-              "level": "major",
-              "weighted_points": 12.0
-            },
-            {
-              "event_key": "dgvtour-6-brewster-ridge-open-driven-by-innova-d",
-              "event": "DGVTour #6 - Brewster Ridge Open Driven by Innova - DGPT Q-S",
-              "month": "Jun",
-              "place": 4,
-              "level": "a_tier",
-              "weighted_points": 12.2
-            },
-            {
-              "event_key": "greenfoot-energy-dieppe-open-2026-elevated-by-th",
-              "event": "Greenfoot Energy Dieppe Open 2026 - Elevated by Thought Spac",
-              "month": "May",
-              "place": 2,
-              "level": "a_tier",
-              "weighted_points": 26.2
-            },
-            {
-              "event_key": "discraft-s-supreme-flight-open-presented-by-flor",
-              "event": "Discraft\u2019s Supreme Flight Open Presented by Florida\u2019s",
-              "month": "Feb",
-              "place": 39,
-              "level": "elite",
-              "weighted_points": 7.5
             }
           ],
           "tour_rank": 95
@@ -49811,15 +49839,22 @@
           "month": "Oct",
           "level": "a_tier",
           "multiplier": 0.35,
-          "entries": 1,
+          "entries": 2,
           "winner": {
-            "slug": "rebecca-minnick",
-            "name": "Rebecca Minnick",
+            "slug": "karen-martel",
+            "name": "Karen Martel",
             "manufacturer": "Unknown",
-            "place": 9,
-            "weighted_points": 7.0
+            "place": 2,
+            "weighted_points": 26.2
           },
           "top_finishes": [
+            {
+              "slug": "karen-martel",
+              "name": "Karen Martel",
+              "manufacturer": "Unknown",
+              "place": 2,
+              "weighted_points": 26.2
+            },
             {
               "slug": "rebecca-minnick",
               "name": "Rebecca Minnick",
@@ -50157,6 +50192,39 @@
           ]
         },
         {
+          "id": "21st-annual-four-states-open-sponsored-by-patrio",
+          "name": "21st Annual Four States Open Sponsored By Patriots Gold & Si",
+          "tier": "A",
+          "tour": "",
+          "month": "Sep",
+          "level": "a_tier",
+          "multiplier": 0.35,
+          "entries": 2,
+          "winner": {
+            "slug": "alexis-kerman",
+            "name": "Alexis Kerman",
+            "manufacturer": "Unknown",
+            "place": 1,
+            "weighted_points": 35.0
+          },
+          "top_finishes": [
+            {
+              "slug": "alexis-kerman",
+              "name": "Alexis Kerman",
+              "manufacturer": "Unknown",
+              "place": 1,
+              "weighted_points": 35.0
+            },
+            {
+              "slug": "emma-arp",
+              "name": "Emma Arp",
+              "manufacturer": "Unknown",
+              "place": 2,
+              "weighted_points": 26.2
+            }
+          ]
+        },
+        {
           "id": "sfl-powergrip-pro-tour-5-kuopio",
           "name": "SFL Powergrip Pro Tour - #5 Kuopio",
           "tier": "A",
@@ -50356,32 +50424,6 @@
               "manufacturer": "Unknown",
               "place": 9,
               "weighted_points": 7.0
-            }
-          ]
-        },
-        {
-          "id": "21st-annual-four-states-open-sponsored-by-patrio",
-          "name": "21st Annual Four States Open Sponsored By Patriots Gold & Si",
-          "tier": "A",
-          "tour": "",
-          "month": "Sep",
-          "level": "a_tier",
-          "multiplier": 0.35,
-          "entries": 1,
-          "winner": {
-            "slug": "emma-arp",
-            "name": "Emma Arp",
-            "manufacturer": "Unknown",
-            "place": 2,
-            "weighted_points": 26.2
-          },
-          "top_finishes": [
-            {
-              "slug": "emma-arp",
-              "name": "Emma Arp",
-              "manufacturer": "Unknown",
-              "place": 2,
-              "weighted_points": 26.2
             }
           ]
         },
@@ -55965,15 +56007,22 @@
             "month": "Oct",
             "level": "a_tier",
             "multiplier": 0.35,
-            "entries": 1,
+            "entries": 2,
             "winner": {
-              "slug": "rebecca-minnick",
-              "name": "Rebecca Minnick",
+              "slug": "karen-martel",
+              "name": "Karen Martel",
               "manufacturer": "Unknown",
-              "place": 9,
-              "weighted_points": 7.0
+              "place": 2,
+              "weighted_points": 26.2
             },
             "top_finishes": [
+              {
+                "slug": "karen-martel",
+                "name": "Karen Martel",
+                "manufacturer": "Unknown",
+                "place": 2,
+                "weighted_points": 26.2
+              },
               {
                 "slug": "rebecca-minnick",
                 "name": "Rebecca Minnick",

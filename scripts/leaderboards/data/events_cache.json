@@ -2739,6 +2739,14 @@
   ],
   "alexis-kerman": [
     {
+      "event": "21st Annual Four States Open Sponsored By Patriots Gold & Silver",
+      "event_key": "21st-annual-four-states-open-sponsored-by-patrio",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
       "event_key": "playoffs-green-mountain-championship-presented-b",
       "month": "Sep",
@@ -8608,6 +8616,14 @@
   ],
   "bradley-baumgardner": [],
   "bradley-williams": [
+    {
+      "event": "2026 PDGA Masters Disc Golf World Championships",
+      "event_key": "2026-pdga-masters-disc-golf-world-championships",
+      "month": "Sep",
+      "place": 1,
+      "tier": "M",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
       "event_key": "playoffs-green-mountain-championship-presented-b",
@@ -15587,6 +15603,14 @@
   "damien-biegert": [],
   "daniel-davidsson": [
     {
+      "event": "DGPT EuroTour - Silesia Open 2026 presented by Latitude64",
+      "event_key": "eurotour-silesia-open-2026-presented-by-latitude",
+      "month": "Sep",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT EuroTour - Moravian Open 2026",
       "event_key": "eurotour-moravian-open-2026",
       "month": "Sep",
@@ -19718,6 +19742,14 @@
     }
   ],
   "elijah-riderbrandt": [
+    {
+      "event": "The Maine State Championships Elevated by Thought Space Athletics",
+      "event_key": "the-maine-state-championships-elevated-by-though",
+      "month": "Oct",
+      "place": 21,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
       "event_key": "playoffs-green-mountain-championship-presented-b",
@@ -26348,6 +26380,22 @@
     }
   ],
   "gillis-macdougall": [
+    {
+      "event": "The Maine State Championships Elevated by Thought Space Athletics",
+      "event_key": "the-maine-state-championships-elevated-by-though",
+      "month": "Oct",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGVTour #11 - Cold Hollow Classic",
+      "event_key": "dgvtour-11-cold-hollow-classic",
+      "month": "Sep",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
       "event_key": "playoffs-green-mountain-championship-presented-b",
@@ -38183,6 +38231,14 @@
   ],
   "karen-martel": [
     {
+      "event": "The Maine State Championships Elevated by Thought Space Athletics",
+      "event_key": "the-maine-state-championships-elevated-by-though",
+      "month": "Oct",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
       "event_key": "playoffs-green-mountain-championship-presented-b",
       "month": "Sep",
@@ -42437,6 +42493,22 @@
   ],
   "lindsey-maas": [
     {
+      "event": "Big Dawg 13",
+      "event_key": "big-dawg-13",
+      "month": "Oct",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Northern Michigan Championship powered by Innova",
+      "event_key": "northern-michigan-championship-powered-by-innova",
+      "month": "Sep",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
       "event_key": "playoffs-green-mountain-championship-presented-b",
       "month": "Sep",
@@ -44442,6 +44514,22 @@
   ],
   "mackenzie-morris": [],
   "madison-tomaino": [
+    {
+      "event": "The Veer",
+      "event_key": "the-veer",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Hab/Rec Fall Open",
+      "event_key": "hab-rec-fall-open",
+      "month": "Oct",
+      "place": 3,
+      "tier": "U",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
       "event_key": "playoffs-green-mountain-championship-presented-b",
@@ -51779,6 +51867,30 @@
   "nick-reliford": [],
   "nick-robertson-1": [
     {
+      "event": "Big Dawg 13",
+      "event_key": "big-dawg-13",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "King of the Woods Presented by Parkit Disc Golf",
+      "event_key": "king-of-the-woods-presented-by-parkit-disc-golf",
+      "month": "Oct",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Northern Michigan Championship powered by Innova",
+      "event_key": "northern-michigan-championship-powered-by-innova",
+      "month": "Sep",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
       "event_key": "playoffs-green-mountain-championship-presented-b",
       "month": "Sep",
@@ -56240,6 +56352,14 @@
     }
   ],
   "rasmus-saukkoriipi": [
+    {
+      "event": "DGPT EuroTour - Silesia Open 2026 presented by Latitude64",
+      "event_key": "eurotour-silesia-open-2026-presented-by-latitude",
+      "month": "Sep",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT EuroTour - Moravian Open 2026",
       "event_key": "eurotour-moravian-open-2026",
