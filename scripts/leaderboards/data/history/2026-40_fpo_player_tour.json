@@ -1,15 +1,15 @@
 {
   "division": "FPO",
   "week": "2026-40",
-  "saved_at": "2026-10-13T19:42:45.042077+00:00",
+  "saved_at": "2026-10-19T21:21:56.103325+00:00",
   "players": [
     {
       "slug": "ohn-scoggins",
       "name": "Ohn Scoggins",
       "tour_rank": 1,
-      "tour_weighted_points": 2925.7,
+      "tour_weighted_points": 2960.7,
       "dgpt_rank": 1,
-      "wins": 13
+      "wins": 14
     },
     {
       "slug": "holyn-handley",
@@ -55,7 +55,7 @@
       "slug": "catrina-allen",
       "name": "Catrina Allen",
       "tour_rank": 7,
-      "tour_weighted_points": 1485.4,
+      "tour_weighted_points": 1511.6,
       "dgpt_rank": 7,
       "wins": 2
     },

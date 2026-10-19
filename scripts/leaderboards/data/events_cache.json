@@ -213,6 +213,14 @@
   ],
   "aaron-gossage": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 31,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -613,6 +621,14 @@
   ],
   "adam-hammes": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 75,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -791,6 +807,14 @@
     }
   ],
   "addison-woodard": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 45,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -1394,6 +1418,30 @@
   "aidan-hosler": [],
   "aidan-scott": [
     {
+      "event": "2nd Annual Hyzer Highway Powered By Most Accurate Discs",
+      "event_key": "2nd-annual-hyzer-highway-powered-by-most-accurat",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "18th Annual Kentucky State Disc Golf Championship Sponsored by Ho",
+      "event_key": "18th-annual-kentucky-state-disc-golf-championshi",
+      "month": "Oct",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Cleveland Open II",
+      "event_key": "cleveland-open-ii",
+      "month": "Sep",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "52nd Annual Alabama State Flying Disc Championship",
       "event_key": "52nd-annual-alabama-state-flying-disc-championsh",
       "month": "Sep",
@@ -1416,6 +1464,14 @@
       "place": 62,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "HVF League - Hosted by the CFDC",
+      "event_key": "hvf-league-hosted-by-the-cfdc",
+      "month": "Sep",
+      "place": 1,
+      "tier": "L",
+      "tour": ""
     },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
@@ -1732,6 +1788,14 @@
   ],
   "alan-vazquez": [],
   "albert-tamm": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 11,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -2076,6 +2140,22 @@
   ],
   "alecia-hinkson": [
     {
+      "event": "2026 Autumn Bond Classic",
+      "event_key": "2026-autumn-bond-classic",
+      "month": "Oct",
+      "place": 12,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Women ROC Fall Frenzy",
+      "event_key": "women-roc-fall-frenzy",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -2256,6 +2336,14 @@
     }
   ],
   "alex-berg": [
+    {
+      "event": "15th Annual LoCo Open - Pro",
+      "event_key": "15th-annual-loco-open-pro",
+      "month": "Oct",
+      "place": 22,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -2739,6 +2827,14 @@
   ],
   "alexis-kerman": [
     {
+      "event": "TPWDGC Championship Week Monday Qualifying",
+      "event_key": "tpwdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "21st Annual Four States Open Sponsored By Patriots Gold & Silver",
       "event_key": "21st-annual-four-states-open-sponsored-by-patrio",
       "month": "Sep",
@@ -3082,6 +3178,14 @@
   "amanda-branch": [],
   "amanda-kaestner": [],
   "amanda-lennartsson": [
+    {
+      "event": "TPWDGC Championship Week Monday Qualifying",
+      "event_key": "tpwdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 8,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
       "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
@@ -3775,6 +3879,22 @@
   ],
   "andrew-marwede": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 51,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "The Maine State Championships Elevated by Thought Space Athletics",
+      "event_key": "the-maine-state-championships-elevated-by-though",
+      "month": "Oct",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -3994,6 +4114,22 @@
   ],
   "andrew-miranda": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 37,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 6,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -4188,6 +4324,14 @@
     }
   ],
   "andrew-presnell": [
+    {
+      "event": "13th Annual Buffalo Run Powered by Innova & Prodigy Disc Sponsore",
+      "event_key": "13th-annual-buffalo-run-powered-by-innova-prodig",
+      "month": "Oct",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -4464,6 +4608,22 @@
   "andrew-zinck": [],
   "ann-deputy": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 36,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
+      "event": "TPWDGC Championship Week Monday Qualifying",
+      "event_key": "tpwdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -4726,6 +4886,14 @@
   ],
   "anneli-tugjas-mnniste": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 45,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -4863,6 +5031,14 @@
     }
   ],
   "annikenkristiansen-steen": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 15,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -5189,6 +5365,14 @@
   ],
   "anthony-barela": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 15,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -5384,6 +5568,30 @@
   ],
   "anthony-bodanza": [
     {
+      "event": "The Tanglewood Flex",
+      "event_key": "the-tanglewood-flex",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Eagles Wings Flex at Cedar Hills DGC",
+      "event_key": "eagles-wings-flex-at-cedar-hills-dgc",
+      "month": "Oct",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Cedar Hill Flex Start",
       "event_key": "cedar-hill-flex-start",
       "month": "Sep",
@@ -5554,6 +5762,22 @@
   ],
   "anton-bergqvist-1": [],
   "arek-robinson": [
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 85,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2nd Annual Waynesville Rec Jam - Presented by Kiwanis",
+      "event_key": "2nd-annual-waynesville-rec-jam-presented-by-kiwa",
+      "month": "Sep",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -6464,6 +6688,14 @@
     }
   ],
   "austin-turner": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 22,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -7726,6 +7958,22 @@
   "blake-houston": [],
   "blake-poland": [
     {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 48,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Discraft Presents: Spike Hyzer's 41st Sneeky Pete Classic",
       "event_key": "discraft-presents-spike-hyzer-s-41st-sneeky-pete",
       "month": "Sep",
@@ -8148,6 +8396,14 @@
   ],
   "bo-mclaughlin": [
     {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 55,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "52nd Annual Alabama State Flying Disc Championship",
       "event_key": "52nd-annual-alabama-state-flying-disc-championsh",
       "month": "Sep",
@@ -8437,6 +8693,30 @@
     }
   ],
   "brad-schick": [
+    {
+      "event": "Lobdell Open 2026 Sponsored by Latitude 64 - MA1 and MPO",
+      "event_key": "lobdell-open-2026-sponsored-by-latitude-64-ma1-a",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "20th Annual Frenzy @ Flatrocks",
+      "event_key": "20th-annual-frenzy-flatrocks",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 PDGA Masters Disc Golf World Championships",
+      "event_key": "2026-pdga-masters-disc-golf-world-championships",
+      "month": "Sep",
+      "place": 7,
+      "tier": "M",
+      "tour": ""
+    },
     {
       "event": "Seth Burton Memorial",
       "event_key": "seth-burton-memorial",
@@ -8925,6 +9205,14 @@
     }
   ],
   "braeden-sides": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 79,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -10164,6 +10452,14 @@
   ],
   "calvin-heimburg": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 1,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -10644,6 +10940,14 @@
   ],
   "cam-rico": [
     {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 43,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "Sapwi Trails Championships Presented By Legacy Discs and T Hill B",
       "event_key": "sapwi-trails-championships-presented-by-legacy-d",
       "month": "Sep",
@@ -10980,6 +11284,14 @@
   ],
   "carson-fowler": [],
   "carson-ham": [
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "Discraft Presents: Spike Hyzer's 41st Sneeky Pete Classic",
       "event_key": "discraft-presents-spike-hyzer-s-41st-sneeky-pete",
@@ -11746,6 +12058,22 @@
   ],
   "catrina-allen": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 9,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -12130,6 +12458,22 @@
   ],
   "chandler-kramer": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 84,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -12372,6 +12716,14 @@
     }
   ],
   "chandler-reigh": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 21,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -13054,6 +13406,22 @@
   "chelsea-sutton": [],
   "chris-clemons": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 84,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "The Maine State Championships Elevated by Thought Space Athletics",
+      "event_key": "the-maine-state-championships-elevated-by-though",
+      "month": "Oct",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -13231,6 +13599,14 @@
     }
   ],
   "chris-dickerson": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 15,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -13440,6 +13816,14 @@
     }
   ],
   "clay-edwards": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 34,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -13739,6 +14123,14 @@
   "colby-jones": [],
   "colby-schefers": [
     {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 76,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "Tar Heel Collegiate Classic 5 - Singles",
       "event_key": "tar-heel-collegiate-classic-5-singles",
       "month": "Sep",
@@ -13876,6 +14268,14 @@
     }
   ],
   "cole-redalen": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 11,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -14063,6 +14463,14 @@
     }
   ],
   "colin-bryant": [
+    {
+      "event": "Deception Pass Open",
+      "event_key": "deception-pass-open",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -14267,6 +14675,14 @@
     }
   ],
   "colten-montgomery": [
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 32,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -14626,6 +15042,14 @@
   "connor-king": [],
   "connor-oreilly": [
     {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 5,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -14984,6 +15408,14 @@
   ],
   "corey-ellis": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 27,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -15202,6 +15634,22 @@
     }
   ],
   "cynthia-ricciotti": [
+    {
+      "event": "TPWDGC Championship Week Monday Qualifying",
+      "event_key": "tpwdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 6,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Discraft Presents: Spike Hyzer's 41st Sneeky Pete Classic",
       "event_key": "discraft-presents-spike-hyzer-s-41st-sneeky-pete",
@@ -17523,6 +17971,22 @@
   ],
   "dustin-keegan": [
     {
+      "event": "2026 PDGA Masters Disc Golf World Championships",
+      "event_key": "2026-pdga-masters-disc-golf-world-championships",
+      "month": "Sep",
+      "place": 12,
+      "tier": "M",
+      "tour": ""
+    },
+    {
+      "event": "2026 Masters Worlds Putting Competition",
+      "event_key": "2026-masters-worlds-putting-competition",
+      "month": "Sep",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "38th Annual Eugene Celebration presented by Clean Juice",
       "event_key": "38th-annual-eugene-celebration-presented-by-clea",
       "month": "Sep",
@@ -17726,6 +18190,14 @@
     }
   ],
   "dylan-capaccioli": [
+    {
+      "event": "2026 Nantucket Open - Pro and AM Day - Presented by Greatest Medi",
+      "event_key": "2026-nantucket-open-pro-and-am-day-presented-by-",
+      "month": "Oct",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -17961,6 +18433,14 @@
   ],
   "dylan-dietrich": [],
   "eagle-mcmahon": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 24,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -18785,6 +19265,14 @@
   ],
   "eli-swansen": [
     {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 27,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
       "event_key": "playoffs-green-mountain-championship-presented-b",
       "month": "Sep",
@@ -19273,6 +19761,14 @@
   "elias-nordberg": [],
   "eliezra-midtlyng": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 23,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -19523,6 +20019,14 @@
     }
   ],
   "elijah-bickel": [
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 19,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -20302,6 +20806,14 @@
     }
   ],
   "ella-hansen": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 14,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -21499,6 +22011,14 @@
   ],
   "emily-weatherman": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 39,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -21986,6 +22506,14 @@
     }
   ],
   "emmanuel-torres": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 62,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "2026 Faultline Classic Presented by Innova",
       "event_key": "2026-faultline-classic-presented-by-innova",
@@ -23047,6 +23575,14 @@
   ],
   "evan-scott": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 47,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -23250,6 +23786,22 @@
   ],
   "evan-smith": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 11,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "Eagles Wings Flex at Cedar Hills DGC",
+      "event_key": "eagles-wings-flex-at-cedar-hills-dgc",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -23397,6 +23949,14 @@
   "evan-walker": [],
   "eveliina-salonen": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 3,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -23510,6 +24070,14 @@
     }
   ],
   "ezra-aderhold": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 82,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -23698,6 +24266,14 @@
   ],
   "ezra-hapner": [
     {
+      "event": "The Mendocino Migration supported by Innova Champion Discs",
+      "event_key": "the-mendocino-migration-supported-by-innova-cham",
+      "month": "Oct",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 Faultline Classic Presented by Innova",
       "event_key": "2026-faultline-classic-presented-by-innova",
       "month": "Sep",
@@ -23868,6 +24444,14 @@
     }
   ],
   "ezra-robinson": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 31,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -24863,6 +25447,14 @@
   ],
   "fritiof-fagergren": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 79,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -25017,6 +25609,14 @@
   ],
   "gage-johnson": [],
   "gannon-buhr": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 2,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -25376,6 +25976,14 @@
   "garrett-dknox": [],
   "garrett-gurthie": [
     {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 19,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -25669,6 +26277,14 @@
   ],
   "gaute-hauge": [],
   "gavin-babcock": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 33,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -26052,6 +26668,14 @@
   ],
   "gavin-king": [],
   "gavin-phillips": [
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -26554,6 +27178,22 @@
   "gracen-lomelino": [],
   "graham-fuller": [],
   "gregg-barsby": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 87,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "The Keeper of the Chains - Presented by: Innova Disc Golf",
       "event_key": "the-keeper-of-the-chains-presented-by-innova-dis",
@@ -27130,6 +27770,22 @@
   "halvard-solberg": [],
   "hanna-huynh": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 8,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
+      "event": "The Maine State Championships Elevated by Thought Space Athletics",
+      "event_key": "the-maine-state-championships-elevated-by-though",
+      "month": "Oct",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -27475,6 +28131,22 @@
   ],
   "harper-thompson": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 62,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -27716,6 +28388,22 @@
     }
   ],
   "harry-chace": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 37,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "2026 Nantucket Open - Pro and AM Day - Presented by Greatest Medi",
+      "event_key": "2026-nantucket-open-pro-and-am-day-presented-by-",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -28074,6 +28762,14 @@
   ],
   "heidi-laine": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 27,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -28284,6 +28980,14 @@
     }
   ],
   "henna-blomroos": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 4,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -28811,81 +29515,16 @@
     }
   ],
   "herman-bentzenhinkel": [],
-  "herman-hatlo": [
-    {
-      "event": "NC 5 Open Kodal",
-      "event_key": "nc-5-open-kodal",
-      "month": "Sep",
-      "place": 10,
-      "tier": "B",
-      "tour": ""
-    },
-    {
-      "event": "RPM Open 2026",
-      "event_key": "rpm-open-2026",
-      "month": "Aug",
-      "place": 11,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "Arvika Open 2026 - Presented by Kastaplast",
-      "event_key": "arvika-open-2026-presented-by-kastaplast",
-      "month": "Aug",
-      "place": 18,
-      "tier": "B",
-      "tour": ""
-    },
-    {
-      "event": "Norgesmesterskapet i Diskgolf 2026",
-      "event_key": "norgesmesterskapet-i-diskgolf-2026",
-      "month": "Jul",
-      "place": 24,
-      "tier": "A",
-      "tour": ""
-    },
-    {
-      "event": "DGPT - Ale Open presented by Discraft",
-      "event_key": "ale-open-presented-by-discraft",
-      "month": "Jul",
-      "place": 106,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "DGPT - Swedish Open presented by Kastaplast",
-      "event_key": "swedish-open-presented-by-kastaplast",
-      "month": "Jun",
-      "place": 105,
-      "tier": "NT",
-      "tour": "DGPT"
-    },
-    {
-      "event": "NC3 Valdres Open presented by Discmania",
-      "event_key": "nc3-valdres-open-presented-by-discmania",
-      "month": "Jun",
-      "place": 35,
-      "tier": "B",
-      "tour": ""
-    },
-    {
-      "event": "NC 2 Open Hestehagen",
-      "event_key": "nc-2-open-hestehagen",
-      "month": "May",
-      "place": 40,
-      "tier": "B",
-      "tour": ""
-    },
-    {
-      "event": "NC 1 Open \u00d8ver\u00e5s - presented by Innova Champion Discs",
-      "event_key": "nc-1-open-ver-s-presented-by-innova-champion-dis",
-      "month": "May",
-      "place": 59,
-      "tier": "B",
-      "tour": ""
-    }
-  ],
+  "herman-hatlo": [],
   "hjalmar-fredriksson": [
+    {
+      "event": "John Bauer Open - Sm\u00e5landstouren #10",
+      "event_key": "john-bauer-open-sm-landstouren-10",
+      "month": "Sep",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "SDGPT - Heatland Open 2026 sponsored by Yikun Discs",
       "event_key": "sdgpt-heatland-open-2026-sponsored-by-yikun-disc",
@@ -29247,6 +29886,14 @@
   ],
   "holly-finley": [
     {
+      "event": "TPWDGC Championship Week Monday Qualifying",
+      "event_key": "tpwdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA Masters Disc Golf World Championships",
       "event_key": "2026-pdga-masters-disc-golf-world-championships",
       "month": "Sep",
@@ -29352,6 +29999,14 @@
     }
   ],
   "holyn-handley": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 1,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -29642,6 +30297,14 @@
   "hunter-embler": [],
   "ian-burchett": [
     {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 32,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "Indiana State Championships, part of The Global supporting the Pa",
       "event_key": "indiana-state-championships-part-of-the-global-s",
       "month": "Sep",
@@ -29888,6 +30551,14 @@
   "ian-rankin": [],
   "ida-kennmark": [],
   "idaemilie-nesse": [
+    {
+      "event": "TPWDGC Championship Week Monday Qualifying",
+      "event_key": "tpwdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 10,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -30160,6 +30831,14 @@
     }
   ],
   "isaac-robinson": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 4,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -31165,6 +31844,22 @@
   "jacquelyn-delude": [],
   "jaden-rye": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 17,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -31456,6 +32151,14 @@
   ],
   "jaime-velasquez": [],
   "jake-hebenheimer": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 17,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -31790,6 +32493,14 @@
   ],
   "jake-monn": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 22,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -32092,6 +32803,22 @@
   ],
   "jakub-semerd": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 34,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -32370,6 +33097,14 @@
   "james-bennett": [],
   "james-collier": [],
   "james-conrad": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 47,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -32722,6 +33457,14 @@
     }
   ],
   "jamie-kiep": [
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 62,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "Seth Burton Memorial",
       "event_key": "seth-burton-memorial",
@@ -33941,6 +34684,14 @@
   ],
   "jennifer-smiley": [
     {
+      "event": "15th Annual LoCo Open - Pro",
+      "event_key": "15th-annual-loco-open-pro",
+      "month": "Oct",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -34502,6 +35253,14 @@
   ],
   "jeremy-koling": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 99,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -34700,6 +35459,14 @@
   ],
   "jesse-nieminen": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 70,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -34864,6 +35631,14 @@
     }
   ],
   "jessica-gurthie": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 10,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -35639,6 +36414,22 @@
   ],
   "joey-temali": [
     {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 19,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 26,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -36012,6 +36803,14 @@
   ],
   "jonas-zupanic": [],
   "jonathan-borzick": [
+    {
+      "event": "The Maine State Championships Elevated by Thought Space Athletics",
+      "event_key": "the-maine-state-championships-elevated-by-though",
+      "month": "Oct",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -36671,6 +37470,14 @@
   ],
   "jordan-lynds": [
     {
+      "event": "2026 BDGA Open Presented by Jesse's Sports Bar & Grill Powered by",
+      "event_key": "2026-bdga-open-presented-by-jesse-s-sports-bar-g",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -36884,6 +37691,14 @@
     }
   ],
   "joseph-anderson": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 24,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -37665,6 +38480,22 @@
   ],
   "justin-rosak": [
     {
+      "event": "2026 Philadelphia Disc Golf Open - Sponsored by Dynamic Discs - P",
+      "event_key": "2026-philadelphia-disc-golf-open-sponsored-by-dy",
+      "month": "Oct",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "15th Annual LoCo Open - Pro",
+      "event_key": "15th-annual-loco-open-pro",
+      "month": "Oct",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Independence Invitational",
       "event_key": "independence-invitational",
       "month": "Sep",
@@ -37710,6 +38541,14 @@
       "month": "Jul",
       "place": 20,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DVDG Tags 2026 Pt.2",
+      "event_key": "dvdg-tags-2026-pt-2",
+      "month": "Jul",
+      "place": 18,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -38834,6 +39673,14 @@
   ],
   "kat-mertsch": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 34,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -39375,6 +40222,14 @@
     }
   ],
   "kelley-foster": [
+    {
+      "event": "TPWDGC Championship Week Monday Qualifying",
+      "event_key": "tpwdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 13,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -40428,6 +41283,14 @@
   "kolten-patterson": [],
   "konastar-montgomery": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 12,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -40748,6 +41611,14 @@
   "kyle-holt": [],
   "kyle-klein": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 62,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -41001,6 +41872,14 @@
     }
   ],
   "kylie-kohut": [
+    {
+      "event": "TPWDGC Championship Week Monday Qualifying",
+      "event_key": "tpwdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 6,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -41834,6 +42713,22 @@
   "lea-tomas": [],
   "leah-tsinajinnie": [
     {
+      "event": "TPWDGC Championship Week Monday Qualifying",
+      "event_key": "tpwdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -42157,6 +43052,14 @@
     }
   ],
   "levi-stout": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 59,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -43227,6 +44130,22 @@
   "luca-nieminen": [],
   "lucas-carmichael": [
     {
+      "event": "Colorado Cup Finale - Pros/MA50/MA60/MA2",
+      "event_key": "colorado-cup-finale-pros-ma50-ma60-ma2",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Harvest 2026 Presented by Dania Guth Realty",
+      "event_key": "the-harvest-2026-presented-by-dania-guth-realty",
+      "month": "Sep",
+      "place": 19,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Top Shelf Disc Supply & Bird Dawg Disc Golf presents King of the",
       "event_key": "top-shelf-disc-supply-bird-dawg-disc-golf-presen",
       "month": "Sep",
@@ -43437,6 +44356,22 @@
     }
   ],
   "lucas-oberholtzerhess": [
+    {
+      "event": "2026 Philadelphia Disc Golf Open - Sponsored by Dynamic Discs - P",
+      "event_key": "2026-philadelphia-disc-golf-open-sponsored-by-dy",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "15th Annual LoCo Open - Pro",
+      "event_key": "15th-annual-loco-open-pro",
+      "month": "Oct",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -43788,6 +44723,14 @@
   ],
   "luke-samson": [
     {
+      "event": "The Maine State Championships Elevated by Thought Space Athletics",
+      "event_key": "the-maine-state-championships-elevated-by-though",
+      "month": "Oct",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -44022,6 +44965,14 @@
     }
   ],
   "luke-taylor": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 56,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -44432,6 +45383,14 @@
   ],
   "macie-velediaz": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 12,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
       "month": "Sep",
@@ -44701,6 +45660,14 @@
     }
   ],
   "madison-walker": [
+    {
+      "event": "TPWDGC Championship Week Monday Qualifying",
+      "event_key": "tpwdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 10,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -46190,6 +47157,14 @@
   ],
   "mason-ford": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 6,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -46680,6 +47655,14 @@
   ],
   "matilda-ringbom": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 25,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -46859,6 +47842,22 @@
     }
   ],
   "matt-bell": [
+    {
+      "event": "The Maine State Championships Elevated by Thought Space Athletics",
+      "event_key": "the-maine-state-championships-elevated-by-though",
+      "month": "Oct",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "21st Annual Four States Open Sponsored By Patriots Gold & Silver",
+      "event_key": "21st-annual-four-states-open-sponsored-by-patrio",
+      "month": "Sep",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "14th Annual Hamilton County Open",
       "event_key": "14th-annual-hamilton-county-open",
@@ -47184,6 +48183,22 @@
     }
   ],
   "matt-thompson": [
+    {
+      "event": "2026 Casey Logan Fall Throwdown",
+      "event_key": "2026-casey-logan-fall-throwdown",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 5,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "Discraft Presents: Spike Hyzer's 41st Sneeky Pete Classic",
       "event_key": "discraft-presents-spike-hyzer-s-41st-sneeky-pete",
@@ -47582,6 +48597,30 @@
   ],
   "matthew-blakely": [
     {
+      "event": "2026 PDGA Masters Disc Golf World Championships",
+      "event_key": "2026-pdga-masters-disc-golf-world-championships",
+      "month": "Sep",
+      "place": 16,
+      "tier": "M",
+      "tour": ""
+    },
+    {
+      "event": "2026 Masters Worlds Long Drive Competition",
+      "event_key": "2026-masters-worlds-long-drive-competition",
+      "month": "Sep",
+      "place": 9,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Masters Worlds Putting Competition",
+      "event_key": "2026-masters-worlds-putting-competition",
+      "month": "Sep",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "14th Annual Hamilton County Open",
       "event_key": "14th-annual-hamilton-county-open",
       "month": "Sep",
@@ -47759,6 +48798,14 @@
     }
   ],
   "matthew-brown-1": [
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "The Global @ John V Savio DGC supporting the Paul McBeth Foundati",
       "event_key": "the-global-john-v-savio-dgc-supporting-the-paul-",
@@ -48136,6 +49183,14 @@
   ],
   "matthew-orum": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 99,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -48314,6 +49369,22 @@
     }
   ],
   "mauri-villmann": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 51,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -49645,6 +50716,22 @@
   ],
   "miles-sayer": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 8,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "The Maine State Championships Elevated by Thought Space Athletics",
+      "event_key": "the-maine-state-championships-elevated-by-though",
+      "month": "Oct",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -49889,6 +50976,14 @@
     }
   ],
   "missy-gannon": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 19,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -50135,6 +51230,14 @@
   ],
   "mj-gager": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 16,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -50272,6 +51375,14 @@
     }
   ],
   "morgan-lynds": [
+    {
+      "event": "2026 BDGA Open Presented by Jesse's Sports Bar & Grill Powered by",
+      "event_key": "2026-bdga-open-presented-by-jesse-s-sports-bar-g",
+      "month": "Oct",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT - LWS Open at Idlewild",
       "event_key": "lws-open-at-idlewild",
@@ -50412,6 +51523,14 @@
     }
   ],
   "morten-kristiansen": [
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 43,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT EuroTour - Silesia Open 2026 presented by Latitude64",
       "event_key": "eurotour-silesia-open-2026-presented-by-latitude",
@@ -50844,6 +51963,30 @@
   ],
   "nate-toutolmin": [
     {
+      "event": "Auburn Fall Classic",
+      "event_key": "auburn-fall-classic",
+      "month": "Oct",
+      "place": 6,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Mendocino Migration supported by Innova Champion Discs",
+      "event_key": "the-mendocino-migration-supported-by-innova-cham",
+      "month": "Oct",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Nevada State Disc Golf Championships",
+      "event_key": "2026-nevada-state-disc-golf-championships",
+      "month": "Sep",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "The Legend of Lizard Peak XI Presented by Disc Giant and Supporte",
       "event_key": "the-legend-of-lizard-peak-xi-presented-by-disc-g",
       "month": "Sep",
@@ -51050,6 +52193,22 @@
   ],
   "nathan-miske": [],
   "nathan-queen": [
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 9,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Discraft Presents: Spike Hyzer's 41st Sneeky Pete Classic",
       "event_key": "discraft-presents-spike-hyzer-s-41st-sneeky-pete",
@@ -51367,6 +52526,22 @@
     }
   ],
   "nathaniel-johnson": [
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 21,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "CADL & Cary Present: The 2026 Greater Raleigh Open (USDGC & TPWDG",
       "event_key": "cadl-cary-present-the-2026-greater-raleigh-open-",
@@ -52588,6 +53763,22 @@
   "niilo-hyry": [],
   "nikko-locastro": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 42,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "Warm Up @ Willmore (Flex Start)",
+      "event_key": "warm-up-willmore-flex-start",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -52661,6 +53852,14 @@
     }
   ],
   "niklas-anttila": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 4,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -53159,6 +54358,14 @@
   "noah-baker": [],
   "noah-feil": [],
   "noah-fiveash": [
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 27,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "LWS Open Monday Qualifier",
       "event_key": "lws-open-monday-qualifier",
@@ -53667,6 +54874,22 @@
     }
   ],
   "ohn-scoggins": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 2,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -54596,6 +55819,14 @@
   ],
   "owen-hamilton": [
     {
+      "event": "Stafford Lake ProAm supported by Innova",
+      "event_key": "stafford-lake-proam-supported-by-innova",
+      "month": "Oct",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series: The San Francisco Safari driven by Innova",
       "event_key": "q-series-the-san-francisco-safari-driven-by-inno",
       "month": "Sep",
@@ -54744,6 +55975,14 @@
     }
   ],
   "paige-pierce": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 27,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -54932,6 +56171,22 @@
   ],
   "parker-austin": [],
   "parker-welck": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 74,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -55212,6 +56467,14 @@
   "paul-davidson": [],
   "paul-krans": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 24,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -55431,6 +56694,14 @@
   ],
   "paul-mcbeth": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 9,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -55626,6 +56897,14 @@
     }
   ],
   "paul-ulibarri": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 43,
+      "tier": "XM",
+      "tour": "Major"
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -56565,6 +57844,14 @@
   ],
   "ratana-mcmahon": [
     {
+      "event": "TPWDGC Championship Week Monday Qualifying",
+      "event_key": "tpwdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 8,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - Green Mountain Championship presented by Discmani",
       "event_key": "playoffs-green-mountain-championship-presented-b",
       "month": "Sep",
@@ -56867,6 +58154,22 @@
   ],
   "raven-newsom": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 73,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "15th Annual LoCo Open - Pro",
+      "event_key": "15th-annual-loco-open-pro",
+      "month": "Oct",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -57078,6 +58381,14 @@
   ],
   "rebecca-cox": [
     {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 43,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -57247,6 +58558,14 @@
     }
   ],
   "rebecca-don": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 29,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -57817,6 +59136,14 @@
   ],
   "richard-wysocki": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 2,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -58227,6 +59554,22 @@
   ],
   "riku-grhn": [],
   "robert-burridge": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 99,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -59100,6 +60443,14 @@
     }
   ],
   "ryan-monn": [
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 12,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -61541,6 +62892,14 @@
   ],
   "silas-schultz": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 9,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -61711,6 +63070,14 @@
     }
   ],
   "silva-saarinen": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 5,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -61944,12 +63311,28 @@
   ],
   "simon-lizotte": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 41,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
       "place": 22,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "41. Deutsche Discgolf Meisterschaften pr\u00e4sentiert von MVP Disc S",
+      "event_key": "41-deutsche-discgolf-meisterschaften-pr-sentiert",
+      "month": "Sep",
+      "place": 2,
+      "tier": "XB",
+      "tour": ""
     },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
@@ -62067,6 +63450,14 @@
   ],
   "simon-solin": [],
   "sintija-klezberga": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 18,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -63220,6 +64611,14 @@
   ],
   "sullivan-tipton": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 17,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -63498,6 +64897,14 @@
   ],
   "tailey-rowley": [
     {
+      "event": "Carolina Clash Pro Weekend Presented by DGA",
+      "event_key": "carolina-clash-pro-weekend-presented-by-dga",
+      "month": "Oct",
+      "place": 9,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Discraft Presents: Spike Hyzer's 41st Sneeky Pete Classic",
       "event_key": "discraft-presents-spike-hyzer-s-41st-sneeky-pete",
       "month": "Sep",
@@ -63773,6 +65180,14 @@
   "tanisha-platero": [],
   "tanner-boggs": [],
   "taylor-chocek": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 29,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -64614,6 +66029,14 @@
   ],
   "thomas-canfield": [
     {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 62,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "Oak Hollow Open 2026",
       "event_key": "oak-hollow-open-2026",
       "month": "Aug",
@@ -65218,6 +66641,22 @@
     }
   ],
   "tiger-borth": [
+    {
+      "event": "2026 ParfAit Open (Flex Start)",
+      "event_key": "2026-parfait-open-flex-start",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Cupcake Ridge Open (Flex Start)",
+      "event_key": "2026-cupcake-ridge-open-flex-start",
+      "month": "Oct",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "2026 St. Louis Open",
       "event_key": "2026-st-louis-open",
@@ -66224,6 +67663,30 @@
   ],
   "tony-moereiss": [
     {
+      "event": "Lobdell Open 2026 Sponsored by Latitude 64 - MA1 and MPO",
+      "event_key": "lobdell-open-2026-sponsored-by-latitude-64-ma1-a",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Best in Dayton #5 Finale - presented by Christine Jennings |",
+      "event_key": "2026-best-in-dayton-5-finale-presented-by-christ",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Fire in the Sky 2026 presented by the Norwalk Area DGA",
+      "event_key": "fire-in-the-sky-2026-presented-by-the-norwalk-ar",
+      "month": "Sep",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Seth Burton Memorial",
       "event_key": "seth-burton-memorial",
       "month": "Sep",
@@ -66875,6 +68338,30 @@
   ],
   "tristan-cook": [
     {
+      "event": "Auburn Fall Classic",
+      "event_key": "auburn-fall-classic",
+      "month": "Oct",
+      "place": 12,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "48th Gold Pan Open - Western States Disc Golf Championships",
+      "event_key": "48th-gold-pan-open-western-states-disc-golf-cham",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "2026 Nevada State Disc Golf Championships",
+      "event_key": "2026-nevada-state-disc-golf-championships",
+      "month": "Sep",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Protopipe Presents The Brooktrails Open Supported by Innova",
       "event_key": "protopipe-presents-the-brooktrails-open-supporte",
       "month": "Sep",
@@ -67180,6 +68667,14 @@
   ],
   "ty-love": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 47,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -67475,6 +68970,14 @@
     }
   ],
   "valerie-mandujano": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 5,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -68001,6 +69504,14 @@
   "ville-vonhertzen": [],
   "vin-mkel": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 11,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -68386,6 +69897,22 @@
   ],
   "woods-mccue": [],
   "wyatt-mahoney": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 56,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "Norbrook Fall Fling",
+      "event_key": "norbrook-fall-fling",
+      "month": "Oct",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
@@ -68863,6 +70390,22 @@
   ],
   "zach-arlinghaus": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 43,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
+      "event": "USDGC Championship Week Monday Qualifying",
+      "event_key": "usdgc-championship-week-monday-qualifying",
+      "month": "Oct",
+      "place": 5,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -69246,6 +70789,14 @@
   "zach-trotto": [],
   "zachary-nash": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 70,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT Playoffs - MVP Open x OTB",
       "event_key": "playoffs-mvp-open-x-otb",
       "month": "Sep",
@@ -69589,6 +71140,22 @@
     }
   ],
   "zoe-andyke": [
+    {
+      "event": "2026 PDGA Masters Disc Golf World Championships",
+      "event_key": "2026-pdga-masters-disc-golf-world-championships",
+      "month": "Sep",
+      "place": 4,
+      "tier": "M",
+      "tour": ""
+    },
+    {
+      "event": "2026 Masters Worlds Putting Competition",
+      "event_key": "2026-masters-worlds-putting-competition",
+      "month": "Sep",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 Oregon Women\u2019s Disc Golf Championship presented by All Day",
       "event_key": "2026-oregon-women-s-disc-golf-championship-prese",
