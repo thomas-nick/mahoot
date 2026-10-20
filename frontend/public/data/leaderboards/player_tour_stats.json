@@ -32,14 +32,14 @@
       "major_win": 400.0
     }
   },
-  "updated_at": "2026-10-19T21:19:06.691755+00:00",
+  "updated_at": "2026-10-20T17:40:50.402220+00:00",
   "divisions": {
     "MPO": {
       "division": "MPO",
       "week": "2026-40",
       "year": "2026",
       "player_count": 560,
-      "tour_player_count": 413,
+      "tour_player_count": 414,
       "event_count": 191,
       "events_by_level": {
         "major": 8,
@@ -22525,6 +22525,77 @@
           "tour_rank": 291
         },
         {
+          "slug": "herman-hatlo",
+          "name": "Herman Hatlo",
+          "dgpt_rank": 344,
+          "manufacturer": "Unknown",
+          "dgpt_points": 6.0,
+          "dgpt_points_gain": 0.0,
+          "tour_weighted_points": 20.6,
+          "wins": 0,
+          "podiums": 0,
+          "top10": 0,
+          "tour_starts": 4,
+          "by_level": {
+            "major": {
+              "starts": 0,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 0.0
+            },
+            "elite": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 15.0
+            },
+            "a_tier": {
+              "starts": 2,
+              "wins": 0,
+              "podiums": 0,
+              "top10": 0,
+              "points": 5.6
+            }
+          },
+          "recent_results": [
+            {
+              "event_key": "rpm-open-2026",
+              "event": "RPM Open 2026",
+              "month": "Aug",
+              "place": 11,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "norgesmesterskapet-i-diskgolf-2026",
+              "event": "Norgesmesterskapet i Diskgolf 2026",
+              "month": "Jul",
+              "place": 24,
+              "level": "a_tier",
+              "weighted_points": 2.8
+            },
+            {
+              "event_key": "ale-open-presented-by-discraft",
+              "event": "Ale Open presented by Discraft",
+              "month": "Jul",
+              "place": 106,
+              "level": "elite",
+              "weighted_points": 7.5
+            },
+            {
+              "event_key": "swedish-open-presented-by-kastaplast",
+              "event": "Swedish Open presented by Kastaplast",
+              "month": "Jun",
+              "place": 105,
+              "level": "elite",
+              "weighted_points": 7.5
+            }
+          ],
+          "tour_rank": 292
+        },
+        {
           "slug": "anthony-bodanza",
           "name": "Anthony Bodanza",
           "dgpt_rank": 319,
@@ -22593,7 +22664,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 292
+          "tour_rank": 293
         },
         {
           "slug": "olle-frjdlund",
@@ -22672,7 +22743,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 293
+          "tour_rank": 294
         },
         {
           "slug": "tom-shanley",
@@ -22751,7 +22822,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 294
+          "tour_rank": 295
         },
         {
           "slug": "trevor-dominy",
@@ -22806,7 +22877,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 295
+          "tour_rank": 296
         },
         {
           "slug": "bill-kirk",
@@ -22861,7 +22932,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 296
+          "tour_rank": 297
         },
         {
           "slug": "avery-jenkins",
@@ -22916,7 +22987,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 297
+          "tour_rank": 298
         },
         {
           "slug": "zane-letts",
@@ -22995,7 +23066,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 298
+          "tour_rank": 299
         },
         {
           "slug": "chandler-fry",
@@ -23050,7 +23121,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 299
+          "tour_rank": 300
         },
         {
           "slug": "mats-eerik-thk",
@@ -23121,7 +23192,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 300
+          "tour_rank": 301
         },
         {
           "slug": "peter-lunde",
@@ -23184,7 +23255,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 301
+          "tour_rank": 302
         },
         {
           "slug": "owen-hamilton",
@@ -23247,7 +23318,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 302
+          "tour_rank": 303
         },
         {
           "slug": "sam-smigiel",
@@ -23310,7 +23381,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 303
+          "tour_rank": 304
         },
         {
           "slug": "nick-schultz",
@@ -23373,7 +23444,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 304
+          "tour_rank": 305
         },
         {
           "slug": "toke-kyed",
@@ -23452,7 +23523,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 305
+          "tour_rank": 306
         },
         {
           "slug": "thomas-canfield",
@@ -23515,7 +23586,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 306
+          "tour_rank": 307
         },
         {
           "slug": "lassi-khri",
@@ -23594,7 +23665,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 307
+          "tour_rank": 308
         },
         {
           "slug": "landon-knight",
@@ -23657,7 +23728,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 308
+          "tour_rank": 309
         },
         {
           "slug": "hayden-frederiksen",
@@ -23728,7 +23799,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 309
+          "tour_rank": 310
         },
         {
           "slug": "henric-hagman",
@@ -23799,7 +23870,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 310
+          "tour_rank": 311
         },
         {
           "slug": "melker-molin",
@@ -23870,7 +23941,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 311
+          "tour_rank": 312
         },
         {
           "slug": "thunder-schultz",
@@ -23949,7 +24020,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 312
+          "tour_rank": 313
         },
         {
           "slug": "jake-lauber",
@@ -24028,7 +24099,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 313
+          "tour_rank": 314
         },
         {
           "slug": "kalle-ojala",
@@ -24099,7 +24170,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 314
+          "tour_rank": 315
         },
         {
           "slug": "silas-evaldwiwe",
@@ -24170,7 +24241,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 315
+          "tour_rank": 316
         },
         {
           "slug": "leevi-lhdesmki",
@@ -24249,7 +24320,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 316
+          "tour_rank": 317
         },
         {
           "slug": "maxime-tanghe",
@@ -24312,7 +24383,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 317
+          "tour_rank": 318
         },
         {
           "slug": "justin-bougher",
@@ -24375,7 +24446,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 318
+          "tour_rank": 319
         },
         {
           "slug": "samuel-aldrich",
@@ -24438,7 +24509,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 319
+          "tour_rank": 320
         },
         {
           "slug": "jeffrey-mccormick",
@@ -24501,7 +24572,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 320
+          "tour_rank": 321
         },
         {
           "slug": "rico-suigusaar",
@@ -24580,7 +24651,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 321
+          "tour_rank": 322
         },
         {
           "slug": "nathaniel-johnson",
@@ -24651,7 +24722,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 322
+          "tour_rank": 323
         },
         {
           "slug": "tnis-soppe",
@@ -24714,7 +24785,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 323
+          "tour_rank": 324
         },
         {
           "slug": "ian-fredrickson",
@@ -24777,7 +24848,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 324
+          "tour_rank": 325
         },
         {
           "slug": "rasmus-tuominen",
@@ -24840,7 +24911,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 325
+          "tour_rank": 326
         },
         {
           "slug": "ryan-begley",
@@ -24919,7 +24990,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 326
+          "tour_rank": 327
         },
         {
           "slug": "charles-peake-267928",
@@ -24974,7 +25045,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 327
+          "tour_rank": 328
         },
         {
           "slug": "guy-melms",
@@ -25029,7 +25100,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 328
+          "tour_rank": 329
         },
         {
           "slug": "rienk-kan",
@@ -25084,7 +25155,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 329
+          "tour_rank": 330
         },
         {
           "slug": "emile-barbe",
@@ -25139,7 +25210,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 330
+          "tour_rank": 331
         },
         {
           "slug": "martin-evans",
@@ -25194,7 +25265,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 331
+          "tour_rank": 332
         },
         {
           "slug": "cody-kirkland",
@@ -25249,7 +25320,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 332
+          "tour_rank": 333
         },
         {
           "slug": "matthew-lopez",
@@ -25304,7 +25375,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 333
+          "tour_rank": 334
         },
         {
           "slug": "markus-saarepuu",
@@ -25359,7 +25430,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 334
+          "tour_rank": 335
         },
         {
           "slug": "jacky-chen",
@@ -25414,7 +25485,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 335
+          "tour_rank": 336
         },
         {
           "slug": "tuomas-hyytiinen",
@@ -25469,7 +25540,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 336
+          "tour_rank": 337
         },
         {
           "slug": "gavin-rathbun",
@@ -25524,7 +25595,7 @@
               "weighted_points": 7.0
             }
           ],
-          "tour_rank": 337
+          "tour_rank": 338
         },
         {
           "slug": "jon-lynn",
@@ -25579,7 +25650,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 338
+          "tour_rank": 339
         },
         {
           "slug": "john-fowler",
@@ -25634,7 +25705,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 339
+          "tour_rank": 340
         },
         {
           "slug": "urho-nuutinen",
@@ -25713,7 +25784,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 340
+          "tour_rank": 341
         },
         {
           "slug": "logan-weiss",
@@ -25784,7 +25855,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 341
+          "tour_rank": 342
         },
         {
           "slug": "renrs-strazdi",
@@ -25847,7 +25918,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 342
+          "tour_rank": 343
         },
         {
           "slug": "mikk-mts",
@@ -25910,7 +25981,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 343
+          "tour_rank": 344
         },
         {
           "slug": "thomas-helgesen",
@@ -25973,7 +26044,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 344
+          "tour_rank": 345
         },
         {
           "slug": "jami-kuhanen",
@@ -26052,7 +26123,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 345
+          "tour_rank": 346
         },
         {
           "slug": "jan-mikael-lampela",
@@ -26131,7 +26202,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 346
+          "tour_rank": 347
         },
         {
           "slug": "jere-kukkurainen",
@@ -26210,7 +26281,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 347
+          "tour_rank": 348
         },
         {
           "slug": "tobias-sderqvist",
@@ -26289,7 +26360,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 348
+          "tour_rank": 349
         },
         {
           "slug": "nick-robinson",
@@ -26352,7 +26423,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 349
+          "tour_rank": 350
         },
         {
           "slug": "matias-kalaoja",
@@ -26407,7 +26478,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 350
+          "tour_rank": 351
         },
         {
           "slug": "nathaniel-weaver",
@@ -26462,7 +26533,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 351
+          "tour_rank": 352
         },
         {
           "slug": "arek-robinson",
@@ -26533,7 +26604,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 352
+          "tour_rank": 353
         },
         {
           "slug": "mark-jones",
@@ -26604,7 +26675,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 353
+          "tour_rank": 354
         },
         {
           "slug": "kyle-williams",
@@ -26651,7 +26722,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 354
+          "tour_rank": 355
         },
         {
           "slug": "tee-vetne",
@@ -26698,7 +26769,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 355
+          "tour_rank": 356
         },
         {
           "slug": "michael-babbitt",
@@ -26745,7 +26816,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 356
+          "tour_rank": 357
         },
         {
           "slug": "benjamin-vansumeren",
@@ -26792,7 +26863,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 357
+          "tour_rank": 358
         },
         {
           "slug": "guthrie-collins",
@@ -26839,7 +26910,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 358
+          "tour_rank": 359
         },
         {
           "slug": "blaz-petrovic",
@@ -26886,7 +26957,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 359
+          "tour_rank": 360
         },
         {
           "slug": "herbert-grnsteidl",
@@ -26933,7 +27004,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 360
+          "tour_rank": 361
         },
         {
           "slug": "oskar-uchliski",
@@ -26980,7 +27051,7 @@
               "weighted_points": 12.0
             }
           ],
-          "tour_rank": 361
+          "tour_rank": 362
         },
         {
           "slug": "jukka-tyni",
@@ -27059,7 +27130,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 362
+          "tour_rank": 363
         },
         {
           "slug": "jamison-monroe",
@@ -27138,7 +27209,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 363
+          "tour_rank": 364
         },
         {
           "slug": "chase-farler",
@@ -27217,7 +27288,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 364
+          "tour_rank": 365
         },
         {
           "slug": "charles-peters",
@@ -27280,7 +27351,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 365
+          "tour_rank": 366
         },
         {
           "slug": "marshall-blanks",
@@ -27343,7 +27414,7 @@
               "weighted_points": 2.8
             }
           ],
-          "tour_rank": 366
+          "tour_rank": 367
         },
         {
           "slug": "eric-downing",
@@ -27406,7 +27477,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 367
+          "tour_rank": 368
         },
         {
           "slug": "calvin-pettigrew",
@@ -27469,7 +27540,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 368
+          "tour_rank": 369
         },
         {
           "slug": "matias-mntysaari",
@@ -27540,7 +27611,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 369
+          "tour_rank": 370
         },
         {
           "slug": "albin-widman",
@@ -27611,7 +27682,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 370
+          "tour_rank": 371
         },
         {
           "slug": "matias-kanniainen",
@@ -27682,7 +27753,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 371
+          "tour_rank": 372
         },
         {
           "slug": "alex-banning",
@@ -27753,7 +27824,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 372
+          "tour_rank": 373
         },
         {
           "slug": "dallas-wrinkle",
@@ -27824,7 +27895,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 373
+          "tour_rank": 374
         },
         {
           "slug": "isaac-heinen",
@@ -27879,7 +27950,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 374
+          "tour_rank": 375
         },
         {
           "slug": "benjamin-appel",
@@ -27934,7 +28005,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 375
+          "tour_rank": 376
         },
         {
           "slug": "simo-luoma",
@@ -27997,7 +28068,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 376
+          "tour_rank": 377
         },
         {
           "slug": "sean-martin",
@@ -28060,7 +28131,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 377
+          "tour_rank": 378
         },
         {
           "slug": "dustin-klein",
@@ -28123,7 +28194,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 378
+          "tour_rank": 379
         },
         {
           "slug": "brady-harbinson",
@@ -28186,7 +28257,7 @@
               "weighted_points": 1.0
             }
           ],
-          "tour_rank": 379
+          "tour_rank": 380
         },
         {
           "slug": "tuomas-pkknen",
@@ -28241,7 +28312,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 380
+          "tour_rank": 381
         },
         {
           "slug": "josef-berg",
@@ -28296,7 +28367,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 381
+          "tour_rank": 382
         },
         {
           "slug": "eeka-klhi",
@@ -28351,7 +28422,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 382
+          "tour_rank": 383
         },
         {
           "slug": "daniel-kokunja",
@@ -28406,7 +28477,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 383
+          "tour_rank": 384
         },
         {
           "slug": "hkon-kveseth",
@@ -28461,7 +28532,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 384
+          "tour_rank": 385
         },
         {
           "slug": "aviel-gomez",
@@ -28508,7 +28579,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 385
+          "tour_rank": 386
         },
         {
           "slug": "jedd-berger",
@@ -28555,7 +28626,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 386
+          "tour_rank": 387
         },
         {
           "slug": "zack-wysocki",
@@ -28602,7 +28673,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 387
+          "tour_rank": 388
         },
         {
           "slug": "tj-reel",
@@ -28649,7 +28720,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 388
+          "tour_rank": 389
         },
         {
           "slug": "isaiah-oliver",
@@ -28696,7 +28767,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 389
+          "tour_rank": 390
         },
         {
           "slug": "ryan-jewell",
@@ -28743,7 +28814,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 390
+          "tour_rank": 391
         },
         {
           "slug": "cola-ditullio",
@@ -28790,7 +28861,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 391
+          "tour_rank": 392
         },
         {
           "slug": "ryan-bain",
@@ -28837,7 +28908,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 392
+          "tour_rank": 393
         },
         {
           "slug": "houston-finch",
@@ -28884,7 +28955,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 393
+          "tour_rank": 394
         },
         {
           "slug": "simon-crosby",
@@ -28931,7 +29002,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 394
+          "tour_rank": 395
         },
         {
           "slug": "justin-mateo",
@@ -28978,7 +29049,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 395
+          "tour_rank": 396
         },
         {
           "slug": "scott-stokely",
@@ -29025,7 +29096,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 396
+          "tour_rank": 397
         },
         {
           "slug": "chad-sherbert",
@@ -29072,7 +29143,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 397
+          "tour_rank": 398
         },
         {
           "slug": "joshua-patin",
@@ -29119,7 +29190,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 398
+          "tour_rank": 399
         },
         {
           "slug": "nolan-johnson",
@@ -29166,7 +29237,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 399
+          "tour_rank": 400
         },
         {
           "slug": "abraham-johnson",
@@ -29213,7 +29284,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 400
+          "tour_rank": 401
         },
         {
           "slug": "ryan-chesla",
@@ -29260,7 +29331,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 401
+          "tour_rank": 402
         },
         {
           "slug": "andrew-bakken",
@@ -29307,7 +29378,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 402
+          "tour_rank": 403
         },
         {
           "slug": "gideon-drake",
@@ -29354,7 +29425,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 403
+          "tour_rank": 404
         },
         {
           "slug": "justin-j-rocliddell",
@@ -29401,7 +29472,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 404
+          "tour_rank": 405
         },
         {
           "slug": "bryce-harvey",
@@ -29448,7 +29519,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 405
+          "tour_rank": 406
         },
         {
           "slug": "adrian-zapata",
@@ -29495,7 +29566,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 406
+          "tour_rank": 407
         },
         {
           "slug": "daniel-umbarger",
@@ -29542,7 +29613,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 407
+          "tour_rank": 408
         },
         {
           "slug": "henry-thoma",
@@ -29589,7 +29660,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 408
+          "tour_rank": 409
         },
         {
           "slug": "michael-bueno",
@@ -29636,7 +29707,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 409
+          "tour_rank": 410
         },
         {
           "slug": "perry-walker",
@@ -29683,7 +29754,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 410
+          "tour_rank": 411
         },
         {
           "slug": "yashua-xiong",
@@ -29730,7 +29801,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 411
+          "tour_rank": 412
         },
         {
           "slug": "brendan-orwig",
@@ -29777,7 +29848,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 412
+          "tour_rank": 413
         },
         {
           "slug": "christopher-meyer",
@@ -29824,7 +29895,7 @@
               "weighted_points": 7.5
             }
           ],
-          "tour_rank": 413
+          "tour_rank": 414
         }
       ],
       "events": [
@@ -31932,7 +32003,7 @@
           "month": "Aug",
           "level": "a_tier",
           "multiplier": 0.35,
-          "entries": 5,
+          "entries": 6,
           "winner": {
             "slug": "oiva-pivnsalo",
             "name": "Oiva P\u00e4iv\u00e4nsalo",
@@ -31963,17 +32034,17 @@
               "weighted_points": 7.0
             },
             {
+              "slug": "herman-hatlo",
+              "name": "Herman Hatlo",
+              "manufacturer": "Unknown",
+              "place": 11,
+              "weighted_points": 2.8
+            },
+            {
               "slug": "espen-normannpaulsen",
               "name": "Espen Normann Paulsen",
               "manufacturer": "Unknown",
               "place": 14,
-              "weighted_points": 2.8
-            },
-            {
-              "slug": "stanislaus-amann",
-              "name": "Stanislaus Amann",
-              "manufacturer": "Unknown",
-              "place": 16,
               "weighted_points": 2.8
             }
           ]
@@ -33522,7 +33593,7 @@
           "month": "Jul",
           "level": "a_tier",
           "multiplier": 0.35,
-          "entries": 11,
+          "entries": 12,
           "winner": {
             "slug": "henrik-haaland",
             "name": "Henrik Haaland",
@@ -33931,7 +34002,7 @@
           "month": "Jul",
           "level": "elite",
           "multiplier": 2.5,
-          "entries": 103,
+          "entries": 104,
           "winner": {
             "slug": "richard-wysocki",
             "name": "Richard Wysocki",
@@ -35305,7 +35376,7 @@
           "month": "Jun",
           "level": "elite",
           "multiplier": 2.5,
-          "entries": 108,
+          "entries": 109,
           "winner": {
             "slug": "eagle-mcmahon",
             "name": "Eagle McMahon",

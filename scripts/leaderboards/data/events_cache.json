@@ -4828,6 +4828,14 @@
   ],
   "anna-pinter": [
     {
+      "event": "Chains on the Links XIII - Sponsored by Dynamic Discs",
+      "event_key": "chains-on-the-links-xiii-sponsored-by-dynamic-di",
+      "month": "Oct",
+      "place": 3,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "3rd Annual Warrior Run Open",
       "event_key": "3rd-annual-warrior-run-open",
       "month": "Sep",
@@ -29515,7 +29523,80 @@
     }
   ],
   "herman-bentzenhinkel": [],
-  "herman-hatlo": [],
+  "herman-hatlo": [
+    {
+      "event": "NC 5 Open Kodal",
+      "event_key": "nc-5-open-kodal",
+      "month": "Sep",
+      "place": 10,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "RPM Open 2026",
+      "event_key": "rpm-open-2026",
+      "month": "Aug",
+      "place": 11,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Arvika Open 2026 - Presented by Kastaplast",
+      "event_key": "arvika-open-2026-presented-by-kastaplast",
+      "month": "Aug",
+      "place": 18,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Norgesmesterskapet i Diskgolf 2026",
+      "event_key": "norgesmesterskapet-i-diskgolf-2026",
+      "month": "Jul",
+      "place": 24,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "DGPT - Ale Open presented by Discraft",
+      "event_key": "ale-open-presented-by-discraft",
+      "month": "Jul",
+      "place": 106,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "DGPT - Swedish Open presented by Kastaplast",
+      "event_key": "swedish-open-presented-by-kastaplast",
+      "month": "Jun",
+      "place": 105,
+      "tier": "NT",
+      "tour": "DGPT"
+    },
+    {
+      "event": "NC3 Valdres Open presented by Discmania",
+      "event_key": "nc3-valdres-open-presented-by-discmania",
+      "month": "Jun",
+      "place": 35,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NC 2 Open Hestehagen",
+      "event_key": "nc-2-open-hestehagen",
+      "month": "May",
+      "place": 40,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "NC 1 Open \u00d8ver\u00e5s - presented by Innova Champion Discs",
+      "event_key": "nc-1-open-ver-s-presented-by-innova-champion-dis",
+      "month": "May",
+      "place": 59,
+      "tier": "B",
+      "tour": ""
+    }
+  ],
   "hjalmar-fredriksson": [
     {
       "event": "John Bauer Open - Sm\u00e5landstouren #10",
