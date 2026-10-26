@@ -1,12 +1,12 @@
 {
   "title": "DGPT Manufacturers Cup",
   "description": "F1-style constructors championship for disc golf brands",
-  "updated_at": "2026-10-20T17:40:50.402203+00:00",
+  "updated_at": "2026-10-26T21:17:38.203991+00:00",
   "divisions": {
     "MPO": {
       "division": "MPO",
       "week": "2026-40",
-      "updated_at": "2026-10-20T17:41:52.989686+00:00",
+      "updated_at": "2026-10-26T21:18:38.163789+00:00",
       "source": "https://statmando.com/rankings/dgpt/mpo",
       "player_count": 560,
       "mapped_players": 120,
@@ -8201,7 +8201,7 @@
     "FPO": {
       "division": "FPO",
       "week": "2026-40",
-      "updated_at": "2026-10-20T17:42:13.923876+00:00",
+      "updated_at": "2026-10-26T21:18:59.318738+00:00",
       "source": "https://statmando.com/rankings/dgpt/fpo",
       "player_count": 195,
       "mapped_players": 52,

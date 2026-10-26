@@ -7344,6 +7344,22 @@
   ],
   "benjamin-appel": [
     {
+      "event": "The 45th Conrad Weiser Open- Pro Day",
+      "event_key": "the-45th-conrad-weiser-open-pro-day",
+      "month": "Oct",
+      "place": 10,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The 45th Conrad Weiser Open - Scout (Flex) Day",
+      "event_key": "the-45th-conrad-weiser-open-scout-flex-day",
+      "month": "Oct",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
       "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
       "month": "Sep",
@@ -11912,6 +11928,22 @@
   ],
   "cassandra-lioi": [
     {
+      "event": "The 2026 Wilcox WOW presented by Sheeley Roofing",
+      "event_key": "the-2026-wilcox-wow-presented-by-sheeley-roofing",
+      "month": "Oct",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Norbrook Fall Fling",
+      "event_key": "norbrook-fall-fling",
+      "month": "Oct",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
       "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
       "month": "Sep",
@@ -12968,6 +13000,14 @@
   ],
   "chandler-whisenand": [],
   "chantel-budinsky": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 23,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "Phoenix & Griffin Games presents the 2026 Syracuse Open sponsored",
       "event_key": "phoenix-griffin-games-presents-the-2026-syracuse",
@@ -17000,6 +17040,22 @@
   ],
   "david-hurley": [
     {
+      "event": "Auburn Fall Classic",
+      "event_key": "auburn-fall-classic",
+      "month": "Oct",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "48th Gold Pan Open - Western States Disc Golf Championships",
+      "event_key": "48th-gold-pan-open-western-states-disc-golf-cham",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Protopipe Presents The Brooktrails Open Supported by Innova",
       "event_key": "protopipe-presents-the-brooktrails-open-supporte",
       "month": "Sep",
@@ -18655,6 +18711,14 @@
     }
   ],
   "eden-fornoff": [
+    {
+      "event": "Women's Open of Maryland Edition Number 9 (WOMEN9)",
+      "event_key": "women-s-open-of-maryland-edition-number-9-women9",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
       "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
@@ -34371,6 +34435,22 @@
   ],
   "jeffrey-mccormick": [
     {
+      "event": "CenCal Finals",
+      "event_key": "cencal-finals",
+      "month": "Oct",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "WIDOWMAKER VI",
+      "event_key": "widowmaker-vi",
+      "month": "Oct",
+      "place": 11,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Success Standoff",
       "event_key": "success-standoff",
       "month": "Sep",
@@ -35441,6 +35521,30 @@
   ],
   "jesse-henderson": [],
   "jesse-longenecker": [
+    {
+      "event": "Play for Nathan presented by Treemagnets",
+      "event_key": "play-for-nathan-presented-by-treemagnets",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "2026 Mid-Atlantic Collegiate Championship Presented by MVP Disc S",
+      "event_key": "2026-mid-atlantic-collegiate-championship-presen",
+      "month": "Oct",
+      "place": 4,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Mid-Atlantic Collegiate Championship Presented by MVP Disc S",
+      "event_key": "2026-mid-atlantic-collegiate-championship-presen",
+      "month": "Oct",
+      "place": 3,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
       "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
@@ -38439,6 +38543,22 @@
     }
   ],
   "justin-bougher": [
+    {
+      "event": "Auburn Fall Classic",
+      "event_key": "auburn-fall-classic",
+      "month": "Oct",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "48th Gold Pan Open - Western States Disc Golf Championships",
+      "event_key": "48th-gold-pan-open-western-states-disc-golf-cham",
+      "month": "Oct",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Rocklin Pro-Am hosted by Final 9 Sports",
       "event_key": "rocklin-pro-am-hosted-by-final-9-sports",
@@ -44072,6 +44192,14 @@
   ],
   "logan-weiss": [
     {
+      "event": "5th Annual Mississippi Disc Golf Hall of Fame Classic",
+      "event_key": "5th-annual-mississippi-disc-golf-hall-of-fame-cl",
+      "month": "Oct",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Bayou Teche Open",
       "event_key": "bayou-teche-open",
       "month": "Sep",
@@ -46738,6 +46866,14 @@
   ],
   "marshall-blanks": [
     {
+      "event": "The 27th Oktoberfest (A HOTT Points Event) - Presented by MINT Di",
+      "event_key": "the-27th-oktoberfest-a-hott-points-event-present",
+      "month": "Oct",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "The 2026 Junction Summer Classic (A HOTT Points Event) - Presente",
       "event_key": "the-2026-junction-summer-classic-a-hott-points-e",
       "month": "Jul",
@@ -46919,6 +47055,22 @@
   ],
   "martin-evans": [
     {
+      "event": "Auburn Fall Classic",
+      "event_key": "auburn-fall-classic",
+      "month": "Oct",
+      "place": 14,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "WIDOWMAKER VI",
+      "event_key": "widowmaker-vi",
+      "month": "Oct",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Shumway Shootout 2026 -- A CenCal Series Event",
       "event_key": "shumway-shootout-2026-a-cencal-series-event",
       "month": "Sep",
@@ -47026,11 +47178,35 @@
   ],
   "martin-hendel": [
     {
+      "event": "Flingsgiving 2026 - All PRO + MA1 Supported by Innova",
+      "event_key": "flingsgiving-2026-all-pro-ma1-supported-by-innov",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Backbone Veteran Open Sponsored by Dynamic Discs (Pros)",
+      "event_key": "backbone-veteran-open-sponsored-by-dynamic-discs",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "2026 PDGA Masters Disc Golf World Championships",
       "event_key": "2026-pdga-masters-disc-golf-world-championships",
       "month": "Sep",
       "place": 8,
       "tier": "M",
+      "tour": ""
+    },
+    {
+      "event": "2026 Masters Worlds Divisional Doubles",
+      "event_key": "2026-masters-worlds-divisional-doubles",
+      "month": "Sep",
+      "place": 1,
+      "tier": "XC",
       "tour": ""
     },
     {
@@ -48102,6 +48278,14 @@
   ],
   "matt-doughten": [],
   "matt-hammersten": [
+    {
+      "event": "15th Annual LoCo Open - Pro",
+      "event_key": "15th-annual-loco-open-pro",
+      "month": "Oct",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "DGPT Q-Series: Pennsylvania State Disc Golf Championship 2026 pre",
       "event_key": "q-series-pennsylvania-state-disc-golf-championsh",
@@ -55951,6 +56135,14 @@
   ],
   "owen-mccall": [
     {
+      "event": "2026 Casey Logan Fall Throwdown",
+      "event_key": "2026-casey-logan-fall-throwdown",
+      "month": "Oct",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "15th Annual LoCo Open - Pro",
       "event_key": "15th-annual-loco-open-pro",
       "month": "Oct",
@@ -60264,6 +60456,14 @@
   "ryan-clark-1": [],
   "ryan-hahn": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 84,
+      "tier": "XM",
+      "tour": "Major"
+    },
+    {
       "event": "Discraft Presents: Spike Hyzer's 41st Sneeky Pete Classic",
       "event_key": "discraft-presents-spike-hyzer-s-41st-sneeky-pete",
       "month": "Sep",
@@ -61049,6 +61249,22 @@
   ],
   "sam-dicarlo": [
     {
+      "event": "13th Annual Crosstown Throwdown",
+      "event_key": "13th-annual-crosstown-throwdown",
+      "month": "Oct",
+      "place": 12,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Dynamic Discs and the Rose City Disc Club Present the 23rd Annual",
+      "event_key": "dynamic-discs-and-the-rose-city-disc-club-presen",
+      "month": "Oct",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Dynamic Discs Presents the McKinney Classic",
       "event_key": "dynamic-discs-presents-the-mckinney-classic",
       "month": "Sep",
@@ -61374,6 +61590,14 @@
   ],
   "samantha-bonacci": [],
   "samuel-aldrich": [
+    {
+      "event": "Auburn Fall Classic",
+      "event_key": "auburn-fall-classic",
+      "month": "Oct",
+      "place": 11,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Merced Meltdown 2026 Presented by Sierra Disc Golf Co.",
       "event_key": "merced-meltdown-2026-presented-by-sierra-disc-go",
@@ -61712,6 +61936,14 @@
     }
   ],
   "sarah-hokom": [
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 35,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA Masters Disc Golf World Championships",
       "event_key": "2026-pdga-masters-disc-golf-world-championships",
@@ -66568,6 +66800,14 @@
     }
   ],
   "thunder-schultz": [
+    {
+      "event": "Servicare Presents: The Haunted Meadow Open: Chains of Terror",
+      "event_key": "servicare-presents-the-haunted-meadow-open-chain",
+      "month": "Oct",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Arctic Sizzler",
       "event_key": "arctic-sizzler",
