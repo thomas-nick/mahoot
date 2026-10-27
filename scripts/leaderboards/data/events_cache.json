@@ -621,6 +621,14 @@
   ],
   "adam-hammes": [
     {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
+    {
       "event": "2026 United States Disc Golf Championship",
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
@@ -5372,6 +5380,14 @@
     }
   ],
   "anthony-barela": [
+    {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 22,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
     {
       "event": "2026 United States Disc Golf Championship",
       "event_key": "2026-united-states-disc-golf-championship",
@@ -10476,6 +10492,14 @@
   ],
   "calvin-heimburg": [
     {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 8,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
+    {
       "event": "2026 United States Disc Golf Championship",
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
@@ -12098,6 +12122,14 @@
   ],
   "catrina-allen": [
     {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 7,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
+    {
       "event": "Throw Pink Women's Disc Golf Championship",
       "event_key": "throw-pink-women-s-disc-golf-championship",
       "month": "Oct",
@@ -12325,6 +12357,22 @@
   ],
   "ceci-vollbrecht": [],
   "chad-sherbert": [
+    {
+      "event": "5th Annual Mississippi Disc Golf Hall of Fame Classic",
+      "event_key": "5th-annual-mississippi-disc-golf-hall-of-fame-cl",
+      "month": "Oct",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Chautauqua Park Open presented by Pappas Pizza Pie",
+      "event_key": "chautauqua-park-open-presented-by-pappas-pizza-p",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Winston County Classic",
       "event_key": "winston-county-classic",
@@ -13804,6 +13852,14 @@
   "chris-reliford": [],
   "christian-byars": [],
   "christian-dietrich": [
+    {
+      "event": "2026 Montana State Championships driven by INNOVA",
+      "event_key": "2026-montana-state-championships-driven-by-innov",
+      "month": "Oct",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Rocky Mountain Championships - Sward Ranch",
       "event_key": "rocky-mountain-championships-sward-ranch",
@@ -15397,6 +15453,14 @@
     }
   ],
   "corey-dryden": [
+    {
+      "event": "2026 TVDG Tour Series Finale",
+      "event_key": "2026-tvdg-tour-series-finale",
+      "month": "Oct",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "2026 TVDG Tour Series #5",
       "event_key": "2026-tvdg-tour-series-5",
@@ -20879,6 +20943,22 @@
   ],
   "ella-hansen": [
     {
+      "event": "2026 Disc Golf Wentworth Summit Series Championship",
+      "event_key": "2026-disc-golf-wentworth-summit-series-champions",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
+    {
       "event": "Throw Pink Women's Disc Golf Championship",
       "event_key": "throw-pink-women-s-disc-golf-championship",
       "month": "Oct",
@@ -24021,6 +24101,14 @@
   "evan-walker": [],
   "eveliina-salonen": [
     {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
+    {
       "event": "Throw Pink Women's Disc Golf Championship",
       "event_key": "throw-pink-women-s-disc-golf-championship",
       "month": "Oct",
@@ -25682,6 +25770,14 @@
   "gage-johnson": [],
   "gannon-buhr": [
     {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
+    {
       "event": "2026 United States Disc Golf Championship",
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
@@ -26349,6 +26445,14 @@
   ],
   "gaute-hauge": [],
   "gavin-babcock": [
+    {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 14,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
     {
       "event": "2026 United States Disc Golf Championship",
       "event_key": "2026-united-states-disc-golf-championship",
@@ -28696,6 +28800,22 @@
   "hayden-carroll": [],
   "hayden-frederiksen": [
     {
+      "event": "Duncan Glass & Mirror Title Town Open, Driven By Innova",
+      "event_key": "duncan-glass-mirror-title-town-open-driven-by-in",
+      "month": "Oct",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Battle At Buffalo",
+      "event_key": "battle-at-buffalo",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Dynamic Discs Presents the McKinney Classic",
       "event_key": "dynamic-discs-presents-the-mckinney-classic",
       "month": "Sep",
@@ -30145,6 +30265,14 @@
   ],
   "holyn-handley": [
     {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
+    {
       "event": "Throw Pink Women's Disc Golf Championship",
       "event_key": "throw-pink-women-s-disc-golf-championship",
       "month": "Oct",
@@ -30976,6 +31104,22 @@
     }
   ],
   "isaac-robinson": [
+    {
+      "event": "2026 Flying Eye Open supported by Innova",
+      "event_key": "2026-flying-eye-open-supported-by-innova",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
     {
       "event": "2026 United States Disc Golf Championship",
       "event_key": "2026-united-states-disc-golf-championship",
@@ -39873,6 +40017,14 @@
     }
   ],
   "kat-mertsch": [
+    {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 11,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
     {
       "event": "Throw Pink Women's Disc Golf Championship",
       "event_key": "throw-pink-women-s-disc-golf-championship",
@@ -51242,6 +51394,14 @@
   ],
   "missy-gannon": [
     {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
+    {
       "event": "Throw Pink Women's Disc Golf Championship",
       "event_key": "throw-pink-women-s-disc-golf-championship",
       "month": "Oct",
@@ -54118,6 +54278,14 @@
   ],
   "niklas-anttila": [
     {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 5,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
+    {
       "event": "2026 United States Disc Golf Championship",
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
@@ -55139,6 +55307,14 @@
     }
   ],
   "ohn-scoggins": [
+    {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 3,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
     {
       "event": "Throw Pink Women's Disc Golf Championship",
       "event_key": "throw-pink-women-s-disc-golf-championship",
@@ -58832,6 +59008,14 @@
   ],
   "rebecca-don": [
     {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 9,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
+    {
       "event": "Throw Pink Women's Disc Golf Championship",
       "event_key": "throw-pink-women-s-disc-golf-championship",
       "month": "Oct",
@@ -59408,6 +59592,14 @@
     }
   ],
   "richard-wysocki": [
+    {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 2,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
     {
       "event": "2026 United States Disc Golf Championship",
       "event_key": "2026-united-states-disc-golf-championship",
@@ -62524,6 +62716,22 @@
   ],
   "sean-martin": [
     {
+      "event": "The Remix at Camp T",
+      "event_key": "the-remix-at-camp-t",
+      "month": "Oct",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Veer",
+      "event_key": "the-veer",
+      "month": "Oct",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "All Day Disc Golf Presents the 2026 Oak Grove Open Sponsored by K",
       "event_key": "all-day-disc-golf-presents-the-2026-oak-grove-op",
       "month": "Jul",
@@ -63205,6 +63413,14 @@
   ],
   "silas-schultz": [
     {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 22,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
+    {
       "event": "2026 United States Disc Golf Championship",
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
@@ -63383,6 +63599,14 @@
     }
   ],
   "silva-saarinen": [
+    {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 1,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
     {
       "event": "Throw Pink Women's Disc Golf Championship",
       "event_key": "throw-pink-women-s-disc-golf-championship",
@@ -64924,6 +65148,14 @@
   ],
   "sullivan-tipton": [
     {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 6,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
+    {
       "event": "2026 United States Disc Golf Championship",
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
@@ -65712,6 +65944,38 @@
     }
   ],
   "taylor-coulam": [
+    {
+      "event": "The ORDGC at The EDGE presented by Resistance Discs",
+      "event_key": "the-ordgc-at-the-edge-presented-by-resistance-di",
+      "month": "Oct",
+      "place": 45,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "The Remix at Camp T",
+      "event_key": "the-remix-at-camp-t",
+      "month": "Oct",
+      "place": 15,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "The Veer",
+      "event_key": "the-veer",
+      "month": "Oct",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Hab/Rec Fall Open",
+      "event_key": "hab-rec-fall-open",
+      "month": "Oct",
+      "place": 16,
+      "tier": "U",
+      "tour": ""
+    },
     {
       "event": "Brush Prairie Open",
       "event_key": "brush-prairie-open",
@@ -69291,6 +69555,14 @@
     }
   ],
   "valerie-mandujano": [
+    {
+      "event": "DGPT Playoffs - DGPT Powerball Cup",
+      "event_key": "playoffs-dgpt-powerball-cup",
+      "month": "Oct",
+      "place": 15,
+      "tier": "NT",
+      "tour": "DGPT-C"
+    },
     {
       "event": "Throw Pink Women's Disc Golf Championship",
       "event_key": "throw-pink-women-s-disc-golf-championship",

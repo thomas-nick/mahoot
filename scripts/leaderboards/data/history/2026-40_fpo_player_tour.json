@@ -1,13 +1,13 @@
 {
   "division": "FPO",
   "week": "2026-40",
-  "saved_at": "2026-10-26T21:18:59.329380+00:00",
+  "saved_at": "2026-10-27T18:31:55.283636+00:00",
   "players": [
     {
       "slug": "ohn-scoggins",
       "name": "Ohn Scoggins",
       "tour_rank": 1,
-      "tour_weighted_points": 2960.7,
+      "tour_weighted_points": 3098.2,
       "dgpt_rank": 1,
       "wins": 14
     },
@@ -15,7 +15,7 @@
       "slug": "holyn-handley",
       "name": "Holyn Handley",
       "tour_rank": 2,
-      "tour_weighted_points": 2902.5,
+      "tour_weighted_points": 3040.0,
       "dgpt_rank": 2,
       "wins": 3
     },
@@ -23,15 +23,15 @@
       "slug": "silva-saarinen",
       "name": "Silva Saarinen",
       "tour_rank": 3,
-      "tour_weighted_points": 2659.2,
+      "tour_weighted_points": 2909.2,
       "dgpt_rank": 3,
-      "wins": 6
+      "wins": 7
     },
     {
       "slug": "eveliina-salonen",
       "name": "Eveliina Salonen",
       "tour_rank": 4,
-      "tour_weighted_points": 2332.0,
+      "tour_weighted_points": 2519.5,
       "dgpt_rank": 5,
       "wins": 5
     },
@@ -39,7 +39,7 @@
       "slug": "missy-gannon",
       "name": "Missy Gannon",
       "tour_rank": 5,
-      "tour_weighted_points": 1910.0,
+      "tour_weighted_points": 1997.5,
       "dgpt_rank": 4,
       "wins": 0
     },
@@ -47,7 +47,7 @@
       "slug": "ella-hansen",
       "name": "Ella Hansen",
       "tour_rank": 6,
-      "tour_weighted_points": 1579.0,
+      "tour_weighted_points": 1629.0,
       "dgpt_rank": 6,
       "wins": 1
     },
@@ -55,7 +55,7 @@
       "slug": "catrina-allen",
       "name": "Catrina Allen",
       "tour_rank": 7,
-      "tour_weighted_points": 1511.6,
+      "tour_weighted_points": 1561.6,
       "dgpt_rank": 7,
       "wins": 2
     },
@@ -79,7 +79,7 @@
       "slug": "kat-mertsch",
       "name": "Kat Mertsch",
       "tour_rank": 10,
-      "tour_weighted_points": 1020.6,
+      "tour_weighted_points": 1040.6,
       "dgpt_rank": 10,
       "wins": 2
     },
@@ -95,7 +95,7 @@
       "slug": "rebecca-don",
       "name": "Rebecca Don",
       "tour_rank": 12,
-      "tour_weighted_points": 916.2,
+      "tour_weighted_points": 966.2,
       "dgpt_rank": 8,
       "wins": 0
     }
