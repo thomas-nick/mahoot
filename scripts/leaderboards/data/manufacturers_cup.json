@@ -1,12 +1,12 @@
 {
   "title": "DGPT Manufacturers Cup",
   "description": "F1-style constructors championship for disc golf brands",
-  "updated_at": "2026-10-27T18:29:33.965451+00:00",
+  "updated_at": "2026-11-02T23:46:03.545660+00:00",
   "divisions": {
     "MPO": {
       "division": "MPO",
       "week": "2026-40",
-      "updated_at": "2026-10-27T18:31:21.193426+00:00",
+      "updated_at": "2026-11-02T23:47:54.098663+00:00",
       "source": "https://statmando.com/rankings/dgpt/mpo",
       "player_count": 560,
       "mapped_players": 120,
@@ -17,8 +17,8 @@
         "coverage_pct": 0.214,
         "brand_count": 16,
         "avg_roster_size": 7.5,
-        "total_wins": 23,
-        "total_starts": 1279
+        "total_wins": 24,
+        "total_starts": 1305
       },
       "manufacturers": [
         {
@@ -29,8 +29,8 @@
           "points_gain": 1042.65,
           "player_count": 440,
           "wins": 2,
-          "top10s": 45,
-          "starts": 1182,
+          "top10s": 47,
+          "starts": 1188,
           "best_player": "Zachary Nash",
           "best_player_points": 1062.31,
           "players": [
@@ -41,10 +41,10 @@
               "name": "Zachary Nash",
               "points": 1062.31,
               "points_gain": 38.33,
-              "starts": 18,
+              "starts": 19,
               "wins": 0,
-              "top10s": 5,
-              "cashed": 13,
+              "top10s": 6,
+              "cashed": 14,
               "manufacturer": "Unknown"
             },
             {
@@ -54,10 +54,10 @@
               "name": "Joseph Anderson",
               "points": 982.0,
               "points_gain": 76.67,
-              "starts": 21,
+              "starts": 22,
               "wins": 0,
               "top10s": 4,
-              "cashed": 19,
+              "cashed": 20,
               "manufacturer": "Unknown"
             },
             {
@@ -67,10 +67,10 @@
               "name": "Jaden Rye",
               "points": 935.17,
               "points_gain": 51.67,
-              "starts": 22,
+              "starts": 23,
               "wins": 0,
               "top10s": 2,
-              "cashed": 17,
+              "cashed": 18,
               "manufacturer": "Unknown"
             },
             {
@@ -80,10 +80,10 @@
               "name": "Evan Smith",
               "points": 852.67,
               "points_gain": 191.67,
-              "starts": 9,
+              "starts": 10,
               "wins": 1,
               "top10s": 5,
-              "cashed": 9,
+              "cashed": 10,
               "manufacturer": "Unknown"
             },
             {
@@ -93,10 +93,10 @@
               "name": "Corey Ellis",
               "points": 806.87,
               "points_gain": 126.67,
-              "starts": 16,
+              "starts": 17,
               "wins": 0,
-              "top10s": 2,
-              "cashed": 12,
+              "top10s": 3,
+              "cashed": 13,
               "manufacturer": "Unknown"
             },
             {
@@ -184,10 +184,10 @@
               "name": "Fritiof Fagergren",
               "points": 376.42,
               "points_gain": 109.58,
-              "starts": 9,
+              "starts": 10,
               "wins": 0,
               "top10s": 1,
-              "cashed": 4,
+              "cashed": 5,
               "manufacturer": "Unknown"
             },
             {
@@ -5762,10 +5762,10 @@
             "avg_points": 44.3,
             "avg_points_gain": 2.4,
             "avg_starts": 2.7,
-            "total_cashed": 295,
-            "cash_rate": 0.25,
+            "total_cashed": 301,
+            "cash_rate": 0.253,
             "win_rate": 0.002,
-            "top10_rate": 0.038,
+            "top10_rate": 0.04,
             "momentum": 1042.7
           },
           "rank": 1
@@ -5778,8 +5778,8 @@
           "points_gain": 1182.51,
           "player_count": 27,
           "wins": 7,
-          "top10s": 58,
-          "starts": 281,
+          "top10s": 61,
+          "starts": 290,
           "best_player": "Richard Wysocki",
           "best_player_points": 1942.94,
           "players": [
@@ -5790,10 +5790,10 @@
               "name": "Richard Wysocki",
               "points": 1942.94,
               "points_gain": 250.0,
-              "starts": 19,
+              "starts": 20,
               "wins": 4,
-              "top10s": 13,
-              "cashed": 19,
+              "top10s": 14,
+              "cashed": 20,
               "manufacturer": "Discraft"
             },
             {
@@ -5803,10 +5803,10 @@
               "name": "Adam Hammes",
               "points": 1575.83,
               "points_gain": 156.67,
-              "starts": 22,
+              "starts": 23,
               "wins": 1,
-              "top10s": 11,
-              "cashed": 20,
+              "top10s": 12,
+              "cashed": 21,
               "manufacturer": "Discraft"
             },
             {
@@ -5816,10 +5816,10 @@
               "name": "Anthony Barela",
               "points": 1292.55,
               "points_gain": 51.67,
-              "starts": 21,
+              "starts": 22,
               "wins": 0,
               "top10s": 7,
-              "cashed": 17,
+              "cashed": 18,
               "manufacturer": "Discraft"
             },
             {
@@ -5829,10 +5829,10 @@
               "name": "Ezra Robinson",
               "points": 1207.33,
               "points_gain": 126.67,
-              "starts": 21,
+              "starts": 22,
               "wins": 0,
-              "top10s": 7,
-              "cashed": 19,
+              "top10s": 8,
+              "cashed": 20,
               "manufacturer": "Discraft"
             },
             {
@@ -5842,10 +5842,10 @@
               "name": "Luke Taylor",
               "points": 1180.23,
               "points_gain": 61.67,
-              "starts": 22,
+              "starts": 23,
               "wins": 1,
               "top10s": 8,
-              "cashed": 19,
+              "cashed": 20,
               "manufacturer": "Discraft"
             },
             {
@@ -5855,10 +5855,10 @@
               "name": "Chris Dickerson",
               "points": 1040.5,
               "points_gain": 90.0,
-              "starts": 15,
+              "starts": 16,
               "wins": 0,
               "top10s": 3,
-              "cashed": 15,
+              "cashed": 16,
               "manufacturer": "Discraft"
             },
             {
@@ -5868,10 +5868,10 @@
               "name": "Paul Ulibarri",
               "points": 803.82,
               "points_gain": 42.5,
-              "starts": 17,
+              "starts": 18,
               "wins": 1,
               "top10s": 2,
-              "cashed": 12,
+              "cashed": 13,
               "manufacturer": "Discraft"
             },
             {
@@ -5894,10 +5894,10 @@
               "name": "Zach Arlinghaus",
               "points": 607.33,
               "points_gain": 109.58,
-              "starts": 17,
+              "starts": 18,
               "wins": 0,
               "top10s": 0,
-              "cashed": 11,
+              "cashed": 12,
               "manufacturer": "Discraft"
             },
             {
@@ -5907,10 +5907,10 @@
               "name": "Ezra Aderhold",
               "points": 572.64,
               "points_gain": 109.58,
-              "starts": 21,
+              "starts": 22,
               "wins": 0,
               "top10s": 0,
-              "cashed": 13,
+              "cashed": 14,
               "manufacturer": "Discraft"
             },
             {
@@ -6141,11 +6141,11 @@
             "top100_count": 15,
             "avg_points": 480.8,
             "avg_points_gain": 43.8,
-            "avg_starts": 10.4,
-            "total_cashed": 192,
-            "cash_rate": 0.683,
-            "win_rate": 0.025,
-            "top10_rate": 0.206,
+            "avg_starts": 10.7,
+            "total_cashed": 201,
+            "cash_rate": 0.693,
+            "win_rate": 0.024,
+            "top10_rate": 0.21,
             "momentum": 1182.5
           },
           "rank": 2,
@@ -6168,9 +6168,9 @@
           "points": 7965.28,
           "points_gain": 516.67,
           "player_count": 10,
-          "wins": 10,
-          "top10s": 48,
-          "starts": 135,
+          "wins": 11,
+          "top10s": 50,
+          "starts": 139,
           "best_player": "Gannon Buhr",
           "best_player_points": 2466.67,
           "players": [
@@ -6181,10 +6181,10 @@
               "name": "Gannon Buhr",
               "points": 2466.67,
               "points_gain": 140.0,
-              "starts": 23,
-              "wins": 9,
-              "top10s": 23,
-              "cashed": 23,
+              "starts": 24,
+              "wins": 10,
+              "top10s": 24,
+              "cashed": 24,
               "manufacturer": "Discmania"
             },
             {
@@ -6194,10 +6194,10 @@
               "name": "Niklas Anttila",
               "points": 1409.88,
               "points_gain": 100.0,
-              "starts": 17,
+              "starts": 18,
               "wins": 1,
-              "top10s": 9,
-              "cashed": 16,
+              "top10s": 10,
+              "cashed": 17,
               "manufacturer": "Discmania"
             },
             {
@@ -6207,10 +6207,10 @@
               "name": "Gavin Babcock",
               "points": 1285.61,
               "points_gain": 90.0,
-              "starts": 21,
+              "starts": 22,
               "wins": 0,
               "top10s": 7,
-              "cashed": 19,
+              "cashed": 20,
               "manufacturer": "Discmania"
             },
             {
@@ -6220,10 +6220,10 @@
               "name": "Casey White",
               "points": 1132.5,
               "points_gain": 126.67,
-              "starts": 17,
+              "starts": 18,
               "wins": 0,
               "top10s": 4,
-              "cashed": 17,
+              "cashed": 18,
               "manufacturer": "Discmania"
             },
             {
@@ -6311,11 +6311,11 @@
             "top100_count": 7,
             "avg_points": 796.5,
             "avg_points_gain": 51.7,
-            "avg_starts": 13.5,
-            "total_cashed": 102,
-            "cash_rate": 0.756,
-            "win_rate": 0.074,
-            "top10_rate": 0.356,
+            "avg_starts": 13.9,
+            "total_cashed": 106,
+            "cash_rate": 0.763,
+            "win_rate": 0.079,
+            "top10_rate": 0.36,
             "momentum": 516.7
           },
           "rank": 3,
@@ -6340,7 +6340,7 @@
           "player_count": 12,
           "wins": 3,
           "top10s": 27,
-          "starts": 207,
+          "starts": 211,
           "best_player": "Silas Schultz",
           "best_player_points": 1238.72,
           "players": [
@@ -6351,10 +6351,10 @@
               "name": "Silas Schultz",
               "points": 1238.72,
               "points_gain": 66.25,
-              "starts": 20,
+              "starts": 21,
               "wins": 1,
               "top10s": 6,
-              "cashed": 16,
+              "cashed": 17,
               "manufacturer": "MVP"
             },
             {
@@ -6364,10 +6364,10 @@
               "name": "Eagle McMahon",
               "points": 1116.1,
               "points_gain": 66.25,
-              "starts": 16,
+              "starts": 17,
               "wins": 1,
               "top10s": 6,
-              "cashed": 14,
+              "cashed": 15,
               "manufacturer": "MVP"
             },
             {
@@ -6377,10 +6377,10 @@
               "name": "Raven Newsom",
               "points": 1098.53,
               "points_gain": 42.5,
-              "starts": 20,
+              "starts": 21,
               "wins": 1,
               "top10s": 4,
-              "cashed": 14,
+              "cashed": 15,
               "manufacturer": "MVP"
             },
             {
@@ -6390,10 +6390,10 @@
               "name": "Aaron Gossage",
               "points": 1039.25,
               "points_gain": 156.67,
-              "starts": 23,
+              "starts": 24,
               "wins": 0,
               "top10s": 5,
-              "cashed": 19,
+              "cashed": 20,
               "manufacturer": "MVP"
             },
             {
@@ -6507,11 +6507,11 @@
             "top100_count": 11,
             "avg_points": 663.0,
             "avg_points_gain": 51.7,
-            "avg_starts": 17.2,
-            "total_cashed": 124,
-            "cash_rate": 0.599,
+            "avg_starts": 17.6,
+            "total_cashed": 128,
+            "cash_rate": 0.607,
             "win_rate": 0.014,
-            "top10_rate": 0.13,
+            "top10_rate": 0.128,
             "momentum": 620.4
           },
           "rank": 4,
@@ -6535,8 +6535,8 @@
           "points_gain": 232.5,
           "player_count": 19,
           "wins": 2,
-          "top10s": 23,
-          "starts": 135,
+          "top10s": 24,
+          "starts": 136,
           "best_player": "Calvin Heimburg",
           "best_player_points": 1830.38,
           "players": [
@@ -6547,10 +6547,10 @@
               "name": "Calvin Heimburg",
               "points": 1830.38,
               "points_gain": 175.0,
-              "starts": 22,
+              "starts": 23,
               "wins": 2,
-              "top10s": 15,
-              "cashed": 22,
+              "top10s": 16,
+              "cashed": 23,
               "manufacturer": "Innova"
             },
             {
@@ -6794,11 +6794,11 @@
             "top100_count": 7,
             "avg_points": 268.5,
             "avg_points_gain": 12.2,
-            "avg_starts": 7.1,
-            "total_cashed": 83,
-            "cash_rate": 0.615,
+            "avg_starts": 7.2,
+            "total_cashed": 84,
+            "cash_rate": 0.618,
             "win_rate": 0.015,
-            "top10_rate": 0.17,
+            "top10_rate": 0.176,
             "momentum": 232.5
           },
           "rank": 5,
@@ -6818,8 +6818,8 @@
           "points_gain": 347.08,
           "player_count": 5,
           "wins": 1,
-          "top10s": 22,
-          "starts": 100,
+          "top10s": 23,
+          "starts": 105,
           "best_player": "Sullivan Tipton",
           "best_player_points": 1349.5,
           "players": [
@@ -6830,10 +6830,10 @@
               "name": "Sullivan Tipton",
               "points": 1349.5,
               "points_gain": 109.58,
-              "starts": 20,
+              "starts": 21,
               "wins": 0,
-              "top10s": 6,
-              "cashed": 20,
+              "top10s": 7,
+              "cashed": 21,
               "manufacturer": "DGA"
             },
             {
@@ -6843,10 +6843,10 @@
               "name": "Cole Redalen",
               "points": 1110.5,
               "points_gain": 57.5,
-              "starts": 20,
+              "starts": 21,
               "wins": 1,
               "top10s": 3,
-              "cashed": 17,
+              "cashed": 18,
               "manufacturer": "DGA"
             },
             {
@@ -6856,10 +6856,10 @@
               "name": "Austin Turner",
               "points": 888.5,
               "points_gain": 42.5,
-              "starts": 19,
+              "starts": 20,
               "wins": 0,
               "top10s": 4,
-              "cashed": 12,
+              "cashed": 13,
               "manufacturer": "DGA"
             },
             {
@@ -6869,10 +6869,10 @@
               "name": "Andrew Marwede",
               "points": 884.42,
               "points_gain": 90.0,
-              "starts": 19,
+              "starts": 20,
               "wins": 0,
               "top10s": 4,
-              "cashed": 18,
+              "cashed": 19,
               "manufacturer": "DGA"
             },
             {
@@ -6882,10 +6882,10 @@
               "name": "Jake Monn",
               "points": 858.39,
               "points_gain": 47.5,
-              "starts": 22,
+              "starts": 23,
               "wins": 0,
               "top10s": 5,
-              "cashed": 12,
+              "cashed": 13,
               "manufacturer": "DGA"
             }
           ],
@@ -6895,11 +6895,11 @@
             "top100_count": 5,
             "avg_points": 1018.3,
             "avg_points_gain": 69.4,
-            "avg_starts": 20.0,
-            "total_cashed": 79,
-            "cash_rate": 0.79,
+            "avg_starts": 21.0,
+            "total_cashed": 84,
+            "cash_rate": 0.8,
             "win_rate": 0.01,
-            "top10_rate": 0.22,
+            "top10_rate": 0.219,
             "momentum": 347.1
           },
           "rank": 6,
@@ -6923,8 +6923,8 @@
           "points_gain": 113.75,
           "player_count": 10,
           "wins": 0,
-          "top10s": 22,
-          "starts": 96,
+          "top10s": 23,
+          "starts": 97,
           "best_player": "Isaac Robinson",
           "best_player_points": 1498.03,
           "players": [
@@ -6935,10 +6935,10 @@
               "name": "Isaac Robinson",
               "points": 1498.03,
               "points_gain": 0.0,
-              "starts": 21,
+              "starts": 22,
               "wins": 0,
-              "top10s": 14,
-              "cashed": 18,
+              "top10s": 15,
+              "cashed": 19,
               "manufacturer": "Latitude 64"
             },
             {
@@ -7065,11 +7065,11 @@
             "top100_count": 6,
             "avg_points": 445.3,
             "avg_points_gain": 11.4,
-            "avg_starts": 9.6,
-            "total_cashed": 71,
-            "cash_rate": 0.74,
+            "avg_starts": 9.7,
+            "total_cashed": 72,
+            "cash_rate": 0.742,
             "win_rate": 0.0,
-            "top10_rate": 0.229,
+            "top10_rate": 0.237,
             "momentum": 113.8
           },
           "rank": 7,
@@ -7469,7 +7469,7 @@
           "player_count": 2,
           "wins": 0,
           "top10s": 7,
-          "starts": 38,
+          "starts": 39,
           "best_player": "Jesse Nieminen",
           "best_player_points": 1091.0,
           "players": [
@@ -7480,10 +7480,10 @@
               "name": "Jesse Nieminen",
               "points": 1091.0,
               "points_gain": 208.33,
-              "starts": 17,
+              "starts": 18,
               "wins": 0,
               "top10s": 6,
-              "cashed": 15,
+              "cashed": 16,
               "manufacturer": "Kastaplast"
             },
             {
@@ -7506,11 +7506,11 @@
             "top100_count": 2,
             "avg_points": 805.4,
             "avg_points_gain": 118.3,
-            "avg_starts": 19.0,
-            "total_cashed": 29,
-            "cash_rate": 0.763,
+            "avg_starts": 19.5,
+            "total_cashed": 30,
+            "cash_rate": 0.769,
             "win_rate": 0.0,
-            "top10_rate": 0.184,
+            "top10_rate": 0.179,
             "momentum": 236.7
           },
           "rank": 10,
@@ -7676,7 +7676,7 @@
           "player_count": 1,
           "wins": 0,
           "top10s": 2,
-          "starts": 14,
+          "starts": 15,
           "best_player": "Mason Ford",
           "best_player_points": 663.67,
           "players": [
@@ -7687,10 +7687,10 @@
               "name": "Mason Ford",
               "points": 663.67,
               "points_gain": 140.0,
-              "starts": 14,
+              "starts": 15,
               "wins": 0,
               "top10s": 2,
-              "cashed": 12,
+              "cashed": 13,
               "manufacturer": "Mint"
             }
           ],
@@ -7700,11 +7700,11 @@
             "top100_count": 1,
             "avg_points": 663.7,
             "avg_points_gain": 140.0,
-            "avg_starts": 14.0,
-            "total_cashed": 12,
-            "cash_rate": 0.857,
+            "avg_starts": 15.0,
+            "total_cashed": 13,
+            "cash_rate": 0.867,
             "win_rate": 0.0,
-            "top10_rate": 0.143,
+            "top10_rate": 0.133,
             "momentum": 140.0
           },
           "rank": 13,
@@ -7969,7 +7969,7 @@
         },
         "best_efficiency": {
           "manufacturer": "Discmania",
-          "value": 0.074
+          "value": 0.079
         },
         "most_top50": {
           "manufacturer": "Discraft",
@@ -8201,7 +8201,7 @@
     "FPO": {
       "division": "FPO",
       "week": "2026-40",
-      "updated_at": "2026-10-27T18:31:55.266582+00:00",
+      "updated_at": "2026-11-02T23:48:28.897307+00:00",
       "source": "https://statmando.com/rankings/dgpt/fpo",
       "player_count": 195,
       "mapped_players": 52,
@@ -8212,8 +8212,8 @@
         "coverage_pct": 0.267,
         "brand_count": 12,
         "avg_roster_size": 4.3,
-        "total_wins": 23,
-        "total_starts": 590
+        "total_wins": 24,
+        "total_starts": 608
       },
       "manufacturers": [
         {
@@ -8225,7 +8225,7 @@
           "player_count": 143,
           "wins": 1,
           "top10s": 44,
-          "starts": 453,
+          "starts": 455,
           "best_player": "Sintija Klezberga",
           "best_player_points": 1263.25,
           "players": [
@@ -8236,10 +8236,10 @@
               "name": "Sintija Klezberga",
               "points": 1263.25,
               "points_gain": 250.0,
-              "starts": 16,
+              "starts": 17,
               "wins": 1,
               "top10s": 8,
-              "cashed": 14,
+              "cashed": 15,
               "manufacturer": "Unknown"
             },
             {
@@ -8379,10 +8379,10 @@
               "name": "Matilda Ringbom",
               "points": 516.5,
               "points_gain": 125.0,
-              "starts": 5,
+              "starts": 6,
               "wins": 0,
               "top10s": 3,
-              "cashed": 5,
+              "cashed": 6,
               "manufacturer": "Unknown"
             },
             {
@@ -10096,8 +10096,8 @@
             "avg_points": 112.7,
             "avg_points_gain": 6.6,
             "avg_starts": 3.2,
-            "total_cashed": 135,
-            "cash_rate": 0.298,
+            "total_cashed": 137,
+            "cash_rate": 0.301,
             "win_rate": 0.002,
             "top10_rate": 0.097,
             "momentum": 942.5
@@ -10112,8 +10112,8 @@
           "points_gain": 1000.28,
           "player_count": 14,
           "wins": 13,
-          "top10s": 77,
-          "starts": 181,
+          "top10s": 81,
+          "starts": 189,
           "best_player": "Ohn Scoggins",
           "best_player_points": 2248.33,
           "players": [
@@ -10124,10 +10124,10 @@
               "name": "Ohn Scoggins",
               "points": 2248.33,
               "points_gain": 140.0,
-              "starts": 19,
+              "starts": 20,
               "wins": 6,
-              "top10s": 18,
-              "cashed": 19,
+              "top10s": 19,
+              "cashed": 20,
               "manufacturer": "Innova"
             },
             {
@@ -10137,10 +10137,10 @@
               "name": "Eveliina Salonen",
               "points": 1871.0,
               "points_gain": 200.0,
-              "starts": 13,
+              "starts": 14,
               "wins": 5,
-              "top10s": 11,
-              "cashed": 13,
+              "top10s": 12,
+              "cashed": 14,
               "manufacturer": "Innova"
             },
             {
@@ -10150,10 +10150,10 @@
               "name": "Rebecca Don",
               "points": 1406.83,
               "points_gain": 97.5,
-              "starts": 18,
+              "starts": 19,
               "wins": 0,
-              "top10s": 8,
-              "cashed": 13,
+              "top10s": 9,
+              "cashed": 14,
               "manufacturer": "Innova"
             },
             {
@@ -10163,10 +10163,10 @@
               "name": "Kat Mertsch",
               "points": 1275.67,
               "points_gain": 70.0,
-              "starts": 22,
+              "starts": 23,
               "wins": 0,
               "top10s": 7,
-              "cashed": 19,
+              "cashed": 20,
               "manufacturer": "Innova"
             },
             {
@@ -10176,10 +10176,10 @@
               "name": "Henna Blomroos",
               "points": 1258.33,
               "points_gain": 85.0,
-              "starts": 13,
+              "starts": 14,
               "wins": 1,
-              "top10s": 5,
-              "cashed": 13,
+              "top10s": 6,
+              "cashed": 14,
               "manufacturer": "Innova"
             },
             {
@@ -10189,10 +10189,10 @@
               "name": "Emily Weatherman",
               "points": 1193.83,
               "points_gain": 90.0,
-              "starts": 20,
+              "starts": 21,
               "wins": 0,
               "top10s": 9,
-              "cashed": 15,
+              "cashed": 16,
               "manufacturer": "Innova"
             },
             {
@@ -10202,10 +10202,10 @@
               "name": "Jessica Gurthie",
               "points": 1187.78,
               "points_gain": 162.78,
-              "starts": 16,
+              "starts": 17,
               "wins": 1,
               "top10s": 6,
-              "cashed": 12,
+              "cashed": 13,
               "manufacturer": "Innova"
             },
             {
@@ -10215,10 +10215,10 @@
               "name": "Anneli T\u00f5ugjas-M\u00e4nniste",
               "points": 977.17,
               "points_gain": 112.5,
-              "starts": 14,
+              "starts": 15,
               "wins": 0,
               "top10s": 4,
-              "cashed": 11,
+              "cashed": 12,
               "manufacturer": "Innova"
             },
             {
@@ -10306,11 +10306,11 @@
             "top100_count": 14,
             "avg_points": 1008.0,
             "avg_points_gain": 71.4,
-            "avg_starts": 12.9,
-            "total_cashed": 143,
-            "cash_rate": 0.79,
-            "win_rate": 0.072,
-            "top10_rate": 0.425,
+            "avg_starts": 13.5,
+            "total_cashed": 151,
+            "cash_rate": 0.799,
+            "win_rate": 0.069,
+            "top10_rate": 0.429,
             "momentum": 1000.3
           },
           "rank": 2,
@@ -10334,8 +10334,8 @@
           "points_gain": 643.75,
           "player_count": 10,
           "wins": 2,
-          "top10s": 56,
-          "starts": 124,
+          "top10s": 59,
+          "starts": 129,
           "best_player": "Holyn Handley",
           "best_player_points": 2113.33,
           "players": [
@@ -10346,10 +10346,10 @@
               "name": "Holyn Handley",
               "points": 2113.33,
               "points_gain": 200.0,
-              "starts": 19,
+              "starts": 20,
               "wins": 2,
-              "top10s": 18,
-              "cashed": 19,
+              "top10s": 19,
+              "cashed": 20,
               "manufacturer": "Discraft"
             },
             {
@@ -10359,10 +10359,10 @@
               "name": "Missy Gannon",
               "points": 1903.0,
               "points_gain": 120.0,
-              "starts": 18,
+              "starts": 19,
               "wins": 0,
-              "top10s": 17,
-              "cashed": 18,
+              "top10s": 18,
+              "cashed": 19,
               "manufacturer": "Discraft"
             },
             {
@@ -10372,10 +10372,10 @@
               "name": "Valerie Mandujano",
               "points": 1321.67,
               "points_gain": 112.5,
-              "starts": 14,
+              "starts": 15,
               "wins": 0,
               "top10s": 7,
-              "cashed": 14,
+              "cashed": 15,
               "manufacturer": "Discraft"
             },
             {
@@ -10385,10 +10385,10 @@
               "name": "Paige Pierce",
               "points": 1083.17,
               "points_gain": 80.0,
-              "starts": 16,
+              "starts": 17,
               "wins": 0,
-              "top10s": 4,
-              "cashed": 14,
+              "top10s": 5,
+              "cashed": 15,
               "manufacturer": "Discraft"
             },
             {
@@ -10398,10 +10398,10 @@
               "name": "Hanna Huynh",
               "points": 1039.33,
               "points_gain": 57.5,
-              "starts": 15,
+              "starts": 16,
               "wins": 0,
               "top10s": 3,
-              "cashed": 12,
+              "cashed": 13,
               "manufacturer": "Discraft"
             },
             {
@@ -10476,11 +10476,11 @@
             "top100_count": 9,
             "avg_points": 943.3,
             "avg_points_gain": 64.4,
-            "avg_starts": 12.4,
-            "total_cashed": 99,
-            "cash_rate": 0.798,
+            "avg_starts": 12.9,
+            "total_cashed": 104,
+            "cash_rate": 0.806,
             "win_rate": 0.016,
-            "top10_rate": 0.452,
+            "top10_rate": 0.457,
             "momentum": 643.8
           },
           "rank": 3,
@@ -10503,9 +10503,9 @@
           "points": 3701.0,
           "points_gain": 232.5,
           "player_count": 5,
-          "wins": 6,
-          "top10s": 20,
-          "starts": 55,
+          "wins": 7,
+          "top10s": 21,
+          "starts": 56,
           "best_player": "Silva Saarinen",
           "best_player_points": 2047.67,
           "players": [
@@ -10516,10 +10516,10 @@
               "name": "Silva Saarinen",
               "points": 2047.67,
               "points_gain": 130.0,
-              "starts": 17,
-              "wins": 6,
-              "top10s": 14,
-              "cashed": 17,
+              "starts": 18,
+              "wins": 7,
+              "top10s": 15,
+              "cashed": 18,
               "manufacturer": "MVP"
             },
             {
@@ -10581,11 +10581,11 @@
             "top100_count": 4,
             "avg_points": 740.2,
             "avg_points_gain": 46.5,
-            "avg_starts": 11.0,
-            "total_cashed": 39,
-            "cash_rate": 0.709,
-            "win_rate": 0.109,
-            "top10_rate": 0.364,
+            "avg_starts": 11.2,
+            "total_cashed": 40,
+            "cash_rate": 0.714,
+            "win_rate": 0.125,
+            "top10_rate": 0.375,
             "momentum": 232.5
           },
           "rank": 4,
@@ -10609,8 +10609,8 @@
           "points_gain": 302.78,
           "player_count": 2,
           "wins": 1,
-          "top10s": 19,
-          "starts": 44,
+          "top10s": 20,
+          "starts": 46,
           "best_player": "Catrina Allen",
           "best_player_points": 1664.08,
           "players": [
@@ -10621,10 +10621,10 @@
               "name": "Catrina Allen",
               "points": 1664.08,
               "points_gain": 140.0,
-              "starts": 22,
+              "starts": 23,
               "wins": 1,
-              "top10s": 14,
-              "cashed": 21,
+              "top10s": 15,
+              "cashed": 22,
               "manufacturer": "DGA"
             },
             {
@@ -10634,10 +10634,10 @@
               "name": "Eliezra Midtlyng",
               "points": 1126.36,
               "points_gain": 162.78,
-              "starts": 22,
+              "starts": 23,
               "wins": 0,
               "top10s": 5,
-              "cashed": 14,
+              "cashed": 15,
               "manufacturer": "DGA"
             }
           ],
@@ -10647,11 +10647,11 @@
             "top100_count": 2,
             "avg_points": 1395.2,
             "avg_points_gain": 151.4,
-            "avg_starts": 22.0,
-            "total_cashed": 35,
-            "cash_rate": 0.795,
-            "win_rate": 0.023,
-            "top10_rate": 0.432,
+            "avg_starts": 23.0,
+            "total_cashed": 37,
+            "cash_rate": 0.804,
+            "win_rate": 0.022,
+            "top10_rate": 0.435,
             "momentum": 302.8
           },
           "rank": 5,
@@ -10675,8 +10675,8 @@
           "points_gain": 162.78,
           "player_count": 5,
           "wins": 1,
-          "top10s": 17,
-          "starts": 48,
+          "top10s": 18,
+          "starts": 49,
           "best_player": "Ella Hansen",
           "best_player_points": 1760.86,
           "players": [
@@ -10687,10 +10687,10 @@
               "name": "Ella Hansen",
               "points": 1760.86,
               "points_gain": 162.78,
-              "starts": 19,
+              "starts": 20,
               "wins": 1,
-              "top10s": 14,
-              "cashed": 19,
+              "top10s": 15,
+              "cashed": 20,
               "manufacturer": "Discmania"
             },
             {
@@ -10752,11 +10752,11 @@
             "top100_count": 4,
             "avg_points": 501.1,
             "avg_points_gain": 32.6,
-            "avg_starts": 9.6,
-            "total_cashed": 26,
-            "cash_rate": 0.542,
-            "win_rate": 0.021,
-            "top10_rate": 0.354,
+            "avg_starts": 9.8,
+            "total_cashed": 27,
+            "cash_rate": 0.551,
+            "win_rate": 0.02,
+            "top10_rate": 0.367,
             "momentum": 162.8
           },
           "rank": 6,
@@ -10865,7 +10865,7 @@
           "player_count": 2,
           "wins": 0,
           "top10s": 7,
-          "starts": 27,
+          "starts": 28,
           "best_player": "Heidi Laine",
           "best_player_points": 1216.0,
           "players": [
@@ -10876,10 +10876,10 @@
               "name": "Heidi Laine",
               "points": 1216.0,
               "points_gain": 97.5,
-              "starts": 21,
+              "starts": 22,
               "wins": 0,
               "top10s": 7,
-              "cashed": 17,
+              "cashed": 18,
               "manufacturer": "Westside"
             },
             {
@@ -10902,11 +10902,11 @@
             "top100_count": 2,
             "avg_points": 677.6,
             "avg_points_gain": 48.8,
-            "avg_starts": 13.5,
-            "total_cashed": 17,
-            "cash_rate": 0.63,
+            "avg_starts": 14.0,
+            "total_cashed": 18,
+            "cash_rate": 0.643,
             "win_rate": 0.0,
-            "top10_rate": 0.259,
+            "top10_rate": 0.25,
             "momentum": 97.5
           },
           "rank": 8,
@@ -11263,7 +11263,7 @@
         },
         "best_efficiency": {
           "manufacturer": "MVP",
-          "value": 0.109
+          "value": 0.125
         },
         "most_top50": {
           "manufacturer": "Innova",
