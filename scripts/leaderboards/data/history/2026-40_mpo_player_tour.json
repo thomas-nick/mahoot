@@ -1,7 +1,7 @@
 {
   "division": "MPO",
   "week": "2026-40",
-  "saved_at": "2026-11-02T23:47:54.144753+00:00",
+  "saved_at": "2026-11-03T19:56:06.476901+00:00",
   "players": [
     {
       "slug": "gannon-buhr",
@@ -60,9 +60,17 @@
       "wins": 0
     },
     {
+      "slug": "bradley-williams",
+      "name": "Bradley Williams",
+      "tour_rank": 8,
+      "tour_weighted_points": 1032.3,
+      "dgpt_rank": 31,
+      "wins": 2
+    },
+    {
       "slug": "silas-schultz",
       "name": "Silas Schultz",
-      "tour_rank": 8,
+      "tour_rank": 9,
       "tour_weighted_points": 1014.5,
       "dgpt_rank": 10,
       "wins": 2
@@ -70,7 +78,7 @@
     {
       "slug": "sullivan-tipton",
       "name": "Sullivan Tipton",
-      "tour_rank": 9,
+      "tour_rank": 10,
       "tour_weighted_points": 995.8,
       "dgpt_rank": 7,
       "wins": 0
@@ -78,18 +86,10 @@
     {
       "slug": "evan-smith",
       "name": "Evan Smith",
-      "tour_rank": 10,
+      "tour_rank": 11,
       "tour_weighted_points": 957.1,
       "dgpt_rank": 26,
       "wins": 3
-    },
-    {
-      "slug": "bradley-williams",
-      "name": "Bradley Williams",
-      "tour_rank": 11,
-      "tour_weighted_points": 952.3,
-      "dgpt_rank": 31,
-      "wins": 2
     },
     {
       "slug": "eagle-mcmahon",

@@ -9113,6 +9113,14 @@
   "bradley-baumgardner": [],
   "bradley-williams": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 7,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "2026 PDGA Masters Disc Golf World Championships",
       "event_key": "2026-pdga-masters-disc-golf-world-championships",
       "month": "Sep",
@@ -16491,6 +16499,14 @@
   "damien-biegert": [],
   "daniel-davidsson": [
     {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 34,
+      "tier": "M",
+      "tour": "Major"
+    },
+    {
       "event": "DGPT EuroTour - Silesia Open 2026 presented by Latitude64",
       "event_key": "eurotour-silesia-open-2026-presented-by-latitude",
       "month": "Sep",
@@ -20831,6 +20847,30 @@
   ],
   "elijah-riderbrandt": [
     {
+      "event": "Hub City Halloween Open presented by Great Courses of South Carol",
+      "event_key": "hub-city-halloween-open-presented-by-great-cours",
+      "month": "Oct",
+      "place": 14,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Down East Players Cup",
+      "event_key": "down-east-players-cup",
+      "month": "Oct",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Massachusetts Grand Prix - Presented by Abreu Karol",
+      "event_key": "2026-massachusetts-grand-prix-presented-by-abreu",
+      "month": "Oct",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "The Maine State Championships Elevated by Thought Space Athletics",
       "event_key": "the-maine-state-championships-elevated-by-though",
       "month": "Oct",
@@ -21276,6 +21316,22 @@
     }
   ],
   "elizabete-pkena": [
+    {
+      "event": "Latitude 64 J\u00f5ulum\u00e4e Open 2026",
+      "event_key": "latitude-64-j-ulum-e-open-2026",
+      "month": "Oct",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 25,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
       "event_key": "2026-pdga-professional-disc-golf-world-champions",
@@ -27756,6 +27812,22 @@
     }
   ],
   "gillis-macdougall": [
+    {
+      "event": "2026 Massachusetts Grand Prix - Presented by Abreu Karol",
+      "event_key": "2026-massachusetts-grand-prix-presented-by-abreu",
+      "month": "Oct",
+      "place": 7,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "DGVTour Finals - Vermont State Championship",
+      "event_key": "dgvtour-finals-vermont-state-championship",
+      "month": "Oct",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "The Maine State Championships Elevated by Thought Space Athletics",
       "event_key": "the-maine-state-championships-elevated-by-though",
@@ -40223,6 +40295,22 @@
   ],
   "karen-martel": [
     {
+      "event": "La grande Finale 2026 - Le Circuit DisQu\u00e9bec - 10/10 - Pr\u00e9sent\ufffd",
+      "event_key": "la-grande-finale-2026-le-circuit-disqu-bec-10-10",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Throw Pink Women's Disc Golf Championship",
+      "event_key": "throw-pink-women-s-disc-golf-championship",
+      "month": "Oct",
+      "place": 41,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "The Maine State Championships Elevated by Thought Space Athletics",
       "event_key": "the-maine-state-championships-elevated-by-though",
       "month": "Oct",
@@ -44661,6 +44749,14 @@
   ],
   "lindsey-maas": [
     {
+      "event": "Years Last Hoorah",
+      "event_key": "years-last-hoorah",
+      "month": "Nov",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Big Dawg 13",
       "event_key": "big-dawg-13",
       "month": "Oct",
@@ -46778,6 +46874,14 @@
   ],
   "mackenzie-morris": [],
   "madison-tomaino": [
+    {
+      "event": "Halloween Huck Doubles at Willamette Park 2026 (CEP Charity - Not",
+      "event_key": "halloween-huck-doubles-at-willamette-park-2026-c",
+      "month": "Oct",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "The Veer",
       "event_key": "the-veer",
@@ -54547,6 +54651,14 @@
   "nick-reliford": [],
   "nick-robertson-1": [
     {
+      "event": "Years Last Hoorah",
+      "event_key": "years-last-hoorah",
+      "month": "Nov",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Big Dawg 13",
       "event_key": "big-dawg-13",
       "month": "Oct",
@@ -59304,6 +59416,14 @@
     }
   ],
   "rasmus-saukkoriipi": [
+    {
+      "event": "2026 United States Disc Golf Championship",
+      "event_key": "2026-united-states-disc-golf-championship",
+      "month": "Oct",
+      "place": 56,
+      "tier": "M",
+      "tour": "Major"
+    },
     {
       "event": "DGPT EuroTour - Silesia Open 2026 presented by Latitude64",
       "event_key": "eurotour-silesia-open-2026-presented-by-latitude",
