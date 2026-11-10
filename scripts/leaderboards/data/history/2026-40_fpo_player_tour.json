@@ -1,7 +1,7 @@
 {
   "division": "FPO",
   "week": "2026-40",
-  "saved_at": "2026-11-03T19:56:44.738481+00:00",
+  "saved_at": "2026-11-10T00:33:20.308243+00:00",
   "players": [
     {
       "slug": "ohn-scoggins",
@@ -71,7 +71,7 @@
       "slug": "henna-blomroos",
       "name": "Henna Blomroos",
       "tour_rank": 9,
-      "tour_weighted_points": 1120.2,
+      "tour_weighted_points": 1170.2,
       "dgpt_rank": 12,
       "wins": 1
     },

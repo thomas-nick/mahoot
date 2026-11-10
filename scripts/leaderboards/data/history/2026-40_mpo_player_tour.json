@@ -1,7 +1,7 @@
 {
   "division": "MPO",
   "week": "2026-40",
-  "saved_at": "2026-11-03T19:56:06.476901+00:00",
+  "saved_at": "2026-11-10T00:32:52.913029+00:00",
   "players": [
     {
       "slug": "gannon-buhr",
@@ -76,28 +76,28 @@
       "wins": 2
     },
     {
+      "slug": "evan-smith",
+      "name": "Evan Smith",
+      "tour_rank": 10,
+      "tour_weighted_points": 999.6,
+      "dgpt_rank": 26,
+      "wins": 4
+    },
+    {
       "slug": "sullivan-tipton",
       "name": "Sullivan Tipton",
-      "tour_rank": 10,
+      "tour_rank": 11,
       "tour_weighted_points": 995.8,
       "dgpt_rank": 7,
       "wins": 0
     },
     {
-      "slug": "evan-smith",
-      "name": "Evan Smith",
-      "tour_rank": 11,
-      "tour_weighted_points": 957.1,
-      "dgpt_rank": 26,
-      "wins": 3
-    },
-    {
-      "slug": "eagle-mcmahon",
-      "name": "Eagle McMahon",
+      "slug": "ezra-robinson",
+      "name": "Ezra Robinson",
       "tour_rank": 12,
-      "tour_weighted_points": 950.2,
-      "dgpt_rank": 14,
-      "wins": 2
+      "tour_weighted_points": 984.8,
+      "dgpt_rank": 11,
+      "wins": 0
     }
   ]
 }
