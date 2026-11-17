@@ -459,6 +459,22 @@
   ],
   "abrahan-bahena": [
     {
+      "event": "Lake Claiborne Championships",
+      "event_key": "lake-claiborne-championships",
+      "month": "Nov",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "43rd Annual Bill Trousdale Arkansas State Championships",
+      "event_key": "43rd-annual-bill-trousdale-arkansas-state-champi",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "2026 Oklahoma Open",
       "event_key": "2026-oklahoma-open",
       "month": "Oct",
@@ -673,7 +689,7 @@
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
       "place": 75,
-      "tier": "XM",
+      "tier": "M",
       "tour": "Major"
     },
     {
@@ -4962,6 +4978,14 @@
       "tour": ""
     },
     {
+      "event": "WFDF World Team Disc Golf Championships - 2026 - Teams/Players",
+      "event_key": "wfdf-world-team-disc-golf-championships-2026-tea",
+      "month": "Sep",
+      "place": 6,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "Latvijas Kauss #4 2026 - Valmiera",
       "event_key": "latvijas-kauss-4-2026-valmiera",
       "month": "Aug",
@@ -5641,7 +5665,7 @@
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
       "place": 15,
-      "tier": "XM",
+      "tier": "M",
       "tour": "Major"
     },
     {
@@ -6355,6 +6379,22 @@
   "arttu-kurlin": [],
   "arttu-rossi": [],
   "arvid-hansson": [
+    {
+      "event": "DgEvents Vinterevent #1 - Larv",
+      "event_key": "dgevents-vinterevent-1-larv",
+      "month": "Nov",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Oktoberfest Ekhamra - 2026",
+      "event_key": "oktoberfest-ekhamra-2026",
+      "month": "Oct",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "2026 Groningen Open - hosted by House of Disc Golf",
       "event_key": "2026-groningen-open-hosted-by-house-of-disc-golf",
@@ -8192,6 +8232,14 @@
     }
   ],
   "bill-kirk": [
+    {
+      "event": "Harvey Penick Fall Classic",
+      "event_key": "harvey-penick-fall-classic",
+      "month": "Oct",
+      "place": 7,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "2026 PDGA Masters Disc Golf World Championships",
       "event_key": "2026-pdga-masters-disc-golf-world-championships",
@@ -12496,6 +12544,22 @@
   ],
   "cassandra-lioi": [
     {
+      "event": "2026 Innova Discs Myrtle Beach Open",
+      "event_key": "2026-innova-discs-myrtle-beach-open",
+      "month": "Nov",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Hub City Halloween Open presented by Great Courses of South Carol",
+      "event_key": "hub-city-halloween-open-presented-by-great-cours",
+      "month": "Oct",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "The 2026 Wilcox WOW presented by Sheeley Roofing",
       "event_key": "the-2026-wilcox-wow-presented-by-sheeley-roofing",
       "month": "Oct",
@@ -14469,6 +14533,14 @@
   "christian-byars": [],
   "christian-dietrich": [
     {
+      "event": "Mad Valley Throwdown",
+      "event_key": "mad-valley-throwdown",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "2026 Montana State Championships driven by INNOVA",
       "event_key": "2026-montana-state-championships-driven-by-innov",
       "month": "Oct",
@@ -16011,6 +16083,22 @@
     }
   ],
   "corbin-milchesky": [
+    {
+      "event": "Nevada Open sponsored by Prodigy Discs",
+      "event_key": "nevada-open-sponsored-by-prodigy-discs",
+      "month": "Nov",
+      "place": 28,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "23rd Annual Twisted Flyer Open, Presented By Innova",
+      "event_key": "23rd-annual-twisted-flyer-open-presented-by-inno",
+      "month": "Oct",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Haikey Creek Open Sponsored by Farm Path Tour",
       "event_key": "haikey-creek-open-sponsored-by-farm-path-tour",
@@ -17888,6 +17976,14 @@
   ],
   "david-hurley": [
     {
+      "event": "Oakland City Champships 2026 Grown by AGL",
+      "event_key": "oakland-city-champships-2026-grown-by-agl",
+      "month": "Oct",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Auburn Fall Classic",
       "event_key": "auburn-fall-classic",
       "month": "Oct",
@@ -19053,6 +19149,14 @@
   ],
   "dustin-klein": [
     {
+      "event": "UnderPar presents the 2026 Fall Harvest",
+      "event_key": "underpar-presents-the-2026-fall-harvest",
+      "month": "Nov",
+      "place": 12,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Northtown Showdown",
       "event_key": "northtown-showdown",
       "month": "Oct",
@@ -19663,6 +19767,14 @@
     }
   ],
   "eden-fornoff": [
+    {
+      "event": "The Winter Warmer 2026",
+      "event_key": "the-winter-warmer-2026",
+      "month": "Nov",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Women's Open of Maryland Edition Number 9 (WOMEN9)",
       "event_key": "women-s-open-of-maryland-edition-number-9-women9",
@@ -23007,6 +23119,14 @@
   ],
   "emil-karlsson": [
     {
+      "event": "NBDG-X Fuengirola Open 2026 presented by Fuzzy Eagle (10th annive",
+      "event_key": "nbdg-x-fuengirola-open-2026-presented-by-fuzzy-e",
+      "month": "Nov",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "SDGPT - Eastern Meadows Open 2026 sponsored by Discraft",
       "event_key": "sdgpt-eastern-meadows-open-2026-sponsored-by-dis",
       "month": "Aug",
@@ -26025,6 +26145,22 @@
   "fleur-verberk": [],
   "florian-lingenhel": [
     {
+      "event": "\u00d6sterreichische Staatsmeisterschaften 2026 powered by Vulkanland",
+      "event_key": "sterreichische-staatsmeisterschaften-2026-powere",
+      "month": "Oct",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "WFDF World Team Disc Golf Championships - 2026 - Teams/Players",
+      "event_key": "wfdf-world-team-disc-golf-championships-2026-tea",
+      "month": "Sep",
+      "place": 13,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "Franconia Open presented by Latitude 64",
       "event_key": "franconia-open-presented-by-latitude-64",
       "month": "Aug",
@@ -27690,7 +27826,7 @@
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
       "place": 33,
-      "tier": "XM",
+      "tier": "M",
       "tour": "Major"
     },
     {
@@ -28370,6 +28506,30 @@
     }
   ],
   "gideon-drake": [
+    {
+      "event": "Perks and Re-creation presents: Northwest Arkansas Open 2026 pres",
+      "event_key": "perks-and-re-creation-presents-northwest-arkansa",
+      "month": "Nov",
+      "place": 10,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "43rd Annual Bill Trousdale Arkansas State Championships",
+      "event_key": "43rd-annual-bill-trousdale-arkansas-state-champi",
+      "month": "Oct",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Arkansas State Championships Friday Flex Start @ Burns Blue",
+      "event_key": "arkansas-state-championships-friday-flex-start-b",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "18th Annual Battle At Bell Park",
       "event_key": "18th-annual-battle-at-bell-park",
@@ -30160,6 +30320,14 @@
   "hayden-carroll": [],
   "hayden-frederiksen": [
     {
+      "event": "4th Annual Calavera Open",
+      "event_key": "4th-annual-calavera-open",
+      "month": "Oct",
+      "place": 8,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Duncan Glass & Mirror Title Town Open, Driven By Innova",
       "event_key": "duncan-glass-mirror-title-town-open-driven-by-in",
       "month": "Oct",
@@ -30779,6 +30947,14 @@
   ],
   "henrik-punkari": [],
   "henry-bente": [
+    {
+      "event": "Lone Star Disc Presents Panorama 11/13 (Flex Start)",
+      "event_key": "lone-star-disc-presents-panorama-11-13-flex-star",
+      "month": "Nov",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "13th Annual Crosstown Throwdown",
       "event_key": "13th-annual-crosstown-throwdown",
@@ -32172,6 +32348,22 @@
   ],
   "ian-fredrickson": [
     {
+      "event": "Harvey Penick Fall Classic",
+      "event_key": "harvey-penick-fall-classic",
+      "month": "Oct",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "49th Annual Waterloo Disc Golf Classic (CEP Charity - Rated)",
+      "event_key": "49th-annual-waterloo-disc-golf-classic-cep-chari",
+      "month": "Oct",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "The Flight of the Vultures (Flex Start)",
       "event_key": "the-flight-of-the-vultures-flex-start",
       "month": "Aug",
@@ -32565,7 +32757,7 @@
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
       "place": 4,
-      "tier": "XM",
+      "tier": "M",
       "tour": "Major"
     },
     {
@@ -32779,6 +32971,22 @@
     }
   ],
   "isabella-parker": [
+    {
+      "event": "Mid-American CDG Regional - Team",
+      "event_key": "mid-american-cdg-regional-team",
+      "month": "Nov",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Mid-American CDG Regional - Singles",
+      "event_key": "mid-american-cdg-regional-singles",
+      "month": "Nov",
+      "place": 6,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "Powercat Invitational - Teams",
       "event_key": "powercat-invitational-teams",
@@ -36147,6 +36355,14 @@
   ],
   "jeffrey-mccormick": [
     {
+      "event": "Throwvember 2026 (CDGS event #13 - Presented by Innova)",
+      "event_key": "throwvember-2026-cdgs-event-13-presented-by-inno",
+      "month": "Nov",
+      "place": 43,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "CenCal Finals",
       "event_key": "cencal-finals",
       "month": "Oct",
@@ -36784,6 +37000,14 @@
   ],
   "jenny-larsson": [
     {
+      "event": "Brukstouren 2026 #3 - H\u00e4fla Bruk",
+      "event_key": "brukstouren-2026-3-h-fla-bruk",
+      "month": "Nov",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Brukstouren 2026 #1 - Brevens Bruk",
       "event_key": "brukstouren-2026-1-brevens-bruk",
       "month": "Oct",
@@ -37265,6 +37489,22 @@
   ],
   "jesse-henderson": [],
   "jesse-longenecker": [
+    {
+      "event": "4th Annual EMU Royals Fall Classic presented by Treemagnets - Tea",
+      "event_key": "4th-annual-emu-royals-fall-classic-presented-by-",
+      "month": "Nov",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "4th Annual EMU Royals Fall Classic presented by Treemagnets - Sin",
+      "event_key": "4th-annual-emu-royals-fall-classic-presented-by-",
+      "month": "Nov",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "Play for Nathan presented by Treemagnets",
       "event_key": "play-for-nathan-presented-by-treemagnets",
@@ -40424,6 +40664,14 @@
   ],
   "justin-bougher": [
     {
+      "event": "2026 Oklahoma Open",
+      "event_key": "2026-oklahoma-open",
+      "month": "Oct",
+      "place": 32,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Auburn Fall Classic",
       "event_key": "auburn-fall-classic",
       "month": "Oct",
@@ -41000,6 +41248,14 @@
       "tour": ""
     },
     {
+      "event": "WFDF World Team Disc Golf Championships - 2026 - Teams/Players",
+      "event_key": "wfdf-world-team-disc-golf-championships-2026-tea",
+      "month": "Sep",
+      "place": 2,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "DGPT - Swedish Open presented by Kastaplast",
       "event_key": "swedish-open-presented-by-kastaplast",
       "month": "Jun",
@@ -41534,6 +41790,14 @@
   ],
   "kassandra-fogwichmann": [
     {
+      "event": "Jagten P\u00e5 Vinter Golf - XI.II - Svinninge presented by Discmania",
+      "event_key": "jagten-p-vinter-golf-xi-ii-svinninge-presented-b",
+      "month": "Nov",
+      "place": 14,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Jagten P\u00e5 Vinter Golf - XI.I - Valby presented by Kastaplast",
       "event_key": "jagten-p-vinter-golf-xi-i-valby-presented-by-kas",
       "month": "Oct",
@@ -41801,6 +42065,14 @@
     }
   ],
   "kat-mertsch": [
+    {
+      "event": "43rd Annual Bill Trousdale Arkansas State Championships",
+      "event_key": "43rd-annual-bill-trousdale-arkansas-state-champi",
+      "month": "Oct",
+      "place": 2,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "DGPT Playoffs - DGPT Powerball Cup",
       "event_key": "playoffs-dgpt-powerball-cup",
@@ -42167,6 +42439,14 @@
       "month": "Sep",
       "place": 5,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "WFDF World Team Disc Golf Championships - 2026 - Teams/Players",
+      "event_key": "wfdf-world-team-disc-golf-championships-2026-tea",
+      "month": "Sep",
+      "place": 14,
+      "tier": "XA",
       "tour": ""
     },
     {
@@ -44358,6 +44638,14 @@
   "landis-nelson": [],
   "landon-brooks": [
     {
+      "event": "Apple Harvest at Meadowbrook Orchards",
+      "event_key": "apple-harvest-at-meadowbrook-orchards",
+      "month": "Oct",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "2026 Massachusetts Grand Prix - Presented by Abreu Karol",
       "event_key": "2026-massachusetts-grand-prix-presented-by-abreu",
       "month": "Oct",
@@ -44370,7 +44658,7 @@
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
       "place": 67,
-      "tier": "XM",
+      "tier": "M",
       "tour": "Major"
     },
     {
@@ -46132,6 +46420,14 @@
   ],
   "logan-plake": [],
   "logan-riding": [
+    {
+      "event": "Throwvember 2026 (CDGS event #13 - Presented by Innova)",
+      "event_key": "throwvember-2026-cdgs-event-13-presented-by-inno",
+      "month": "Nov",
+      "place": 35,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Las Vegas Halloween Classic 2026",
       "event_key": "las-vegas-halloween-classic-2026",
@@ -49058,6 +49354,14 @@
   ],
   "marshall-blanks": [
     {
+      "event": "49th Annual Waterloo Disc Golf Classic (CEP Charity - Rated)",
+      "event_key": "49th-annual-waterloo-disc-golf-classic-cep-chari",
+      "month": "Oct",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "The 27th Oktoberfest (A HOTT Points Event) - Presented by MINT Di",
       "event_key": "the-27th-oktoberfest-a-hott-points-event-present",
       "month": "Oct",
@@ -50558,6 +50862,22 @@
   ],
   "matt-doughten": [],
   "matt-hammersten": [
+    {
+      "event": "Seneca Creek Soiree - Pros and MA1",
+      "event_key": "seneca-creek-soiree-pros-and-ma1",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "Woodsboro Open",
+      "event_key": "woodsboro-open",
+      "month": "Oct",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "15th Annual LoCo Open - Pro",
       "event_key": "15th-annual-loco-open-pro",
@@ -52650,6 +52970,14 @@
     }
   ],
   "micah-groth": [
+    {
+      "event": "Hub City Halloween Open presented by Great Courses of South Carol",
+      "event_key": "hub-city-halloween-open-presented-by-great-cours",
+      "month": "Oct",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "21st Annual Seneca Spring Fling presented by Discraft",
       "event_key": "21st-annual-seneca-spring-fling-presented-by-dis",
@@ -56658,7 +56986,7 @@
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
       "place": 4,
-      "tier": "XM",
+      "tier": "M",
       "tour": "Major"
     },
     {
@@ -58790,6 +59118,22 @@
     }
   ],
   "owen-mccall": [
+    {
+      "event": "2026 Innova Discs Myrtle Beach Open",
+      "event_key": "2026-innova-discs-myrtle-beach-open",
+      "month": "Nov",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Down East Players Cup",
+      "event_key": "down-east-players-cup",
+      "month": "Oct",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "2026 Casey Logan Fall Throwdown",
       "event_key": "2026-casey-logan-fall-throwdown",
@@ -62055,6 +62399,14 @@
       "tour": ""
     },
     {
+      "event": "WFDF World Team Disc Golf Championships - 2026 - Teams/Players",
+      "event_key": "wfdf-world-team-disc-golf-championships-2026-tea",
+      "month": "Sep",
+      "place": 6,
+      "tier": "XA",
+      "tour": ""
+    },
+    {
       "event": "Disc Golf Park Riga Cup",
       "event_key": "disc-golf-park-riga-cup",
       "month": "Sep",
@@ -62576,6 +62928,14 @@
     }
   ],
   "rienk-kan": [
+    {
+      "event": "WFDF World Team Disc Golf Championships - 2026 - Teams/Players",
+      "event_key": "wfdf-world-team-disc-golf-championships-2026-tea",
+      "month": "Sep",
+      "place": 16,
+      "tier": "XA",
+      "tour": ""
+    },
     {
       "event": "DGPT - Ale Open presented by Discraft",
       "event_key": "ale-open-presented-by-discraft",
@@ -63248,11 +63608,27 @@
   "ryan-clark-1": [],
   "ryan-hahn": [
     {
+      "event": "2026 Innova Discs Myrtle Beach Open",
+      "event_key": "2026-innova-discs-myrtle-beach-open",
+      "month": "Nov",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Down East Players Cup",
+      "event_key": "down-east-players-cup",
+      "month": "Oct",
+      "place": 15,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "2026 United States Disc Golf Championship",
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
       "place": 84,
-      "tier": "XM",
+      "tier": "M",
       "tour": "Major"
     },
     {
@@ -64073,6 +64449,14 @@
   ],
   "sam-dicarlo": [
     {
+      "event": "Harvey Penick Fall Classic",
+      "event_key": "harvey-penick-fall-classic",
+      "month": "Oct",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "13th Annual Crosstown Throwdown",
       "event_key": "13th-annual-crosstown-throwdown",
       "month": "Oct",
@@ -64414,6 +64798,14 @@
   ],
   "samantha-bonacci": [],
   "samuel-aldrich": [
+    {
+      "event": "Oakland City Champships 2026 Grown by AGL",
+      "event_key": "oakland-city-champships-2026-grown-by-agl",
+      "month": "Oct",
+      "place": 9,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "Auburn Fall Classic",
       "event_key": "auburn-fall-classic",
@@ -64769,6 +65161,22 @@
   ],
   "sarah-hokom": [
     {
+      "event": "2026 Innova Discs Myrtle Beach Open",
+      "event_key": "2026-innova-discs-myrtle-beach-open",
+      "month": "Nov",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Hub City Halloween Open presented by Great Courses of South Carol",
+      "event_key": "hub-city-halloween-open-presented-by-great-cours",
+      "month": "Oct",
+      "place": 5,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Throw Pink Women's Disc Golf Championship",
       "event_key": "throw-pink-women-s-disc-golf-championship",
       "month": "Oct",
@@ -64901,6 +65309,14 @@
   "sarah-wadsworth": [],
   "sawyer-barlow": [],
   "scott-adams": [
+    {
+      "event": "23rd Annual Twisted Flyer Open, Presented By Innova",
+      "event_key": "23rd-annual-twisted-flyer-open-presented-by-inno",
+      "month": "Oct",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "2026 Oklahoma Open",
       "event_key": "2026-oklahoma-open",
@@ -65185,6 +65601,14 @@
     }
   ],
   "scott-withers": [
+    {
+      "event": "SOWS 2026-2027 Millsite Pro Day",
+      "event_key": "sows-2026-2027-millsite-pro-day",
+      "month": "Nov",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "The ORDGC at The EDGE presented by Resistance Discs",
       "event_key": "the-ordgc-at-the-edge-presented-by-resistance-di",
@@ -66125,6 +66549,14 @@
   ],
   "silas-schultz": [
     {
+      "event": "Climo Open at the Big Rip (DGPT Q-Series)",
+      "event_key": "climo-open-at-the-big-rip-dgpt-q-series",
+      "month": "Nov",
+      "place": 3,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - DGPT Powerball Cup",
       "event_key": "playoffs-dgpt-powerball-cup",
       "month": "Oct",
@@ -66137,7 +66569,7 @@
       "event_key": "2026-united-states-disc-golf-championship",
       "month": "Oct",
       "place": 9,
-      "tier": "XM",
+      "tier": "M",
       "tour": "Major"
     },
     {
@@ -67009,6 +67441,14 @@
   ],
   "sofie-bjrlycke": [
     {
+      "event": "DgEvents Vinterevent #1 - Larv",
+      "event_key": "dgevents-vinterevent-1-larv",
+      "month": "Nov",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "033-Tour #7 - Ymer Silver",
       "event_key": "033-tour-7-ymer-silver",
       "month": "Oct",
@@ -67312,6 +67752,22 @@
   ],
   "stanislaus-amann": [
     {
+      "event": "Drava Forester - 14th annual disc golf party event",
+      "event_key": "drava-forester-14th-annual-disc-golf-party-event",
+      "month": "Oct",
+      "place": 3,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "\u00d6sterreichische Staatsmeisterschaften 2026 powered by Vulkanland",
+      "event_key": "sterreichische-staatsmeisterschaften-2026-powere",
+      "month": "Oct",
+      "place": 1,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "Stamann Open Invitational - 30 years of Stamann",
       "event_key": "stamann-open-invitational-30-years-of-stamann",
       "month": "Oct",
@@ -67325,6 +67781,14 @@
       "month": "Sep",
       "place": 18,
       "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "WFDF World Team Disc Golf Championships - 2026 - Teams/Players",
+      "event_key": "wfdf-world-team-disc-golf-championships-2026-tea",
+      "month": "Sep",
+      "place": 13,
+      "tier": "XA",
       "tour": ""
     },
     {
@@ -68736,6 +69200,30 @@
     }
   ],
   "taylor-coulam": [
+    {
+      "event": "Hockinson Winter Huck",
+      "event_key": "hockinson-winter-huck",
+      "month": "Nov",
+      "place": 13,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "SOWS 2026-2027 Millsite Pro Day",
+      "event_key": "sows-2026-2027-millsite-pro-day",
+      "month": "Nov",
+      "place": 17,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "All Day Disc Golf Presents the Riverbend Ride",
+      "event_key": "all-day-disc-golf-presents-the-riverbend-ride",
+      "month": "Nov",
+      "place": 18,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "The ORDGC at The EDGE presented by Resistance Discs",
       "event_key": "the-ordgc-at-the-edge-presented-by-resistance-di",
@@ -70671,6 +71159,14 @@
   "toby-mergen": [],
   "toke-kyed": [
     {
+      "event": "TreeGrip Vinterliga '26/'27 - I:IV",
+      "event_key": "treegrip-vinterliga-26-27-i-iv",
+      "month": "Nov",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "DFSU Danish Championships 2026 supported by Disc Tree",
       "event_key": "dfsu-danish-championships-2026-supported-by-disc",
       "month": "Sep",
@@ -70898,6 +71394,14 @@
     }
   ],
   "tom-shanley": [
+    {
+      "event": "2026 Innova Discs Myrtle Beach Open",
+      "event_key": "2026-innova-discs-myrtle-beach-open",
+      "month": "Nov",
+      "place": 28,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Down East Players Cup",
       "event_key": "down-east-players-cup",
@@ -74563,6 +75067,22 @@
     }
   ],
   "zane-letts": [
+    {
+      "event": "Dynamic Discs Presents the Hyzer Olympics - 2026 Dirty Dozen Tour",
+      "event_key": "dynamic-discs-presents-the-hyzer-olympics-2026-d",
+      "month": "Nov",
+      "place": 5,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "4th Annual Calavera Open",
+      "event_key": "4th-annual-calavera-open",
+      "month": "Oct",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "13th Annual Crosstown Throwdown",
       "event_key": "13th-annual-crosstown-throwdown",
