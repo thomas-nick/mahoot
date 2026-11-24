@@ -1,7 +1,7 @@
 {
   "division": "FPO",
   "week": "2026-40",
-  "saved_at": "2026-11-17T21:29:54.029027+00:00",
+  "saved_at": "2026-11-24T03:09:24.892717+00:00",
   "players": [
     {
       "slug": "ohn-scoggins",
@@ -87,9 +87,9 @@
       "slug": "jennifer-allen",
       "name": "Jennifer Allen",
       "tour_rank": 11,
-      "tour_weighted_points": 974.4,
+      "tour_weighted_points": 1009.4,
       "dgpt_rank": 38,
-      "wins": 1
+      "wins": 2
     },
     {
       "slug": "rebecca-don",

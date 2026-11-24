@@ -1,7 +1,7 @@
 {
   "division": "MPO",
   "week": "2026-40",
-  "saved_at": "2026-11-17T21:29:19.562158+00:00",
+  "saved_at": "2026-11-24T03:09:02.532520+00:00",
   "players": [
     {
       "slug": "gannon-buhr",
@@ -60,19 +60,19 @@
       "wins": 0
     },
     {
-      "slug": "silas-schultz",
-      "name": "Silas Schultz",
+      "slug": "bradley-williams",
+      "name": "Bradley Williams",
       "tour_rank": 8,
-      "tour_weighted_points": 1033.7,
-      "dgpt_rank": 10,
+      "tour_weighted_points": 1039.3,
+      "dgpt_rank": 31,
       "wins": 2
     },
     {
-      "slug": "bradley-williams",
-      "name": "Bradley Williams",
+      "slug": "silas-schultz",
+      "name": "Silas Schultz",
       "tour_rank": 9,
-      "tour_weighted_points": 1032.3,
-      "dgpt_rank": 31,
+      "tour_weighted_points": 1033.7,
+      "dgpt_rank": 10,
       "wins": 2
     },
     {
