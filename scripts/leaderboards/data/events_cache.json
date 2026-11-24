@@ -3083,6 +3083,14 @@
   ],
   "alexis-kerman": [
     {
+      "event": "Flying Blind Saturday Flex @ Oakland Park (Back)",
+      "event_key": "flying-blind-saturday-flex-oakland-park-back",
+      "month": "Nov",
+      "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Holts Hallows '26 Supported by Innova",
       "event_key": "holts-hallows-26-supported-by-innova",
       "month": "Oct",
@@ -3443,11 +3451,27 @@
   "amanda-kaestner": [],
   "amanda-lennartsson": [
     {
+      "event": "Heatland Winter Tour #1 - Kil",
+      "event_key": "heatland-winter-tour-1-kil",
+      "month": "Nov",
+      "place": 2,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "TPWDGC Championship Week Monday Qualifying",
       "event_key": "tpwdgc-championship-week-monday-qualifying",
       "month": "Oct",
       "place": 8,
       "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "Kayak Point DGR 2026 Fall League (Flex Start)",
+      "event_key": "kayak-point-dgr-2026-fall-league-flex-start",
+      "month": "Sep",
+      "place": 1,
+      "tier": "L",
       "tour": ""
     },
     {
@@ -4952,6 +4976,14 @@
   "andrew-zinck": [],
   "ann-deputy": [
     {
+      "event": "2026 Innova Discs Myrtle Beach Open",
+      "event_key": "2026-innova-discs-myrtle-beach-open",
+      "month": "Nov",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Throw Pink Women's Disc Golf Championship",
       "event_key": "throw-pink-women-s-disc-golf-championship",
       "month": "Oct",
@@ -5984,6 +6016,14 @@
   ],
   "anthony-bodanza": [
     {
+      "event": "Rock Ridge Park Flex Start",
+      "event_key": "rock-ridge-park-flex-start",
+      "month": "Nov",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "Forest Ridge Flex",
       "event_key": "forest-ridge-flex",
       "month": "Oct",
@@ -6040,18 +6080,18 @@
       "tour": ""
     },
     {
-      "event": "Burlington Friday Flex 2026 #22 presented by Yeet Street Discs",
-      "event_key": "burlington-friday-flex-2026-22-presented-by-yeet",
-      "month": "Sep",
-      "place": 2,
-      "tier": "C",
-      "tour": ""
-    },
-    {
       "event": "Friday Flex Xll (Chimney Hills)",
       "event_key": "friday-flex-xll-chimney-hills",
       "month": "Sep",
       "place": 5,
+      "tier": "C",
+      "tour": ""
+    },
+    {
+      "event": "Burlington Friday Flex 2026 #22 presented by Yeet Street Discs",
+      "event_key": "burlington-friday-flex-2026-22-presented-by-yeet",
+      "month": "Sep",
+      "place": 2,
       "tier": "C",
       "tour": ""
     },
@@ -8558,6 +8598,14 @@
   "blake-houston": [],
   "blake-poland": [
     {
+      "event": "2026 Charleston Classic Supported by Innova",
+      "event_key": "2026-charleston-classic-supported-by-innova",
+      "month": "Nov",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Hub City Halloween Open presented by Great Courses of South Carol",
       "event_key": "hub-city-halloween-open-presented-by-great-cours",
       "month": "Oct",
@@ -9051,6 +9099,22 @@
     }
   ],
   "bo-mclaughlin": [
+    {
+      "event": "20th Rutherford Anniversary powered by Innova and Moody Excavatin",
+      "event_key": "20th-rutherford-anniversary-powered-by-innova-an",
+      "month": "Nov",
+      "place": 4,
+      "tier": "B",
+      "tour": ""
+    },
+    {
+      "event": "7th Lauderdale Commissioners Cup",
+      "event_key": "7th-lauderdale-commissioners-cup",
+      "month": "Nov",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
     {
       "event": "River Riot IV Sponsored By Dynamic Discs",
       "event_key": "river-riot-iv-sponsored-by-dynamic-discs",
@@ -19427,6 +19491,14 @@
   ],
   "dustin-keegan": [
     {
+      "event": "Uplay Winter Series #2 - Baker Bay DGC (CEP Charity - Rated)",
+      "event_key": "uplay-winter-series-2-baker-bay-dgc-cep-charity-",
+      "month": "Nov",
+      "place": 10,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
       "event": "Uplay Winter Series #1 - Ardenwood (CEP Charity - Rated)",
       "event_key": "uplay-winter-series-1-ardenwood-cep-charity-rate",
       "month": "Oct",
@@ -24323,6 +24395,14 @@
   ],
   "emmanuel-torres": [
     {
+      "event": "2026 Odyssey Challenge at Delaveaga",
+      "event_key": "2026-odyssey-challenge-at-delaveaga",
+      "month": "Nov",
+      "place": 1,
+      "tier": "B",
+      "tour": ""
+    },
+    {
       "event": "Oakland City Champships 2026 Grown by AGL",
       "event_key": "oakland-city-champships-2026-grown-by-agl",
       "month": "Oct",
@@ -28757,6 +28837,22 @@
   "gavin-king": [],
   "gavin-phillips": [
     {
+      "event": "2026 Jacksonville Open Sponsored by Dynamic Discs",
+      "event_key": "2026-jacksonville-open-sponsored-by-dynamic-disc",
+      "month": "Nov",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "The 2026 Lake County Trailblazer Sponsored by Dynamic Discs",
+      "event_key": "the-2026-lake-county-trailblazer-sponsored-by-dy",
+      "month": "Nov",
+      "place": 4,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "USDGC Championship Week Monday Qualifying",
       "event_key": "usdgc-championship-week-monday-qualifying",
       "month": "Oct",
@@ -32762,6 +32858,30 @@
   "hunter-embler": [],
   "ian-burchett": [
     {
+      "event": "2026 Jacksonville Open Sponsored by Dynamic Discs",
+      "event_key": "2026-jacksonville-open-sponsored-by-dynamic-disc",
+      "month": "Nov",
+      "place": 10,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Charleston Classic Supported by Innova",
+      "event_key": "2026-charleston-classic-supported-by-innova",
+      "month": "Nov",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Innova Discs Myrtle Beach Open",
+      "event_key": "2026-innova-discs-myrtle-beach-open",
+      "month": "Nov",
+      "place": 19,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Hub City Halloween Open presented by Great Courses of South Carol",
       "event_key": "hub-city-halloween-open-presented-by-great-cours",
       "month": "Oct",
@@ -33063,6 +33183,14 @@
       "place": 29,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "WFDF World Team Disc Golf Championships - 2026 - Teams/Players",
+      "event_key": "wfdf-world-team-disc-golf-championships-2026-tea",
+      "month": "Sep",
+      "place": 1,
+      "tier": "XA",
+      "tour": ""
     },
     {
       "event": "2026 PDGA Professional Disc Golf World Championships presented by",
@@ -45074,6 +45202,14 @@
   ],
   "kylie-kohut": [
     {
+      "event": "2026 Kick out the Yams",
+      "event_key": "2026-kick-out-the-yams",
+      "month": "Nov",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "GYROnauts Assemble @ Mill Creek!",
       "event_key": "gyronauts-assemble-mill-creek",
       "month": "Oct",
@@ -45954,6 +46090,22 @@
   "lea-tomas": [],
   "leah-tsinajinnie": [
     {
+      "event": "2026 Jacksonville Open Sponsored by Dynamic Discs",
+      "event_key": "2026-jacksonville-open-sponsored-by-dynamic-disc",
+      "month": "Nov",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "Climo Open at the Big Rip (DGPT Q-Series)",
+      "event_key": "climo-open-at-the-big-rip-dgpt-q-series",
+      "month": "Nov",
+      "place": 2,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Hub City Halloween Open presented by Great Courses of South Carol",
       "event_key": "hub-city-halloween-open-presented-by-great-cours",
       "month": "Oct",
@@ -45992,6 +46144,14 @@
       "place": 36,
       "tier": "NT",
       "tour": "DGPT"
+    },
+    {
+      "event": "WFDF World Team Disc Golf Championships - 2026 - Teams/Players",
+      "event_key": "wfdf-world-team-disc-golf-championships-2026-tea",
+      "month": "Sep",
+      "place": 8,
+      "tier": "XA",
+      "tour": ""
     },
     {
       "event": "DGPT - LWS Open at Idlewild",
@@ -51857,6 +52017,22 @@
   ],
   "matt-thompson": [
     {
+      "event": "Ledgestone Presents: The 2026 UNC Children's Hospital NICU Fundra",
+      "event_key": "ledgestone-presents-the-2026-unc-children-s-hosp",
+      "month": "Nov",
+      "place": 5,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Innova Discs Myrtle Beach Open",
+      "event_key": "2026-innova-discs-myrtle-beach-open",
+      "month": "Nov",
+      "place": 13,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Down East Players Cup",
       "event_key": "down-east-players-cup",
       "month": "Oct",
@@ -56051,6 +56227,22 @@
   "nathan-miske": [],
   "nathan-queen": [
     {
+      "event": "Ledgestone Presents: The 2026 UNC Children's Hospital NICU Fundra",
+      "event_key": "ledgestone-presents-the-2026-unc-children-s-hosp",
+      "month": "Nov",
+      "place": 2,
+      "tier": "XC",
+      "tour": ""
+    },
+    {
+      "event": "2026 Innova Discs Myrtle Beach Open",
+      "event_key": "2026-innova-discs-myrtle-beach-open",
+      "month": "Nov",
+      "place": 17,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "Down East Players Cup",
       "event_key": "down-east-players-cup",
       "month": "Oct",
@@ -59979,6 +60171,14 @@
     }
   ],
   "owen-hamilton": [
+    {
+      "event": "The Helix Open 2026 Presented by Helix Disc Golf and Innova",
+      "event_key": "the-helix-open-2026-presented-by-helix-disc-golf",
+      "month": "Nov",
+      "place": 6,
+      "tier": "C",
+      "tour": ""
+    },
     {
       "event": "Stafford Lake ProAm supported by Innova",
       "event_key": "stafford-lake-proam-supported-by-innova",
@@ -64900,6 +65100,22 @@
     }
   ],
   "ryan-monn": [
+    {
+      "event": "2026 Jacksonville Open Sponsored by Dynamic Discs",
+      "event_key": "2026-jacksonville-open-sponsored-by-dynamic-disc",
+      "month": "Nov",
+      "place": 7,
+      "tier": "A",
+      "tour": ""
+    },
+    {
+      "event": "2026 Innova Discs Myrtle Beach Open",
+      "event_key": "2026-innova-discs-myrtle-beach-open",
+      "month": "Nov",
+      "place": 8,
+      "tier": "A",
+      "tour": ""
+    },
     {
       "event": "Hub City Halloween Open presented by Great Courses of South Carol",
       "event_key": "hub-city-halloween-open-presented-by-great-cours",
@@ -71038,6 +71254,14 @@
   ],
   "thomas-canfield": [
     {
+      "event": "The Neatman Creek Classic (Flex Start)",
+      "event_key": "the-neatman-creek-classic-flex-start",
+      "month": "Nov",
+      "place": 1,
+      "tier": "C",
+      "tour": ""
+    },
+    {
       "event": "USDGC Championship Week Monday Qualifying",
       "event_key": "usdgc-championship-week-monday-qualifying",
       "month": "Oct",
@@ -75671,6 +75895,14 @@
   ],
   "zach-arlinghaus": [
     {
+      "event": "The 2026 Lake County Trailblazer Sponsored by Dynamic Discs",
+      "event_key": "the-2026-lake-county-trailblazer-sponsored-by-dy",
+      "month": "Nov",
+      "place": 1,
+      "tier": "A",
+      "tour": ""
+    },
+    {
       "event": "DGPT Playoffs - DGPT Powerball Cup",
       "event_key": "playoffs-dgpt-powerball-cup",
       "month": "Oct",
@@ -76477,6 +76709,14 @@
     }
   ],
   "zoe-andyke": [
+    {
+      "event": "Uplay Winter Series #2 - Baker Bay DGC (CEP Charity - Rated)",
+      "event_key": "uplay-winter-series-2-baker-bay-dgc-cep-charity-",
+      "month": "Nov",
+      "place": 7,
+      "tier": "XC",
+      "tour": ""
+    },
     {
       "event": "2026 Disc Golf Wentworth Summit Series Championship",
       "event_key": "2026-disc-golf-wentworth-summit-series-champions",
